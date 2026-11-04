@@ -12,5 +12,16 @@
 - 1897: Castilla viaja a París y contrata al grabador Eugenio Mouchon (matrices de billetes). [F-0004] · confirmado
 - A fines de 1886 el director desaconsejó seguir acuñando oro porque lo acuñado se exportaba o fundía. [F-0007] · probable
 
+- La Ley 733 de 1875 también creaba el peso fuerte de oro (Medio Colón, Colón, Doble Colón) y fijaba el programa iconográfico (escudo, Libertad, canto "Igualdad ante la ley") que retomó la Ley 1130. [F-0029] · confirmado (texto legal)
+- Inauguración prevista para julio de 1880, postergada por la revolución; medalla de Moses Stern (París) "INAUGURACION DE LA CASA DE MONEDA EN BUENOS AYRES / JULIO DE 1880". [F-0006, F-0041] · probable
+- Instalaciones: fundición, laminación, acuñación, calderas con motor a vapor, taller mecánico, carpintería, sección de ensayes; asesor ingeniero Freund. [F-0006] · probable
+- Ensayador desde 1881: Juan José Jolly Kyle (Stirling 1838 – Buenos Aires 1922). [F-0071] · probable
+- 1878: Castilla recorre cecas de Inglaterra, Bélgica y Francia; contrata a Barré (m. 1878) y luego a Oudiné; cartas de Oudiné de 1880 (70 cuños, 25.000 francos). [F-0024, F-0044] · probable
+- 05/09/1882: Castilla presenta la Memoria de Casa de Moneda de 1881. [F-0005] · probable
+- Total de oro amonedado hasta 1896: 31.716.545 pesos (Statesman's Year-Book 1899) [F-0026]; 31.722.625 (Extracto 1915) [F-0007]. Plata: 2.805.840. · probable
+- 1896: re-acuñación de oro extranjero (cóndores chilenos) a pedido de bancos; costas 80 pesos por 1.000 pesos oro. [F-0022, F-0025] · probable
+- Historia institucional oficial: "sistema bimetalista atenuado con base en el Peso Oro o Argentino"; prensas de billetes Lambert (1898–1900). [F-0078] · confirmado
+
 ## Pistas
-- Memorias de Casa de Moneda 1881–1910 (citadas en F-0006): fuente oficial de tiradas para todo el primer cono.
+- Memorias de Casa de Moneda 1881–1910 (citadas en F-0006 y F-0025): fuente oficial de tiradas para todo el primer cono. Memorias de Hacienda en cdi.mecon.gob.ar (colección memoria2).
+- Biografía de Eduardo Castilla (sin datos en línea). Herrero Ducloux (1922) sobre Kyle.
