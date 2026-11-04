@@ -201,3 +201,33 @@ Formato de cada entrada:
 - Consultada: 2026-11-03
 - Cita clave: Lynch: "1881 has the lowest mintage (37,152). The highest mintage is 1887 (1,834,674)"; acuñada 1881–89 y 1896 en la Casa de Moneda de Buenos Aires.
 - Usada en: serie 01
+
+### F-0019
+- Título: Eugène André Oudiné (artículo)
+- Autor / institución: Wikipedia en inglés
+- URL: https://en.wikipedia.org/wiki/Eug%C3%A8ne_Andr%C3%A9_Oudin%C3%A9
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-03
+- Cita clave: nacido en París el 1 de enero de 1810, muerto en París el 12 de abril de 1887; Prix de Rome de grabado en 1831; dibujante primero para la oficina de rentas y luego para la Casa de Moneda (Monnaie); considerado "the father of the modern medal". No menciona la Argentina.
+- Usada en: serie 01
+
+### F-0020
+- Título: Straining at the Anchor: The Argentine Currency Board and the Search for Macroeconomic Stability, 1880-1935 — capítulo "Post script", pp. 221-235
+- Autor / institución: Gerardo della Paolera y Alan M. Taylor — University of Chicago Press / NBER, 2001
+- URL: https://www.nber.org/system/files/chapters/c8847/c8847.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-03
+- Cita clave: la ley monetaria de 1881 llegó tras "decades of monetary anarchy" y estableció oro y plata como moneda legal bimetálica (p. 222); en los años 1880 se permitió a bancos emitir billetes garantizados en oro (p. 222); la crisis Baring (1890-91), "the first emerging-market crisis of the modern era" (p. 221); la Caja de Conversión, creada en 1890 (p. 222) u operativa desde 1891 (p. 221) según el pasaje; vuelta a la paridad oro en 1899 (p. 235).
+- Usada en: serie 01
+
+### F-0021
+- Título: Monedas de curso legal en nuestro país — Boletín Digital El Sitio N.º 53
+- Autor / institución: Antonio Domínguez Russo — Instituto Uruguayo de Numismática, diciembre 2024
+- URL: https://www.monedasuruguay.com/bib/sitio/sitio53.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-03
+- Cita clave: relevamiento de las monedas extranjeras de curso legal en el Uruguay del siglo XIX (Ley 24 de 1831, decreto de enero de 1852, Ley 382 de 1854: "La onza española y las Hispano-Americanas conservarán su valor de 19 pesos con 160 centésimos"). No menciona el Argentino de oro ni tenencias de oro argentino del BROU o del Banco Central del Uruguay (resultado negativo útil).
+- Usada en: serie 01

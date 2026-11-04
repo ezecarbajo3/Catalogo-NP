@@ -16,6 +16,12 @@ ultima_actualizacion: ""
 ## Resumen
 (3 a 6 líneas: qué es la serie, por qué importa, qué la hace particular. Se reescribe en cada sesión.)
 
+---
+
+# Parte 1 · Base de datos (andamio de trabajo)
+
+Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` · `a confirmar` · `supuesto` (explicando en qué se apoya). Ver `PROTOCOLO.md` §6.1.
+
 ## Normativa
 - 
 
@@ -60,6 +66,18 @@ ultima_actualizacion: ""
 ## Falsificaciones conocidas
 - 
 
+## Personajes
+- 
+
+## Fabricación
+- 
+
+## La voz de la época (prensa, debates, testimonios)
+- 
+
+## Vida posterior (existencias guardadas, ventas oficiales, tesoros, colecciones célebres)
+- 
+
 ## Historias y curiosidades
 - 
 
@@ -73,4 +91,40 @@ ultima_actualizacion: ""
 - 
 
 ## Pistas para la próxima sesión
+-
+
+## Supuestos
 - 
+
+---
+
+# Parte 2 · Historia completa
+
+(Texto corrido, como el capítulo de un libro, que integra TODO lo de la Parte 1. Reglas en `PROTOCOLO.md` §6.2. Se reescribe entero en cada sesión. Confianza dentro del texto: `[F-####]` = confirmado; `[F-#### · probable]`; `[F-#### · a confirmar]`; supuestos en párrafo aparte con `> **Supuesto.**`.)
+
+## 1. Antes de la moneda
+
+## 2. El nacimiento
+
+## 3. El diseño
+
+## 4. La fabricación y la acuñación, año por año
+
+## 5. La moneda en la calle
+
+## 6. El destino
+
+## 7. La vida posterior
+
+## 8. La moneda hoy
+
+## 9. Variantes, errores, pruebas y falsificaciones
+
+## 10. Cómo se gasta: guía de graduación
+
+## 11. Curiosidades
+
+## 12. Lo que todavía no sabemos
+
+## 13. Cronología
+- AAAA-MM-DD · … [F-####]

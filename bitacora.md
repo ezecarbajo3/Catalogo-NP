@@ -1,8 +1,15 @@
 # Bitácora de sesiones
 
-Una entrada por sesión, **la más reciente arriba**. Formato en `PROTOCOLO.md` §6.4.
+Una entrada por sesión, **la más reciente arriba**. Formato en `PROTOCOLO.md` §6.5.
 
 ---
+
+## 2026-11-03 · Corrección de formato · Historia completa
+- Pedido del dueño del proyecto: el resultado de cada serie no puede ser un punteo de datos aislados; tiene que ser la historia completa de la moneda, como el capítulo de un libro, con sobreabundancia de información, cronología y estructura, distinguiendo lo confirmado, lo que viene de una sola fuente poco fiable y los supuestos.
+- PROTOCOLO.md: nuevas reglas 0.8 (el producto final es la historia) y 0.9 (sobreabundancia antes que síntesis); la regla 0.3 admite supuestos rotulados; nueva §6.2 "Historia completa" (prosa, integra el 100 % de la base, marcas de confianza en el texto, estructura y estilo); §2.2 reserva al menos un cuarto del presupuesto para escribir la historia y el auditor la revisa; §2.3 la exige para cerrar; §4 suma personajes, fabricación, voz de la época, vida posterior y cultura; §5 obliga a releer y reescribir la historia en cada revisión; §6.5 la bitácora registra las palabras de la historia.
+- plantillas/serie.md: dos partes (Parte 1 · Base de datos; Parte 2 · Historia completa al final) y secciones nuevas (Personajes, Fabricación, Voz de la época, Vida posterior, Supuestos).
+- Serie 01: reorganizada al nuevo formato, con secciones nuevas y la Historia completa v1 (≈4.800 palabras). 5 búsquedas y 5 lecturas para respaldar el contexto. Fuentes nuevas: F-0019–F-0021 (Oudiné; della Paolera y Taylor 2001; Domínguez Russo 2024, resultado negativo sobre Uruguay).
+- Correcciones de datos: ninguna. Se agregaron 10 supuestos rotulados.
 
 ## 2026-11-03 · Serie 01 · 5 pesos oro "Argentino" · investigación 1
 - Búsquedas: 36 · Documentos leídos: 28 (4 más no se pudieron abrir) · Fuentes nuevas: F-0001–F-0018
