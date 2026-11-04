@@ -54,6 +54,18 @@ Un solo hilo no alcanza para esta profundidad sin saturar el contexto. Por eso l
 6. **Escritura de la Historia completa (§6.2).** La hace la sesión principal, no un agente, porque es la que tiene todo el cuadro. Se reescribe el capítulo entero (no se le pegan párrafos al final) integrando lo nuevo en el lugar cronológico que le corresponde. Es la tarea más importante de la sesión: se le reserva al menos una cuarta parte del presupuesto.
 7. **Verificación independiente: un agente auditor.** Recibe el archivo escrito y `fuentes.md`, no las conclusiones de la sesión. Revisa por muestreo (al menos 15 datos de la base, priorizando tiradas y fechas) que cada dato esté realmente en su fuente y con el nivel de confianza correcto. Revisa también la Historia completa: (a) que no afirme nada que no esté en la base, (b) que los rótulos de confianza del texto coincidan con los de la base, (c) que todo supuesto esté rotulado como tal y (d) que no falte en el relato ningún dato de la base. Lo que marque se corrige antes del commit.
 
+### 2.4 Acceso a la web sin intervención humana
+
+Las sesiones corren sin nadie mirando: **nunca** se debe depender de que alguien apruebe un permiso. El entorno solo deja abrir con WebFetch una URL que haya aparecido antes en un **resultado de WebSearch** (o que el dueño haya pegado en un mensaje). Una URL armada a mano, recordada o copiada de dentro de una página leída dispara un pedido de aprobación que nadie responde y se pierde.
+
+Por eso, en la sesión principal y en todos los agentes:
+
+1. **Primero buscar, después abrir.** Para cada documento: hacer una búsqueda (WebSearch) cuyo resultado incluya esa URL exacta, y recién entonces abrirla desde ese resultado. Si se conoce el título o la URL, buscar con `site:dominio` y palabras del título (ej.: `site:fraser.stlouisfed.org "annual report of the director of the mint" 1888`).
+2. **No construir URLs** (búsquedas internas de HathiTrust o Internet Archive, rutas de PDF deducidas, web.archive.org/…): buscarlas con WebSearch hasta que aparezcan como resultado.
+3. Si una URL igual devuelve `PROVENANCE_REQUIRED` o "permiso no respondido", **no reintentar**: anotarla en Pistas y en la bitácora, y seguir con otra.
+4. **Cupo de búsquedas:** el entorno permite ≈200 búsquedas por sesión, compartidas por todos los agentes. Repartirlas así: ronda 1 ≈ 4 × 30; ronda 2 ≈ 40; reserva de ≈ 30 para la consolidación y el auditor. Cada agente recibe su cupo en el encargo y lo informa al terminar.
+5. Copiar esta sección §2.4 entera en el encargo de cada agente.
+
 ### 2.3 Criterio de cierre
 
 La sesión no termina por haber alcanzado los mínimos, sino cuando se cumplen las tres condiciones siguientes:
