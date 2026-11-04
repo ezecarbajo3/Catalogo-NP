@@ -7,7 +7,7 @@ Base de conocimiento acumulativa para el **Catálogo de Monedas Argentinas** (Nu
 | Archivo / carpeta | Qué tiene |
 |---|---|
 | `indice.md` | La lista de las 44 series, en orden, con su estado. Muestra qué se hizo y qué sigue. |
-| `monedas/` | Un archivo por serie, agrupados por sistema monetario. Es el contenido principal. |
+| `monedas/` | Un archivo por serie, agrupados por sistema monetario. Es el contenido principal: cada archivo tiene la **base de datos** (Parte 1) y, al final, la **Historia completa** de la moneda contada como un capítulo de libro (Parte 2). |
 | `temas/` | Información que afecta a varias series (leyes generales, Casa de Moneda, grabadores, fundiciones). |
 | `fuentes.md` | Registro de todas las fuentes, cada una con su código `F-####`. |
 | `bitacora.md` | Qué se hizo cada día, qué se encontró y qué se corrigió. Lo más reciente, arriba. |
@@ -26,6 +26,7 @@ Base de conocimiento acumulativa para el **Catálogo de Monedas Argentinas** (Nu
 - `confirmado` → fuente oficial o varias fuentes sólidas que coinciden.
 - `probable` → una fuente sólida no oficial, o varias comunitarias coincidentes.
 - `a confirmar` → una sola fuente débil o fuentes en contradicción.
+- `supuesto` → deducción propia o hipótesis de la comunidad que ninguna fuente afirma; se explica en qué se apoya. En la Historia completa los supuestos van en un recuadro que empieza con **Supuesto.**
 
 ## Ritmo
 
