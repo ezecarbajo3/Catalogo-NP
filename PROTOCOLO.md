@@ -30,13 +30,38 @@ Este documento define **exactamente** cómo trabaja cada sesión diaria. Quien e
 
 ## 2. Profundidad mínima de una sesión
 
-La sesión equivale a una investigación profunda de aproximadamente 10 minutos de trabajo concentrado. Como guía, **mínimo**:
+**Objetivo de presupuesto:** cada sesión dedica a la investigación aproximadamente **la mitad del uso disponible de una sesión de Claude**. Es un **análisis exhaustivo**, no un relevamiento rápido. Como referencia: la sesión del 2026-11-03 (36 búsquedas, 28 documentos, un solo agente) quedó muy por debajo de ese objetivo. Las sesiones nuevas trabajan a unas **tres veces esa escala**.
 
-- **25 búsquedas web** distintas (variando términos, idioma, año, nombre técnico y nombre popular de la moneda).
-- **12 páginas o documentos leídos** a fondo (no solo el resultado de búsqueda).
-- Cobertura de **los cuatro niveles de fuente** (sección 3), salvo que alguno no tenga nada; en ese caso, se anota que se buscó y no se encontró.
+### 2.1 Mínimos por sesión (en total, sumando todos los agentes)
 
-Si la serie es corta y se agota antes, se dedica el resto a ampliar contexto histórico o a temas transversales de la serie (ver `temas/`).
+- **90 búsquedas web** distintas. Hay que variar términos, idioma (español e inglés; también francés o alemán para cecas, grabadores y subastas europeas), años, nombre técnico, nombre popular, número de ley o decreto y nombres de personas.
+- **45 páginas o documentos leídos a fondo**, no solo el resultado de búsqueda. Al menos **10 deben ser de nivel 1**, salvo que no existan; en ese caso se anota dónde se buscó.
+- Cobertura de **los cuatro niveles de fuente** (sección 3). Si un nivel no tiene nada, se anota qué se buscó y dónde.
+- **Todos los puntos de la sección 4** quedan cubiertos con datos o con la constancia "se buscó en X, Y, Z: sin resultado".
+- **Todas las pistas pendientes** de la sesión anterior de la serie se intentan. Las que no se resuelven quedan con el motivo (no existe en línea, enlace caído, requiere suscripción, etc.).
+
+### 2.2 Cómo se organiza (agentes en paralelo)
+
+Un solo hilo no alcanza para esta profundidad sin saturar el contexto. Por eso la sesión trabaja en rondas, con agentes de investigación en paralelo (herramienta `Agent`, tipo `general-purpose`).
+
+1. **Plan (sesión principal).** Leer el archivo de la serie y armar la lista de preguntas abiertas: cada punto de §4, cada dato `a confirmar`, cada discrepancia y cada pista.
+2. **Ronda 1: cuatro agentes en paralelo, uno por nivel de fuente.** Cada agente recibe la serie, las preguntas, la lista de fuentes ya registradas (para no repetirlas) y estas reglas. Cada uno hace al menos **20 búsquedas y 10 lecturas a fondo** y devuelve una lista de hallazgos. Cada hallazgo trae: dato, URL, título, autor o institución, nivel, cita textual breve y el nivel de confianza propuesto. También devuelve una lista de lo que buscó sin éxito.
+3. **Consolidación (sesión principal).** Cruzar los hallazgos, detectar contradicciones y **volver a abrir uno mismo** las fuentes de nivel 1 que respaldan tiradas, fechas y ficha técnica, para no depender del resumen de un agente.
+4. **Ronda 2: uno a tres agentes sobre los huecos.** Se ocupan de lo que quedó sin resolver (fuente primaria de tiradas, documentos citados por otros, copias en Internet Archive, bibliotecas digitales como HathiTrust, Google Books, BNE o Gallica). Cada uno hace al menos **10 búsquedas y 5 lecturas**.
+5. **Escritura** del archivo de la serie, `fuentes.md` y `temas/`.
+6. **Verificación independiente: un agente auditor.** Recibe el archivo escrito y `fuentes.md`, no las conclusiones de la sesión. Revisa por muestreo (al menos 15 datos, priorizando tiradas y fechas) que cada dato esté realmente en su fuente y con el nivel de confianza correcto. Lo que marque se corrige antes del commit.
+
+### 2.3 Criterio de cierre
+
+La sesión no termina por haber alcanzado los mínimos, sino cuando se cumplen las tres condiciones siguientes:
+
+- Ninguna pregunta del plan quedó sin intentar.
+- Cada dato nuevo tiene fuente registrada.
+- El auditor no tiene observaciones abiertas.
+
+Si la serie se agota antes (series cortas), el resto del presupuesto se dedica a contexto histórico, a temas transversales (`temas/`) o a adelantar pistas de la serie siguiente, anotadas en su archivo.
+
+En la bitácora se registran los totales: búsquedas, lecturas, agentes usados y cuántos datos revisó el auditor.
 
 ---
 
