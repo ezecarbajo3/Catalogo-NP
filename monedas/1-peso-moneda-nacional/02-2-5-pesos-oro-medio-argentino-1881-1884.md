@@ -187,3 +187,136 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - Infobae 12/10/2021 [F-0043] dio PROVENANCE_REQUIRED en esta sesión.
 
 ---
+
+# Parte 2 · Historia completa
+
+*Versión 1 (2026-11-06, investigación 1). Confianza dentro del texto: `[F-####]` = confirmado; `[F-#### · probable]`; `[F-#### · a confirmar]`; los supuestos van en párrafo aparte, rotulados. Cuando una oración se apoya en fuentes de distinta confianza, el rótulo indica la más débil. El contexto general del sistema de 1881 se cuenta en la serie 01; aquí se resume solo lo necesario.*
+
+## 1. Antes de la moneda: la mitad de un sistema
+
+El Medio Argentino nació como la pieza menor de un sistema pensado en grande. La Ley 1130, sancionada el 3 de noviembre de 1881 y publicada dos días después, creó una moneda de oro nacional para un país que hasta entonces se había arreglado con plata boliviana, oro extranjero y papel [F-0002, F-0025]. Su unidad era el peso de oro, de 1,6129 gramos de oro de 900 milésimos, y su pieza principal el Argentino, de cinco pesos; la serie 01 cuenta esa historia. Para los pagos medianos la ley previó una mitad: el Medio Argentino, de dos pesos y medio [F-0036, F-0085 · probable].
+
+Como el Argentino pesaba lo mismo que una pieza de 25 francos de la Unión Monetaria Latina [F-0002, F-0014 · probable], su mitad equivalía en oro a 12,5 francos (cálculo propio). Era una moneda cómoda en el papel; en la práctica, como se verá, casi no llegó a existir.
+
+## 2. El nacimiento: lo que dice la ley
+
+La tesis que el jurista Egas de Ezcurra presentó en 1938 en Neuchâtel transcribe, en francés, la tabla de monedas de oro de la ley: el Argentino de 5 pesos, el medio argentino de 2,50 pesos con 4,0322 gramos, y el peso oro de 1,6129, todas de 900 milésimos [F-0085 · probable]; la Bolsa de Comercio de Rosario da las mismas cifras [F-0036 · probable]. La tabla original del artículo 2, que fijaba además el diámetro y la tolerancia de cada pieza, está en la base oficial InfoLEG solo como imagen, y no se pudo leer [F-0002]. Es una laguna importante, porque, como se verá, la tolerancia es el corazón de esta historia.
+
+El artículo 3 resolvió el canto: el Argentino y el peso de plata llevarían la leyenda IGUALDAD ANTE LA LEY; "las demás monedas de oro y plata", es decir también el medio argentino, el canto acanalado [F-0002]. Así es: la ficha del ejemplar de 1884 del Museo del Banco Central lo describe con un estriado recto [F-0118]. Un comerciante francés que pone en el canto la leyenda LIBERTAD * 2 1/2 PESOS * 1/2 ARGENTINO * 9 Dos FINO confunde el canto con el reverso [F-0131 · a confirmar].
+
+Ninguna ley posterior suprimió el medio argentino ni cambió su tolerancia, al menos en lo que pudo encontrarse en línea [búsqueda sin resultado]. Tampoco apareció una norma que lo desmonetizara: una ficha de coleccionistas fecha su desmonetización el 1 de enero de 1896, sin fuente [F-0133 · a confirmar], mientras que la serie 01 documenta que las leyes de oro de 1881 se consideraban vigentes todavía en 1969 [F-0053 · probable].
+
+## 3. El diseño: el Argentino en chico
+
+El medio argentino repite el diseño de su hermano mayor. En el anverso, el escudo nacional y la leyenda REPUBLICA ARGENTINA con el año entre estrellas; en el reverso, la cabeza de la Libertad con gorro frigio que grabó en París Eugène-André Oudiné, mirando a la derecha como en todo el oro de 1881, con la inscripción LIBERTAD * 2½ PESOS * ½ ARGENTINO * 9 Dos FINO [F-0002, F-0118 · probable; leyenda: F-0133 · a confirmar]. El Museo del Banco Central atribuye a Oudiné su ejemplar de 1884 [F-0118].
+
+Oudiné grabó el medio argentino con el resto del primer cono. En sus cartas a Castilla de 1880 —setenta cuños para toda la serie— fijó la entrega del Argentino y del medio argentino antes del 5 de julio de 1880 [F-0024 · probable]. Las matrices llegaron a Buenos Aires con esa fecha, y de una de ellas queda un testimonio material. El Museo de la Casa de Moneda conserva la matriz original del anverso del 2½ pesos, en la que se ve un cero cubierto a propósito: la matriz venía fechada 1880 y, para abrir los cuños, se tapaba el último dígito y se punzonaba a mano el año que correspondiera [F-0005 · probable]. Ariel Dabbah y Jorge Madonna, que publicaron la foto, concluyen que no se abrieron cuños fechados 1880 [F-0005 · probable].
+
+## 4. La fabricación y la acuñación: nueve piezas y luego 421
+
+La cifra oficial de acuñación del medio argentino apareció en esta sesión, en la Memoria de la Casa de Moneda correspondiente a 1884, publicada dentro de la Memoria de Hacienda de ese año y dirigida al ministro Wenceslao Pacheco. Su cuadro N.º 4, "Denominación, peso y valor de las monedas emitidas hasta el 31 de diciembre 1884", tiene una columna para los medios argentinos: 9 emitidos hasta el 31 de diciembre de 1883, 421 en 1884, 430 en total [F-0028]. En el mismo cuadro, los Argentinos suman 1.195.286 hasta 1883 y 447.900 en 1884, 1.643.186 en total; todo lo emitido por la casa hasta fines de 1884 valía 11.220.696,99 pesos [F-0028]. Las cuentas cierran: 1.643.186 Argentinos y 430 medios son 8.217.005 pesos oro (cálculo propio). Hasta ahora las cifras 9 y 421 solo venían de investigadores, Ariel Dabbah y José Miguel Santacreu [F-0042, F-0043, F-0025]; ahora tienen fuente oficial de época.
+
+| Año | Medios argentinos | Fuente y confianza |
+|---|---|---|
+| 1881 (hasta fines de 1883) | 9 | [F-0028]; fecha 1881: [F-0042, F-0025 · probable] |
+| 1882–1883 | sin acuñación | [F-0028 · probable] |
+| 1884 | 421 | [F-0028] |
+| Total | 430 | [F-0028] |
+
+**Las nueve de 1881.** El cuadro oficial no dice en qué año se hicieron las nueve primeras: solo que existían al terminar 1883 [F-0028]. Dabbah y Santacreu las fechan en 1881, y Dabbah cuenta que ese año la casa acuñó unas pocas piezas de cada tipo para las autoridades [F-0042, F-0043, F-0025 · probable]; la prensa lo repite como piezas "para ser presentadas ante las autoridades" o como "modelos" [F-0127 · probable; F-0129 · a confirmar]. En un foro estadounidense, un coleccionista sostuvo en 2009 que el 1881 es una prueba y que la única emisión regular es la de 1884 [F-0018 · a confirmar].
+
+> **Supuesto.** Las nueve piezas de 1881 serían piezas de presentación, hechas con los primeros cuños para mostrar el tipo a las autoridades, más que una emisión. Se apoya en el testimonio de Dabbah [F-0042], en la opinión de comunidad [F-0018] y en que el cuadro oficial no las asigna a un año [F-0028]. La Memoria de la Casa de Moneda de 1881, que Castilla presentó el 5 de septiembre de 1882, podría resolverlo.
+
+**Por qué no hubo más: la tolerancia.** La explicación que circula viene de Dabbah: la ley aplicaba al medio argentino la misma tolerancia de fino que al Argentino, un margen demasiado estrecho para una pieza tan chica; el director de la Casa de Moneda, Eduardo Castilla, pidió dos veces que se corrigiera, no lo logró y decidió no acuñarlo [F-0042, F-0043 · probable]. La prensa repite su frase en dos versiones: el margen hizo "imposible una producción mayor" o "inviable una acuñación masiva" [F-0128, F-0129 · probable]. No se encontraron todavía los pedidos de Castilla ni la tabla de tolerancias de la ley.
+
+Lo que sí se encontró es cuánto valía ese margen en la práctica. El informe del laboratorio químico de la Casa de Moneda para 1884, firmado por el ensayador Juan José Jolly Kyle el 7 de enero de 1885, explica que se ensayaba una moneda de oro de cada 2.500 acuñadas, como mandaba el artículo 11 del decreto reglamentario, y que los Argentinos de ese año tuvieron una ley media de 899,719 milésimos, dentro de "la tolerancia legal (1 milésimo)" [F-0028]. Un milésimo es muy poco: un lote de aleación con apenas una décima de punto de diferencia quedaba fuera. El cuadro de ensayes se hizo sobre las 447.900 piezas de Argentinos; los 421 medios de ese año no aparecen en él [F-0028].
+
+> **Supuesto.** Con una tolerancia de 1 milésimo [F-0028], cualquier desvío en la aleación obligaba a refundir; para una pieza que vale la mitad, el costo de rechazo por cada peso acuñado se duplica, y fundir y laminar cospeles chicos homogéneos es más difícil. Eso explicaría por qué Castilla prefirió concentrar el oro en el Argentino. Es un razonamiento propio sobre las fuentes [F-0042, F-0028]; falta la tabla de la ley y los pedidos de Castilla para confirmarlo.
+
+**1884, el intento.** Dabbah llama a 1884 el primer intento de acuñar piezas de 2,5 pesos en forma masiva, que terminó con apenas 421 piezas [F-0042 · probable]; una nota periodística agrega, sin fuente, que se abandonó rápidamente por la dificultad del acuñado [F-0126 · a confirmar]. Ese año, según la Memoria de la Casa de Moneda, todo el oro que entró lo trajo el Banco Nacional y se selló por su cuenta, y alcanzó para completar los ocho millones de pesos que el artículo 7 de la ley tomaba como meta [F-0028].
+
+> **Supuesto.** El oro de los 421 medios de 1884 sería, por lo tanto, oro del Banco Nacional [F-0028]. Ninguna fuente lo dice para el medio en particular.
+
+La Memoria deja también una frase que explica el clima de la época: nueve de cada diez habitantes de la República no habían visto todavía un Argentino de oro, aunque el país había podido girar cien millones en oro al extranjero [F-0028]. Si eso pasaba con un millón y medio de Argentinos, el medio argentino, con 430 piezas, era prácticamente invisible (deducción). La misma Memoria resume el año diciendo que se fabricó oro, plata y cobre, pero solo cobre en cantidad, y termina con la esperanza de que haya moneda de cobre en toda la República [F-0028 · probable para la frase final, lectura del agente].
+
+> **Supuesto.** La Memoria de la Casa de Moneda de 1884, fechada el 16 de abril de 1886 [F-0028], la firmaría Eduardo Castilla, que dirigía la casa desde 1881 y seguía en 1897 (serie 01). La firma no se lee en la copia digital.
+
+## 5. La moneda en la calle
+
+No hay rastros del medio argentino en circulación. Los Argentinos que salieron del país en los años ochenta llegaron por cientos de miles a la oficina de ensayes de Nueva York, pero en la tabla de 1887 solo figuran piezas de 5 pesos [F-0027]. El Banco Central no lo incluyó en su venta de Argentinos de 2011–2012, que se limitó a las piezas de cinco pesos [F-0003], y según una nota de prensa tampoco en las ventas de los años noventa [F-0076 · a confirmar]. Un 1884 en estado Bueno, vendido en 2022 según un catálogo (pista), sugiere que alguna pieza sí pasó de mano en mano (deducción).
+
+## 6. La vida posterior: de Clapp a Janson
+
+Los medios argentinos de 1884 empezaron a aparecer en colecciones extranjeras antes de que se hablara de ellos en la Argentina. El más antiguo con pedigrí perteneció al coleccionista estadounidense John H. Clapp, cuya colección compró en bloque Louis E. Eliasberg en 1942; se vendió en la subasta de oro mundial de Eliasberg como lote 1016, en estado AU-58 de NGC, por 3.220 dólares [F-0120 · probable]. El lote vecino, 1017, se vendió el 18 de abril de 2005 en una subasta que Spink atribuye a Spink-Stack's [F-0010]; otras referencias hablan de American Numismatic Rarities, de modo que la casa queda a confirmar. El catálogo Eliasberg, según la transcripción de una wiki de coleccionistas, llamaba al 1884 "la más común de las dos fechas" y "bastante escasa", y recordaba que del 1881 se habían acuñado solo nueve [F-0120 · probable]. Otro 1884 figuraba en la lista de precios de la Unión de Bancos Suizos de Zúrich de mayo de 1988, como número 99, y reapareció en la subasta 101 de SINCONA, con una pequeña marca de ensayo en el canto [F-0119].
+
+En la Argentina, el medio argentino de 1881 llegó a una vidriera pública con la gran donación de 2017: el acta que Héctor Carlos Janson firmó el 30 de mayo de ese año incluía "el ½ argentino y Patacón de oro de 1881" [F-0032], "una de las pocas monedas conocidas de ½ argentino de oro de 1881", según El Cronista [F-0034]. El Museo del Banco Central, que lleva el nombre de Janson, publica además en Google Arts & Culture un medio argentino de 1884, de 4,03 gramos y canto estriado recto [F-0118]; la ficha le asigna 22 milímetros, la medida del Argentino, mientras que todas las casas de subastas miden entre 19 y 19,3 [F-0118, F-0120, F-0122, F-0123, F-0124], de modo que el dato del museo parece un error de carga.
+
+¿Dónde están los nueve de 1881? Dabbah afirma que tres están en manos privadas, cinco en museos o instituciones públicas y uno tiene paradero desconocido [F-0042, F-0043 · probable], pero no nombra las instituciones. La prensa lo repite desde 2021 sin agregar datos [F-0083, F-0125 · probable]. La única institución identificada es el Museo del Banco Central [F-0032, F-0034]. Ninguna de las búsquedas encontró una venta pública de un 1881.
+
+## 7. La moneda hoy: rareza real y mercado
+
+El medio argentino es la moneda de oro más escasa del primer cono. Del 1884 se conocen ventas regulares, siempre con la advertencia de que solo se acuñaron 421 [F-0119, F-0122, F-0123]. Los precios subieron con el tiempo: 3.220 dólares en la venta Eliasberg de 2005 [F-0120 · probable], 3.500 francos suizos en SINCONA en 2011 [F-0120 · probable] y 3.250 en otra subasta de la misma casa [F-0119]; unos 7.000 dólares para un ejemplar en excelente estado, según una carta de lectores de 2016 [F-0112 · probable]; 6.000 dólares de martillo (unos 7.200 con la comisión) por un AU-58 de NGC en Heritage en noviembre de 2023 [F-0121; F-0130 · probable]; 12.000 dólares por un MS-63 en enero de 2025 [F-0130 · a confirmar]; un estimado de 10.000 a 15.000 dólares para un MS-62 de NGC de la variante 11.2 en Río de la Plata en diciembre de 2025, con la nota de que NGC tiene solo tres piezas mejores [F-0122]; y una oferta de un AU-55 a 3.500 dólares en la misma casa [F-0123 · probable]. Dabbah resume el rango del 1884 en 5.000 a 12.000 dólares según estado [F-0042]. PCGS lo gradúa con su número 16517: una tienda británica vendió un MS-62 [F-0124].
+
+Todo esto es mucho más que el oro que contiene: los 3,6 gramos de oro fino de un medio argentino valen alrededor de 600 dólares al precio de 2026 (cálculo propio sobre [F-0107]), de modo que el 1884 cotiza entre cinco y veinte veces su metal.
+
+El 1881 es otra cosa. No se registró ninguna venta pública. La cifra de 70.000 dólares que repiten desde 2021 Infobae, El Cronista, TN, Elonce, BAE Negocios y otros medios [F-0043, F-0125, F-0127, F-0128, F-0129, F-0076, F-0083 · probable] tiene un origen preciso: un artículo de Ariel Dabbah en Dólar Hoy, que la presenta como una estimación subjetiva [F-0042]. Dabbah agrega, con humor, que aun teniendo el dinero quizá no alcance la vida para esperar que aparezca uno [F-0076 · a confirmar].
+
+## 8. Variantes, pruebas, imitaciones y errores
+
+El 1884 tiene una variante reconocida por el mercado. Río de la Plata vendió en 2025 un ejemplar como "CJ 11.2", con la nota de que hay muy pocos conocidos de esa variante [F-0122]. El catálogo de referencia del mercado, que aquí sirve solo como pista, la describe así: el 4 de la fecha está más separado y su base apunta directamente a una de las perlas de la gráfila, mientras que en la fecha normal apunta entre dos. Es una consecuencia más de la técnica de punzonar a mano el último dígito sobre una matriz fechada 1880 [F-0005 · probable].
+
+> **Supuesto.** La variante 11.2 del 1884 se explicaría por la apertura de al menos dos cuños de anverso con el 4 punzonado a mano en posiciones distintas [F-0005, F-0122]. Falta un estudio con fotos que lo muestre.
+
+En el mercado circulan también piezas de 2½ pesos fechadas 1880 en plata, bronce, plata baja y cobre, que algunos catálogos llaman ensayos. Dabbah y Madonna demostraron que son fantasías hechas en la segunda mitad del siglo XX con matrices oficiales: son casi tan abundantes como los patacones de plata, tienen canto estriado recto y no corresponden a ninguna acuñación de 1880 [F-0005 · probable]. Del mismo origen son unos estampados cruzados que guarda el Museo del Banco Central: un anverso de 2½ pesos golpeado sobre una moneda de un peso y un cuño de 2½ en un cospel mayor [F-0005 · probable].
+
+No se documentaron falsificaciones en oro; una ficha comunitaria advierte en general sobre falsos en eBay [F-0132 · a confirmar]. Lo que abunda son errores repetidos: una tirada de 4.195 para 1881 [F-0132], la leyenda del reverso puesta en el canto [F-0131], la comparación con la libra esterlina, que corresponde al Argentino [F-0128], la idea de que la moneda quedó "3 mm más chica" y la confusión de "réplicas" con ejemplares [F-0125], precios tomados de un catálogo en línea que hacen al 1881 más barato que el 1884 [F-0126] y una serie de "Argentinos de Oro" fechada hasta 1886 [F-0111] (todos ejemplos de desinformación, a confirmar).
+
+## 9. Cómo se gasta: guía de graduación
+
+Ninguna fuente describe el desgaste del medio argentino. Las descripciones de lotes hablan de su color, un oro amarillo brillante con campos reflejantes en el reverso [F-0120 · probable] o un "oro de cosecha" [F-0121], y señalan defectos puntuales como una marca de ensayo en el canto [F-0119].
+
+> **Supuesto.** Los puntos de desgaste serían los mismos que en el Argentino: el cabello sobre la frente, la mejilla y el gorro frigio de la Libertad, y el sol y las banderas del escudo; en una pieza de 19 milímetros el relieve es más bajo y los detalles se borran antes. Se apoya en el diseño compartido con el Argentino (serie 01).
+
+## 10. Curiosidades
+
+- **Una moneda con nueve ejemplares.** El cuadro oficial de 1884 registra 9 medios argentinos hasta 1883 [F-0028].
+- **Un milésimo de margen.** Esa era la tolerancia de fino que aplicaba la Casa de Moneda [F-0028].
+- **Un cero tapado.** La matriz del 2½ pesos del Museo de la Casa de Moneda muestra el 0 de 1880 cubierto para punzonar el año [F-0005 · probable].
+- **Setenta mil dólares que nadie pagó.** La cifra famosa del 1881 es una estimación, no una venta [F-0042].
+- **De Clapp a Eliasberg.** Un 1884 viajó de una colección estadounidense de principios del siglo XX a la venta Eliasberg de 2005 [F-0120 · probable].
+- **El museo que se equivocó de diámetro.** La ficha del Museo del BCRA le asigna 22 milímetros, los del Argentino [F-0118].
+- **Nueve de cada diez.** En 1884 la mayoría de los argentinos no había visto nunca un Argentino de oro [F-0028].
+
+## 11. Lo que todavía no sabemos
+
+- La tabla de tolerancias del artículo 2 de la Ley 1130 y el texto del decreto reglamentario (art. 11).
+- Los pedidos de Castilla al Congreso para corregir la tolerancia, y quién firma la Memoria de 1884.
+- En qué año exacto se acuñaron las nueve primeras piezas y si fueron emisión o prueba.
+- Cuáles son las cinco instituciones y los tres coleccionistas que tendrían un 1881, y dónde está el noveno.
+- Los censos de NGC y PCGS del 2½ pesos y los resultados de varias ventas que solo constan en catálogos.
+- Cómo se identifica con seguridad la variante 11.2 del 1884.
+- Si el medio argentino fue desmonetizado alguna vez.
+
+## 12. Cronología
+
+- 1880-03-01 · Oudiné fija la entrega del Argentino y del medio argentino antes del 5 de julio de 1880 [F-0024 · probable].
+- 1880 · Fecha de la matriz del anverso del 2½ pesos, con el 0 luego cubierto [F-0005 · probable].
+- 1881-11-03 · Sanción de la Ley 1130, que crea el medio argentino de 4,0322 g [F-0002; F-0085 · probable].
+- 1881 · Se acuñan nueve medios argentinos para las autoridades [F-0042, F-0025 · probable; cantidad: F-0028].
+- 1883-12-31 · Existen 9 medios argentinos emitidos [F-0028].
+- 1884 · Se acuñan 421 medios argentinos; todo el oro del año lo trae el Banco Nacional [F-0028].
+- 1885-01-07 · El ensayador Kyle informa la tolerancia legal de 1 milésimo [F-0028].
+- 1885-01-08 · Fecha de los cuadros de la Memoria de la Casa de Moneda de 1884 [F-0028].
+- 1886-04-16 · Fecha de la Memoria de la Casa de Moneda de 1884, dirigida al ministro Pacheco [F-0028].
+- 1942 · Eliasberg compra la colección Clapp, con un medio argentino de 1884 [F-0120 · probable].
+- 1988-05 · Un 1884 figura en la lista de UBS Zúrich, número 99 [F-0119].
+- 2005-04-18 · Venta Eliasberg: el 1884 AU-58 se vende en 3.220 dólares [F-0120 · probable; fecha: F-0010 · probable].
+- 2009-11-22 · En un foro se sostiene que el 1881 es una prueba [F-0018 · a confirmar].
+- 2011-06 · SINCONA vende un 1884 EF en 3.500 francos suizos [F-0120 · probable].
+- 2016-03-15 · Una carta de lectores valúa el medio en unos 7.000 dólares [F-0112 · probable].
+- 2017-05-30 · Janson dona al Museo del BCRA un medio argentino de 1881 [F-0032].
+- 2020-07-26 · Dabbah y Madonna demuestran que los 2½ pesos de 1880 son fantasías [F-0005 · probable].
+- 2021-12 · Dabbah estima el 1881 en 70.000 dólares [F-0042].
+- 2023-11-12 · Heritage vende un 1884 NGC AU-58 en 6.000 dólares de martillo [F-0121].
+- 2025-01 · Un 1884 MS-63 se vende en 12.000 dólares [F-0130 · a confirmar].
+- 2025-12 · Río de la Plata ofrece un 1884 NGC MS-62 de la variante 11.2, estimado en 10.000–15.000 dólares [F-0122].
