@@ -51,6 +51,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-03
 - Cita clave: el BCRA dispone la venta "por tiempo limitado" de sus existencias de Argentinos oro (Ley 1130, acuñados 1881–1889 y 1896); "Las piezas son de oro 900 / cobre 100, tienen 22 mm de diámetro", 8,064 g, canto "IGUALDAD ANTE LA LEY"; precio al público $80, salvo 1881 y 1896, a $120.
 - Usada en: serie 01
+- Revisión 2026-11-06: releída por el agente de la ronda 2: "El precio de venta al público es de $ 80.-, excepto las de 1881 y 1896, que se comercializan a $ 120."; venta "por tiempo limitado"; "Las operaciones con mayoristas y bancos se bonifican por cantidad"; BO 01/02/2012, aviso 8597/12.
 
 ### F-0004
 - Título: Línea de tiempo — Casa de Moneda
@@ -272,6 +273,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-04 (releída por la sesión principal)
 - Cita clave: p. 440 y nota 1: ley dictada el 3/11/1881 por el ministro Juan Romero; "La ley 1130 se publicó el 5 de noviembre de 1881". p. 457: según la Memoria de la Casa de Moneda de la Nación (1881-1910) "fueron exactamente 6.343.022"; en 1896 se usaron "monedas extranjeras de oro, que se fundieron para fabricar los cospeles de los argentinos de 1896"; afirma que la ley de 900 "no se aplicó" (750 milésimos: dato contradicho por todas las demás fuentes). p. 458: "sólo el 10% de la población conocía su existencia en 1884"; buscaba una moneda como las 25 pesetas, el soberano, los 20 marcos y los 10 gulden.
 - Usada en: serie 01
+- Revisión 2026-11-06: misma obra en Dialnet (https://dialnet.unirioja.es/descarga/articulo/1018781.pdf): p. 456 "Las piezas de 1 peso, 50, 20 y 10 centavos sólo se acuñaron entre 1881 y 1883"; p. 457 contrasta los 6.343.022 con los 6.344.000 del Standard Catalog.
 
 ### F-0026
 - Título: The Statesman's Year-Book 1899 (American edition), Argentine Republic, pp. 709–710
@@ -292,6 +294,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-04 (releída por la sesión principal)
 - Cita clave: en la tabla de monedas de oro y plata extranjeras depositadas en Nueva York en 1887: "Argentine Republic. | 5 pesos | $1,110,501" (texto OCR; centavos ilegibles; sección "Deposits and purchases", pp. 26–32).
 - Usada en: serie 01
+- Revisión 2026-11-06: la tabla de monedas extranjeras depositadas en Nueva York en 1887 está en la p. 29; la fila argentina trae además "Silver parted: 22.83 standard ounces". El mismo informe estima la producción de las minas argentinas (vía el ministro de EE. UU. en Buenos Aires): 1886, oro $20.000 y plata $60.000; 1887, oro $30.000 y plata $30.000.
 
 ### F-0028
 - Título: Memoria del Departamento de Hacienda, ejercicio 1884 (incluye la Memoria del Banco Nacional)
@@ -302,6 +305,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-04 (releída por la sesión principal)
 - Cita clave: p. 13: el Banco Nacional buscaba aumentar su encaje "haciendo venir de Lóndres barras de este metal para acuñarlo"; p. 14: "tuvo que suspender las órdenes para traer barras de oro"; "Bajamos el cambio á un tipo que impidiese la extraccion de oro"; p. 28 (nota del 9/01/1885): "Ha convertido sus billetes en oro en el solo mes de Agosto, por la suma de seiscientos cuarenta mil pesos nacionales oro". No trae la sección Casa de Moneda.
 - Usada en: serie 01
+- Revisión 2026-11-06: reabierta por el agente de la ronda 2 (Tomo II, Parte II, Memoria del Banco Nacional, Buenos Aires, 1886): p. 13 "venir de Lóndres barras de este metal para acuñarlo"; p. 14 "Los fondos públicos se realizaron en 30 de Abril de 1884" y "el Banco tuvo que suspender las órdenes para traer barras de oro"; p. 28 (carta del 9/01/1885) "en el solo mes de Agosto, por la suma de seiscientos cuarenta mil pesos nacionales oro"; p. 18: los cuatros y las chirolas fueron "reacuñadas" por el Gobierno.
 
 ### F-0029
 - Título: Ley 733 de la moneda nacional, su tipo, fabricación y valor (1875) — texto
@@ -852,4 +856,334 @@ Formato de cada entrada:
 - Nivel: 4
 - Consultada: 2026-11-04
 - Cita clave: el Argentino tenía "el mismo tamaño y peso que las libras esterlinas" y se usaba "en casas de cambio y joyerías" (afirmaciones imprecisas).
+- Usada en: serie 01
+
+### F-0084
+- Título: Informe del Presidente del Crédito Público Nacional sobre la deuda pública, bancos, acuñación de moneda y presupuestos y leyes de impuestos de la nación y de las provincias, vol. 1 (1881)
+- Autor / institución: Junta de Administración del Crédito Público Nacional (informe de Pedro Agote), Buenos Aires
+- URL: https://books.google.ci/books?id=1YdDBXHjAjwC (fragmento de la p. cccxxiv)
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-06 (releída por la sesión principal)
+- Cita clave: p. cccxxiv: "La acuñación de monedas de oro es ilimitada." (solo fragmento de vista previa; según el agente, sigue: "La acuñación de plata no excederá de cuatro pesos por cada habitante de la República…"). Volúmenes siguientes en Google Books: vol. 2 (1884) ICUy-ddZtDwC, vol. 3 (1885) PnbIxlANcH8C, vol. 4 (1887) kjNyCFElb9EC (no leídos).
+- Usada en: serie 01
+
+### F-0085
+- Título: La Caisse de Conversion de la République Argentine (tesis doctoral, Facultad de Derecho de Neuchâtel; Lyon, Bosc Frères M. & L. Riou, 1938)
+- Autor / institución: Egas de Ezcurra — Université de Neuchâtel
+- URL: https://libra.unine.ch/bitstreams/5405faf6-283e-43b5-bc7e-0338858fbdb7/download
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (reproduce en francés documentos oficiales: Ley 1130, actas de la conferencia de 1919, Memoria del BCRA 1935)
+- Consultada: 2026-11-06 (releída por la sesión principal)
+- Cita clave: p. 10, Ley 733: "faute de moyens financiers et de métaux, il ne fut pas fait de frappes, et le peso fuerte or fut une simple monnaie de compte" (preveía cecas en Buenos Aires y Salta). p. 12: "La frappe de monnaie d'or est illimitée, celle d'argent ne doit pas dépasser le montant de quatre pesos par habitant"; "Le système adopté par la loi argentine est celui du mono-métallisme or". p. 140 (conferencia de la Confederación Argentina del Comercio, la Industria y la Producción, 1919, 9.ª comisión, intervención de Emilio Hansen): "Une anecdote est racontée, que des Argentins, venant de l'étranger et apportant des monnaies d'or argentines toutes neuves" [essayèrent de payer]. p. 178, Anexo VII (Memoria del BCRA, primer ejercicio 1935, aprobada el 9/03/1936): monedas de oro transferidas por la Caja de Conversión al Banco Central: "Argentins 1.523.329 · 24,8016 · 37.780.996,53"; águilas 12.237.843 (629.131.599,43); soberanos 22.300.202 (557.505.050,00); total m$n 1.224.417.645,96.
+- Usada en: serie 01
+
+### F-0086
+- Título: Primera Presidencia de Julio A. Roca — Año 1885 (compilación documental: Registro Nacional, Memoria de Hacienda 1884, informes de Agote, estados de bancos)
+- Autor / institución: Lic. Ricardo Raúl Corigliano — sitio argentina1810-1910.com
+- URL: https://argentina1810-1910.com/Pdfs/1881_1886/A%C3%B1o%201885.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (transcribe documentos de nivel 1)
+- Consultada: 2026-11-06 (releída por la sesión principal en los tramos 0–400.000)
+- Cita clave: Acuerdo del 9/01/1885 (Registro Nacional, tomo X, pp. 4–5): "los billetes del Banco Nacional serán recibidos como moneda legal"; art. 2 "suspender la conversión de sus billetes en moneda metálica durante el término de dos años"; firman Roca, V. de la Plaza, B. de Irigoyen, F. J. Ortiz, E. Wilde, B. Victorica. Índice: "Ley 1.734: Aprobando los decretos del Poder Ejecutivo de fecha nueve, quince, veintiuno…", 14/10/1885. Memoria de Hacienda 1884 (W. Pacheco): p. 132 "desde que en 1883 no se ha acuñado plata"; p. 160 "las funciones de la Casa de Moneda durante el pasado año se han limitado á la acuñación de moneda de cobre" (la ley de octubre de 1883 hizo innecesaria la plata fraccionaria). p. 166: Banco Provincial de Córdoba, 30/11/1884, "61.968 Argentinos á 5 $ m/n c/u" = $ 309.840. p. 169: Banco Nacional, existencia en caja al 29/11/1884, "En Argentinos $ 3.890.455" (onzas 230.203,33; cóndores 71.045,76; libras 111.552,84; napoleones 13.344; brasileñas 6.463,72; águilas 10.716,34). Según el agente: Agote, 31/03/1885, "llegó el 9 de Enero de 1885, en que apareció el decreto del curso forzoso"; Banco Provincial de Santa Fe: "onzas, cóndores, argentinos y libras esterlinas"; decreto reglamentario de la Ley 1734 (4/11/1885), art. 5: billetes "sellados por la casa de Moneda".
+- Usada en: serie 01
+
+### F-0087
+- Título: Primera Presidencia de Julio A. Roca — Año 1886 (compilación documental)
+- Autor / institución: Lic. Ricardo Raúl Corigliano — argentina1810-1910.com
+- URL: https://argentina1810-1910.com/Pdfs/1881_1886/A%C3%B1o%201886.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (transcribe documentos de nivel 1)
+- Consultada: 2026-11-06 (lectura del agente de la ronda 2)
+- Cita clave: mensaje de Roca (mayo de 1886): "la ley de unidad monetaria se encuentra en plena ejecución"; decreto del 24/12/1886 que prorroga la inconversión: Banco Nacional, "41.333.333 pesos de circulación fiduciaria, con una reserva metálica de 9.003.256,78 pesos oro"; presupuesto 1887: se suprime la renta propia de la Casa de Moneda.
+- Usada en: serie 01
+
+### F-0088
+- Título: NGC World Coin Census — Argentina, 5 Pesos gold (G5P)
+- Autor / institución: Numismatic Guaranty Company (NGC)
+- URL: https://ngccoin.com/census/world/argentina/sc-23/g5p
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06 (releída por la sesión principal)
+- Cita clave: totales de designación MS: 1881: 45; 1882: 16; 1882 "CUDINE": 2; 1883: 55; 1884: 15; 1885: 63; 1886: 50; 1887: 113; 1888: 133; 1889: 20; 1896: 56 (suma 568). Sin fecha de corte; el detalle por grado no se pudo alinear.
+- Usada en: serie 01
+
+### F-0089
+- Título: NGC Auction Central — "1888 ARGENTINA G5P MS Coin Auctions" y "1883 ARGENTINA G5P MS Coin Auctions"
+- Autor / institución: NGC (datos de Heritage, Stack's Bowers, Teletrade)
+- URL: https://www.ngccoin.com/auction-central/world/argentina-scid-23/auctions/1888-argentina-g5p-ms-coinid-216399 ; https://www.ngccoin.com/auction-central/world/argentina-scid-23/auctions/1883-argentina-g5p-ms-coinid-216394
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06
+- Cita clave: 1888: "MS65 PCGS … $1,897.50" (Heritage 1997 ANA, lote 7297, 2/08/1997); MS65 NGC, Heritage Baltimore Bullet #109, lote 1015, 22/10/1993, USD 1.650; MS64 NGC, Heritage 232249, lote 62301, 1/12/2022, USD 900; MS62 NGC, Stack's Bowers 22/06/2021, USD 600, y Heritage 16/01/2018, USD 528; MS61 NGC, Heritage 27/04/2023, USD 600; AU58 entre USD 172,50 (2007) y 540 (2020). 1883: "PCGS MS64 … $3,335.00" (Heritage 1998 ANA, lote 5101, 7/08/1998); NGC MS62, Heritage 3038, lote 33331, 13/01/2015, USD 446,50; NGC AU58, Teletrade 21/11/2010, USD 345; AU55–58 entre USD 312 y 440,63 (2013–2018).
+- Usada en: serie 01
+
+### F-0090
+- Título: Argentina, 1 Argentino (5 pesos) emblème / Liberté 1883 XF — ficha fwo_306315
+- Autor / institución: CGB Numismatique Paris
+- URL: https://www.cgbfr.com/argentina-1-argentino-5-pesos-embleme-liberte-1883-xf,fwo_306315,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06
+- Cita clave: "Edge : inscrite en relief IGUALDAD * ANTE * LA * LEY ****"; 8,05 g, 22 mm, eje 6 h; vendida en 2014 a €450.
+- Usada en: serie 01
+
+### F-0091
+- Título: Argentinien: 1884 (5 Pesos / 1 Argentino), inv. 18221938 — ficha de objeto 159131
+- Autor / institución: Staatliche Museen zu Berlin, Münzkabinett (museum-digital)
+- URL: https://smb.museum-digital.de/pdf/object/159131.pdf?lang=de
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (ficha institucional de museo)
+- Consultada: 2026-11-06
+- Cita clave: "Gewicht: 8.07 g"; 22 mm; "Stempelstellung: 6 h"; "Freiheitskopf mit phrygischer Mütze nach rechts"; firma OUDINÉ; procedencia Heinrich Hardt; 1 Argentino = 25 francos de la Unión Monetaria Latina.
+- Usada en: serie 01
+
+### F-0092
+- Título: Comunicación "C" 73650/2017 — "COTIZACION DEL ARGENTINO ORO" (Boletín Oficial, 17/03/2017, aviso 14566/17)
+- Autor / institución: BCRA (firman Martín S. Cándido y Alejandra I. Sanguinetti)
+- URL: https://www.boletinoficial.gob.ar/pdf/linkQR/TU4ycFNGci9MYUkrdTVReEh2ZkU0dz09
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-06 (releída por la sesión principal)
+- Cita clave: emitida "de acuerdo a lo establecido por el artículo 1° del Decreto N° 75/76 del Poder Ejecutivo Nacional"; $ 4.287,13 por argentino oro para el trimestre del 1/01 al 31/03/2017 (comunicación del 04/01/2017).
+- Usada en: serie 01
+
+### F-0093
+- Título: Quotation of the argentino oro / Cotización del argentino oro
+- Autor / institución: BCRA
+- URL: https://www.bcra.gob.ar/en/argentine-gold-price/
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-06 (los valores se cargan por script y no se leyeron)
+- Cita clave: "This page shows the quotation of the argentino oro published by the BCRA".
+- Usada en: serie 01
+
+### F-0094
+- Título: Notes to the Financial Statements for the year ended December 31, 1999 (nota 3.2.1 "Gold")
+- Autor / institución: BCRA
+- URL: https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/i1999notas.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-06 (releída por la sesión principal)
+- Cita clave: "Holdings in gold coinage were valued at the end of the year in United States dollars at US$ 290,3 per troy ounce" (US$ 287,1 al 31/12/1998); previsión del 1 % por pureza. No menciona ventas de monedas ni cantidades.
+- Usada en: serie 01
+
+### F-0095
+- Título: Indemnización no tan dorada
+- Autor / institución: Diario Judicial, 12/08/2024
+- URL: https://www.diariojudicial.com/news-98469-indemnizacion-no-tan-dorada
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: causa "L. L. G. c/ Despegar.com.ar": condena en "6 pesos argentinos oro con veintisiete centavos" (≈ $2.777.900; valor de $443.046,35 por unidad); revocada por la Sala I de la Cámara de Lomas de Zamora (jueces Rodiño e Igoldi).
+- Usada en: serie 01
+
+### F-0096
+- Título: El oro pesó más que los iPhone
+- Autor / institución: Diario Judicial, 14/07/2026
+- URL: https://www.diariojudicial.com/news-103892-el-oro-peso-mas-que-los-iphone
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: Cámara Federal de Salta, "Cabezas, Marcos Antonio c/ Aerolíneas Argentinas": tope de "dos argentinos oro por kilogramo de peso bruto de la carga", a la cotización oficial vigente al momento del hecho.
+- Usada en: serie 01
+
+### F-0097
+- Título: Peso argentino oro y su uso en derecho sucesorio
+- Autor / institución: Dr. Jorge A. Germano — Editorial García Alonso (blog), 19/07/2023
+- URL: https://garciaalonso.com.ar/blog/peso-argentino-oro-derecho-sucesorio/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: la Ley 1130 "continúa vigente porque nunca fue derogada" (cita de un fallo); propone el argentino oro como unidad de cuenta en sucesiones; cotización trimestral del BCRA.
+- Usada en: serie 01
+
+### F-0098
+- Título: The Argentine in the Twentieth Century (traducción inglesa, 1911)
+- Autor / institución: Alberto B. Martínez y Maurice Lewandowski (Project Gutenberg n.º 45261)
+- URL: https://www.gutenberg.org/ebooks/45261.txt.utf-8
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (obra de época; Martínez dirigía la Estadística municipal)
+- Consultada: 2026-11-06
+- Cita clave: "Señor Romero is the author of the monetary law of 1881"; "In November 1881… a law was promulgated establishing a bimetallic standard"; inconvertibilidad restablecida "in January 1885"; "In June 1885 the premium rose to 50 per cent.; in 1886, it was 39 per cent.; in 1887, 35 per cent."; 1889, 120 % (sept.–oct.) y 130 % (nov.–dic.); abril de 1890, 215 %; 1891, pizarra 464; 1893, 359–290; 1894, 433–307. Peso oro de 24,9 granos troy.
+- Usada en: serie 01
+
+### F-0099
+- Título: Illustrated History of the United States Mint (Filadelfia, 1888) — "Latest official estimate of the values of foreign coins in the United States, January, 1887"
+- Autor / institución: G. G. Evans (ed.) (Project Gutenberg n.º 68369)
+- URL: https://gutenberg.org/ebooks/68369.txt.utf-8
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (reproduce la estimación oficial del Tesoro de EE. UU.)
+- Consultada: 2026-11-06
+- Cita clave: "Argentine Republic | Double | Peso | Gold and silver"; peso valuado en 96,5 centavos de dólar; piezas patrón: argentine y ½ argentine. Tabla 1884 "Total Paper and Specie Circulation": población 2.540.000; circulación total 71.371.850; metálico en tesoros y bancos 14.196.461 (unidad no indicada).
+- Usada en: serie 01
+
+### F-0100
+- Título: Experimentos monetarios y bancarios en Argentina: 1861-1930 (Revista de Historia Económica 12 (3), 1994, versión castellana de F-0037)
+- Autor / institución: Gerardo della Paolera — Universidad Torcuato Di Tella
+- URL: https://core.ac.uk/download/29398939.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-06
+- Cita clave: p. 547: "El periodo de convertibilidad sólo duró diecisiete meses"; "En marzo de 1885, el gobierno federal decretó «curso forzoso»"; p. 549 (cita a Ford 1962, p. 93): "se habían emitido monedas de oro por valor de 31,7 millones de pesos oro", cerca del cuádruple de lo planeado; en 1896 no circulaban monedas de oro.
+- Usada en: serie 01
+
+### F-0101
+- Título: La deuda pública externa argentina, 1880-1906
+- Autor / institución: Roberto Cortés Conde
+- URL: https://core.ac.uk/download/304707987.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-06
+- Cita clave: p. 156: "el desorden monetario y fiscal (que empezó con la inconversión de 1885 y culminó con la ley de Bancos Garantidos de 1887)"; p. 159: el público cambiaba billetes por el oro que vendía el gobierno; esa fuga de capitales fue "la causa principal" de la crisis.
+- Usada en: serie 01
+
+### F-0102
+- Título: El Reverso n.º 68 (febrero de 2021), "In memoriam: Fernando Chao (1946-2021)"
+- Autor / institución: Centro Filatélico y Numismático de San Francisco (Córdoba), ed. Luciano Pezzano
+- URL: https://monedasuruguay.com/bib/rev/rev068.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-06
+- Cita clave: p. 3: a Chao se le debe "la identificación de la ahora clásica variante de canto de los argentinos de oro"; p. 2: nació en Rosario en 1946 y murió el 7/01/2021.
+- Usada en: serie 01
+
+### F-0103
+- Título: Piezas selectas de la serie «Patacón» (Subasta #24)
+- Autor / institución: Ricardo Veltri — Río de la Plata Compañía Numismática, 15/12/2025
+- URL: https://rpnumis.com/2025/12/15/piezas-selectas-de-la-serie-patacon/
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06
+- Cita clave: "y además la variante CUDINE de 1883"; lote 156: 5 pesos 1883, CJ 3.2, XF, 8,04 g, "Fecha normal y CUDINE"; lote 162: 1889, AU, 8,06 g; lote 163: 1896, AU, 8,01 g.
+- Usada en: serie 01
+
+### F-0104
+- Título: Argentina 5 pesos 1889 Argentino de oro CJ 9.1 (lote)
+- Autor / institución: Río de la Plata Compañía Numismática (auction.rpnumis.com)
+- URL: https://auction.rpnumis.com/lots/view/4-EIC7E5/argentina-5-pesos-1889-argentino-de-oro-cj-91
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06
+- Cita clave: 1889, AU, 8,04 g, 22,1 mm; valor de 400 USD en los metadatos; no explica qué distingue la variante 9.1.
+- Usada en: serie 01
+
+### F-0105
+- Título: Künker — lote 2317, Republik 5 Pesos (1 Argentino) 1888 (archivo 328499)
+- Autor / institución: Künker
+- URL: https://kuenker.de/en/auktionen/stueck/328499
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06
+- Cita clave: "Republik. 5 Pesos (1 Argentino) 1888. Fb. 14."; "Fast vorzüglich"; estimado €350, adjudicado €700.
+- Usada en: serie 01
+
+### F-0106
+- Título: 1882 Argentina Gold Argentino Five Pesos (ficha de producto)
+- Autor / institución: Dorset Coin Company (Reino Unido)
+- URL: https://dorsetcoincompany.co.uk/product/1882-argentina-gold-argentino-five-pesos
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06
+- Cita clave: "In Near Extremely Fine Or Better Condition"; "light surface marks"; £835,86 (agotado).
+- Usada en: serie 01
+
+### F-0107
+- Título: Argentina 5 Pesos (ficha de producto)
+- Autor / institución: USAGOLD
+- URL: https://www.usagold.com/product/argentina-5-pesos/
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06
+- Cita clave: "Total Mintage 6,343,022"; USD 1.193,15 por unidad (noviembre de 2026).
+- Usada en: serie 01
+
+### F-0108
+- Título: Argentina 5 Peso Gold Coin (ficha de producto)
+- Autor / institución: Hero Bullion
+- URL: https://www.herobullion.com/argentina-5-peso-gold-coin/
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06
+- Cita clave: "as low as $981.86"; "Just $22 Over Melt Per Coin in Any Quantity!"
+- Usada en: serie 01
+
+### F-0109
+- Título: Argentinos (hilo, World Coins), 17/01/2005
+- Autor / institución: CoinTalk (usuarios B.G., satootoko, Aidan Work)
+- URL: https://www.cointalk.com/posts/32439
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: valores de catálogo de entonces "$90 F, $110 VF, $130 XF, and $220 Unc", con el metal a ≈ USD 105 por pieza; consejo de tratar los grados bajos como metal; copia para 1885 una tirada de 404.000.
+- Usada en: serie 01
+
+### F-0110
+- Título: Argentina Gold 5 Pesos (review)
+- Autor / institución: goldiraguide.org
+- URL: https://goldiraguide.org/argentina-gold-5-pesos/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: "Mass: 7.26 grams" (confunde el oro fino con el peso total); 1,5 mm de espesor.
+- Usada en: serie 01
+
+### F-0111
+- Título: [Nota sobre monedas argentinas valiosas] (uid-830525)
+- Autor / institución: Elonce
+- URL: https://www.elonce.com/uid-830525
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: "Argentinos de Oro (1881-1886): Estas monedas también son altamente valoradas" (fecha final errónea).
+- Usada en: serie 01
+
+### F-0112
+- Título: Argentino de oro (carta de lectores), 15/03/2016
+- Autor / institución: Primera Edición (Posadas)
+- URL: https://www.primeraedicion.com.ar/?p=216329
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: "Se usaba principalmente como medio de pago para transacciones con otros países"; un ejemplar en excelente estado valdría más de 400 dólares.
+- Usada en: serie 01
+
+### F-0113
+- Título: First Coins / Primeras monedas
+- Autor / institución: Marcelo Calniquer Cayani — billetesargentinos.com.ar
+- URL: https://www.billetesargentinos.com.ar/monedas/en_primeras_monedas.htm
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: ficha 8,064 g, 22 mm, canto "Igualdad ante la ley"; da 1883 como fin de la acuñación de plata; medio argentino ≈4 g, 19 mm, canto estriado.
+- Usada en: serie 01 (y 02)
+
+### F-0114
+- Título: Comunicado: Administración de las Reservas de oro del BCRA (02/09/2024)
+- Autor / institución: BCRA
+- URL: https://www.bcra.gob.ar/Pdfs/noticias/Administracion-Reservas-oro-BCRA.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-06
+- Cita clave: el oro de las reservas está en "formato físico (barras y lingotes)" y en cuentas en el exterior; no menciona monedas.
+- Usada en: serie 01
+
+### F-0115
+- Título: Comunicación A 2974 / 1999 (ficha InfoLEG, norma 59679)
+- Autor / institución: BCRA / InfoLEG
+- URL: https://www.argentina.gob.ar/normativa/nacional/norma-59679/texto
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-06 (solo el título del resultado de búsqueda; el texto dio error del servidor)
+- Cita clave: título "Comunicación A 2974 / 1999".
+- Usada en: serie 01
+
+### F-0116
+- Título: Casa de Moneda de la República Argentina (artículo)
+- Autor / institución: Wikipedia en inglés
+- URL: https://en.wikipedia.org/wiki/Casa_de_Moneda_de_la_Rep%C3%BAblica_Argentina
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: Castilla, "the Casa de Moneda first director", proyectó el primer edificio "in an Italianate style"; cita a Herrero Ducloux, "Juan J. J. Kyle (1838-1922)", Anales de la Sociedad Científica Argentina, t. XCIII, 1922.
 - Usada en: serie 01
