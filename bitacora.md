@@ -4,6 +4,36 @@ Una entrada por sesión, **la más reciente arriba**. Formato en `PROTOCOLO.md` 
 
 ---
 
+## 2026-11-06 · Serie 01 · 5 pesos oro "Argentino" · revisión (sesión de tarde)
+- Búsquedas: ≈164 (ronda 1: 28 + 28 + 28 + 30; auditoría previa: 15; ronda 2: 16 + 16; sesión principal: 3; auditor final: 0) · Documentos leídos: ≈135 lecturas a fondo (≈25 de nivel 1, contando las compilaciones que transcriben documentos oficiales) · Fuentes nuevas: F-0084–F-0117
+- Agentes: 1 auditor externo previo (deuda de la sesión anterior: 22 datos verificados), 4 en la ronda 1 (uno por nivel de fuente), 2 en la ronda 2 (BCRA y tiradas; reauditoría y variantes) y 1 auditor final independiente (24 datos verificados contra las fuentes, más la Historia completa). La sesión principal reabrió en persona: Agote 1881 (Google Books), la tesis de Egas de Ezcurra (tres tramos, incluido el anexo de la Memoria del BCRA de 1935), Corigliano "Año 1885" (tres tramos: acuerdo del 9/01/1885, estados del Banco Nacional y de Córdoba, Memoria de Hacienda 1884), el censo de NGC, las notas a los estados contables del BCRA de 1999 y la Com. "C" 73650.
+- Hallazgos principales:
+  - **1935:** la Caja de Conversión transfirió al nuevo BCRA 1.523.329 Argentinos (24 % de lo acuñado), revaluados a 24,8016 m$n, junto con 12,2 millones de águilas y 22,3 millones de soberanos (Memoria del BCRA 1935, vía Egas de Ezcurra 1938) [F-0085]. Explica las existencias que el BCRA vendió en 1999 y 2011–2012.
+  - **Art. 4 de la Ley 1130:** el *Informe del Crédito Público* de Agote (1881) transcribe "ilimitada" [F-0084]; con Ezcurra, Pontón y la BCR son cuatro lecturas contra InfoLEG. Pasa a "ilimitada" probable.
+  - **Curso forzoso:** acuerdo del 9/01/1885 (Registro Nacional, tomo X) [F-0086]; Ley 1734 de octubre de 1885. Se cierra la discrepancia enero/marzo.
+  - **Existencias de fines de 1884:** Banco Nacional, $ 3.890.455 en Argentinos (≈778.000 piezas); Córdoba, 61.968; Santa Fe, $ 286.410 [F-0086]. La Memoria de Hacienda de 1884 dice que ese año la Casa de Moneda solo acuñó cobre (nueva discrepancia con la tirada de 1884) y que la plata cesó en 1883 (ley del 4/10/1883).
+  - **Mercado y variantes:** censo NGC por fecha (568 piezas) con la variedad "CUDINE" 1882 [F-0088]; 1883 CUDINE en Río de la Plata [F-0103]; 1888 MS-65 (PCGS y NGC, 1993 y 1997) y 1883 PCGS MS-64 (USD 3.335) [F-0089]; "clásica variante de canto" atribuida a Fernando Chao [F-0102]; eje 6 h confirmado por el Münzkabinett de Berlín [F-0091].
+  - **Unidad de cuenta:** cotización trimestral por Com. "C" según el Decreto 75/76 ($ 4.287,13 en el 1.er trimestre de 2017) [F-0092]; fallos de 2024 y 2026 [F-0095, F-0096]. Anécdota de 1919 sobre monedas de oro nuevas que nadie aceptaba [F-0085].
+- Historia completa: 15.044 palabras (antes: 10.377). Reescrita entera (versión 3). Apartados reescritos: §1 (Ley 733 y Salta), §4 (qué sistema era; art. 4), §5 (oro sin minas), §7 (1882–1883 la plata se apaga; 1884 bancos y discrepancia; 1885–1886 curso forzoso), §8 (anécdota de 1919), §9 (la transferencia de 1935), §10 (BCRA 1999–2024), §11 (cotización y fallos), §12 (censo NGC y techo MS-65), §13 (CUDINE y variante de canto), cronología.
+- Correcciones:
+  - Art. 4: "a confirmar" → "ilimitada" probable [F-0084, F-0085].
+  - Curso forzoso: "a confirmar (mes)" → 9/01/1885 confirmado [F-0086]; F-0001 deja de citarse como apoyo del mes (solo dice 1885).
+  - Fin de la plata: 19/10/1883 o 1884 → 1883 (ley del 4/10/1883) [F-0086, F-0025]; el 19/10 del blog queda como fecha distinta sin confirmar.
+  - Grado máximo: 1888 PCGS MS64 → 1888 MS-65 (PCGS y NGC) [F-0089].
+  - Eje 6 h: probable → confirmado [F-0091, F-0090].
+  - Supuesto de las existencias del BCRA: "reservas antiguas sin identificar" → transferencia de 1935 documentada [F-0085].
+  - Río de la Plata OA 27 (XF USD 950–1.100): probable → a confirmar (el auditor no pudo ver los lotes).
+  - F-0022: "su propio cuadro suma 6.343.022" → "el cuadro (1881–1889) más la cifra de 1896 del texto suman 6.343.022".
+  - Donación Janson: "escritura" → "acta de donación" [F-0032]. Cápsula acrílica: el vínculo con la venta de 2011–2012 pasa a deducción.
+  - CUDINE 1883: "junto a una de fecha normal" → una sola pieza de fecha normal con firma CUDINE [F-0103] (auditor).
+  - Relación 1935: "0,992, la misma que el 99,12 %" → 0,9921 (99,21 %), muy cercana (auditor).
+  - Santa Fe 1884: frase genérica → cifras ($ 286.410 en Argentinos) [F-0086] (auditor).
+  - Premios del oro: se separan premio y cotización y se rotulan las conversiones (auditor).
+- Auditoría: auditor previo (22 datos; 2 errores, 3 precisiones, 1 cambio de confianza; F-0003, F-0028 y F-0037 luego reverificadas por la ronda 2; F-0024 sigue sin reabrirse) y auditor final (24 datos; 19 observaciones sobre la Historia y la base, todas corregidas antes del commit: datos sin respaldo en la base agregados a la Parte 1 o quitados del relato, rótulos alineados, aritmética corregida, datos de la base que faltaban en el relato incorporados).
+- Discrepancias abiertas: tirada 1884 vs. Memoria de Hacienda; total en pesos 1899 vs 1915; art. 4 (falta el Registro Nacional); fecha de la Ley 1734 (14 o 30/10/1885); 19/10/1883; bimetalismo vs monometalismo (interpretación); circulación interna; canto (relieve/incuso, 3 o 4 estrellas); origen del lote de los 90; Com. "A" 2837 o "A" 2974.
+- Pistas pendientes: Memoria del BCRA 1935 en castellano y memorias 1936–1998; informes de Agote vols. 2–4 (Google Books); Registro Nacional 1881 y 1883; volúmenes 1881–1884 de argentina1810-1910; Com. "A" 2974/2837; cotización 2025–2026 y Decreto 75/76; trabajo de Chao sobre la variante de canto; censo PCGS; Testolino (F-0024, PDF bloqueado).
+- Incidencias: es.wikisource.org dio "url_not_found" en todas las páginas; PROVENANCE_REQUIRED en FRASER, IFINRA (Testolino) y el primer intento de cdi.mecon; errores de servidor en InfoLEG (Com. "A" 2974, Decreto 75/76); ngccoin.com rechazó lecturas en la ronda 2; el proxy bloqueó curl a archive.org y gutenberg.org. Un agente se pasó del cupo en 2 búsquedas. No se detectaron instrucciones incrustadas en el contenido web. Catálogos (Janson, Urs Graf, Foronum, Greysheet, Krause) usados solo como pista.
+
 ## 2026-11-04 · Serie 01 · 5 pesos oro "Argentino" · investigación 2 (sesión de tarde)
 - Búsquedas: ≈196 (cupo de WebSearch del turno agotado) · Documentos leídos: ≈190 lecturas a fondo (≈30 de nivel 1) · Fuentes nuevas: F-0022–F-0083
 - Agentes: 4 en la ronda 1 (uno por nivel de fuente), 2 en la ronda 2 (tiradas oficiales; lotes, diseño y personajes). La sesión principal releyó en persona Ley 1130 (InfoLEG), US Mint 1887, Memoria de Hacienda 1884, Statesman's Year-Book 1899, Santacreu 2004 y la Gacetilla CNBA 70.

@@ -1187,3 +1187,13 @@ Formato de cada entrada:
 - Consultada: 2026-11-06
 - Cita clave: Castilla, "the Casa de Moneda first director", proyectó el primer edificio "in an Italianate style"; cita a Herrero Ducloux, "Juan J. J. Kyle (1838-1922)", Anales de la Sociedad Científica Argentina, t. XCIII, 1922.
 - Usada en: serie 01
+
+### F-0117
+- Título: Annual Report of the Director of the Mint, 1900 (sección "Argentina", pp. 217–218; tabla XXV "Coinage of nations", p. 337)
+- Autor / institución: United States Mint
+- URL: https://archive.org/stream/annualreportofdi1900unit_a8l9/annualreportofdi1900unit_a8l9_djvu.txt
+- Archivo (Internet Archive): es la copia de Internet Archive
+- Nivel: 1 (oficial, Estados Unidos)
+- Consultada: 2026-11-06 (lectura del agente de nivel 1)
+- Cita clave: la producción argentina de oro de 1900 "did not exceed $50,000"; la tabla "Coinage of nations" cubre solo 1898–1900 (sin acuñación argentina).
+- Usada en: serie 01
