@@ -73,6 +73,7 @@ Formato de cada entrada:
 - Cita clave: sobre los 5 pesos fechados 1880 listados en catálogos: "no hemos podido conocer ninguna tanto en colecciones particulares como en Museos". Oudiné, "uno de los grabadores de la ceca parisina", trabajó matrices y punzones encargados por Eduardo Castilla (1878).
 - Usada en: serie 01
 - Revisión 2026-11-06 (serie 02): publicado por IFINRA el 26/07/2020. p. 5, pie de la imagen 5: "Matriz original correspondiente al anverso de la moneda de 2 ½ Pesos, en la cual se puede apreciar la existencia de un 0 cubierto intencionalmente para reproducción de cuños" (crédito p. 10: Museo de la S.E. Casa de Moneda); "No hubo apertura de cuños fechados 1880"; las piezas de 2½ pesos fechadas 1880 (CJ 32) son fantasías hechas con matrices oficiales en la segunda mitad del siglo XX, en plata 900, bronce, plata baja y cobre, "casi tan abundantes como las de 1 Patacón", con "un estriado recto en el canto" (p. 8), rareza R2–R3 (p. 9); estampados cruzados: anverso de 2½ sobre una acuñación de 1 peso y cuño de 2½ en cospel mayor (pp. 9–10). Usada también en serie 02.
+- Revisión 2026-11-06 (serie 02, revisión): el artículo dice que el Museo de la Casa de Moneda, el Museo Janson (BCRA), el Museo Mitre y el Archivo y Museo Histórico del Banco Provincia "no poseen en su patrimonio piezas de 1880"; rareza R2 en plata, bronce y plata baja, R3 en cobre; "una mejor calidad de laminado del cospel". Se contradice sobre la época: en un pasaje "entre los años '70 y '80", en la conclusión "segunda mitad del siglo XX" (agente de la ronda 2).
 
 ### F-0006
 - Título: Comienzos de la Casa de Moneda
@@ -124,6 +125,7 @@ Formato de cada entrada:
 - Cita clave: "8.06g, 6h"; "a really good very fine, with a hint of overlying tone", "rub to high points, otherwise lustrous"; procedencia Heritage 14/03/2013 (USD 390); Louis E. Eliasberg Sr., Spink-Stack's 18/04/2005; colección John H. Clapp, adquirida en bloque por Eliasberg en 1942. Realizado £350.
 - Usada en: serie 01
 - Revisión 2026-11-06 (serie 02): procedencia completa: "Louis E. Eliasberg Snr., Spink-Stack's, 18 April 2005, lot 1017 [part]; John H. Clapp, collection purchased en bloc by Eliasberg, 1942".
+- Revisión 2026-11-06 (serie 02, revisión): la venta Eliasberg de oro mundial la hizo American Numismatic Rarities (Wolfeboro) en Nueva York, el 18–19/04/2005, con colaboración del personal de Spink [F-0135, F-0136, F-0137]; "Spink-Stack's" es la forma en que Spink la cita hoy.
 
 ### F-0011
 - Título: Argentinien, 5 Pesos (1 Argentino) 1896 — archivo de lotes, n.º 78504 (lote 1987)
@@ -380,6 +382,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-04
 - Cita clave: la acuñación de 1896 "se debió a una solicitud de los bancos que poseían monedas chilenas de oro"; "los argentinos de 1896 tienen un color algo distinto, ya que la procedencia de su oro es diferente"; "la acuñación de moneda de plata cesó el 19 de octubre de 1883"; "en 1999, el Banco Central decidió vender una parte significativa de este tesoro" (enlaza a bcra.gob.ar/pdfs/comytexord/A2974.pdf). Un lector (Gerardo Arguello, 17/12/2025) objeta que "las referencias sobre los años de emisión… deben revisarse". El texto llama "Ley 1131" a la ley en el cuerpo (errata).
 - Usada en: serie 01
+- Revisión 2026-11-06 (serie 02, revisión): pie de foto "Argentina. 12,5 pesos 'medio argentino', 1884" (error: 12,5 es la equivalencia en francos); canto "IGUALDAD ANTE LA LEY" atribuido en general (no vale para el medio); "muchas dificultades en el ensayaje por los estrechos márgenes de error que dictaba la ley".
 
 ### F-0036
 - Título: Salida de capitales e inflación — Informativo Semanal N.º 1449
@@ -451,6 +454,7 @@ Formato de cada entrada:
 - Cita clave: la ley aplicaba la misma tolerancia de fino a las piezas de 5 y de 2,5 pesos; Castilla pidió dos veces corregirla y optó por no acuñar el medio argentino; en 1881 se acuñaron unas pocas piezas de cada tipo para las autoridades (9 medios argentinos); 421 en 1884.
 - Usada en: serie 01 (contexto), serie 02
 - Revisión 2026-11-06 (serie 02): fecha deducida de la URL: 1/12/2021; Dabbah, fundador de Río de la Plata Compañía Numismática. Citas: el 1884 cuesta "una suma que puede variar entre 5 mil y 12 mil Dólares"; por el 1881 "tendrá que desembolsar la friolera de 70 mil dólares" "según estimaciones subjetivas"; "tan solo hay 3 piezas en manos privadas, otras 5 en museos o instituciones públicas" y "una novena que aún se desconoce su paradero"; "Eduardo Castilla solicitó en sendas oportunidades la corrección de dicho margen"; 1884, "el primer intento de acuñar piezas de 2,5 Pesos en forma masiva", "tan solo 421 piezas". No nombra las instituciones.
+- Revisión 2026-11-06 (serie 02, revisión): releído por el agente de nivel 3: "un error en la confección de la ley hizo que las hermanas menores de los Argentinos Oro fueran casi imposibles de fabricar"; 19 mm, "3 mm" más chica que el Argentino. No es la primera publicación del relato: El Cronista lo publicó el 7/10/2021 [F-0139] y La Nación el 9/10/2021 [F-0140].
 
 ### F-0043
 - Título: La insólita historia de la moneda argentina que vale USD 70.000…
@@ -461,6 +465,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-04
 - Cita clave: misma versión de Dabbah sobre la tolerancia de fino y la decisión de Castilla; de los medios de 1881, tres en manos privadas, cinco en instituciones y uno de paradero desconocido.
 - Usada en: serie 01 (contexto), serie 02
+- Revisión 2026-11-06 (serie 02, revisión): esta vez se pudo leer (agente de nivel 1): "solicitó en sendas oportunidades la corrección de dicho margen a los legisladores"; la ley exigía "una mínima tolerancia en el fino de las monedas para garantizar su calidad"; 19 mm y 4,03 g; no da cifra de tolerancia.
 
 ### F-0044
 - Título: La Casa de Moneda
@@ -1235,6 +1240,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-06
 - Cita clave: Eliasberg, lote 1016: NGC AU-58, "Bright yellow gold with rich highlights, reflective fields on the reverse", USD 3.220; procedencia "John H. Clapp Collection; Clapp estate to Louis E. Eliasberg, Sr., 1942"; "Only 421 pieces were struck, yet only 9 specimens were struck of the 1881"; "Quite scarce"; "the more common of the two dates of this type"; 4,03 g, 19,30 mm. SINCONA 1 (Zúrich, junio de 2011), lote 2582: "Extremely fine", 4,01 g, CHF 3.500.
 - Usada en: serie 02
+- Revisión 2026-11-06 (serie 02, revisión): la misma wiki cita el catálogo como Kraljevich, John, et al., *The Louis E. Eliasberg, Sr., Collection of World Gold Coins and Medals* (American Numismatic Rarities, 2005) (página Argentina_1826-RA_P_8_escudos), coherente con F-0135.
 
 ### F-0121
 - Título: Heritage Showcase Auction 61343 (12–13/11/2023), lote 23031 — catálogo en NumisBids
@@ -1365,3 +1371,293 @@ Formato de cada entrada:
 - Consultada: 2026-11-06
 - Cita clave: Tirada 430 (9 + 421); desmonetización "1 de enero de 1896" (sin fuente); leyenda del reverso "LIBERTAD * 2½ PESOS * ½ ARGENTINO * 9 Dos FINO"; fotos con crédito a Heritage.
 - Usada en: serie 02
+
+### F-0134
+- Título: Catálogo de Monedas de la República Argentina de 1881 al 2004 (3.ª ed.), pp. 14–16 (transcripción de la Ley 1130 y ficha del ½ Argentino)
+- Autor / institución: Rubén Horacio Gancedo (Editorial El Fortín, Buenos Aires, 2005; PDF publicado por numismaticaargentina.com.ar)
+- URL: https://numismaticaargentina.com.ar/wp-content/uploads/2025/07/Catalogo-de-monedas-de-la-Republica-Argentina-1881-2004-Ruben-Horacio-GANCEDO-2005.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (como transcripción del texto legal; sus tiradas y precios son de catálogo y solo valen como pista)
+- Consultada: 2026-11-06 (releído por la sesión principal)
+- Cita clave: tabla del art. 2 (OCR): "Título Peso Diámetro / Justo / Tolerancia en más o menos / … Milésimos Gramos Milésimos Milímetros / Argentino ½ Argentino Oro 5 2 ½ 900 y 100 m/n 900 de cobre 1 80.645 40.322 2 22 19"; art. 4: "La acuñación de monedas de oro es ilimitada"; "Sanción: 5 de noviembre de 1881. Promulgación: 9 de noviembre de 1881." Ficha del ½ Argentino: 4 g, 19 mm, espesor 0,989 mm, canto estriado; 1881 "Ensayo, se acuñaron 9 piezas"; 1884: 421.
+- Usada en: serie 02
+
+### F-0135
+- Título: Eliasberg Prices Stun Numismatic World (22/04/2005)
+- Autor / institución: NGC (comunicado "courtesy of American Numismatic Rarities")
+- URL: https://www.ngccoin.com/news/article/262/
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06 (releído por la sesión principal)
+- Cita clave: "American Numismatic Rarities of Wolfeboro, New Hampshire is proud to announce the results"; "sold in New York City on April 18 and 19th"; total "$10,118,246.25"; Christine Karstedt: "Our staff worked very hard, along with the staff at Spink". Helmsley Park Lane Hotel. De Argentina menciona un 8 escudos Rosas 1836 XF45 (USD 149.500).
+- Usada en: serie 02, serie 01
+
+### F-0136
+- Título: NGC Certifies Eliasberg World Gold (10/02/2005)
+- Autor / institución: NGC
+- URL: https://ngccoin.com/news/article/246
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06 (releído por la sesión principal)
+- Cita clave: subasta pública del 18–19 de abril "by American Numismatic Rarities of Wolfeboro, NH"; "nearly three thousand gold coins and medals"; cada pieza con "Photo Certificate" para "permanently establish the pedigree on every piece".
+- Usada en: serie 02
+
+### F-0137
+- Título: American Numismatic Rarities Offers The Louis E. Eliasberg Collection of World Coins and Medals
+- Autor / institución: Overstreet Access
+- URL: https://www.overstreetaccess.com/?p=69190
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06 (leído por el agente de nivel 3)
+- Cita clave: ANR, 18 y 19 de abril de 2005, Nueva York, "2,500+ offering".
+- Usada en: serie 02
+
+### F-0138
+- Título: Nuevas falsificaciones chinas (14/10/2018)
+- Autor / institución: Justo Otaegui, IFINRA (blog)
+- URL: https://ifinra.org/2018/10/14/nuevas-falsificaciones-chinas/
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-06 (releído por la sesión principal)
+- Cita clave: "FA38 – 1884 – ½ ARGENTINO – Módulo: 19mm"; "FA39 – 1883 – 1 ARGENTINO – Módulo: 22mm"; piezas "de baja calidad", a 1–2 dólares; muchas no pasarían el examen de un coleccionista, en particular las que imitan piezas de oro. No indica el metal de FA38.
+- Usada en: serie 02
+
+### F-0139
+- Título: La moneda argentina de 2,5 pesos que cotiza u$s 70.000: ¿qué características tiene y cuántas existen en todo el mundo? (7/10/2021)
+- Autor / institución: Redacción El Cronista
+- URL: https://www.cronista.com/economia-politica/la-moneda-argentina-de-25-pesos-que-cotiza-us-70000-que-caracteristicas-tiene-y-cuantas-existen-en-todo-el-mundo
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06 (releído por la sesión principal)
+- Cita clave: piezas de 1881 "para ser presentadas ante las autoridades"; "421 piezas"; total 430; "sólo existen 3 piezas en manos privadas", 5 en museos o instituciones, 1 de paradero desconocido; 1884 entre USD 5.000 y 12.000, 1881 unos USD 70.000; 19 mm y 4,03 g; "3 milímetros menos" (frase confusa). No cita a Dabbah ni a nadie.
+- Usada en: serie 02
+
+### F-0140
+- Título: La moneda argentina que cotiza a US$ 70.000: cómo es y cuántas existen (9/10/2021)
+- Autor / institución: La Nación
+- URL: https://www.lanacion.com.ar/economia/la-moneda-argentina-que-cotiza-a-us-70000-como-es-y-cuantas-existen-nid09102021/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06 (leído por el agente de nivel 1)
+- Cita clave: "un error en la confección de la ley que hizo que estas fueran casi imposibles de fabricar"; "módulo de 19 mm de grosor y un peso de 4,03 gramos"; "el sueño del entonces Director de la Casa de Moneda, Eduardo Castilla, se vio desvanecido"; el 1881 "sobre pasa los US$ 70.000".
+- Usada en: serie 02
+
+### F-0141
+- Título: Moneda Argentino de oro, Argentina (28/02/2009)
+- Autor / institución: Marion Mueller, OroyFinanzas.com
+- URL: https://www.oroyfinanzas.com/2009/02/argentino_de_oro_argentina/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06 (releído por la sesión principal)
+- Cita clave: "de las que en el año 1881 se acuñaron 9 piezas de presentación y en el año 1884 solamente 421"; "por tratarse de una moneda de difícil ejecución". Sin fuentes.
+- Usada en: serie 02
+
+### F-0142
+- Título: Must...find... 2.5 peso. (hilo, World Coins, 19/01/2005)
+- Autor / institución: CoinTalk (usuarios B.G., bohica, satootoko, markcen)
+- URL: https://www.cointalk.com/posts/32733
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06 (leído por el agente de nivel 4)
+- Cita clave: bohica: "Krause lists this as Rare for the 1881 with only 9 pieces minted"; "Values for 1884 start at $550 Fine, $900 VF, $1250 EF and $1850 UNC"; markcen (desde Argentina): "if you want a VF medio argentino you have to find almost U$s 4000". Continuación de F-0109.
+- Usada en: serie 02
+
+### F-0143
+- Título: 2½ Pesos - ½ Argentino (ficha N# 28915) y su espejo en numisquare
+- Autor / institución: Numista (catálogo colaborativo; solo pista) · espejo: https://www.numisquare.com/21-2-pesos-1-2-argentino-4802092120.html
+- URL: https://en.numista.com/28915
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (catálogo: solo pista)
+- Consultada: 2026-11-06 (leído por los agentes de nivel 2, 4 y de la ronda 2)
+- Cita clave: "Demonetized: 1 January 1896" (sin fuente); 4,0322 g; 19 mm; espesor y eje en blanco; leyendas "REPÚBLICA ARGENTINA * 1884 *" / "LIBERTAD * 2½ PESOS * ½ ARGENTINO * 9 Dos FINO"; 1881 "(fr) Trés rare – 9". Lista de resultados de subastas del 1884: Heritage NYINC 13/01/2025 NGC MS63 USD 12.000 (con comisión); Heritage 12/11/2023 NGC AU58 USD 7.200; Heritage 29/04/2019 NGC AU55 USD 7.200; RPN Online #10, lote 325, 16/06/2022, UNC, USD 7.250 + comisión; RPN Online #9, 17/03/2022, F, USD 3.200 + comisión; RPN Subasta #24, 16/12/2025, NGC MS62, USD 9.250 + comisión.
+- Usada en: serie 02
+
+### F-0144
+- Título: 2½ Pesos / ½ Argentino Pattern (Argentina, 1880) (ficha N# 332608)
+- Autor / institución: Numista (catálogo colaborativo; solo pista)
+- URL: https://numista.com/332608
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06 (leído por el agente de nivel 4)
+- Cita clave: "Pattern"; plata, 3,4 g, 19 mm, canto estriado; "CJ# 32.1 (Janson, 3rd edition, 2020)".
+- Usada en: serie 02
+
+### F-0145
+- Título: 1880 2½ Pesos (ficha)
+- Autor / institución: Collector's Key
+- URL: https://collectorskey.com/world-coins/argentina/peso/peso-moneda-nacional/1880-2half-pesos
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06 (leído por el agente de nivel 4)
+- Cita clave: "(Pattern)", plata, 3,4 g; "a more common issue overall".
+- Usada en: serie 02
+
+### F-0146
+- Título: El error que transformó a una moneda argentina en un tesoro de USD 70.000: el ejemplar perdido que obsesiona a coleccionistas (27/03/2026)
+- Autor / institución: Infobae (sin firma)
+- URL: https://www.infobae.com/economia/2026/03/27/el-error-que-transformo-a-una-moneda-argentina-en-un-tesoro-de-usd-70000-el-ejemplar-perdido-que-obsesiona-a-coleccionistas/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06 (leído por el agente de nivel 3)
+- Cita clave: 3 piezas privadas, 5 institucionales, "una novena que aún se desconoce su paradero"; 1881 ≈ USD 70.000; 1884 entre USD 5.000 y 12.000; errores: más de seis millones de Argentinos "en la década"; 430 "en dos años".
+- Usada en: serie 02
+
+### F-0147
+- Título: Subasta de Río de la Plata Compañía Numismática (nota, 4/12/2025)
+- Autor / institución: We are Numismatics
+- URL: https://wearenumismatics.com/subasta-de-rio-de-la-plata-compania-numismatica/
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06 (leído por el agente de nivel 3)
+- Cita clave: "Subasta Online #24", sesiones del 16 al 19/12/2025; lote 164: "muy pocos conocidos de esta variante", "Certificada por NGC MS62, solo tres piezas mejores".
+- Usada en: serie 02
+
+### F-0148
+- Título: Argentina Gold 1/2 Argentino (2.5 peso) (ficha de producto)
+- Autor / institución: Auronum (Reino Unido)
+- URL: https://auronum.co.uk/product/argentina-gold-1-2-argentino-2-5-peso/
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06 (leído por los agentes de nivel 2 y 3)
+- Cita clave: "Nine coins were struck in 1881, the remainder being struck in 1884"; "A total mintage of just 430 examples"; "Of the coins that have surfaced in recent years, most are in a almost uncirculated condition"; £888,58, "Sold Out" (bullion £352,44), sin año ni grado.
+- Usada en: serie 02
+
+### F-0149
+- Título: 2,5 Pesos - 1/2 Argentino 1881-1884 (ficha de producto)
+- Autor / institución: Dierre Gold (Italia)
+- URL: https://www.dierregold.it/it/store-786/monete-oro-argentina/25-pesos-1-2-argentino-1881-1884
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06 (leído por el agente de nivel 3)
+- Cita clave: €399,00; 4,03 g; KM# 30; sin año ni estado.
+- Usada en: serie 02
+
+### F-0150
+- Título: Acuñación de Medallas por la Casa de Moneda (2017)
+- Autor / institución: MoViArg (Monetario Virtual Argentino)
+- URL: https://www.moviarg.com/notas/casa_de_moneda_medallas.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (investigación con citas de documentos de época)
+- Consultada: 2026-11-06 (leído por el agente de nivel 2 y releído por el de la ronda 2)
+- Cita clave: en el apartado de 1884, sobre la plata: "Esto se suma al pedido de aumentar la mitad de la tolerancia en el peso" y "disminuir casi la mitad de la tolerancia en el fino" (sin sujeto); "se suspende la acuñación de plata"; costo de las monedas de oro "$0.14 por cada $100" (Agote 1884); 1886: "no existe mención … sobre la acuñación de piezas de Oro"; 1877: Castilla comisionado a estudiar cecas en Europa y EE. UU. Cita: Informe del Crédito Público 1884, Libro II, pp. 347–367; Memoria de Hacienda 1885, pp. 115–124; 1887, pp. 251–259.
+- Usada en: serie 02
+
+### F-0151
+- Título: El Reverso n.º 49 (diciembre de 2017), n.º 60 (octubre de 2019) y n.º 75 (abril de 2022)
+- Autor / institución: Centro Filatélico y Numismático de San Francisco (Córdoba), vía biblioteca de monedasuruguay.com · otras URLs: https://monedasuruguay.com/bib/rev/rev060.pdf ; https://monedasuruguay.com/bib/rev/rev075.pdf
+- URL: https://monedasuruguay.com/bib/rev/rev049.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-06 (leídos por el agente de nivel 2)
+- Cita clave: n.º 49: "el presidente Jorge Madonna reafirmó"; "Tesorero Jorge A. Madonna" (IFINRA); "Ariel Dabahh" [sic] miembro titular del IFINRA. N.º 60: agradecimiento "a nuestros socios Jorge Madonna, Presidente de FENyMA, y Mariano Cohen, responsable de las gestiones ante el Banco". N.º 75: distinción a "Jorge Madonna y Leonardo Battilana, por su Ensayo de Catalogación de Billetes Argentinos".
+- Usada en: serie 02
+
+### F-0152
+- Título: Casa de la Moneda (página)
+- Autor / institución: Arcón de Buenos Aires
+- URL: https://www.arcondebuenosaires.com.ar/casa_de_la_moneda.htm
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06 (leído por el agente de nivel 2)
+- Cita clave: "proyectada por el ingeniero Eduardo Castilla, a la sazón primer director de la institución".
+- Usada en: serie 02
+
+### F-0153
+- Título: Historia de la moneda argentina (cap. 11)
+- Autor / institución: Todo-Argentina (sin autor)
+- URL: https://www.todo-argentina.net/historia/hist_moneda/moneda11.htm
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06 (leído por el agente de nivel 2)
+- Cita clave: Castilla recorrió en 1878 cecas de Inglaterra, Bélgica y Francia, compró la maquinaria y contrató en París con "A. Barré" los cuños; proyecto enviado por Roca en julio de 1881, aprobado "Sin modificaciones sustanciales"; medio argentino de 4,032 g.
+- Usada en: serie 02
+
+### F-0154
+- Título: Chapitre AR-30 — Ley 1130 (versión en castellano)
+- Autor / institución: Urs Graf, Multicollec
+- URL: https://multicollec.net/3-bi-h1/AR-30-Es.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06 (leído por el agente de nivel 2)
+- Cita clave: "½ Argentino … 4.032 g … (dated 1884)"; la acuñación se detuvo por razones técnicas (cita el catálogo de Janson de 2002).
+- Usada en: serie 02
+
+### F-0155
+- Título: Museum rooms / Salas del museo
+- Autor / institución: Banco Central de la República Argentina, Museo Histórico y Numismático "Héctor Carlos Janson"
+- URL: https://www.bcra.gob.ar/en/museum-rooms
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-06 (leído por el agente de nivel 4)
+- Cita clave: Sala 3 ("Conservative republic and the 20th century") destaca "– Patacón de oro.", "– Half coin from Paraguay.", "– The 1,000,000 banknote." No nombra el medio argentino.
+- Usada en: serie 02
+
+### F-0156
+- Título: Argentino (Münze) (artículo)
+- Autor / institución: Wikipedia en alemán (solo pista)
+- URL: https://de.wikipedia.org/wiki/Argentino_(M%C3%BCnze)
+- Archivo (Internet Archive): no aplica
+- Nivel: 4
+- Consultada: 2026-11-06 (leído por el agente de nivel 3)
+- Cita clave: "In den Jahren 1881 und 1884 wurde der Halbargentino und 1881 bis 1896 der Argentino ausgeprägt." Cita un lote de CNG, CoinID 262807, "Halbargentino 1884" (no abierto).
+- Usada en: serie 02
+
+### F-0157
+- Título: 2½ Pesos (½ Argentino) Argentina 1881–1884 (ficha)
+- Autor / institución: coin-identifier.com
+- URL: https://coin-identifier.com/coins/2half-pesos-half-argentino-argentina-1881-1884-1498
+- Archivo (Internet Archive): no aplica
+- Nivel: 4
+- Consultada: 2026-11-06 (leído por el agente de nivel 4)
+- Cita clave: "reference price" "$1.00-$565.00" (dato sin sentido; ejemplo de desinformación).
+- Usada en: serie 02
+
+### F-0158
+- Título: 1/2 Argentino (KM# 30) y páginas "1/2 Argentino 1882" / "1883"
+- Autor / institución: coinscatalog.net (agregador; solo pista) · otra URL: https://coinscatalog.net/argentina/1-2-argentino-1883
+- URL: https://coinscatalog.net/argentina/1-2-argentino-1882
+- Archivo (Internet Archive): no aplica
+- Nivel: 4
+- Consultada: 2026-11-06 (leído por los agentes de nivel 2, 3 y de la ronda 2)
+- Cita clave: "Alignment: Coin ↑↓" (eje de moneda, 6 h), 19 mm, canto estriado; páginas generadas para 1882 y 1883 con valores "$1.2K - $20K" (no existen piezas de esos años); 1881 MS60 "$20K"; 1884 F12 "$1.2K", MS60 "$5K".
+- Usada en: serie 02
+
+### F-0159
+- Título: Argentine ½ argentino coin (página)
+- Autor / institución: Currencies Wiki (Fandom)
+- URL: https://currencies.fandom.com/wiki/Argentine_%C2%BD_argentino_coin
+- Archivo (Internet Archive): no aplica
+- Nivel: 4
+- Consultada: 2026-11-06 (leído por los agentes de nivel 2, 4 y de la ronda 2)
+- Cita clave: 19,3 mm, 4,03 g, "Only 421 of these coins were produced"; invierte anverso y reverso; "DOSFINO".
+- Usada en: serie 02
+
+### F-0160
+- Título: Anuario Argentino de Numismática, vol. I (2018), ed. Luciano Pezzano (IFINRA, abril de 2019)
+- Autor / institución: IFINRA
+- URL: https://ifinra.org/wp-content/uploads/2024/03/anuario-volumen-i.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-06 (leído en parte por el agente de nivel 4)
+- Cita clave: Jorge Madonna, tesorero del IFINRA y coautor con Pezzano de "De Reales a Soles…"; "Jorge Madonna ha adquirido recientemente una pieza de un real fechada 1636" (Paoletti, p. 23).
+- Usada en: serie 02
+
+### F-0161
+- Título: Hilo sobre la venta Eliasberg ("ANR, May 2005")
+- Autor / institución: Collectors Universe / PCGS forums
+- URL: https://forums.collectors.com/discussion/comment/5678604
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06 (leído por el agente de nivel 3)
+- Cita clave: título con "ANR, May 2005" (mes erróneo); un usuario la llama "the best sale of its kind".
+- Usada en: serie 02
+
+### F-0162
+- Título: Argentina, 1 peso (patacón) 1882, NGC MS-64, top pop, ex Janson — Auction 39, lote 937
+- Autor / institución: Sedwick Treasure Auctions
+- URL: https://beta.sedwickcoins.com/Item/59768801/argentina-1-peso-patac-n-1882-ngc-ms-64-top-pop-ex-janson-
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06 (leído por el agente de nivel 3)
+- Cita clave: "Pedigreed to the Carlos Janson Collection (stated on label)".
+- Usada en: serie 02 (contexto), serie 03 (pista)
