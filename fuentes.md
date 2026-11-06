@@ -72,6 +72,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-03
 - Cita clave: sobre los 5 pesos fechados 1880 listados en catálogos: "no hemos podido conocer ninguna tanto en colecciones particulares como en Museos". Oudiné, "uno de los grabadores de la ceca parisina", trabajó matrices y punzones encargados por Eduardo Castilla (1878).
 - Usada en: serie 01
+- Revisión 2026-11-06 (serie 02): p. 5, pie de la imagen 5: "Matriz original correspondiente al anverso de la moneda de 2 ½ Pesos, en la cual se puede apreciar la existencia de un 0 cubierto intencionalmente para reproducción de cuños" (crédito p. 10: Museo de la S.E. Casa de Moneda); "No hubo apertura de cuños fechados 1880"; las piezas de 2½ pesos fechadas 1880 (CJ 32) son fantasías hechas con matrices oficiales en la segunda mitad del siglo XX, en plata 900, bronce, plata baja y cobre, "casi tan abundantes como las de 1 Patacón", con "un estriado recto en el canto" (p. 8), rareza R2–R3 (p. 9); estampados cruzados: anverso de 2½ sobre una acuñación de 1 peso y cuño de 2½ en cospel mayor (pp. 9–10). Usada también en serie 02.
 
 ### F-0006
 - Título: Comienzos de la Casa de Moneda
@@ -122,6 +123,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-03
 - Cita clave: "8.06g, 6h"; "a really good very fine, with a hint of overlying tone", "rub to high points, otherwise lustrous"; procedencia Heritage 14/03/2013 (USD 390); Louis E. Eliasberg Sr., Spink-Stack's 18/04/2005; colección John H. Clapp, adquirida en bloque por Eliasberg en 1942. Realizado £350.
 - Usada en: serie 01
+- Revisión 2026-11-06 (serie 02): procedencia completa: "Louis E. Eliasberg Snr., Spink-Stack's, 18 April 2005, lot 1017 [part]; John H. Clapp, collection purchased en bloc by Eliasberg, 1942".
 
 ### F-0011
 - Título: Argentinien, 5 Pesos (1 Argentino) 1896 — archivo de lotes, n.º 78504 (lote 1987)
@@ -202,6 +204,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-03
 - Cita clave: Lynch: "1881 has the lowest mintage (37,152). The highest mintage is 1887 (1,834,674)"; acuñada 1881–89 y 1896 en la Casa de Moneda de Buenos Aires.
 - Usada en: serie 01
+- Revisión 2026-11-06 (serie 02): mensajes del 22/11/2009: olmanjon: "Only 9 minted."; Lynch, sobre el medio argentino 1881: "That one is a pattern. The only regular issue half argentino is that of 1884, with a tiny mintage of only 421." Usada también en serie 02.
 
 ### F-0019
 - Título: Eugène André Oudiné (artículo)
@@ -306,6 +309,7 @@ Formato de cada entrada:
 - Cita clave: p. 13: el Banco Nacional buscaba aumentar su encaje "haciendo venir de Lóndres barras de este metal para acuñarlo"; p. 14: "tuvo que suspender las órdenes para traer barras de oro"; "Bajamos el cambio á un tipo que impidiese la extraccion de oro"; p. 28 (nota del 9/01/1885): "Ha convertido sus billetes en oro en el solo mes de Agosto, por la suma de seiscientos cuarenta mil pesos nacionales oro". No trae la sección Casa de Moneda.
 - Usada en: serie 01
 - Revisión 2026-11-06: reabierta por el agente de la ronda 2 (Tomo II, Parte II, Memoria del Banco Nacional, Buenos Aires, 1886): p. 13 "venir de Lóndres barras de este metal para acuñarlo"; p. 14 "Los fondos públicos se realizaron en 30 de Abril de 1884" (según p. 19, ese día los compraron banqueros de París) y "el Banco tuvo que suspender las órdenes para traer barras de oro"; p. 28 (carta del 9/01/1885) "en el solo mes de Agosto, por la suma de seiscientos cuarenta mil pesos nacionales oro"; p. 18: los cuatros y las chirolas fueron "reacuñadas" por el Gobierno.
+- Revisión 2026-11-06 (serie 02): Memoria de la Casa de Moneda 1884 (pp. 115–124; "Buenos Aires, Abril 16 de 1886", al ministro Wenceslao Pacheco; firma no legible en el OCR). Cuadro N.º 4 "Denominación, peso y valor de las monedas emitidas hasta el 31 de diciembre 1884" (cuadros fechados el 8/01/1885): Argentinos 1.195.286 hasta el 31/12/1883, 447.900 en 1884, total 1.643.186; medios argentinos 9 hasta 1883, 421 (OCR "'21") en 1884, total 430; valor total de todo lo emitido 11.220.696,99. p. 116: "Todo el oro que figura como entrado este año, ha sido traído por el Banco Nacional"; "El oro, como he dicho, ha sido sellado por cuenta del Banco Nacional" (alcanzó para llenar los ocho millones del artículo de la ley); "Se ha fabricado oro, plata y cobre, pero solo este último en cantidad fuerte". p. 119: "Las 9/10 partes de los habitantes de la República, no han visto aún un Argentino en oro sellado" (y sin embargo se pudieron girar "cien millones en oro sobre el estrangero"). p. 120: "Así habrá moneda de cobre en toda la República…". pp. 120–121, Laboratorio Químico (J. J. Kyle, Químico Ensayador, 7/01/1885): se ensayó "una moneda de oro en cada 2,500 acuñadas", según el art. 11 del decreto reglamentario de la Casa de Moneda; Cuadro N.º 1 "Monedas de oro—Argentinos": "Ley general de las monedas (promedio de 447,900 piezas)" 899,719 milésimos; piezas "dentro de los límites de la tolerancia legal (1 milésimo)". Usada también en serie 02.
 
 ### F-0029
 - Título: Ley 733 de la moneda nacional, su tipo, fabricación y valor (1875) — texto
@@ -446,6 +450,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-04
 - Cita clave: la ley aplicaba la misma tolerancia de fino a las piezas de 5 y de 2,5 pesos; Castilla pidió dos veces corregirla y optó por no acuñar el medio argentino; en 1881 se acuñaron unas pocas piezas de cada tipo para las autoridades (9 medios argentinos); 421 en 1884.
 - Usada en: serie 01 (contexto), serie 02
+- Revisión 2026-11-06 (serie 02): fecha deducida de la URL: 1/12/2021; Dabbah, fundador de Río de la Plata Compañía Numismática. Citas: el 1884 cuesta "una suma que puede variar entre 5 mil y 12 mil Dólares"; por el 1881 "tendrá que desembolsar la friolera de 70 mil dólares" "según estimaciones subjetivas"; "tan solo hay 3 piezas en manos privadas, otras 5 en museos o instituciones públicas" y "una novena que aún se desconoce su paradero"; "Eduardo Castilla solicitó en sendas oportunidades la corrección de dicho margen"; 1884, "el primer intento de acuñar piezas de 2,5 Pesos en forma masiva", "tan solo 421 piezas". No nombra las instituciones.
 
 ### F-0043
 - Título: La insólita historia de la moneda argentina que vale USD 70.000…
@@ -787,6 +792,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-04
 - Cita clave: "en los años noventa, el Banco Central vendió reservas de monedas de oro".
 - Usada en: serie 01
+- Revisión 2026-11-06 (serie 02): título "El error que transformó a una moneda de oro de 2,5 pesos de 1881 en un tesoro de USD 70.000"; cita a Dabbah ("tan solo hay tres piezas en manos privadas"; "es probable que aun teniendo el dinero a mano no le alcance la vida para esperar"); 1881 ≈ USD 70.000 por negociación privada, 1884 USD 5.000–12.000; "El Banco Central no incluyó esta moneda en las ventas de reservas de los años noventa". Usada también en serie 02.
 
 ### F-0077
 - Título: El Mosquito y la crisis de 1890 — Jahrbuch für Geschichte Lateinamerikas 56 (2019)
@@ -857,6 +863,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-04
 - Cita clave: el Argentino tenía "el mismo tamaño y peso que las libras esterlinas" y se usaba "en casas de cambio y joyerías" (afirmaciones imprecisas).
 - Usada en: serie 01
+- Revisión 2026-11-06 (serie 02): la nota trata el medio argentino de 1881: nueve ejemplares (tres privados, cinco en museos o instituciones, uno desaparecido); "un error normativo"; "una producción extremadamente limitada"; el 1881 "alcanzó valores cercanos a los USD 70.000"; colecciones completas compradas en los años 90 por unos 800 hoy rondan los USD 6.000. Usada también en serie 02.
 
 ### F-0084
 - Título: Informe del Presidente del Crédito Público Nacional sobre la deuda pública, bancos, acuñación de moneda y presupuestos y leyes de impuestos de la nación y de las provincias, vol. 1 (1881)
@@ -1147,6 +1154,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-06
 - Cita clave: "Se usaba principalmente como medio de pago para transacciones con otros países"; un ejemplar en excelente estado valdría más de 400 dólares.
 - Usada en: serie 01
+- Revisión 2026-11-06 (serie 02): dice que del medio argentino "solo se acuñaron 421" y que en excelente estado "ronda los 7.000 dólares". Usada también en serie 02.
 
 ### F-0113
 - Título: First Coins / Primeras monedas
@@ -1197,3 +1205,163 @@ Formato de cada entrada:
 - Consultada: 2026-11-06 (lectura del agente de nivel 1)
 - Cita clave: la producción argentina de oro de 1900 "did not exceed $50,000"; la tabla "Coinage of nations" cubre solo 1898–1900 (sin acuñación argentina).
 - Usada en: serie 01
+
+### F-0118
+- Título: Half Argentino minted in gold (ficha de objeto)
+- Autor / institución: Museo Histórico y Numismático "Héctor Carlos Janson" del BCRA, en Google Arts & Culture
+- URL: https://artsandculture.google.com/asset/half-argentino-minted-in-gold/7AGZLZJAbZTxpg
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (ficha institucional)
+- Consultada: 2026-11-06
+- Cita clave: "A 2.5 pesos coin… has a straight reeded edge"; "Date created: 1884"; autor Eugène Oudiné; "Weight: 4.03 g"; "22 mm in diameter" (probable error de carga: es el diámetro del Argentino).
+- Usada en: serie 02
+
+### F-0119
+- Título: SINCONA, Auktion 101, lote 2320: Argentinien, 2½ Pesos 1884
+- Autor / institución: SINCONA AG (Zúrich)
+- URL: https://auktionen.sincona.com/en-us/auctions/lots/183851
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06
+- Cita clave: 4,03 g; "Vorzüglich-FDC"; "Very rare. Only 421 specimens struck."; "Small test mark on edge"; "Exemplar der Liste UBS, Zürich, Mai 1988, Los 99"; ref. CJ 42, KM 30, Fr. 16; base CHF 3.000, resultado CHF 3.250 (fecha de la subasta no visible).
+- Usada en: serie 02
+
+### F-0120
+- Título: Argentina 1884 1/2 argentino (página de la wiki; espejo en coinfactswiki.com)
+- Autor / institución: coinvarieties.com (wiki colaborativa; transcribe los catálogos Eliasberg 2005 y SINCONA 2011)
+- URL: https://coinvarieties.com/index.php/Argentina_1884_1/2_argentino
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: Eliasberg, lote 1016: NGC AU-58, "Bright yellow gold with rich highlights, reflective fields on the reverse", USD 3.220; procedencia "John H. Clapp Collection; Clapp estate to Louis E. Eliasberg, Sr., 1942"; "Only 421 pieces were struck, yet only 9 specimens were struck of the 1881"; "Quite scarce"; "the more common of the two dates of this type"; 4,03 g, 19,30 mm. SINCONA 1 (Zúrich, junio de 2011), lote 2582: "Extremely fine", 4,01 g, CHF 3.500.
+- Usada en: serie 02
+
+### F-0121
+- Título: Heritage Showcase Auction 61343 (12–13/11/2023), lote 23031 — catálogo en NumisBids
+- Autor / institución: Heritage Auctions (vía NumisBids)
+- URL: https://www.numisbids.com/sale/7303
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06
+- Cita clave: Argentina 2½ pesos 1884, NGC AU58, KM30, Fr-16, CJ-11; "Harvest gold dresses this…"; martillo USD 6.000 (≈ USD 7.200 con la comisión del 20 %).
+- Usada en: serie 02
+
+### F-0122
+- Título: Subasta 24 — catálogo (diciembre de 2025)
+- Autor / institución: Río de la Plata Compañía Numismática (wearenumismatics.com)
+- URL: https://wearenumismatics.com/wp-content/uploads/2025/12/Subasta-24-Web.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06
+- Cita clave: Lote 164: 2,5 pesos 1884, CJ 11.2, NGC MS62, 19,0 mm, 4,04 g; estimado USD 10.000–15.000; "Solo 421 ejemplares acuñados en total y muy pocos conocidos de esta variante. Muy rara."; "Certificada por NGC MS62, solo tres piezas mejores."
+- Usada en: serie 02
+
+### F-0123
+- Título: Argentina 2,5 pesos 1884 Medio Argentino CJ 11 (lote 4-DOTIE6)
+- Autor / institución: Río de la Plata Compañía Numismática (auction.rpnumis.com)
+- URL: https://auction.rpnumis.com/lots/view/4-DOTIE6/argentina-25-pesos-1884-medio-argentino-cj-11
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06
+- Cita clave: NGC AU55, 4,04 g, 19,0 mm; valor de USD 3.500 en los metadatos; "Solo 421 ejemplares acuñados"; "Muy rara"; fecha y número de subasta no visibles.
+- Usada en: serie 02
+
+### F-0124
+- Título: 1884 Half Argentino Gold (ficha de producto)
+- Autor / institución: Britannia Coin Company (Reino Unido)
+- URL: https://britanniacoincompany.com/buy-coins/graded-coins/1884-half-argentino-gold/
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06
+- Cita clave: PCGS MS62, cert. "16517.62/51861638", Fr-16, KM 30; 19,3 mm; "just over 4.03 grams"; "Half Argentinos are a very rare Argentinian coin"; "1881 date supremely scarce, with only nine issued"; agotado, sin precio.
+- Usada en: serie 02
+
+### F-0125
+- Título: La poco conocida moneda de oro argentina que vale US$70.000, según los coleccionistas
+- Autor / institución: El Cronista (Redacción), 12/10/2023
+- URL: https://www.cronista.com/finanzas-mercados/la-poco-conocida-moneda-de-oro-argentina-que-vale-us-70000-segun-los-coleccionistas
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: "al menos 3 de ellas están en manos privadas, 5 en museos o instituciones públicas y hay una que se desconoce dónde"; las monedas habrían quedado "3 mm más chicas"; "solo tuvieron 9 réplicas" (por ejemplares); captura de un aviso de Mercado Libre a unos $650.000 sin identificar.
+- Usada en: serie 02
+
+### F-0126
+- Título: La extraña moneda de oro de 2 pesos y medio que vale una fortuna para los coleccionistas
+- Autor / institución: El Cronista (Equipo Audiencias Argentina), 13/12/2023
+- URL: https://www.cronista.com/informacion-gral/la-extrana-moneda-de-oro-de-2-pesos-y-medio-que-vale-una-fortuna-para-los-coleccionistas
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: 1881: 9 piezas para las autoridades; 1884: "un primer intento de producción masiva, que fue abandonado rápidamente por la dificultad del acuñado", 421 piezas; total 430; precios tomados de uCoin (más de $900.000 el 1881 y más de $4.000.000 el 1884: relación invertida, incoherente).
+- Usada en: serie 02
+
+### F-0127
+- Título: La moneda argentina de oro que es la joya más buscada por los coleccionistas: solo hay 9 ejemplares y vale 70.000 dólares
+- Autor / institución: El Cronista, 22/11/2024
+- URL: https://www.cronista.com/informacion-gral/la-moneda-argentina-de-oro-que-es-la-joya-mas-buscada-por-los-coleccionistas-solo-hay-9-ejemplares-y-vale-70000-dolares
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: "solo se lograron acuñar nueve monedas de 2,5 pesos para ser presentadas ante las autoridades"; nombre "Medio Argentino"; cita a Dabbah vía Dólar Hoy.
+- Usada en: serie 02
+
+### F-0128
+- Título: Ofrecen U$S 70.000 por una moneda argentina: cómo reconocerla y qué hacer
+- Autor / institución: Contexto Tucumán, 16/02/2025 (crédito: TN)
+- URL: https://www.contextotucuman.com/nota/339497/ofrecen-u$s-70-000-por-una-moneda-argentina-como-reconocerla-y-que-hacer.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: Dabbah: "El margen de tolerancia del fino requerido era muy ajustado, lo que hizo imposible una producción mayor"; compara la pieza con la libra esterlina (error: vale para el Argentino de 5 pesos).
+- Usada en: serie 02
+
+### F-0129
+- Título: Pagan 70 mil dólares por una moneda argentina
+- Autor / institución: Ramiro Menacho — Todo Jujuy, 01/07/2025
+- URL: https://www.todojujuy.com/pais/pagan-70-mil-dolares-una-moneda-argentina-n261310
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: Dabbah: "El margen de tolerancia del fino requerido era muy ajustado, lo que hizo inviable una acuñación masiva"; "Cada vez que aparece un ejemplar en subastas, genera un enorme revuelo en el mercado internacional"; nueve piezas como "modelos" para las autoridades.
+- Usada en: serie 02
+
+### F-0130
+- Título: 2 pesos medio Argentina 1881-1884: historia, acuñaciones y valor
+- Autor / institución: Numismaticos.com
+- URL: https://numismaticos.com/2-pesos-medio-argentina-1881-1884-historia-acunaciones-valor/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: 1884 MS63: "Alcanzó los $12,000.00 dólares estadounidenses en enero del 2025"; AU58: "$7,200.00 … en noviembre del 2023"; canto estriado; sin casa de subastas identificada.
+- Usada en: serie 02
+
+### F-0131
+- Título: 2,5 Pesos or 1881 à 1884 (ficha de producto)
+- Autor / institución: BDOR (comerciante de oro, Francia)
+- URL: https://www.bdor.fr/numismatique/2-5-pesos-or-1881-a-1884
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-06
+- Cita clave: Atribuye al canto la leyenda "LIBERTAD*2 1/2 PESOS*1/2 ARGENTINO*9 Dos FINO" (error: es la leyenda del reverso); 9 ("Très rare") y 421.
+- Usada en: serie 02
+
+### F-0132
+- Título: 1881 2½ Pesos (ficha)
+- Autor / institución: Collector's Key
+- URL: https://www.collectorskey.com/world-coins/argentina/peso/peso-moneda-nacional/1881-2half-pesos
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: Tirada de 1881 "4,195" (error evidente); advierte sobre falsificaciones en eBay.
+- Usada en: serie 02
+
+### F-0133
+- Título: Argentina 2½ pesos 1881 (ficha)
+- Autor / institución: Stash of Coins
+- URL: https://www.stashofcoins.com/coin/40515-argentina-2½-pesos-1881
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-06
+- Cita clave: Tirada 430 (9 + 421); desmonetización "1 de enero de 1896" (sin fuente); leyenda del reverso "LIBERTAD * 2½ PESOS * ½ ARGENTINO * 9 Dos FINO"; fotos con crédito a Heritage.
+- Usada en: serie 02
