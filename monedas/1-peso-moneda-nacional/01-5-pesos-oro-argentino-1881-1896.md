@@ -6,15 +6,15 @@ anios: "1881–1896"
 denominaciones: ["5 pesos (1 Argentino)"]
 metal: "oro 900"
 km: ["KM# 31", "Fr. 14"]
-estado: en investigación
-sesiones: [i1 2026-11-03, corrección de formato e historia completa v1 2026-11-03, i2 2026-11-04 (tarde)]
-ultima_actualizacion: "2026-11-04"
+estado: completa
+sesiones: [i1 2026-11-03, corrección de formato e historia completa v1 2026-11-03, i2 2026-11-04 (tarde), r 2026-11-06 (tarde)]
+ultima_actualizacion: "2026-11-06"
 ---
 
 # 5 pesos oro "Argentino" 1881–1896
 
 ## Resumen
-El Argentino de oro (5 pesos) es la moneda de oro creada por la Ley 1130 de unificación monetaria (sancionada el 3 y publicada el 5 de noviembre de 1881) y la pieza que define el patrón oro argentino. Se acuñó en la Casa de Moneda de Buenos Aires en diez años: 1881 a 1889 y 1896, con la Libertad de Oudiné mirando a la derecha y matrices encargadas a París. Su contenido de oro es el 99,12 % del soberano inglés y su peso es el de 25 francos. Buena parte del oro acuñado salió del país o se fundió enseguida: solo en 1887 se depositaron en el Assay Office de Nueva York Argentinos por más de un millón de dólares. La acuñación de 1896 fue una re-acuñación pedida por bancos que tenían oro extranjero (cóndores chilenos). El total de 6.343.022 piezas (con 1883 = 906.042) gana respaldo; las cifras por año siguen sin documento oficial directo. Más de un siglo después el BCRA todavía vendía existencias (1999 y 2011–2012), el museo del BCRA tiene la serie completa sin circular de la donación Janson y el "argentino oro" sigue vivo como unidad de cuenta en leyes y fallos judiciales.
+El Argentino de oro (5 pesos) es la moneda de oro creada por la Ley 1130 de unificación monetaria (sancionada el 3 y publicada el 5 de noviembre de 1881) y la pieza que define el patrón oro argentino. Se acuñó en la Casa de Moneda de Buenos Aires en diez años, 1881 a 1889 y 1896, con la Libertad de Oudiné mirando a la derecha y matrices encargadas a París. Su contenido de oro es el 99,12 % del soberano inglés y su peso, el de 25 francos. La convertibilidad duró diecisiete meses y terminó con el decreto de curso forzoso del 9 de enero de 1885; a fines de 1884 el Banco Nacional guardaba en caja Argentinos por 3,9 millones de pesos, pero buena parte del oro acuñado salió del país o se fundió (más de un millón de dólares en Argentinos llegó al Assay Office de Nueva York solo en 1887). La acuñación de 1896 fue una re-acuñación pedida por bancos que tenían cóndores chilenos. El total de 6.343.022 piezas (con 1883 = 906.042) está bien respaldado; las cifras por año siguen sin documento oficial directo. La revisión de 2026-11-06 sumó dos piezas clave: una transcripción oficial de 1881 que lee "ilimitada" la acuñación de oro (art. 4) y la Memoria del BCRA de 1935, según la cual la Caja de Conversión entregó al nuevo Banco Central 1.523.329 Argentinos, casi una cuarta parte de todo lo acuñado: el origen de las existencias que el BCRA vendió en 1999 y en 2011–2012. El museo del BCRA tiene la serie completa sin circular de la donación Janson, NGC certifica una variedad "CUDINE" de 1882 y el "argentino oro" sigue vivo como unidad de cuenta en leyes y fallos judiciales.
 
 ---
 
@@ -25,20 +25,21 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 ## Normativa
 
 ### Antecedentes
-- Ley 733 (encabezado 29/09/1875; firma "Setiembre 23 de 1875"): crea el "peso fuerte" de oro de 1⅔ g de oro 900, con piezas de Medio Colón (5 pesos fuertes), Colón (10) y Doble Colón (20). Su art. 11 ya fija el programa iconográfico que repetirá la Ley 1130: escudo en el anverso, Libertad y la palabra "Libertad" en el reverso, gorro frigio en las piezas chicas, canto "Igualdad ante la ley". [F-0029] · confirmado (texto legal) · nunca se acuñaron esas piezas de oro (ver F-0004, F-0006: la ceca abrió en 1881) · probable
+- Ley 733 (encabezado 29/09/1875; firma "Setiembre 23 de 1875"): crea el "peso fuerte" de oro de 1⅔ g de oro 900, con piezas de Medio Colón (5 pesos fuertes), Colón (10) y Doble Colón (20). Su art. 11 ya fija el programa iconográfico que repetirá la Ley 1130: escudo en el anverso, Libertad y la palabra "Libertad" en el reverso, gorro frigio en las piezas chicas, canto "Igualdad ante la ley". [F-0029] · confirmado (texto legal) · nunca se acuñaron esas piezas de oro: la Ley 733 preveía cecas en Buenos Aires y en Salta, pero "faute de moyens financiers et de métaux" no hubo acuñación y el peso fuerte fue solo moneda de cuenta [F-0085] (ver también F-0004, F-0006: la ceca abrió en 1881) · probable
 - Proyecto del Ejecutivo de 1879 con una moneda de oro llamada "argentino", de 8,064 g y 900 milésimos; el Congreso aprobó solo el peso de plata (Ley 974) y el "argentino" de 1879 no se acuñó. [F-0044] · a confirmar (fuente comunitaria sin citas; existe en wikisource una página "Ley 974 (no promulgada ni vetada)" que no abrió)
 
 ### Ley 1130
 - Creada por la Ley 1130 de unificación de la amonedación nacional, que establece la moneda nacional de oro y plata y la emisión del "Argentino" oro. [F-0001, F-0002, F-0078] · confirmado
-- La Casa de Moneda la describe como "un sistema bimetalista atenuado con base en el Peso Oro o Argentino". [F-0078] · confirmado
-- El proyecto, elaborado por el ministro de Hacienda Juan José Romero, lo envió Roca al Congreso en julio de 1881. [F-0025, F-0039] (Romero autor) · confirmado; [F-0044, F-0045] (julio de 1881) · probable
+- La Casa de Moneda la describe como "un sistema bimetalista atenuado con base en el Peso Oro o Argentino". [F-0078] · confirmado. Martínez y Lewandowski hablan de "a bimetallic standard" [F-0098] y el Tesoro de EE. UU., en su valuación de enero de 1887, clasificaba el patrón argentino como "Double" (oro y plata) y valuaba el peso en 96,5 centavos de dólar [F-0099] · probable. Egas de Ezcurra (1938) lo califica, en cambio, de "mono-métallisme or", porque la plata quedó relegada a moneda subsidiaria, con una relación de 1 a 15½ [F-0085] · probable. Ver Discrepancias (cuestión de interpretación). Cálculo propio: 1,4516 g de oro fino / 1,50463 g por dólar = 0,9648 dólares, coherente con los 96,5 centavos.
+- El proyecto, elaborado por el ministro de Hacienda Juan José Romero, lo envió Roca al Congreso en julio de 1881. [F-0025, F-0039, F-0098: "Señor Romero is the author of the monetary law of 1881"] (Romero autor) · confirmado; [F-0044, F-0045] (julio de 1881) · probable
 - **Sanción: 3 de noviembre de 1881** ("Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a 3 de Noviembre de 1881"). [F-0002, releído 2026-11-04] · confirmado
 - **Promulgación / publicación: 5 de noviembre de 1881.** Santacreu: "La ley 1130 se publicó el 5 de noviembre de 1881" [F-0025]; Otaegui reproduce la "Ley de Moneda… publicada por el Departamento de Hacienda el 5 de noviembre de 1881" [F-0041]; también Williams [F-0007], Rosa [F-0039], Statesman's Year-Book 1921 [F-0080], della Paolera [F-0037], Chocobar [F-0073]. · probable (muchas fuentes coinciden; falta el Registro Nacional). La discrepancia de la sesión anterior queda resuelta: el 3 es la sanción y el 5 la publicación.
 - Las Cámaras la aprobaron "sin modificaciones sustanciales". [F-0044] · a confirmar
-- Art. 1: la unidad es el peso de oro, de 1,6129 g de oro de 900 milésimos. Un Argentino = 5 pesos oro. [F-0002, F-0008] · confirmado
-- Art. 2: Argentino "de 5 pesos como valor de la pieza, de 8,0645 gramos"; Medio Argentino de 2,5 pesos, 4,0322 g. [F-0036] · probable (las tablas del art. 2 con diámetro y tolerancia siguen sin leerse: en InfoLEG son imagen)
+- Art. 1: la unidad es el peso de oro, de 1,6129 g de oro de 900 milésimos. Un Argentino = 5 pesos oro. [F-0002, F-0008] · confirmado. Martínez y Lewandowski lo expresan como 24,9 granos troy [F-0098] · probable.
+- Art. 2: Argentino "de 5 pesos como valor de la pieza, de 8,0645 gramos"; Medio Argentino de 2,5 pesos, 4,0322 g. [F-0036, F-0085] · probable (las tablas del art. 2 con diámetro y tolerancia siguen sin leerse: en InfoLEG son imagen)
 - Art. 3: el "Argentino" y el "Peso plata" llevan en el canto la inscripción "Igualdad ante la ley"; las demás de oro y plata, canto estriado; las de cobre, liso; escudo nacional en el anverso, busto con gorro frigio y la palabra "Libertad" en el reverso. [F-0002] · confirmado
-- Art. 4: el texto de InfoLEG dice literalmente "La acuñación de las monedas de oro es limitada", y sigue: la de plata "no excederá de cuatro pesos, por cada habitante" y la de cobre de 20 centavos. [F-0002, releído 2026-11-04] · confirmado (lo que dice InfoLEG). Pontón [F-0008] y la BCR 2010 [F-0036] leen "ilimitada". Ver Discrepancias.
+- Art. 4: el texto de InfoLEG dice literalmente "La acuñación de las monedas de oro es limitada", y sigue: la de plata "no excederá de cuatro pesos, por cada habitante" y la de cobre de 20 centavos. [F-0002, releído 2026-11-04 y 2026-11-06; la segunda copia de InfoLEG, servicios.infoleg.gob.ar norma 48867, dice lo mismo] · confirmado (lo que dice InfoLEG).
+- **Revisión 2026-11-06:** una transcripción oficial de época, el *Informe del Presidente del Crédito Público Nacional* de 1881 (Pedro Agote), dice "La acuñación de monedas de oro es ilimitada" (p. cccxxiv, fragmento de vista previa) [F-0084] · probable; la tesis de Egas de Ezcurra (Neuchâtel, 1938) traduce "La frappe de monnaie d'or est illimitée" [F-0085] · probable. Con Pontón [F-0008] y la BCR 2010 [F-0036] son cuatro lecturas de "ilimitada", una de ellas oficial y de 1881. **La lectura "ilimitada" pasa a probable** y la de InfoLEG queda como probable error de transcripción (supuesto). Falta el Registro Nacional de 1881 para confirmarlo. Ver Discrepancias.
 - Art. 5: las monedas de oro y plata "tendrán curso forzoso en la Nación" y cancelan cualquier obligación a cumplirse en el país, salvo pacto expreso en otra clase de moneda nacional. [F-0002] · confirmado
 - Art. 6: la plata solo es obligatoria hasta 50 centavos si el pago no excede de 20 pesos (según la lectura del agente). [F-0002] · probable
 - Art. 7: se prohíbe la circulación legal de las monedas de oro extranjeras una vez acuñados ocho millones de pesos en oro nacional (y de la plata extranjera al llegar a cuatro millones), con decreto previo y un plazo "que no baje de tres meses". [F-0002] · confirmado
@@ -50,12 +51,16 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 
 ### Convertibilidad y vigencia
 - Para julio de 1883 regía un patrón mixto de metálico y papel "practicable". [F-0037] · probable
-- Convertibilidad del billete a oro desde 1883 y suspendida a fines de 1884 / comienzos de 1885: "The period of convertibility lasted only seventeen months"; a fines de diciembre de 1884 los bancos ya no vendían oro a la par [F-0037]; curso forzoso en enero de 1885 [F-0001, F-0007, F-0008, F-0039] o marzo de 1885 [F-0037]. · confirmado (la suspensión); a confirmar (mes exacto del decreto). Ver Discrepancias.
-- Premio del oro (pesos papel por 100 oro): enero 1885, 121; mayo 1885, 136; diciembre 1885, 142 [F-0039]; 1885: 137; 1886: 139; 1889: 191; 1896: 296 [F-0040, F-0036]; 1890: 251 (Tornquist, citado por F-0045); relación 2,96 en 1896 [F-0037]. · confirmado (varias fuentes académicas)
+- Convertibilidad del billete a oro desde 1883 y suspendida a fines de 1884 / comienzos de 1885: "The period of convertibility lasted only seventeen months" ("El periodo de convertibilidad sólo duró diecisiete meses", p. 547 de la versión castellana); a fines de diciembre de 1884 los bancos ya no vendían oro a la par [F-0037, F-0100] · confirmado (reverificado 2026-11-06). El BCRA dice solo "En 1885 se suspendió la convertibilidad" [F-0001].
+- **Decreto de curso forzoso: 9 de enero de 1885** (acuerdo de Roca y sus ministros, Registro Nacional, tomo X, pp. 4–5): los billetes del Banco Nacional "serán recibidos como moneda legal" y se lo autoriza a "suspender la conversión de sus billetes en moneda metálica durante el término de dos años"; tope de circulación de 28 millones; el banco no podrá disminuir su reserva metálica [F-0086, releído por la sesión principal] · confirmado. Coinciden Williams [F-0007], Pontón [F-0008], Rosa [F-0039] y Martínez y Lewandowski ("in January 1885") [F-0098]. Agote, en su informe del 31/03/1885: "llegó el 9 de Enero de 1885, en que apareció el decreto del curso forzoso" [F-0086] · probable (lectura del agente).
+- Siguieron decretos para otros bancos (15/01/1885, Banco de la Provincia de Buenos Aires; 21/01, Banco de Santa Fe; 23/01 y 31/01, Tucumán y Córdoba) y uno en marzo; la Ley 1734 del 14/10/1885 aprobó "los decretos del Poder Ejecutivo de fecha nueve, quince, veintiuno…" [F-0086] · probable (fecha de la ley según el índice de la compilación; el agente leyó en otro tramo "30/10/1885", sin verificar). Della Paolera ubica el curso forzoso en marzo de 1885 [F-0037, F-0100]: correspondería al decreto general o complementario de marzo (ver Discrepancias).
+- Decreto reglamentario de la Ley 1734 (4/11/1885), art. 5: en la Capital los billetes serían "sellados por la casa de Moneda" [F-0086] · probable (lectura del agente).
+- Decreto del 24/12/1886 que prorroga la inconversión: el Banco Nacional, con 41.333.333 pesos de circulación fiduciaria y una reserva metálica de 9.003.256,78 pesos oro [F-0087] · probable.
+- Premio del oro (pesos papel por 100 oro): enero 1885, 121; mayo 1885, 136; junio 1885, 150 ("the premium rose to 50 per cent.") [F-0098]; diciembre 1885, 142 [F-0039]; 1885: 137; 1886: 139; 1889: 191; 1896: 296 [F-0040, F-0036]; 1890: 251 (Tornquist, citado por F-0045); relación 2,96 en 1896 [F-0037]. Martínez y Lewandowski: 1886, 39 %; 1887, 35 %; 1889, 120 % (sept.–oct.) y 130 % (nov.–dic.); abril de 1890, 215 %; 1891, pizarra de 464; 1893, entre 359 y 290; 1894, entre 433 y 307 [F-0098] · probable. · confirmado (varias fuentes académicas)
 - Convertibilidad restablecida en 1899 por la Ley 3871, a $m/n 2,2727 por peso oro, y abandonada en 1929. [F-0001] · confirmado
 - La Caja de Conversión, creada en 1890, "no va a funcionar hasta 1900 en razón a que no existía metálico". [F-0040] · probable (aclara la ambigüedad de F-0020)
 - El Argentino no fue desmonetizado. El mensaje del decreto-ley 18.188 (1969) declara que las leyes 1130 y 3871 siguen "en vigencia". [F-0053] · probable. No apareció ninguna norma que lo desmonetice (búsqueda del agente de nivel 1).
-- El BCRA publica su cotización trimestral [F-0016, F-0047]; según la IBA, el valor se fija "quarterly by the Central Bank … based on the gold quotations in the London, Paris and New York markets" [F-0052]. · probable
+- El BCRA publica su cotización trimestral por Comunicación "C" en el Boletín Oficial, "de acuerdo a lo establecido por el artículo 1° del Decreto N° 75/76": por ejemplo, la Com. "C" 73650 (04/01/2017, BO 17/03/2017) fijó $ 4.287,13 para el primer trimestre de 2017 [F-0092] · confirmado. El banco tiene una página propia con la serie [F-0093]. Antes: [F-0016, F-0047]; según la IBA, el valor se fija "quarterly by the Central Bank … based on the gold quotations in the London, Paris and New York markets" [F-0052]. · probable
 - **Leyes vigentes que usan el argentino oro como unidad:**
   - Código Aeronáutico (Ley 17.285, modificada por la Ley 22.390 de 1981): art. 144, 1.000 argentinos oro por pasajero; art. 145, 2 argentinos oro por kg de equipaje y 40 por los objetos que guarda el pasajero; art. 160, hasta 2.000 argentinos oro por persona en daños a terceros en superficie. [F-0030] · confirmado. Art. 163, 300 argentinos oro en transporte gratuito. [F-0051] · probable
   - Ley de la Navegación 20.094 (1973): art. 175, 13 argentinos oro por tonelada de arqueo; art. 176, cotización "oficial fijada por el órgano competente" y, a falta de ella, "por el contenido metálico y no por su valor numismático". [F-0031, F-0052] · confirmado. Art. 278, 400 por bulto; art. 331, 1.500 por pasajero. [F-0052, F-0051] · probable
@@ -72,10 +77,14 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 - Santacreu: "sólo el 10% de la población conocía su existencia en 1884". [F-0025] · a confirmar (fuente no indicada; el mismo autor comete errores en la ficha técnica)
 - 1881–1884: saldo comercial desfavorable de 47 millones de pesos y más de 50 millones de intereses pagados afuera, que hubo que cubrir con metálico. [F-0039] · probable
 - 1884: el Banco Nacional traía barras de oro de Londres para acuñarlas; tras la venta de fondos públicos (30/04/1884) suspendió esas órdenes; bajó el cambio "á un tipo que impidiese la extraccion de oro"; en agosto de 1884 tuvo que convertir 640.000 pesos oro de sus billetes; "la especulacion empezó á pedir oro al Banco". [F-0028, releído 2026-11-04] · confirmado
+- **Existencias en los bancos a fines de 1884** (estados enviados al ministro de Hacienda, transcriptos en la Memoria de Hacienda 1884): Banco Nacional, existencia en caja al 29/11/1884, "En Argentinos $ 3.890.455", junto a onzas (230.203,33), cóndores (71.045,76), libras (111.552,84), napoleones (13.344), monedas brasileñas (6.463,72) y águilas de EE. UU. (10.716,34) (carta del 30/12/1884, firmada por W. Pacheco, presidente, y E. M. Niño) [F-0086, releído] · confirmado. Banco Provincial de Córdoba, 30/11/1884: "61.968 Argentinos á 5 $ m/n c/u", $ 309.840 de un total de oro de $ 346.546,68 [F-0086, releído] · confirmado. Banco Provincial de Santa Fe: "onzas, cóndores, argentinos y libras esterlinas" [F-0086] · probable (lectura del agente). Cálculo propio: 3.890.455 / 5 ≈ 778.000 Argentinos en el Banco Nacional, casi la mitad de los ≈1.643.000 acuñados de 1881 a 1884.
+- Tabla oficial de EE. UU. de 1884 ("Total Paper and Specie Circulation"): población 2.540.000; circulación total 71.371.850; metálico en tesoros y bancos 14.196.461 (unidad no indicada) [F-0099] · a confirmar.
 - Ministro Romero dejó Hacienda en agosto de 1883, "por negarse a la política de imprevisión y despilfarro", según se dijo. [F-0039] · probable
 - Se acuñó en oro unas cuatro veces lo que preveía el art. 7 (8 millones). [F-0007] · probable (coincide con los totales F-0026, F-0037)
 - A fines de 1886, con 11.225.000 pesos oro acuñados, el director de la Casa de Moneda desaconsejó seguir acuñando: el oro acuñado "has been shipped or melted down". Williams lo toma de Agote, 1887. [F-0007] · probable
 - 1887–1889, Bancos Garantidos: dieciséis bancos autorizados a emitir 39 millones en billetes garantidos (diciembre de 1888), con 33,4 millones de pesos oro en garantía; en marzo de 1889 el gobierno vendió 5 millones de pesos oro y a fin de 1889 quedaban 5,8 millones en el Banco Nacional. [F-0037] · confirmado (lectura académica)
+- Cortés Conde: el desorden monetario y fiscal "empezó con la inconversión de 1885 y culminó con la ley de Bancos Garantidos de 1887"; el público cambiaba billetes por el oro que vendía el gobierno, y esa fuga de capitales fue "la causa principal" de la crisis [F-0101] · probable.
+- Mayo de 1886: Roca dice al Congreso que "la ley de unidad monetaria se encuentra en plena ejecución" [F-0087] · probable.
 - 1889: 7 millones del fondo de oro se usaron para rescatar los bonos "hard-dollar" y otros 21 millones se vendieron por el Banco Nacional "to arrest the depreciation of the forced paper currency" (despacho del ministro de EE. UU. Henry L. Vilas). [F-0046] · confirmado (documento diplomático)
 - 1888: auge de importación de metálico. [F-0007] · probable
 - En los años 1880 se permitió a bancos emitir billetes garantizados en oro. [F-0020] · probable
@@ -91,7 +100,7 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 - El escudo lo "elaboró" Castilla; la Libertad, Oudiné. [F-0024] · probable
 - Reverso: cabeza de la Libertad con gorro frigio, "la Libertad de Oudiné", con "LIBERTAD * 5 PESOS * UN ARGENTINO * 9 Dos FINO". [F-0001, F-0003] · confirmado
 - **En el oro la Libertad mira a la derecha**, a diferencia de la plata y el cobre, que miran a la izquierda. [F-0024, F-0081] · probable (dos fuentes)
-- Firma "OUDINE" bajo el busto. [F-0081] · probable
+- Firma "OUDINE" bajo el busto. [F-0081, F-0091] · probable. El Münzkabinett de Berlín describe en su ejemplar de 1884 la cabeza de la Libertad con gorro frigio "nach rechts" (a la derecha) y la firma "OUDINÉ" [F-0091].
 - Cartas de Oudiné a Castilla (1880; Archivo Histórico del Museo Casa de Moneda, Cuadernillo de Extensión Cultural 2009), según Testolino [F-0024] · probable:
   - Carta del 07/01/1880: pide seis meses más porque "son 70 cuños (entre cabeza y reverso)"; baja el precio de 27.500 a 25.000 francos.
   - Carta del 01/03/1880: plazos de entrega: peso, peso plata y 50 centavos antes del 5/05/1880; 20 y 10 centavos, Argentino y medio argentino antes del 5/07/1880.
@@ -107,12 +116,12 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 ## Ficha técnica
 | Atributo | Valor | Fuente | Confianza |
 |---|---|---|---|
-| Peso | 8,064 g (8,0645 g teórico: 5 × 1,6129 g) | F-0001, F-0003, F-0008, F-0036, F-0002 (art. 1) | confirmado |
-| Composición / ley | oro 900 / cobre 100 (7,258 g de oro fino; 0,2333 oz troy) | F-0001, F-0003, F-0026 | confirmado (Santacreu F-0025 dice 750 ‰: descartado, ver Discrepancias) |
-| Diámetro | 22 mm (22,12 mm medidos por comerciantes y comunidad) | F-0001, F-0003; F-0082 | confirmado (22 mm); a confirmar (22,12) |
-| Espesor | ≈1,5 mm según comunidad (1,418 mm en un catálogo, solo pista) | agente nivel 4 (Numista y copias) | a confirmar: sin fuente válida registrable |
-| Canto | inscripto "IGUALDAD * ANTE * LA * LEY ***" (seis estrellas, cálculo); en relieve según CGB y BDOR, "incuse" según Spink | F-0001, F-0002, F-0003; F-0058, F-0082; F-0056 | confirmado (leyenda); a confirmar (relieve/incuso y estrellas) |
-| Eje | 6 h (moneda) | F-0010, F-0056, F-0058 | probable (un lote de MDC dice 12 h: probable error) |
+| Peso | 8,064 g (8,0645 g teórico: 5 × 1,6129 g; "8 gramos y 65 milésimos" en la ley uruguaya 1668) | F-0001, F-0003, F-0008, F-0036, F-0002 (art. 1), F-0023 | confirmado (ejemplar del Münzkabinett de Berlín: 8,07 g [F-0091]) |
+| Composición / ley | oro 900 / cobre 100 (7,258 g de oro fino; 0,2333 oz troy) | F-0001, F-0003, F-0026, F-0023 (la ley uruguaya 1668 exige "título de 900 milésimos"), F-0085 | confirmado (Santacreu F-0025 dice 750 ‰: descartado, ver Discrepancias) |
+| Diámetro | 22 mm (22,12 mm medidos por comerciantes; 22,1 mm en un lote de Río de la Plata) | F-0001, F-0003, F-0091; F-0082; F-0104 | confirmado (22 mm); a confirmar (22,1–22,12) |
+| Espesor | ≈1,5 mm según comunidad (1,418 mm en un catálogo, solo pista) | F-0110 (fuente con otros errores) | a confirmar: sin fuente válida |
+| Canto | inscripto "IGUALDAD * ANTE * LA * LEY" seguido de estrellas: "***" según BDOR, "****" según CGB (ficha de un 1883); en relieve según CGB (dos fichas) y BDOR, "incuse" según Spink | F-0001, F-0002, F-0003; F-0058, F-0082, F-0090; F-0056 | confirmado (leyenda); probable (relieve: tres testimonios contra uno); a confirmar (número de estrellas) |
+| Eje | 6 h (moneda) | F-0010, F-0056, F-0058, F-0090, F-0091 (Münzkabinett de Berlín) | confirmado (ficha de museo y varias casas; un lote de MDC dice 12 h: probable error) |
 | Ceca | Casa de Moneda de la Nación, Buenos Aires | F-0001, F-0018 | confirmado |
 | Grabador | Eugène-André Oudiné (París); firma OUDINE bajo el busto | F-0001, F-0005, F-0081 | confirmado |
 
@@ -134,12 +143,12 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 | 1889 | 403.712 | F-0015, F-0022 | probable | |
 | 1890–1895 | no se acuñó | F-0001, F-0003 | confirmado | |
 | 1896 | 196.543 | F-0015, F-0022 (≈197.000: F-0009) | probable | |
-| **Total** | **6.343.022** | F-0016, F-0025 (atribuido a la Memoria de la Casa de Moneda) | probable | 6.346.022 en F-0015 y en el texto de F-0022, cuyo propio cuadro suma 6.343.022. |
+| **Total** | **6.343.022** | F-0016, F-0025 (atribuido a la Memoria de la Casa de Moneda), F-0107 | probable | 6.346.022 en F-0015 y en el texto de F-0022; el cuadro de F-0022 (1881–1889, sin fila de total) más la cifra de 1896 de su texto suman 6.343.022 (corrección de redacción, auditoría 2026-11-06). Santacreu menciona además los 6.344.000 de un catálogo [F-0025]. |
 
 **Totales oficiales en pesos (todo el oro, Argentinos y medios):**
-- 31.716.545 pesos: "total coinage of the Argentine mint", Statesman's Year-Book 1899. [F-0026] · probable (anuario de época)
+- 31.716.545 pesos: "total coinage of the Argentine mint", Statesman's Year-Book 1899. [F-0026] · probable (anuario de época; reverificado por el auditor 2026-11-06)
 - 31.722.625 pesos: Extracto Estadístico de la República Argentina 1915, p. 299, citado por Williams. [F-0007] · probable
-- "31.7 million gold pesos" hasta 1896, según A. G. Ford, citado por della Paolera. [F-0037] · confirmado (orden de magnitud)
+- "31.7 million gold pesos" hasta 1896, según A. G. Ford (1962, p. 93), citado por della Paolera ("se habían emitido monedas de oro por valor de 31,7 millones de pesos oro", cerca del cuádruple de lo planeado). [F-0037, F-0100] · confirmado (orden de magnitud)
 
 **Control cruzado (cálculos propios, no son datos de fuente):**
 - 6.343.022 Argentinos × 5 = 31.715.110 pesos; más 430 medios argentinos (9 de 1881 y 421 de 1884 [F-0042, F-0025]) × 2,5 = 1.075 pesos: total 31.716.185 pesos. Contra los 31.716.545 de 1899 [F-0026], la diferencia es de 360 pesos (72 Argentinos). Con 909.042 en 1883 el total se pasaría en unos 14.600 pesos.
@@ -151,8 +160,11 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 - La producción controlada empezó "unos meses antes" de la sanción de la ley. [F-0005] · probable
 - En 1881 se acuñaron pocas piezas de cada tipo para las autoridades (entre ellas 9 medios argentinos). [F-0042, F-0043] · probable
 - Inicio de la emisión: noviembre de 1881. [F-0024] · probable
+- **1884, discrepancia con la Memoria de Hacienda:** la Memoria de Hacienda de 1884 (W. Pacheco) dice que "las funciones de la Casa de Moneda durante el pasado año se han limitado á la acuñación de moneda de cobre" [F-0086, releído] · confirmado (lo que dice la Memoria). Choca con los 447.900 Argentinos atribuidos a 1884 y con las barras traídas de Londres "para acuñarlo" ese año [F-0028]. Ver Discrepancias y Supuestos.
+- La misma Memoria: la renta de la Casa de Moneda "proviene de la acuñación de plata y cobre" y "desde que en 1883 no se ha acuñado plata"; una ley de octubre de 1883 hizo innecesaria la acuñación de plata fraccionaria [F-0086, releído] · confirmado.
+- Censo NGC (designación MS, sin fecha de corte, consultado 2026-11-06): 1881: 45; 1882: 16 (más 2 "CUDINE"); 1883: 55; 1884: 15; 1885: 63; 1886: 50; 1887: 113; 1888: 133; 1889: 20; 1896: 56; total 568 [F-0088] · confirmado (como dato del censo). Lectura: el orden de los censos sigue más o menos el de las tiradas, salvo 1884 y 1889, que aparecen menos de lo que sus tiradas sugerirían (deducción).
 
-**Presentaciones:** suelta. Posteriores, no de época: cápsula acrílica en la venta del BCRA de 2011–2012 [F-0001] · probable; colecciones completas de diez piezas en estuches a medida (Spink 341, lote 431 [F-0056]; estuche de fieltro gris de "Puente Hnos." en Künker 446, lote 2224 [F-0060]) · probable. Origen y fecha de esos estuches: pista.
+**Presentaciones:** suelta. Posteriores, no de época: cápsula acrílica: la página del BCRA dice "Presentación: cápsula de acrílico" [F-0001] · confirmado; que fuera la presentación de la venta de 2011–2012 es deducción (corrección de la auditoría 2026-11-06); colecciones completas de diez piezas en estuches a medida (Spink 341, lote 431 [F-0056]; estuche de fieltro gris de "Puente Hnos." en Künker 446, lote 2224 [F-0060]) · probable. Origen y fecha de esos estuches: pista.
 
 ## Fabricación
 - La Ley 733 (29/09/1875) creó la Casa de Moneda de la Nación [F-0004, F-0006] · confirmado; decreto del 10/03/1877 (Avellaneda – de la Plaza) formó la comisión del edificio y el 17/10/1877 se autorizaron 267.000 pesos fuertes [F-0006] · probable.
@@ -164,8 +176,11 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 - **Origen del oro:**
   - 1884: barras de oro traídas de Londres por el Banco Nacional "para acuñarlo". [F-0028] · confirmado
   - 1896: monedas extranjeras de oro fundidas para hacer los cospeles [F-0025] · probable; en concreto "cóndores de oro" chilenos y otras piezas extranjeras de bancos (Banco de Londres y del Río de la Plata y otros) [F-0022, F-0035] · probable.
-  - Oro de minas nacionales (Famatina, etc.): sin menciones. → se buscó en fuentes de nivel 1 y 2 sin resultado.
+  - Oro de minas nacionales: insignificante. El informe del director de la Casa de Moneda de EE. UU. de 1887 estima la producción de las minas argentinas (vía el ministro estadounidense en Buenos Aires) en 20.000 dólares de oro en 1886 y 30.000 en 1887 [F-0027, revisión 2026-11-06] · confirmado; el de 1900 dice que la producción de oro de ese año "did not exceed $50,000" (informe de 1900, archive.org, leído por el agente; no registrado como fuente aparte). Cálculo propio: frente a unos 9 millones de pesos oro acuñados en 1887, el oro nacional no llegaba al 0,5 %; el metal de los Argentinos venía de afuera.
+  - Mismo informe: en la fila de los Argentinos depositados en Nueva York en 1887 figura "Silver parted: 22.83 standard ounces", la plata separada del oro en la refinación [F-0027] · confirmado.
 - Costo de la re-acuñación de 1896: 80 pesos de curso legal por cada 1.000 pesos oro (Taullard 1924, p. 143, citado por F-0022). · probable
+- Reacuñaciones de plata: la Memoria del Banco Nacional de 1884 dice que los "cuatros" y las "chirolas" fueron "reacuñadas" por el gobierno [F-0028, revisión 2026-11-06] · confirmado (dato de contexto para el primer cono).
+- Edificio: Castilla proyectó el primer edificio "in an Italianate style" [F-0116] · a confirmar.
 - Maquinaria (marca y modelo de las prensas de 1881): sin datos; la página institucional solo menciona prensas de billetes (Lambert, 1898–1900) [F-0078]. → pista.
 - El margen de tolerancia de fino de la ley era muy ajustado para el medio argentino; Castilla pidió dos veces corregirlo y no lo acuñó salvo en 1881 y 1884 [F-0042, F-0043] · probable (dato de la serie 02 que explica por qué el oro se concentró en el Argentino).
 
@@ -173,7 +188,10 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 - El billete depreciado expulsó al oro; en 1896 no circulaban monedas de oro. [F-0007] · probable. En 1899 la circulación era "chiefly inconvertible paper currency" [F-0026] · probable.
 - Versión contraria: De Ansó afirma que los Argentinos "eran parte del circulante de uso local" además de medio de pago internacional. [F-0022] · a confirmar (ver Discrepancias)
 - Los Argentinos se usaban sobre todo en el comercio exterior. [F-0015] · a confirmar. "Peso Fuerte" como nombre en contratos internacionales: solo en un catálogo (pista).
-- Agosto de 1884: el Banco Nacional convirtió 640.000 pesos oro de sus billetes en un solo mes; trataba de impedir la extracción de oro. [F-0028] · confirmado
+- Agosto de 1884: el Banco Nacional convirtió 640.000 pesos oro de sus billetes en un solo mes ("en el solo mes de Agosto, por la suma de seiscientos cuarenta mil pesos nacionales oro", carta del 9/01/1885); trataba de impedir la extracción de oro. [F-0028, reverificado 2026-11-06; F-0086] · confirmado
+- A fines de noviembre de 1884 los Argentinos eran el grueso del oro en caja del Banco Nacional (3.890.455 pesos frente a menos de 450.000 en todas las monedas extranjeras juntas) y del Banco de Córdoba (61.968 piezas) [F-0086] · confirmado. Los cóndores chilenos circulaban junto a los Argentinos en los bancos antes de 1896 [F-0086] · confirmado (Banco Nacional) / probable (Santa Fe).
+- **Testimonio de 1919:** en la conferencia de la Confederación Argentina del Comercio, la Industria y la Producción, el delegado Emilio Hansen contó una anécdota: argentinos que volvían del extranjero con monedas de oro argentinas "toutes neuves" quisieron pagar con ellas, la gente no las conocía y desconfiaba, y los comerciantes pedían billetes y los mandaban a cambiar el oro a un banco (p. 140, traducción francesa) [F-0085, releído] · probable (el propio Hansen la presenta como anécdota que se cuenta; no dice de qué año eran las monedas).
+- Una carta de lectores de 2016 repite que se usaba "principalmente como medio de pago para transacciones con otros países" [F-0112] · a confirmar.
 - Fines de 1886: el oro acuñado "has been shipped or melted down" (director de la Casa de Moneda, vía Agote). [F-0007] · probable
 - **1887: Argentinos fundidos en Nueva York.** En la tabla de monedas extranjeras depositadas en el Assay Office de Nueva York en 1887 figura "Argentine Republic | 5 pesos | $1,110,501". [F-0027, releído 2026-11-04] · confirmado (OCR, sin centavos). Cálculo propio: a ≈4,82 dólares de oro fino por pieza, unos 230.000 Argentinos en un año (≈12 % de la tirada de 1887).
 - 1889: venta de 21 millones de oro por el Banco Nacional y uso de 7 millones para bonos [F-0046] · confirmado (contexto de la salida del oro).
@@ -183,49 +201,57 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 
 ## Rareza real y supervivencia
 - 1881 (primer año, tirada más baja) y 1896 (último año, acuñación aislada) son las fechas con prima: el BCRA las vendió en 2012 a $120 contra $80 del resto [F-0003]. · confirmado. De Ansó: las de 1881 y 1896 "suelen obtener un diferencial positivo" [F-0022] · probable.
-- En el mercado de 2026, en grado XF, la prima casi no se ve: Río de la Plata OA 27 vendió todas las fechas en XF entre USD 950 y 1.100 (1881 a 1.100) [F-0060]. · probable. Lectura: en estados de circulación, el valor del metal domina (deducción).
+- En el mercado de 2026, en grado XF, la prima casi no se ve: Río de la Plata OA 27 vendió todas las fechas en XF entre USD 950 y 1.100 (1881 a 1.100) [F-0060]. · a confirmar (corrección 2026-11-06: el auditor no pudo ver esos lotes en la vista pública de CoinArchives). Lectura: en estados de circulación, el valor del metal domina (deducción). Lo apoyan los comerciantes de bullion: Hero Bullion vende el tipo a "$22 Over Melt Per Coin" [F-0108] y USAGOLD a USD 1.193,15 la pieza (noviembre de 2026) [F-0107] · probable.
 - "No es una pieza escasa" (Alejandro Gutiérrez) [F-0016]; "formerly scarce until a hoard of several thousand was sold by Stack's in the mid-1990s" [F-0013, F-0061]. · probable
-- Rareza condicional: "very challenging to collect a set, particuliarly in MS grades" [F-0069] · a confirmar. Grados más altos vistos: 1888 PCGS MS64 (Heritage 3019, 2012) y 1885 NGC MS63, "One of eleven certified at this grade with nothing higher" (dic. 2022) [F-0054] · probable. Ningún 1881 ni 1896 por encima de MS-62 en las ventas relevadas [F-0054, F-0055, F-0060] · probable. Stack's Bowers describe un 1888 MS-62 como "A SCARCER find in Mint State" [F-0060].
+- **Censo NGC** (designación MS, total 568 piezas): la fecha más certificada es 1888 (133), seguida de 1887 (113); las menos, 1884 (15), 1882 (16 + 2 CUDINE) y 1889 (20); 1881 tiene 45 y 1896, 56 [F-0088] · confirmado (dato del censo). El censo de PCGS no se pudo consultar.
+- Rareza condicional: "very challenging to collect a set, particuliarly in MS grades" [F-0069] · a confirmar. **Grados más altos vistos (corrección 2026-11-06):** 1888 MS-65 de PCGS (Heritage, ANA 1997, lote 7297, USD 1.897,50) y de NGC (Heritage, Baltimore 1993, lote 1015, USD 1.650) [F-0089] · probable; antes la base daba como máximo el 1888 PCGS MS64 (Heritage 3019, 2012), que sigue registrado. 1883 PCGS MS-64 (Heritage, ANA 1998, lote 5101, USD 3.335, el precio más alto relevado para una fecha común) [F-0089] · probable. 1885 NGC MS63, "One of eleven certified at this grade with nothing higher" (dic. 2022) [F-0054] · probable. Ningún 1881 ni 1896 por encima de MS-62 en las ventas relevadas [F-0054, F-0055, F-0060] · probable. Stack's Bowers describe un 1888 MS-62 como "A SCARCER find in Mint State" [F-0060]. Gadoury describe el 1881 como "Rare" por sus 37.152 ejemplares [F-0060] · probable.
 - APMEX vende el tipo como bullion: "Most will be Extra Fine or better" [F-0062] · probable (coherente con lotes guardados).
-- Censos completos de PCGS y NGC: no se pudieron abrir (permiso no respondido / error del sitio). → pista.
+- Censo de PCGS y detalle por grado del de NGC: no se pudieron leer (PCGS no apareció en las búsquedas; la tabla de NGC pierde las celdas vacías). → pista.
+- Precios de referencia de 2005 citados en un foro (valores de catálogo de entonces: USD 90 en F a 220 en sin circular, con el metal a ≈105 por pieza) [F-0109] · a confirmar; en 2016 una carta de lectores hablaba de "más de 400 dólares" en excelente estado [F-0112] · a confirmar. Muestran que hasta la suba del oro la moneda valía poco más que su metal (deducción).
 
 ## Por año
 ### 1881
 - Tirada 37.152 [F-0015, F-0018, F-0022] · probable. Emisión iniciada en noviembre [F-0024] · probable; pocas piezas para autoridades [F-0042] · probable.
 - Variante de último dígito "2.º 1 elevado" (CJ 1.2) en Río de la Plata OA 26, lote 180 (XF, 8,07 g, USD 1.000) y Gadoury XXI lote 775 (PCGS Genuine Cleaned, €900) [F-0060]; Sedwick 38 lote 835: "final 1/1", último dígito repunzonado sobre uno elevado, NGC MS 62 [F-0055]. · probable
 - Mercado: NGC MS-61, Stack's Bowers, feb. 2023, lote 71319, USD 600 [F-0013] · a confirmar; Río de la Plata OA 27 lote 203, XF, 8,11 g, USD 1.100 [F-0060] · probable.
-- Prima en la venta del BCRA de 2012 [F-0003] · confirmado.
+- Prima en la venta del BCRA de 2012 [F-0003] · confirmado. Censo NGC: 45 [F-0088]. Gadoury: "Seulement 37.152 exemplaires frappés. Rare" (CJ 1.2) [F-0060] · probable.
 
 ### 1882
 - Tirada 252.092 [F-0015, F-0022] · probable.
+- Censo NGC: 16 piezas normales y 2 de la variedad "CUDINE" [F-0088]. Dorset Coin Company (Reino Unido), casi EBC, "light surface marks", £835,86 [F-0106] · probable.
 - Heritage 231528, lote 62052 (9/07/2015), NGC AU55, "With a strong portrait of Miss Liberty" [F-0054]; Sincona 80, lote 2015 (oct. 2022), "about extremely fine", 8,01 g, CHF 400 [F-0061] · a confirmar; Río de la Plata OA 27 lote 204, XF, USD 950 [F-0060].
 
 ### 1883
 - Tirada 906.042 [F-0022] · probable (909.042 en F-0015: ver Discrepancias).
-- Río de la Plata OA 27 lote 205, XF, USD 1.000 [F-0060]. Un "1883 AU58 NGC" de Heritage figura en PCGS Auction Prices (página no abierta) → pista.
+- Río de la Plata OA 27 lote 205, XF, USD 1.000 [F-0060] · a confirmar. PCGS MS64, Heritage ANA 1998, lote 5101, 7/08/1998, USD 3.335; NGC MS62, Heritage 3038, lote 33331, 13/01/2015, USD 446,50; NGC AU58, Teletrade, 21/11/2010, USD 345; AU55–58 entre USD 312 y 440,63 (2013–2018), entre ellos Heritage 231528, lote 62053, 2/07/2015, AU55, USD 317,25 [F-0089] · probable.
+- Variante "CUDINE" de 1883 (CJ 3.2), ofrecida por Río de la Plata en su subasta 24 (diciembre de 2025), lote 156, XF, 8,04 g, junto con una de fecha normal [F-0103] · probable. CGB vendió en 2014 un 1883 XF de 8,05 g, eje 6 h, canto en relieve con cuatro estrellas, a €450 [F-0090] · probable.
 
 ### 1884
 - Tirada 447.900 [F-0015, F-0022] · probable. Año de las barras de oro traídas de Londres [F-0028] y de la conversión masiva de agosto [F-0028] · confirmado.
-- Katz E-217, lote 7, "AUNC with mint luster", €868; Jean Elsen 165, lote 1578, Très Beau, 8,02 g, "traces of a former mount", €900; Río de la Plata OA 27 lote 206, XF, USD 950 [F-0060] · probable.
+- Ejemplar del Münzkabinett de Berlín (inv. 18221938): 8,07 g, 22 mm, eje 6 h, ex Heinrich Hardt [F-0091] · confirmado. El censo NGC tiene solo 15 piezas, el número más bajo de la serie [F-0088].
+- Katz E-217, lote 7 (23/09/2026), "AUNC with mint luster", 8,06 g, €868; Jean Elsen 165, lote 1578, Très Beau, 8,02 g, "traces of a former mount", €900; Río de la Plata OA 27 lote 206, XF, USD 950 [F-0060] · probable.
 
 ### 1885
-- Tirada 203.908 [F-0015, F-0022] · probable. Variantes de color señaladas por Cunietti-Ferrando [F-0022] · a confirmar.
+- Tirada 203.908 [F-0015, F-0022] · probable (un foro de 2005 copia 404.000, probable error [F-0109]). Variantes de color señaladas por Cunietti-Ferrando [F-0022] · a confirmar. Censo NGC: 63; el grado máximo leído sería MS-63, con 11 piezas, coherente con la nota de Heritage [F-0088, F-0054] · a confirmar (alineación de la tabla).
 - Heritage 232251, lote 64338 (22/12/2022), NGC MS63, uno de once en ese grado, ninguno superior; Heritage 61565, lote 23007 (3/11/2025), NGC AU58, "honey toned", antes en Heritage 231529 (julio 2015) [F-0054] · probable; Sincona 80 lote 2018, NGC MS63, CHF 1.000 [F-0061] · a confirmar; Río de la Plata OA 27 lote 207, XF, USD 950 [F-0060].
 
 ### 1886
 - Tirada 397.734 [F-0015, F-0022] · probable. A fin de año, la advertencia del director [F-0007] · probable.
+- Censo NGC: 50 [F-0088].
 - Künker lote 5114, "ss-vz", est. €300, adjudicado €650; Künker lote 6844, "vorzüglich", est. €250, adjudicado €380, ex UBS 55 (Zúrich, 2002) n.º 4310 [F-0057] · probable; MDC E-19 lote 340, TTB, €800; Río de la Plata OA 27 lote 208, USD 950 [F-0060].
 
 ### 1887
 - Tirada 1.834.674, la mayor [F-0015, F-0018, F-0022] · probable. Ese año se depositaron en Nueva York Argentinos por USD 1.110.501 [F-0027] · confirmado. Murió Oudiné (12/04/1887) [F-0019, F-0070] · probable. Variantes de color [F-0022] · a confirmar.
+- Censo NGC: 113 [F-0088]. El lote 2250 de Río de la Plata OA 27 se describe como "Variante normal", lo que implica que el catálogo de referencia lista otra variante de 1887 (pista) [F-0060].
 - Goldberg 74, lote 3674 (junio 2013), NGC AU-58, USD 460 [F-0061] · a confirmar; Río de la Plata OA 27 lotes 209 (XF, USD 950) y 2250 ("Variante normal", 8,01 g, USD 950) [F-0060]. Un lote de MDC (E-20, lote 450) indica eje 12 h [F-0060] · a confirmar.
 
 ### 1888
 - Tirada 1.663.265 [F-0015, F-0022] · probable. Auge de importación de metálico [F-0007]; Bancos Garantidos [F-0037]. Variantes de color [F-0022] · a confirmar.
-- Es la fecha con más ejemplares de alto grado vistos: PCGS MS64 (Heritage 3019, lote 26185, 1/05/2012) [F-0054]; NGC MS 62 (MDC 19, lote 1000, 8,04 g, 6 h, golpe débil al centro, €1.000), PCGS MS-62 (Stack's Bowers nov. 2026, lote 73054), SC- (Tauler & Fau 172, lote 450, €900) [F-0060]; PCGS MS61 (Drake Sterling, AUD 1.750, dic. 2025) [F-0059]; NGC AU58 (Heritage 61343, lote 23042, USD 576, 12/11/2023) [F-0054]; NGC AU58 (Spink 22180, lote 724, £350; ex Heritage 4/04/2013, USD 360) [F-0056]; NGC AU55 ex Clapp–Eliasberg (Spink 22180, lote 725, £350) [F-0010]; CGB 2018 limpiada, 311 € [F-0058]; Jean Elsen 149, lote 1344, €420 [F-0061] · probable / a confirmar según fuente.
+- Es la fecha con más ejemplares de alto grado vistos y la más certificada por NGC (133) [F-0088]: PCGS MS65 (Heritage ANA 1997, lote 7297, 2/08/1997, USD 1.897,50) y NGC MS65 (Heritage Baltimore Bullet, lote 1015, 22/10/1993, USD 1.650); NGC MS64 (Heritage 232249, lote 62301, 1/12/2022, USD 900); NGC MS62 (Stack's Bowers 22/06/2021, lote 70233, USD 600; Heritage NYINC 3063, lote 33558, 16/01/2018, USD 528); NGC MS61 (Heritage 232318, lote 61373, 27/04/2023, USD 600); AU58 entre USD 172,50 (2007) y 540 (2020) [F-0089] · probable; PCGS MS64 (Heritage 3019, lote 26185, 1/05/2012) [F-0054]; NGC MS 62 (MDC 19, lote 1000, 8,04 g, 6 h, golpe débil al centro, €1.000), PCGS MS-62 (Stack's Bowers nov. 2026, lote 73054), SC- (Tauler & Fau 172, lote 450, €900) [F-0060]; PCGS MS61 (Drake Sterling, AUD 1.750, dic. 2025) [F-0059]; NGC AU58 (Heritage 61343, lote 23042, USD 576, 12/11/2023) [F-0054]; NGC AU58 (Spink 22180, lote 724, £350; ex Heritage 4/04/2013, USD 360) [F-0056]; NGC AU55 ex Clapp–Eliasberg (Spink 22180, lote 725, £350) [F-0010]; CGB 2018 limpiada, 311 € [F-0058]; Jean Elsen 149, lote 1344, €420 [F-0061]; 2026: Auctiones eAuction 90, lote 541, EF, 8,07 g, CHF 750; Numismatica Ferrarese E-41, lote 11, SPL+, €900; H. D. Rauch E-49, lote 1546, "f.vzgl.", 8,06 g, €720 [F-0060]; Künker lote 2317, "Fast vorzüglich", est. €350, adjudicado €700 [F-0105] · probable / a confirmar según fuente.
 
 ### 1889
 - Tirada 403.712 [F-0015, F-0022] · probable. La Casa de Moneda hizo 600.000 pesos para el Paraguay [F-0004].
+- Censo NGC: 20 [F-0088]. Río de la Plata subasta 24, lote 162, AU, 8,06 g [F-0103]; otro lote, "CJ 9.1", AU, 8,04 g, 22,1 mm, valor de USD 400 en los metadatos (sin explicar la variante) [F-0104] · probable.
 - Stack's Bowers feb. 2023, lote 71323, NGC MS-60, no vendido [F-0061] · a confirmar; Río de la Plata OA 27 lote 211, XF, USD 1.000 [F-0060].
 
 ### 1890–1895
@@ -235,6 +261,7 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 - Tirada 196.543 [F-0015, F-0022] (≈197.000: F-0009) · probable.
 - **Por qué:** re-acuñación pedida por el Banco de Londres y del Río de la Plata y otros bancos que tenían cóndores chilenos y otras monedas de oro extranjeras "poco útiles aquí" (Taullard 1924, p. 143, vía De Ansó) [F-0022] · probable; Santacreu: cospeles hechos fundiendo monedas extranjeras [F-0025] · probable; Ruiz Calleja: pedido de bancos con monedas chilenas [F-0035] · a confirmar. Costas: 80 pesos por cada 1.000 pesos oro [F-0022] · probable.
 - **Color:** "amarillo pálido por haberse empleado otra aleación de oro" (Cunietti-Ferrando 1989, p. 156, vía F-0022) · probable; "un color algo distinto" [F-0035] · a confirmar.
+- Censo NGC: 56 [F-0088]. Río de la Plata subasta 24, lote 163, AU, 8,01 g [F-0103].
 - Mercado: NGC AU58 (Heritage 61565, lote 23010, 3/11/2025) [F-0009]; NGC MS62 (Heritage 232205, lote 61408, 3/02/2022, "Scarce date, last year of type") [F-0054]; PCGS MS 61 (Gadoury XXI, lote 776, €750) y XF (Río de la Plata OA 27, lote 212, USD 950) [F-0060]; NGC MS-61 (Sincona 63, CHF 450) [F-0014] · a confirmar; Künker lote 1987, adjudicado €550 [F-0011].
 
 ## Variantes y errores
@@ -243,7 +270,10 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 | Último dígito del año elevado o repunzonado (p. ej. 1881 "2.º 1 elevado", "1/1") | posición del último dígito respecto del anterior; restos de un dígito previo | F-0055, F-0060 (casas de subastas); técnica de apertura en F-0005 | probable (existe en el mercado; falta un estudio que liste todas) |
 | Color pálido de 1896 | tono amarillo pálido frente al oro rojizo de otros años | F-0022 (Cunietti-Ferrando 1989), F-0035 | probable |
 | Variantes de color 1885, 1887 y 1888 | tono | F-0022 (Cunietti-Ferrando 1989) | a confirmar |
-| Errores de canto (leyenda que empieza en otra posición) en 1886, 1887 y 1888; firma "CUDINE" en 1882–1883; "sin OUDINE" en 1887–1888; "4 sobre 4", "7 sobre 7", "9 sobre 9" | — | solo catálogos (pista): ninguna fuente válida todavía | a confirmar |
+| Firma "CUDINE" (C en lugar de O en la firma del grabador) en 1882 | leer la firma bajo el busto | NGC la certifica como variedad: 2 piezas en el censo [F-0088]; un aviso de eBay (pista) | probable (existe; falta descripción publicada) |
+| Firma "CUDINE" en 1883 (CJ 3.2) | ídem | Río de la Plata, subasta 24, lote 156 [F-0103] | probable |
+| "Clásica variante de canto de los argentinos de oro", identificada por Fernando Chao | no descripta en la fuente; posiblemente la posición de inicio de la leyenda del canto (supuesto) | El Reverso 68 [F-0102] | probable (existe); a confirmar (en qué consiste) |
+| Errores de canto (leyenda que empieza en otra posición) en 1886, 1887 y 1888; "sin OUDINE" en 1887–1888; "4 sobre 4", "7 sobre 7", "9 sobre 9"; 1887 distinta de la "variante normal" (CJ 7.1); 1889 "CJ 9.1" | — | solo catálogos y referencias de catálogo en lotes (pista) [F-0060, F-0104] | a confirmar |
 | Ensayos/pruebas de 5 pesos fechados 1880 (plata 900, canto liso) | — | F-0005 (no hallaron ninguno) | a confirmar (probablemente inexistentes) |
 | Pruebas en cobre de 1881 | solo se conocen de 1 peso | F-0005, F-0006 | no aplica al 5 pesos |
 | "Proof" 1881, 1882, 1889 | — | solo numisview (descartado) | sin respaldo; no apareció ningún proof ni espécimen en las subastas relevadas |
@@ -251,13 +281,14 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 ## Falsificaciones e imitaciones
 - No hay falsificaciones en oro documentadas, ni en español ni en inglés; el Top 25 de falsificaciones de NGC (2018) no incluye ninguna moneda argentina. [F-0063] · confirmado (resultado negativo)
 - **Fichas de juego (spielmarken):** fichas de latón de hacia 1890–1900 que combinan el lado "UN ARGENTINO . 9 DOS FINO . LIBERTAD . 5 PESOS" (Libertad a la derecha) con "UNITED STATES OF AMERICA ★ 5 D ★"; 3,5 g, 21,3 mm, 1,3 mm, canto estriado; hay versiones de 10 D y 2½ D. [F-0067, F-0068] · probable (varias fuentes de comunidad). "Almost certainly a privately made jeton/token/counter fantasy" [F-0067]; hecha en latón para que no pudiera dorarse y pasar por buena [F-0068] · a confirmar. Existe otra ficha "jeton … D M marque déposé" (solo título visto) → pista.
+- Revisión 2026-11-06: tampoco aparecieron reportes de falsificaciones en foros, Reddit ni guías de comerciantes, en español ni en inglés (búsqueda del agente de nivel 4) · resultado negativo. Un sitio de inversión en oro da 7,26 g de "masa" (confunde el oro fino con el peso total) [F-0110]: un error que podría desorientar a quien pese una pieza (deducción).
 - Piezas reales alteradas: limpiezas (PCGS "Genuine Cleaned" en Gadoury; CGB 2018 y 2022), una pieza de 7,71 g "Poids léger" tras limpieza, huellas de montura de joyería (Elsen 165). [F-0058, F-0060] · probable
 
 ## Personajes
 - **Julio A. Roca**, presidente: envió el proyecto (julio de 1881) y promulgó la ley. [F-0039, F-0044, F-0073] · probable
-- **Juan José Romero** (Buenos Aires, 1842–1915), ministro de Hacienda de Roca (sucedió a Santiago Cortínez; lo sucedió Victorino de la Plaza), autor del proyecto; dejó el ministerio en agosto de 1883; volvió a Hacienda con Luis Sáenz Peña y con José E. Uriburu. [F-0025, F-0039, F-0071] · probable
+- **Juan José Romero** (Buenos Aires, 1842–1915), ministro de Hacienda de Roca (sucedió a Santiago Cortínez; lo sucedió Victorino de la Plaza), autor del proyecto; dejó el ministerio en agosto de 1883; volvió a Hacienda con Luis Sáenz Peña y con José E. Uriburu; hacia 1911 asesoró a Martínez y Lewandowski, que lo llaman autor de la ley monetaria de 1881. [F-0025, F-0039, F-0071, F-0098] · probable (autoría: confirmado)
 - **Carlos Pellegrini, Ezequiel Paz, Tristán Achával Rodríguez, Delfín Gallo**: en el debate de 1881 (plata contra oro). [F-0045] · a confirmar
-- **Eduardo Castilla** (ingeniero): primer director de la Casa de Moneda y del Departamento Nacional de Ingenieros; recorrió cecas europeas en 1878; contrató a Barré y luego a Oudiné; compuso el escudo; inauguró la ceca el 14/02/1881; se negó a acuñar el medio argentino por la tolerancia; presentó el 5/09/1882 la Memoria de la Casa de Moneda de 1881 [F-0005]; viajó a París en 1897 y contrató al grabador Eugenio Mouchon [F-0004]. [F-0004, F-0005, F-0006, F-0024, F-0042, F-0044] · probable/confirmado según dato. Nacimiento, formación y muerte: no encontrados. → pista.
+- **Eduardo Castilla** (ingeniero): primer director de la Casa de Moneda y del Departamento Nacional de Ingenieros; recorrió cecas europeas en 1878; contrató a Barré y luego a Oudiné; compuso el escudo; inauguró la ceca el 14/02/1881; se negó a acuñar el medio argentino por la tolerancia; presentó el 5/09/1882 la Memoria de la Casa de Moneda de 1881 [F-0005]; viajó a París en 1897 y contrató al grabador Eugenio Mouchon [F-0004]. [F-0004, F-0005, F-0006, F-0024, F-0042, F-0044] · probable/confirmado según dato. Proyectó el primer edificio "in an Italianate style" [F-0116] · a confirmar. Nacimiento, formación, muerte y fin del cargo: no encontrados (revisión 2026-11-06, cuatro búsquedas). → pista.
 - **Désiré-Albert Barre** (m. París, 1878), Graveur général des monnaies desde 1855: el "Barré" contratado en 1878 sería él (deducción). [F-0070] · probable (fechas)
 - **Eugène-André Oudiné** (1810–1887): grabador de la Libertad. Ver Diseño. [F-0001, F-0005, F-0019, F-0024, F-0070]
 - **Juan José Jolly Kyle** (Stirling, 2/2/1838 – Buenos Aires, 23/2/1922): químico formado en farmacia en Edimburgo, llegado al país en 1862, ensayador de la Casa de Moneda desde 1881. [F-0071] · probable
@@ -275,6 +306,16 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 - **Pablo Andrés Krawiec Krawczuk**, juez de Avellaneda–Lanús: fallos en argentinos oro (2023 y 2024). [F-0048, F-0049] · probable
 - **Paulo Germán Ares** (Fundación Pro.Y.E.C.T.Ar): propuso ahorrar en Argentino Oro (2022–2023). [F-0074] · probable
 - **Adolfo Rodríguez Saá**: anunció en diciembre de 2001 una moneda "argentino" que nunca existió. [F-0072] · probable
+- **Pedro Agote**, presidente del Crédito Público: su *Informe* de 1881 transcribe la ley de monedas con la acuñación de oro "ilimitada" [F-0084]; en marzo de 1885 escribió que el 9 de enero "apareció el decreto del curso forzoso" [F-0086]. · probable
+- **Wenceslao Pacheco**, presidente del Banco Nacional en 1884 (firma el estado con 3.890.455 pesos en Argentinos) y ministro de Hacienda que firma la Memoria de 1884 (5/09/1885). [F-0086] · confirmado (firmas)
+- **Victorino de la Plaza**, ministro de Hacienda que firma con Roca el acuerdo de curso forzoso del 9/01/1885 (con Bernardo de Irigoyen, Francisco J. Ortiz, Eduardo Wilde y Benjamín Victorica). [F-0086] · confirmado
+- **Emilio Hansen**, delegado en la conferencia de la Confederación Argentina del Comercio, la Industria y la Producción (1919): contó la anécdota de las monedas de oro nuevas que nadie aceptaba. [F-0085] · probable
+- **Egas de Ezcurra**, autor de la tesis de Neuchâtel (1938) sobre la Caja de Conversión. [F-0085]
+- **Fernando Chao** (Rosario, 1946 – 7/01/2021): numismático rosarino a quien se atribuye la identificación de la "clásica variante de canto de los argentinos de oro". [F-0102] · probable
+- **Heinrich Hardt**: coleccionista; su Argentino de 1884 está en el Münzkabinett de Berlín. [F-0091] · confirmado
+- **Alberto B. Martínez** y **Maurice Lewandowski** (1911): atribuyen la ley a Romero, que los asesoró. [F-0098] · probable
+- **Roberto Cortés Conde**: historiador económico (fuga de oro de 1889). [F-0101]
+- Jueces **Rodiño** e **Igoldi** (Sala I, Cámara de Lomas de Zamora): revocaron en 2024 la condena en argentinos oro contra Despegar. [F-0095] · probable
 
 ## La voz de la época (prensa, debates, testimonios)
 - Castilla: "Con un personal novicio, formado por completo en el establecimiento, poco se podía hacer". [F-0006] · probable
@@ -285,18 +326,27 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 - Statesman's Year-Book 1899: "Professedly the standard of value is gold". [F-0026] · probable
 - Debate de 1881 (Pellegrini, "se había legislado para Buenos Aires"). [F-0045] · a confirmar
 - Nombre popular: solo "argentino", "argentino oro", "argentinos de oro", "un argentino"; en Uruguay la ley lo llama "Argentino de oro de cinco pesos". No se encontraron otros apodos. [F-0023, F-0073] · probable (resultado negativo sobre apodos)
-- Prensa de 1881–1882 (La Nación, La Prensa, El Nacional) sobre las primeras piezas: no se encontró nada en línea. → pista (hemerotecas).
+- Acuerdo del 9/01/1885: los billetes del Banco Nacional "serán recibidos como moneda legal". [F-0086] · confirmado
+- Agote (31/03/1885): "llegó el 9 de Enero de 1885, en que apareció el decreto del curso forzoso". [F-0086] · probable
+- Memoria de Hacienda 1884 (Pacheco): la Casa de Moneda se "ha limitado á la acuñación de moneda de cobre". [F-0086] · confirmado
+- Roca, mayo de 1886: "la ley de unidad monetaria se encuentra en plena ejecución". [F-0087] · probable
+- Hansen, 1919: monedas de oro argentinas "toutes neuves" que el comercio no aceptaba. [F-0085] · probable
+- Prensa de 1881–1882 (La Nación, La Prensa, El Nacional) sobre las primeras piezas: no se encontró nada en línea; tampoco en Gallica, Papers Past (bloqueado) ni Chronicling America (revisión 2026-11-06). → pista (hemerotecas).
 
 ## Vida posterior (existencias guardadas, ventas oficiales, tesoros, colecciones célebres)
+- **1935: 1.523.329 Argentinos pasan de la Caja de Conversión al Banco Central.** La Memoria del BCRA de su primer ejercicio (31/05–31/12/1935, aprobada el 9/03/1936), anexo VII, sobre la revaluación del oro, lista las monedas de oro transferidas por la Caja de Conversión: "Argentins" 1.523.329, revaluados a 24,8016 m$n cada uno = 37.780.996,53 m$n; águilas de EE. UU. 12.237.843 (51,4087; 629.131.599,43); soberanos 22.300.202 (25,0000; 557.505.050,00); total 1.224.417.645,96 m$n, el valor con que el oro entró al primer balance del Banco Central. [F-0085, p. 178, releído por la sesión principal; traducción francesa de la Memoria] · probable (falta el original en castellano). Cálculos propios: 1.523.329 son el 24 % de las 6.343.022 piezas acuñadas; 24,8016 / 25,0000 = 0,992, la misma relación de contenido de oro entre Argentino y soberano que da el BCRA (99,12 %) [F-0001]; en pesos oro, unos 7,6 millones.
+- **1999:** en los estados contables del BCRA al 31/12/1999 figuran "holdings in gold coinage", valuadas a 290,3 dólares la onza troy (287,1 en 1998), con una previsión del 1 % por pureza; no se dan cantidades ni se menciona una venta [F-0094] · confirmado.
+- **2024:** el comunicado del BCRA sobre sus reservas de oro (2/09/2024) habla solo de "barras y lingotes" y de cuentas en el exterior [F-0114] · confirmado (lo que dice); que ya no queden Argentinos entre las reservas es deducción.
 - **Oro de Moscú (1936):** entre las 16 clases de monedas de oro del Banco de España enviadas a Moscú había "pesos argentinos" (sin cantidad); los soviéticos "jamás explicaron qué hicieron con las monedas raras y antiguas". [F-0065] · probable (presencia); cantidad sin dato.
 - **Lote de los años noventa:** USAGOLD lo atribuye a una liberación del "Uruguay Central Bank" y dice haber colocado "thousands upon thousands" en seis o siete años; para 2006 los grandes lotes se habían agotado [F-0012]; coinvarieties habla de un tesoro de "several thousand" vendido por Stack's [F-0013, F-0061]; Elonce dice que "en los años noventa, el Banco Central vendió reservas de monedas de oro" [F-0076]. · a confirmar
 - Confusión cruzada: USAGOLD atribuye a su vez un lote de unos 80.000 5 pesos uruguayos de 1930 al "Argentina Central Bank in 1998" [F-0066]. · a confirmar. Ver Discrepancias y Supuestos.
 - Pista de catálogo (no es fuente): una nota del catálogo de referencia del mercado menciona que Rusia lanzó al mercado 40.565 Argentinos de su tesoro y que meses después el BCRA vendió miles en Buenos Aires. Sin fuente primaria todavía. → pista.
-- **Venta del BCRA de 1999:** Com. "A" 2837 (04/01/1999) según Wikipedia [F-0015] · a confirmar; un blog enlaza la Com. "A" 2974 del BCRA como la de la venta de 1999 y dice que así llegaron al mercado muchas piezas sin circular de 1887 y 1888 [F-0035] · a confirmar. Ninguna de las dos comunicaciones se pudo abrir.
-- **Venta del BCRA de 2011–2012:** Com. "A" 5258 (07/12/2011, BO 01/02/2012), $80 cada una, $120 las de 1881 y 1896 [F-0003] · confirmado. En septiembre de 2012 ya solo se exhibían [F-0017] · probable.
+- **Venta del BCRA de 1999:** Com. "A" 2837 (04/01/1999) según Wikipedia [F-0015] · a confirmar; la Com. "A" 2974 es de 1999 (ficha de InfoLEG, norma 59679; texto inaccesible) [F-0115] · probable (que existe y es de 1999); un blog enlaza la Com. "A" 2974 del BCRA como la de la venta de 1999 y dice que así llegaron al mercado muchas piezas sin circular de 1887 y 1888 [F-0035] · a confirmar. Ninguna de las dos comunicaciones se pudo abrir.
+- **Venta del BCRA de 2011–2012:** Com. "A" 5258 (07/12/2011, BO 01/02/2012), $80 cada una, $120 las de 1881 y 1896 [F-0003] · confirmado (reverificado 2026-11-06: "El precio de venta al público es de $ 80.-, excepto las de 1881 y 1896, que se comercializan a $ 120."; venta "por tiempo limitado"; las operaciones con mayoristas y bancos "se bonifican por cantidad"). En septiembre de 2012 ya solo se exhibían [F-0017] · probable.
 - **Muestra itinerante del Museo del BCRA** con Argentinos de oro en Concepción de la Sierra (Misiones), octubre de 2012, casi mil visitantes. [F-0075] · probable
 - **Exposición permanente** del Museo del BCRA: Argentinos de oro en la sección de la línea monetaria de 1881. [F-0033] · confirmado
-- **Donación Janson (escritura del 30/05/2017):** 280 monedas sin circular de 1881–1896 con "todas las variaciones de argentinos de oro", más un medio argentino de 1881; el museo pasó a llamarse "Héctor Carlos Janson". [F-0032, F-0034] · confirmado / probable. Frase de Janson: "Yo tenía un hijo, no lo mandé a Rosario, lo mandé al Banco Central" [F-0034].
+- **Donación Janson (acta de donación del 30/05/2017; corrección 2026-11-06: la fuente dice "acta", no "escritura"):** 280 monedas sin circular de 1881–1896 con "todas las variaciones de argentinos de oro", más un medio argentino de 1881; el museo pasó a llamarse "Héctor Carlos Janson". [F-0032, F-0034] · confirmado / probable. Frase de Janson: "Yo tenía un hijo, no lo mandé a Rosario, lo mandé al Banco Central" [F-0034].
+- **Münzkabinett de Berlín:** un Argentino de 1884 (inv. 18221938) de la colección de Heinrich Hardt [F-0091] · confirmado.
 - **Colecciones y pedigríes:** Clapp → Eliasberg (1942) → Spink-Stack's (2005) → Heritage (2013) → Spink [F-0010]; UBS 55, Zúrich, 2002 → Künker [F-0057]; colección "Mountain Groan" (Jean Elsen 149) [F-0061]; series completas en estuche (Spink 341; Künker 446, estuche "Puente Hnos.", €9.000) [F-0056, F-0060] · probable.
 - **Herederas:** la Argentina no volvió a acuñar oro hasta 1994; las conmemorativas de 5 pesos oro de 1995–2008 tienen tamaño, peso y ley parecidos al Argentino. [F-0022] · probable
 
@@ -304,14 +354,18 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 - Vigencia de la Ley 1130 y del argentino oro como unidad en leyes aeronáuticas y de navegación (ver Normativa). [F-0030, F-0031, F-0052, F-0053]
 - Cotización del Argentino Oro (BCRA, según Ámbito): 1/1/1993 $77,79; 2003 $269,54; 2013 $1.909,37; 1/1/2023 $74.910,21. [F-0047] · probable
 - Fallos: junio 2023, condena en A$O 146,22 ("M. M. I. c/ Salvatela S.A.", revocado por la Cámara de Lomas de Zamora) [F-0049, F-0050]; septiembre 2024, A$O 11,64 = $5.157.059,59 [F-0048]. · probable. Cálculo propio: 1 A$O ≈ $443.000 en septiembre de 2024.
+- Cotización oficial: $ 4.287,13 para el primer trimestre de 2017 (Com. "C" 73650) [F-0092] · confirmado. En agosto de 2024 Diario Judicial usaba $ 443.046,35 por argentino oro [F-0095] · probable (coincide con el cálculo propio sobre F-0048). El valor de 2025–2026 no se pudo leer (la página del BCRA carga los datos por script [F-0093]).
+- Fallo de 2024 en "L. L. G. c/ Despegar.com.ar": 6,27 argentinos oro (≈ $2.777.900), revocado por la Sala I de la Cámara de Lomas de Zamora [F-0095] · probable. Julio de 2026: la Cámara Federal de Salta aplicó el tope de "dos argentinos oro por kilogramo" de carga en "Cabezas c/ Aerolíneas Argentinas" [F-0096] · probable. Doctrina: se propone el argentino oro como unidad de cuenta en sucesiones, porque la Ley 1130 "continúa vigente porque nunca fue derogada" [F-0097] · probable.
 - 2001: Rodríguez Saá anuncia una moneda complementaria "argentino" (26/12/2001), que muere con su renuncia (30/12/2001). [F-0072] · probable
 - 2022–2023: propuesta de ahorrar en Argentino Oro [F-0074]; 2023: el Argentino en el debate de la dolarización [F-0016] · probable.
-- 2026: la prensa sigue repitiendo errores ("el mismo tamaño y peso que las libras") [F-0083] · a confirmar (ejemplo de desinformación).
+- 2026: la prensa sigue repitiendo errores ("el mismo tamaño y peso que las libras") [F-0083]; otra nota fecha la serie "1881-1886" [F-0111] · a confirmar (ejemplos de desinformación).
 - Desinformación de mercado: APMEX dice "various other mints" [F-0062]; otros dealers hablan de un "gaucho" en el anverso o de 8,38 g (informado por el agente de nivel 3; no se registró como fuente).
 
 ## Observaciones de mercado
 (Detalle por año en "Por año".) Síntesis de hechos:
-- Rango 2026 para XF de cualquier fecha: USD 950–1.100 (Río de la Plata OA 27) [F-0060].
+- Rango 2026 para XF de cualquier fecha: USD 950–1.100 (Río de la Plata OA 27) [F-0060] · a confirmar; otras casas europeas en 2026: €700–900 y CHF 750 en EF/SPL [F-0060, F-0105].
+- Bullion 2026: USD 981,86–1.193,15 por pieza, unos 22 dólares sobre el metal [F-0107, F-0108].
+- MS-64/65: 1888 MS-65 USD 1.650 (1993) y 1.897,50 (1997); 1888 NGC MS-64 USD 900 (2022); 1883 PCGS MS-64 USD 3.335 (1998) [F-0089].
 - MS-61/62: €750–1.000 (Gadoury, MDC), AUD 1.750 (Drake Sterling) [F-0059, F-0060].
 - AU-55/58: USD 360–576 (Heritage 2013–2023), £350 (Spink) [F-0010, F-0054, F-0056].
 - Series completas de diez: USD 2.900 (Spink 341) y €9.000 (Künker 446, 2026) [F-0056, F-0060].
@@ -319,62 +373,72 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 - Venta oficial BCRA 2011–2012: $80 / $120 [F-0003].
 
 ## Graduación: puntos de desgaste y problemas típicos
-- Ninguna fuente describe los puntos de desgaste específicos; solo "rub to high points" [F-0010], "regular wear on raised surfaces" (CGB) [F-0058] y "strong portrait" [F-0054].
-- Problemas típicos documentados: marcas de bolsa ("bagmarks") en piezas MS-60/62 [F-0055, F-0056]; golpes y raspones en canto y mejilla ("scuff on rim and cheek") [F-0056]; limpiezas [F-0058, F-0060]; huellas de montura [F-0060]; golpe débil en el centro [F-0060]; pátina "honey toned" [F-0054]. · probable
+- Ninguna fuente describe los puntos de desgaste específicos; solo "rub to high points" [F-0010], "regular wear on raised surfaces" (CGB) [F-0058] y "strong portrait" [F-0054]. La revisión de 2026-11-06 buscó guías de desgaste en foros y comunidades en español e inglés sin resultado.
+- Problemas típicos documentados: marcas de bolsa ("bagmarks") en piezas MS-60/62 [F-0055, F-0056]; golpes y raspones en canto y mejilla ("scuff on rim and cheek") [F-0056]; marcas superficiales leves en un EBC [F-0106]; limpiezas [F-0058, F-0060]; huellas de montura [F-0060]; golpe débil en el centro [F-0060]; pátina "honey toned" [F-0054]. · probable
 - Ver Supuestos para los puntos de desgaste esperables.
 
 ## Discrepancias
-- **Tirada 1883:** 909.042 [F-0015] contra 906.042 [F-0022]. A favor de 906.042: el total de 6.343.022 que Santacreu atribuye a la Memoria de la Casa de Moneda [F-0025] y que da Infobae [F-0016]; el total oficial en pesos de 1899 [F-0026] y el acumulado de Agote a fines de 1886 [F-0007] (cálculos en Acuñación). El texto de De Ansó da 6.346.022 aunque su cuadro suma 6.343.022: el 909.042 y el 6.346.022 parecen un error de arrastre (deducción). Falta la Memoria misma.
+- **Tirada 1883:** 909.042 [F-0015] contra 906.042 [F-0022]. A favor de 906.042: el total de 6.343.022 que Santacreu atribuye a la Memoria de la Casa de Moneda [F-0025] y que dan Infobae [F-0016] y USAGOLD [F-0107]; el total oficial en pesos de 1899 [F-0026] y el acumulado de Agote a fines de 1886 [F-0007] (cálculos en Acuñación). El texto de De Ansó da 6.346.022, mientras que su cuadro (1881–1889) más su cifra de 1896 suman 6.343.022: el 909.042 y el 6.346.022 parecen un error de arrastre (deducción). Falta la Memoria misma.
+- **Tirada 1884 contra la Memoria de Hacienda (nueva, 2026-11-06):** 447.900 Argentinos en 1884 [F-0015, F-0022] y barras de Londres traídas ese año "para acuñarlo" [F-0028] contra "las funciones de la Casa de Moneda durante el pasado año se han limitado á la acuñación de moneda de cobre" [F-0086]. Ver Supuestos.
 - **Total en pesos:** 31.716.545 (1899) [F-0026] contra 31.722.625 (1915) [F-0007]. Diferencia de 6.080 pesos sin explicar.
-- **Art. 4 de la Ley 1130:** InfoLEG dice literalmente "limitada" [F-0002]; Pontón y la BCR 2010 dicen "ilimitada" [F-0008, F-0036]. A favor de "ilimitada" (deducción): la frase siguiente pone tope solo a la plata y al cobre, y el oro superó cuatro veces lo previsto. Falta el Registro Nacional 1881.
-- **Fecha de la ley:** resuelta: sanción el 3/11 [F-0002], publicación el 5/11 [F-0025, F-0041]. Se mantiene acá por trazabilidad.
-- **Fin de la convertibilidad:** fines de 1884 (bancos que no venden oro a la par) y marzo de 1885 (curso forzoso) [F-0037] contra enero de 1885 [F-0001, F-0007, F-0008, F-0039]. Wikipedia "Peso Oro Sellado" da octubre de 1885 (descartado, fuente débil con otros errores).
-- **Fin de la acuñación de plata:** 19/10/1883 [F-0035] contra 1884 [F-0004, F-0007]. Podría ser la orden de cese frente a la última fecha de los cuños.
-- **Fino:** 750 ‰ según Santacreu [F-0025] contra 900 ‰ (ley, BCRA, Statesman) [F-0001, F-0002, F-0026]. Se descarta el 750.
-- **Circulación interna:** "parte del circulante de uso local" [F-0022] contra "no circulaban monedas de oro" [F-0007, F-0026].
+- **Art. 4 de la Ley 1130:** InfoLEG dice literalmente "limitada" [F-0002]; dicen "ilimitada" el *Informe del Crédito Público* de 1881 [F-0084], Egas de Ezcurra (1938, "illimitée") [F-0085], Pontón [F-0008] y la BCR 2010 [F-0036]. **Se inclina a "ilimitada"** (probable): una de esas lecturas es oficial y de 1881, la frase siguiente pone tope solo a la plata y al cobre, y el oro superó cuatro veces lo previsto. Falta el Registro Nacional 1881 para cerrarla.
+- **Sistema monetario:** "bimetalista atenuado" (Casa de Moneda) [F-0078], "bimetallic" [F-0098], "Double" (Tesoro de EE. UU., 1887) [F-0099], contra "mono-métallisme or" (Egas de Ezcurra) [F-0085]. Es una diferencia de interpretación: la ley creó dos unidades, pero limitó la plata.
+- **Fecha de la ley:** resuelta: sanción el 3/11 [F-0002], publicación el 5/11 [F-0025, F-0041, F-0100]. Se mantiene acá por trazabilidad.
+- **Fin de la convertibilidad:** **resuelta (2026-11-06):** el acuerdo de curso forzoso es del 9 de enero de 1885 (Registro Nacional, tomo X) [F-0086], como decían Williams, Pontón, Rosa y Martínez [F-0007, F-0008, F-0039, F-0098]. El "marzo de 1885" de della Paolera [F-0037, F-0100] correspondería a un decreto posterior: la Ley 1734 aprobó decretos de enero y de marzo [F-0086]. Corrección: F-0001 ya no se cita como apoyo del mes (solo dice "1885"). Wikipedia "Peso Oro Sellado" daba octubre de 1885 (descartado): podría confundir el decreto con la Ley 1734 de octubre de 1885 (deducción). Fecha de la Ley 1734: 14/10/1885 en el índice de la compilación; el agente leyó 30/10/1885 en otro tramo [F-0086] (a confirmar).
+- **Fin de la acuñación de plata:** **se inclina a 1883:** la Memoria de Hacienda de 1884 dice "desde que en 1883 no se ha acuñado plata" y menciona una ley de octubre de 1883 [F-0086]; Santacreu: la plata "sólo se acuñó entre 1881 y 1883" [F-0025]; también un sitio de comunidad [F-0113]; el día 19/10/1883 [F-0035] es coherente con esa ley de octubre, pero no está confirmado. En contra: 1884 [F-0004, F-0007].
+- **Fino:** 750 ‰ según Santacreu [F-0025] contra 900 ‰ (ley argentina, ley uruguaya, BCRA, Statesman) [F-0001, F-0002, F-0023, F-0026]. Se descarta el 750.
+- **Circulación interna:** "parte del circulante de uso local" [F-0022] contra "no circulaban monedas de oro" [F-0007, F-0026, F-0100] y la anécdota de 1919 [F-0085]. Matiz: en 1884 los bancos sí tenían Argentinos en caja [F-0086].
 - **Ceca:** "most likely" París [F-0013] y "various other mints" [F-0062] contra Buenos Aires [F-0001]. Prevalece la fuente oficial.
-- **Canto:** letras en relieve [F-0058, F-0082] contra "Incuse lettered edge" [F-0056].
-- **Eje:** 6 h [F-0010, F-0056, F-0058] contra 12 h en un lote de MDC [F-0060].
-- **Diámetro:** 22 mm oficial [F-0001] contra 22,12 mm [F-0082] y 20,9 mm [F-0081] (aberrante).
-- **Origen del lote de los 90:** "Uruguay Central Bank" [F-0012] contra Stack's [F-0013] contra "el Banco Central" argentino [F-0076] contra la pista rusa (catálogo).
+- **Canto:** letras en relieve [F-0058, F-0082, F-0090] contra "Incuse lettered edge" [F-0056]; tres estrellas finales [F-0082] contra cuatro [F-0090].
+- **Eje:** 6 h [F-0010, F-0056, F-0058, F-0090, F-0091] contra 12 h en un lote de MDC [F-0060]. Prácticamente resuelta a favor de 6 h.
+- **Diámetro:** 22 mm oficial [F-0001, F-0091] contra 22,1–22,12 mm [F-0082, F-0104] y 20,9 mm [F-0081] (aberrante).
+- **Origen del lote de los 90:** "Uruguay Central Bank" [F-0012] contra Stack's [F-0013] contra "el Banco Central" argentino [F-0076] contra la pista rusa (catálogo). La transferencia de 1935 [F-0085] hace más verosímil un origen en el BCRA (ver Supuestos).
 - **Barre:** el sucesor Jean-Auguste asumió en 1878 o en 1879 según la página [F-0070].
 - **Efigie:** en.wikipedia (Allegorical representations) dice que Oudiné la grabó en 1881; las cartas de 1880 muestran que fue en 1880 [F-0024]. Prevalece 1880.
-- **Venta de 1999:** Com. "A" 2837 [F-0015] contra Com. "A" 2974 [F-0035].
+- **Venta de 1999:** Com. "A" 2837 [F-0015] contra Com. "A" 2974 [F-0035, F-0115].
 - **Donación Janson:** 30/05/2017 [F-0032] contra "el pasado miércoles" (31/05) en El Cronista del 2/06 [F-0034].
+- **Tirada de 1885 en un foro:** 404.000 [F-0109] contra 203.908 [F-0015, F-0022]: probable error de copia (la cifra se parece a la de 1889).
 
 ## Supuestos
 - **Tirada 1883 = 906.042 y total 6.343.022** (ahora `probable`, ya no solo supuesto): se mantiene como supuesto la explicación de que 909.042 sea un error de transcripción. Se apoya en los cálculos con F-0007 y F-0026 y en el cuadro de F-0022.
+- **InfoLEG transcribió mal el art. 4** ("limitada" por "ilimitada"). Se apoya en F-0084 (oficial, 1881), F-0085, F-0008 y F-0036 y en la lógica del artículo. · supuesto
+- **La frase "limitado á la acuñación de moneda de cobre" de 1884** podría referirse solo a la acuñación por cuenta del Estado: el oro se amonedaba a pedido de bancos y particulares que traían el metal (como las barras del Banco Nacional [F-0028]) y la Memoria no lo contaría como función propia; o "el pasado año" podría ser un ejercicio distinto del año calendario. Se apoya en F-0028 y F-0086. · supuesto
 - **Tirada baja de 1881 por calendario:** ley de principios de noviembre [F-0002, F-0025], emisión desde noviembre [F-0024], personal novato [F-0006]. · supuesto
 - **El director que habló en 1886 sería Castilla,** que seguía en el cargo en 1897 [F-0004]. · supuesto
 - **El pico de 1887–1888** respondería al oro que entró para los Bancos Garantidos [F-0037] y al auge de importación de metálico [F-0007], amonedado a pedido; y buena parte habría vuelto a salir enseguida, como muestran los depósitos de Nueva York de 1887 [F-0027]. · supuesto
 - **El hiato 1890–1895** se explicaría por la crisis Baring [F-0020], el premio del oro (191 en 1889, 251 en 1890) [F-0040, F-0045] y la falta de metálico [F-0040]. · supuesto
 - **El color pálido de 1896** vendría de la liga de los cóndores chilenos fundidos [F-0022, F-0025]. · supuesto
-- **Las existencias del BCRA** vendrían de reservas antiguas (Caja de Conversión, Banco de la Nación), porque incluían todas las fechas [F-0003, F-0080]. · supuesto
-- **Origen del lote de los 90:** la atribución "Uruguay Central Bank" podría ser una confusión con el lote uruguayo de 1930 atribuido al BCRA [F-0012, F-0066]; el lote de Argentinos podría venir de la venta del BCRA de 1999 [F-0015, F-0035, F-0076] o de reservas rusas originadas en el Oro de Moscú [F-0065]. · supuesto (tres hipótesis abiertas)
+- **Las existencias que el BCRA vendió en 1999 y 2011–2012 vendrían de los 1.523.329 Argentinos que recibió de la Caja de Conversión en 1935** [F-0085], lo que explicaría que tuviera todas las fechas [F-0003] y que muchas piezas fueran sin circular [F-0035]. Reemplaza el supuesto anterior (reservas antiguas sin identificar): ahora la transferencia está documentada, pero falta seguir las existencias entre 1935 y 1999 (¿hubo fundiciones?). · supuesto
+- **Origen del lote de los 90:** la atribución "Uruguay Central Bank" podría ser una confusión con el lote uruguayo de 1930 atribuido al BCRA [F-0012, F-0066]; el lote de Argentinos podría venir de la venta del BCRA de 1999 [F-0015, F-0035, F-0076], hoy más verosímil por la existencia documentada de 1,5 millones de piezas en el Banco Central [F-0085], o de reservas rusas originadas en el Oro de Moscú [F-0065]. Los MS-65 de 1888 vendidos en 1993 y 1997 [F-0089] muestran que había piezas excepcionales en el mercado antes de 1999. · supuesto (hipótesis abiertas)
 - **El nombre "argentino" y su peso de 8,064 g** vendrían del proyecto de 1879 [F-0044], y el programa iconográfico de la Ley 733 de 1875 [F-0029]. · supuesto (el segundo es casi seguro por el texto; el primero depende de una fuente débil)
 - **La Libertad del Argentino deriva de la Cérès de 1849** de Oudiné, cambiando la corona de espigas por el gorro frigio [F-0024, F-0070]. · supuesto
+- **La "variante de canto" de Chao** sería la de la leyenda que empieza en otra posición, que los catálogos listan para 1886–1888 [F-0102]. · supuesto
 - **Falsificaciones:** el riesgo principal serían imitaciones para el mercado del metal, salvo 1881 y 1896; las fichas de latón no son falsificaciones sino juguetes o fichas [F-0067, F-0068]. · supuesto
 - **Graduación:** primeros puntos de desgaste esperables por el relieve: cabello sobre la frente, mejilla (señalada en F-0056) y gorro frigio de la Libertad; sol y pliegues de las banderas del escudo; débil golpe central como defecto de acuñación [F-0060]. · supuesto
 
 ## Pistas para la próxima sesión
-- **Permisos de lectura:** varias fuentes clave quedaron bloqueadas porque el entorno no aprobó URLs nuevas o agotó el cupo de búsqueda (≈200 por turno). Ver bitácora.
-- **Tiradas oficiales:** Reports of the Director of the US Mint 1882–1898 en FRASER (fraser.stlouisfed.org, fichas 701454–701459 para 1882–1889 y 700660–700664 para 1894–1898): tablas "Coinage of nations" y "Foreign coins deposited". Memorias de Hacienda 1881–1897 en el CDI del Ministerio de Economía (cdi.mecon.gob.ar, colección memoria2): buscar los anexos "Casa de Moneda". Castilla, *Memorias de Casa de Moneda correspondientes al año 1881* (presentada el 5/09/1882). Cunietti-Ferrando, *Monedas de la República Argentina* (1965), como fuente intermedia.
-- Statesman's Year-Book 1883–1898 (kiwix wikisource) para reconstruir acumulados anuales.
-- Alberto B. Martínez, *Les finances de la République Argentine* (1898), HathiTrust 006250856; Latzina, *Estadística retrospectiva del comercio exterior argentino 1875-1904*.
-- BCRA Com. "A" 2974 (bcra.gob.ar/pdfs/comytexord/A2974.pdf; InfoLEG norma-59679) y Com. "A" 2837 (venta de 1999).
+- **Memoria del BCRA de 1935 en castellano** (bcra.gob.ar publica memorias históricas en PDF; aparecieron las de 1940, 1943, 1944, 1961, 1973 y 1983; la de 1940 es un escaneo sin texto): citar el cuadro original de los 1.523.329 Argentinos; seguir las existencias en memorias posteriores (1936–1998) hasta la venta de 1999.
+- **Tiradas oficiales:** *Informe del Crédito Público* de Agote, vols. 2 (1884), 3 (1885) y 4 (1887) en Google Books (ICUy-ddZtDwC, PnbIxlANcH8C, kjNyCFElb9EC): probable origen oficial de las cifras 1881–1886. Reports of the Director of the US Mint 1882–1898 (FRASER: fichas 701454–701459 y 700660–700664; PDF bloqueados). Memorias de Hacienda 1885–1897 en cdi.mecon.gob.ar (anexo Casa de Moneda). Castilla, *Memorias de Casa de Moneda* 1881–1896.
+- Registro Nacional 1881 (art. 4 literal, tablas del art. 2, decreto reglamentario) y 1883 (ley de octubre sobre la plata): catálogo bdu.siu.edu.ar (Registro Nacional 1888, tomo 34, ya catalogado). es.wikisource.org da "url_not_found" en todas las páginas (Bancos y moneda 1854–1890, Ley 974, decretos de inconversión).
+- Volúmenes de argentina1810-1910.com "Año 1881" a "Año 1884" y "1887"–"1889" (no aparecieron en búsquedas).
+- BCRA Com. "A" 2974 (InfoLEG norma 59679, error del servidor) y Com. "A" 2837 (venta de 1999).
+- Cotización del argentino oro 2025–2026 (Com. "C" en el Boletín Oficial; página del BCRA con script) y texto del Decreto 75/1976 (InfoLEG norma 403229, error del servidor).
+- Variante de canto de Fernando Chao: buscar el artículo original (Círculo Numismático de Rosario, jornadas FENyMA). Variante CUDINE: descripción publicada; eBay 205033994006 (1882, PCGS).
+- Censo de PCGS; alinear por grado el censo de NGC (captura humana); NGC Auction Central de 1881, 1885, 1887, 1889 y 1896 (ngccoin.com rechazó las lecturas en la ronda 2).
+- Testolino (F-0024): el PDF de IFINRA da PROVENANCE_REQUIRED; la entrada https://ifinra.org/2023/11/26/dos-libertades-un-mismo-anhelo-por-rolando-testolino/ no apareció en resultados de búsqueda. Sus datos quedan sin reverificar (probable). También la efeméride de IFINRA sobre Oudiné (2018).
+- Statesman's Year-Book 1884–1898 (solo apareció 1896 en Springer, con muro de pago).
 - Taullard (1924), p. 143, y Cunietti-Ferrando (1989), p. 156: leer en directo.
-- Registro Nacional 1881 (art. 4 literal, promulgación, tablas del art. 2) y decreto reglamentario; Registro Nacional 1879 (proyecto del "argentino"; Ley 974).
-- Diario de Sesiones de 1881 (Biblioteca del Congreso).
+- Diario de Sesiones de 1881 (Biblioteca del Congreso); PDF de la HCDN con intervenciones de Pellegrini como senador.
 - Matassi (2009), *Cuadernillo de Extensión Cultural*, "Cartas E. Oudiné"; Padorno y Villagra (2012), *Eugène André Oudiné*.
 - Ley uruguaya 1668 (impo.com.uy) para la fecha exacta.
-- Oro de Moscú: TFG uvadoc 10324/46878 y nota 71 de es.wikipedia (cantidad de pesos argentinos); venta rusa de 40.565 piezas (fechar la nota del catálogo y buscar prensa 1995–2000).
-- Censos de PCGS y NGC; Heritage 3019-26185 (1888 MS64) precio; Stack's Bowers 3-DNTXX, 3-J6QV4, 3-ROK23; Sedwick 38-835 precio; Río de la Plata 24 (auction.rpnumis.com).
-- Fotos de canto para resolver relieve/incuso y la posición de la leyenda; buscar ejemplares con los errores de canto citados por catálogos.
-- Estuche "Puente Hnos.".
-- Biografía de Castilla (nacimiento, muerte, formación); Herrero Ducloux (1922) sobre Kyle.
-- Blogs no accesibles: monedasargentinas95-2.blogspot.com, julennumismatika.blogspot.com, historiaymonedas.blogspot.com.
-- El Observador (Uruguay), "Argentino Oro: la moneda que puede garantizar la dolarización de Milei" (20/09/2023).
-- Para la serie 02: Dabbah (tolerancia de fino, 9 piezas de 1881, 421 de 1884; tres en manos privadas, cinco en instituciones, una desconocida) [F-0042, F-0043]; medio argentino de 1881 en la donación Janson [F-0034]; Río de la Plata 24, medio argentino 1884 "variante rara" MS62.
+- Oro de Moscú: TFG uvadoc 10324/46878 y nota 71 de es.wikipedia (cantidad de pesos argentinos); venta rusa de 40.565 piezas (sin rastro en la revisión).
+- Tesis de Egas de Ezcurra [F-0085]: leer el resto de las actas de 1919 y el capítulo sobre la Caja de Conversión (existencias de "argentins" entre 1900 y 1935).
+- Fotos de canto para resolver relieve/incuso, número de estrellas y la posición de la leyenda.
+- Estuche "Puente Hnos." (solo aparece en Künker 446).
+- Biografía de Castilla (nacimiento, muerte, formación, fin del cargo): sin resultados en cuatro formulaciones; Herrero Ducloux (1922) sobre Kyle.
+- Blogs no accesibles: monedasargentinas95-2.blogspot.com (robots), julennumismatika.blogspot.com, historiaymonedas.blogspot.com; monedasuruguay.com/bib/d/dabbah.pdf (error).
+- El Observador (Uruguay), 20/09/2023 (bloqueado).
+- Para la serie 02: Dabbah (tolerancia de fino, 9 piezas de 1881, 421 de 1884; tres en manos privadas, cinco en instituciones, una desconocida) [F-0042, F-0043]; medio argentino de 1881 en la donación Janson [F-0034]; Río de la Plata 24, lote 164: 2,5 pesos 1884 CJ 11.2 NGC MS62, 4,04 g [F-0103]; ficha comunitaria del medio argentino: ≈4 g, 19 mm, canto estriado [F-0113]; Urs Graf (catálogo, pista): el medio argentino "tuvo que ser detenido por razones técnicas".
 
 ---
 
