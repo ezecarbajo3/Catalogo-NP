@@ -22,6 +22,11 @@
 - 1896: re-acuñación de oro extranjero (cóndores chilenos) a pedido de bancos; costas 80 pesos por 1.000 pesos oro. [F-0022, F-0025] · probable
 - Historia institucional oficial: "sistema bimetalista atenuado con base en el Peso Oro o Argentino"; prensas de billetes Lambert (1898–1900). [F-0078] · confirmado
 
+- 1883: cesa la acuñación de plata; 1884: según la Memoria de Hacienda, la casa "se ha limitado á la acuñación de moneda de cobre" (choca con la tirada de oro de 1884 atribuida por la comunidad). [F-0086] · confirmado (lo que dice la Memoria)
+- 1885: la reglamentación de la Ley 1734 encarga a la Casa de Moneda sellar los billetes en la Capital. [F-0086] · probable
+- El oro amonedado no venía de minas argentinas: producción estimada de 20.000 dólares en 1886 y 30.000 en 1887. [F-0027] · confirmado
+- Edificio proyectado por Castilla "in an Italianate style". [F-0116] · a confirmar
+
 ## Pistas
 - Memorias de Casa de Moneda 1881–1910 (citadas en F-0006 y F-0025): fuente oficial de tiradas para todo el primer cono. Memorias de Hacienda en cdi.mecon.gob.ar (colección memoria2).
 - Biografía de Eduardo Castilla (sin datos en línea). Herrero Ducloux (1922) sobre Kyle.

@@ -305,7 +305,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-04 (releída por la sesión principal)
 - Cita clave: p. 13: el Banco Nacional buscaba aumentar su encaje "haciendo venir de Lóndres barras de este metal para acuñarlo"; p. 14: "tuvo que suspender las órdenes para traer barras de oro"; "Bajamos el cambio á un tipo que impidiese la extraccion de oro"; p. 28 (nota del 9/01/1885): "Ha convertido sus billetes en oro en el solo mes de Agosto, por la suma de seiscientos cuarenta mil pesos nacionales oro". No trae la sección Casa de Moneda.
 - Usada en: serie 01
-- Revisión 2026-11-06: reabierta por el agente de la ronda 2 (Tomo II, Parte II, Memoria del Banco Nacional, Buenos Aires, 1886): p. 13 "venir de Lóndres barras de este metal para acuñarlo"; p. 14 "Los fondos públicos se realizaron en 30 de Abril de 1884" y "el Banco tuvo que suspender las órdenes para traer barras de oro"; p. 28 (carta del 9/01/1885) "en el solo mes de Agosto, por la suma de seiscientos cuarenta mil pesos nacionales oro"; p. 18: los cuatros y las chirolas fueron "reacuñadas" por el Gobierno.
+- Revisión 2026-11-06: reabierta por el agente de la ronda 2 (Tomo II, Parte II, Memoria del Banco Nacional, Buenos Aires, 1886): p. 13 "venir de Lóndres barras de este metal para acuñarlo"; p. 14 "Los fondos públicos se realizaron en 30 de Abril de 1884" (según p. 19, ese día los compraron banqueros de París) y "el Banco tuvo que suspender las órdenes para traer barras de oro"; p. 28 (carta del 9/01/1885) "en el solo mes de Agosto, por la suma de seiscientos cuarenta mil pesos nacionales oro"; p. 18: los cuatros y las chirolas fueron "reacuñadas" por el Gobierno.
 
 ### F-0029
 - Título: Ley 733 de la moneda nacional, su tipo, fabricación y valor (1875) — texto
