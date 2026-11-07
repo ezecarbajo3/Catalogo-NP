@@ -27,6 +27,10 @@
 - El oro amonedado no venía de minas argentinas: producción estimada de 20.000 dólares en 1886 y 30.000 en 1887. [F-0027] · confirmado
 - Edificio proyectado por Castilla "in an Italianate style". [F-0116] · a confirmar
 
+- 3/11/1881: comienza la acuñación; "falta absoluta de personas aptas" y personal formado en la casa; el director: la acuñación, "la mas difícil y precisa de las industrias conocidas" [F-0163] · confirmado.
+- 1883–1884: suspensión de la plata por la ley de emisión menor y luego "por órden superior"; en 1884 la plata entrada era "para ser fundida y remitida á Europa"; 10.135 kg de pasta remitidos a Londres [F-0028] · confirmado / probable (OCR).
+- 1889 (Paraguay): cuños de Gotuzzo (y Ferrarosa); José Domingo terminó la acuñación con material de canto de los patacones ("IGUALDAD ANTE LA LEY") [F-0173, F-0174] · probable.
+
 ## Pistas
 - Memorias de Casa de Moneda 1881–1910 (citadas en F-0006 y F-0025): fuente oficial de tiradas para todo el primer cono. Memorias de Hacienda en cdi.mecon.gob.ar (colección memoria2).
 - Biografía de Eduardo Castilla (sin datos en línea). Herrero Ducloux (1922) sobre Kyle.

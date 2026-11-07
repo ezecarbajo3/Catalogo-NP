@@ -20,7 +20,7 @@ Orden: cronológico por año de inicio del tipo y, dentro de un mismo período, 
 |---|---|---|---|---|---|---|---|
 | 01 | 5 pesos oro "Argentino" | 1881–1896 | 1–10 | 2i+1r | 2i+1r | completa | monedas/1-peso-moneda-nacional/01-5-pesos-oro-argentino-1881-1896.md |
 | 02 | 2½ pesos oro "Medio Argentino" | 1881–1884 | 11 | 1i+1r | 1i+1r | completa | monedas/1-peso-moneda-nacional/02-2-5-pesos-oro-medio-argentino-1881-1884.md |
-| 03 | 1 peso plata "Patacón" | 1881–1883 | 12–14 | 1i+1r | — | pendiente | monedas/1-peso-moneda-nacional/03-1-peso-plata-patacon-1881-1883.md |
+| 03 | 1 peso plata "Patacón" | 1881–1883 | 12–14 | 1i+1r | 1i | a revisar | monedas/1-peso-moneda-nacional/03-1-peso-plata-patacon-1881-1883.md |
 | 04 | 50 centavos plata "Medio Patacón" | 1881–1883 | 15–17 | 1i+1r | — | pendiente | monedas/1-peso-moneda-nacional/04-50-centavos-plata-1881-1883.md |
 | 05 | 20 centavos plata | 1881–1883 | 18–20 | 1i+1r | — | pendiente | monedas/1-peso-moneda-nacional/05-20-centavos-plata-1881-1883.md |
 | 06 | 10 centavos plata | 1881–1883 | 21–23 | 1i+1r | — | pendiente | monedas/1-peso-moneda-nacional/06-10-centavos-plata-1881-1883.md |

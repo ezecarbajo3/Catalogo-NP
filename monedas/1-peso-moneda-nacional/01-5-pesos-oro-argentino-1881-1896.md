@@ -134,7 +134,7 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 
 | Año | Tirada | Fuente | Confianza | Nota |
 |---|---|---|---|---|
-| 1881 | 37.152 | F-0015, F-0018, F-0022, F-0055 | probable | La tirada más baja. 1881–1883 suman 1.195.286, la cifra oficial "hasta el 31/12/1883" [F-0028]. |
+| 1881 | 37.152 | F-0163 (Memoria de Hacienda 1881: "Especies fabricadas hasta 31 de Diciembre 1881"); F-0015, F-0018, F-0022, F-0055 | confirmado (2026-11-07, sesión de la serie 03) | La tirada más baja. Acuñada desde el 3/11/1881 [F-0163]. Al 6/07/1882 se llevaban 276.282 Argentinos (239.130 en 1882) [F-0163]. 1881–1883 suman 1.195.286, la cifra oficial "hasta el 31/12/1883" [F-0028]. |
 | 1882 | 252.092 | F-0015, F-0022 | probable | |
 | 1883 | 906.042 | F-0022 (906.042); F-0015 (909.042); F-0028 (suma oficial 1881–1883) | probable (cifra); la suma 1881–1883 es confirmada | Discrepancia: ver abajo. 906.042 cuadra con F-0007, F-0025 y F-0026. |
 | 1884 | 447.900 | F-0028 (Memoria de la Casa de Moneda 1884, cuadro N.º 4), F-0015, F-0022 | **confirmado** (sesión 2026-11-06, serie 02) | |
@@ -215,7 +215,7 @@ Cada dato con su fuente y su confianza (`confirmado` · `probable` · `a confirm
 
 ## Por año
 ### 1881
-- Tirada 37.152 [F-0015, F-0018, F-0022] · probable. Emisión iniciada en noviembre [F-0024] · probable; pocas piezas para autoridades [F-0042] · probable.
+- Tirada 37.152 [F-0163, F-0015, F-0018, F-0022] · confirmado (Memoria de Hacienda 1881, hallada en la sesión de la serie 03). Emisión iniciada el 3/11/1881 [F-0163] · confirmado (antes: "en noviembre" [F-0024] · probable); pocas piezas para autoridades [F-0042] · probable.
 - Variante de último dígito "2.º 1 elevado" (CJ 1.2) en Río de la Plata OA 26, lote 180 (XF, 8,07 g, USD 1.000) y Gadoury XXI lote 775 (PCGS Genuine Cleaned, €900) [F-0060]; Sedwick 38 lote 835 (14/11/2025, estimación USD 1.000–1.500): "final 1/1", último dígito repunzonado sobre uno elevado, NGC MS 62, "light bagmarks" [F-0055]. · probable. Gadoury XXI es del 17/10/2026 [F-0060].
 - Mercado: NGC MS-61, Stack's Bowers, feb. 2023, lote 71319, USD 600 [F-0013] · a confirmar; Río de la Plata OA 27 lote 203, XF, 8,11 g, USD 1.100 [F-0060] · probable.
 - Prima en la venta del BCRA de 2012 [F-0003] · confirmado. Censo NGC: 45 [F-0088]. Gadoury: "Seulement 37.152 exemplaires frappés. Rare" (CJ 1.2) [F-0060] · probable.
@@ -543,7 +543,7 @@ Las cantidades por año siguen sin un documento oficial que las respalde una por
 
 | Año | Tirada | Censo NGC (MS) | Fuente y confianza |
 |---|---|---|---|
-| 1881 | 37.152 | 45 | [F-0015, F-0018, F-0022 · probable]; censo [F-0088] |
+| 1881 | 37.152 | 45 | [F-0163]; censo [F-0088] |
 | 1882 | 252.092 | 16 (+2 CUDINE) | [F-0015, F-0022 · probable]; censo [F-0088] |
 | 1883 | 906.042 (909.042 en Wikipedia) | 55 | [F-0022 · probable]; censo [F-0088] |
 | 1884 | 447.900 | 15 | [F-0028; F-0015, F-0022]; censo [F-0088] |
@@ -556,7 +556,7 @@ Las cantidades por año siguen sin un documento oficial que las respalde una por
 | 1896 | 196.543 | 56 | [F-0015, F-0022 · probable]; censo [F-0088] |
 | Total | 6.343.022 | 568 | [F-0016, F-0025, F-0107 · probable]; censo [F-0088] |
 
-**1881, el año del arranque.** Con 37.152 piezas es la tirada más baja de la serie [F-0015, F-0018, F-0022 · probable]. Testolino ubica el comienzo de la emisión en noviembre de 1881 [F-0024 · probable]. Según Ariel Dabbah, ese año se acuñaron unas pocas piezas de cada tipo para las autoridades, entre ellas nueve medios argentinos [F-0042, F-0043 · probable].
+**1881, el año del arranque.** Con 37.152 piezas es la tirada más baja de la serie, una cifra que hasta 2026 circulaba sin respaldo y que la Memoria de Hacienda de 1881 confirma con su cuadro de las especies fabricadas hasta el 31 de diciembre de ese año [F-0163; antes F-0015, F-0018, F-0022]. La acuñación empezó el 3 de noviembre de 1881 [F-0163], en línea con Testolino, que la ubica en noviembre [F-0024 · probable]; al 6 de julio de 1882 ya se habían hecho 276.282 Argentinos, 239.130 de ellos en el primer semestre de 1882 [F-0163]. Según Ariel Dabbah, ese año se acuñaron unas pocas piezas de cada tipo para las autoridades, entre ellas nueve medios argentinos [F-0042, F-0043 · probable].
 
 > **Supuesto.** La tirada tan baja de 1881 se explicaría por el calendario: la ley es de los primeros días de noviembre [F-0002, F-0025] y la emisión empezó ese mes [F-0024], con un personal recién formado [F-0006]; quedaban unas ocho semanas de trabajo. Para confirmarlo habría que encontrar en la Memoria de la Casa de Moneda de 1881, que Castilla presentó el 5 de septiembre de 1882, las fechas de la primera acuñación de oro.
 

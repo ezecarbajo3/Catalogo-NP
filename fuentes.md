@@ -40,7 +40,7 @@ Formato de cada entrada:
 - Nivel: 1
 - Consultada: 2026-11-03
 - Cita clave: Art. 3: el "Argentino" y el "Peso plata" llevan en el canto la inscripción "Igualdad ante la ley"; todas las monedas llevan el escudo nacional en el anverso y en el reverso un busto con gorro frigio y la palabra "Libertad". Fecha indicada en la página: "Sanción: 03-11-1881". Las tablas del art. 2 (pesos, diámetros, tolerancias) están como imagen y no se pudieron leer.
-- Usada en: serie 01, temas/ley-1130-unificacion-monetaria.md, serie 03
+- Usada en: serie 01, temas/ley-1130-unificacion-monetaria.md, serie 03 (art. 1: peso de oro y peso de plata como unidades), serie 03
 
 ### F-0003
 - Título: Comunicación "A" 5258 (07/12/2011), CIRMO 3-45 — Anexo, punto 1.3.3 (venta de Argentinos oro)

@@ -20,6 +20,17 @@ Afecta a las series 01 a 08 (sistema peso moneda nacional, primer cono 1881–18
 - La plata dejó de acuñarse en 1883 ("desde que en 1883 no se ha acuñado plata"; una ley de octubre de 1883 hizo innecesaria la plata fraccionaria) [F-0086, F-0025] · confirmado/probable; otras fuentes dicen 1884 [F-0004, F-0007].
 - 1935: la Caja de Conversión transfirió al BCRA 1.523.329 Argentinos (24,8016 m$n c/u), 12.237.843 águilas y 22.300.202 soberanos [F-0085] · probable.
 
+## La plata (agregado 2026-11-07, sesión de la serie 03)
+- Art. 2, tabla de la plata (transcripción de Gancedo): peso 25 g / 37 mm; 50 c 12,5 g / 30 mm; 20 c 5 g / 23 mm; 10 c 2,5 g / 18 mm; 5 c 1,5 g / 16 mm (no acuñada); todas 900. [F-0134] · confirmado. Tolerancias sin rótulo [F-0134] · a confirmar.
+- La Memoria de Hacienda de 1881 llama a la Ley 1130 "ley de 5 de noviembre" y también "ley de 3 de Noviembre"; Gancedo: sanción 5/11, promulgación 9/11 [F-0163, F-0134] · ver serie 03, Discrepancias.
+- Acuñación desde el 3/11/1881; especies fabricadas hasta el 31/12/1881: 37.152 Argentinos, 9 medios, 62.026 pesos, 1.020 de 50 c, 2.018 de 20 c, 1.020 de 10 c (103.245 piezas); acumulado al 6/07/1882: 1.208.580 piezas, $ 1.715.624,10 [F-0163] · confirmado.
+- Total de plata acuñada: $ 2.805.839,60 (70.104 kg), con 573.737 pesos, 2.786.847 de 50 c, 2.393.995 de 20 c y 3.598.801 de 10 c; ningún peso en 1884; fraccionaria en 1884 con el metal en existencia [F-0028] · confirmado. El tope de 4 millones del art. 7 nunca se alcanzó.
+- Ley 1.334 (sanc. 28/09/1883, promulgada el 4/10/1883): billetes convertibles menores de un peso hasta 6 millones, con depósito en monedas fraccionarias de un peso (≥ 1/5 de los billetes) [F-0164] · confirmado; es la "ley sobre emisión menor" que hizo suspender la plata [F-0028] · probable.
+- Ley 1.354 (17/10/1883) "Sobre unificación de moneda": billetes solo en pesos oro; plata nacional forzosa entre particulares hasta 5 pesos por pago; prohibición de la plata extranjera a los seis meses [F-0164] · confirmado.
+- Decreto del 19/07/1884: desmonetización de la plata extranjera [F-0028] · confirmado.
+- 1890: el Banco Nacional remitió a Europa 100.000 pesos en plata nacional y tenía otros 350.000 [F-0166] · confirmado. V. F. López (1891): "tímido ensayo de bimetalismo" [F-0166].
+- No se encontró la norma de desmonetización del peso de plata nacional (Numista: 1/01/1896, sin norma) [F-0190] · a confirmar.
+
 ## Pistas
 - Informes del Crédito Público de Agote, vols. 2–4 (Google Books) y Memoria del BCRA 1935 en castellano.
 - Conseguir el texto del Registro Nacional 1881 con las tablas del art. 2 y el decreto reglamentario de 1881.
