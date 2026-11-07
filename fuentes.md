@@ -40,7 +40,7 @@ Formato de cada entrada:
 - Nivel: 1
 - Consultada: 2026-11-03
 - Cita clave: Art. 3: el "Argentino" y el "Peso plata" llevan en el canto la inscripción "Igualdad ante la ley"; todas las monedas llevan el escudo nacional en el anverso y en el reverso un busto con gorro frigio y la palabra "Libertad". Fecha indicada en la página: "Sanción: 03-11-1881". Las tablas del art. 2 (pesos, diámetros, tolerancias) están como imagen y no se pudieron leer.
-- Usada en: serie 01, temas/ley-1130-unificacion-monetaria.md
+- Usada en: serie 01, temas/ley-1130-unificacion-monetaria.md, serie 03
 
 ### F-0003
 - Título: Comunicación "A" 5258 (07/12/2011), CIRMO 3-45 — Anexo, punto 1.3.3 (venta de Argentinos oro)
@@ -61,7 +61,7 @@ Formato de cada entrada:
 - Nivel: 1
 - Consultada: 2026-11-03
 - Cita clave: 29/09/1875 "creada por Ley Nº 733 Casa de Moneda de la Nación"; 14/02/1881 el Ing. Eduardo Castilla "inaugura la Ceca ubicada en las intersecciones de las calles México y Defensa".
-- Usada en: serie 01, temas/casa-de-moneda.md
+- Usada en: serie 01, temas/casa-de-moneda.md, serie 03
 
 ### F-0005
 - Título: Supuestos ensayos argentinos de 1880
@@ -71,10 +71,10 @@ Formato de cada entrada:
 - Nivel: 2
 - Consultada: 2026-11-03
 - Cita clave: sobre los 5 pesos fechados 1880 listados en catálogos: "no hemos podido conocer ninguna tanto en colecciones particulares como en Museos". Oudiné, "uno de los grabadores de la ceca parisina", trabajó matrices y punzones encargados por Eduardo Castilla (1878).
-- Usada en: serie 01
+- Usada en: serie 01, serie 03
 - Revisión 2026-11-06 (serie 02): publicado por IFINRA el 26/07/2020. p. 5, pie de la imagen 5: "Matriz original correspondiente al anverso de la moneda de 2 ½ Pesos, en la cual se puede apreciar la existencia de un 0 cubierto intencionalmente para reproducción de cuños" (crédito p. 10: Museo de la S.E. Casa de Moneda); "No hubo apertura de cuños fechados 1880"; las piezas de 2½ pesos fechadas 1880 (CJ 32) son fantasías hechas con matrices oficiales en la segunda mitad del siglo XX, en plata 900, bronce, plata baja y cobre, "casi tan abundantes como las de 1 Patacón", con "un estriado recto en el canto" (p. 8), rareza R2–R3 (p. 9); estampados cruzados: anverso de 2½ sobre una acuñación de 1 peso y cuño de 2½ en cospel mayor (pp. 9–10). Usada también en serie 02.
 - Revisión 2026-11-06 (serie 02, revisión; corregida tras la auditoría): el artículo dice que el Museo de la Casa de Moneda, el Museo Janson (BCRA), el Museo Mitre y el Archivo y Museo Histórico del Banco Provincia "no poseen en su patrimonio piezas de 1880"; rareza R2 en plata, bronce y plata baja, R3 en cobre; "una mejor calidad de laminado del cospel". Ubica su fabricación "entre los años '70 y '80" (del siglo XX), coherente con la conclusión "segunda mitad del siglo XX" (lectura del agente de la ronda 2 y del auditor).
-
+- Revisión 2026-11-07 (serie 03): sobre el 1 peso: prueba en cobre de 1881, CJ 45.2, canto "IGUALDAD * ANTE * LA *LEY ****", "rarísimas piezas de 1 Peso" (p. 4); fantasías de 1 peso 1880, CJ 33, R1, "Las más abundantes son las de 1 Peso", plata 900, canto liso, cospel sin listel, corte horizontal en el canto, "120 piezas argentinas de 1 Peso en plata .900 fechadas 1880" (pp. 7–8), estimación de unas 200; Spink Zúrich 16/04/1986; Krause Pn20; NGC MS61.
 ### F-0006
 - Título: Comienzos de la Casa de Moneda
 - Autor / institución: Nora E. Matassi — IFINRA (sin fecha visible)
@@ -83,7 +83,7 @@ Formato de cada entrada:
 - Nivel: 2
 - Consultada: 2026-11-03
 - Cita clave: Castilla señala que el personal novicio se ejercitó "por haber fabricado con cobre los diferentes tipos de moneda proyectada"; obras del edificio 12/07/1879 – 31/01/1881. Bibliografía: "Memorias de Casa de Moneda años 1881-1910".
-- Usada en: serie 01, temas/casa-de-moneda.md
+- Usada en: serie 01, temas/casa-de-moneda.md, serie 03
 
 ### F-0007
 - Título: Argentine International Trade Under Inconvertible Paper Money, 1880-1900
@@ -93,8 +93,8 @@ Formato de cada entrada:
 - Nivel: 2
 - Consultada: 2026-11-03
 - Cita clave: p. 34: "Gold was coined until 1896, the total amount being 31,722,625 pesos, about four times the number that the act called for" (cita Extracto Estadístico de la República Argentina, 1915, p. 299). A fines de 1886, con 11.225.000 pesos oro acuñados, el director de la Casa de Moneda desaconsejó seguir acuñando: "the gold coined has been shipped or melted down" (cita P. Agote, Finances of the Argentine Government, ed. IV, 1887, p. 595 y ss.). p. 33: ley del 5 de noviembre de 1881.
-- Usada en: serie 01, temas/ley-1130-unificacion-monetaria.md
-
+- Usada en: serie 01, temas/ley-1130-unificacion-monetaria.md, serie 03
+- Revisión 2026-11-07 (serie 03, agente de la ronda 2): cap. III: "Silver ceased to be coined in 1884, when 2,805,839 pesos had been issued." "The bi-metallistic provision was a failure from the outset." Romero fijó para los melgarejos un precio de compra 4 centavos sobre su valor metálico (nota 2). Premio del oro: 35 % en 1885, 354 % en octubre de 1891 (cap. I).
 ### F-0008
 - Título: El funcionamiento de la Caja de Conversión (1900-1929)
 - Autor / institución: Rogelio Pontón — Bolsa de Comercio de Rosario, 08/03/2013
@@ -216,7 +216,7 @@ Formato de cada entrada:
 - Nivel: 4
 - Consultada: 2026-11-03
 - Cita clave: nacido en París el 1 de enero de 1810, muerto en París el 12 de abril de 1887; Prix de Rome de grabado en 1831; dibujante primero para la oficina de rentas y luego para la Casa de Moneda (Monnaie); considerado "the father of the modern medal". No menciona la Argentina.
-- Usada en: serie 01
+- Usada en: serie 01, serie 03
 
 ### F-0020
 - Título: Straining at the Anchor: The Argentine Currency Board and the Search for Macroeconomic Stability, 1880-1935 — capítulo "Post script", pp. 221-235
@@ -226,7 +226,7 @@ Formato de cada entrada:
 - Nivel: 2
 - Consultada: 2026-11-03
 - Cita clave: la ley monetaria de 1881 llegó tras "decades of monetary anarchy" y estableció oro y plata como moneda legal bimetálica (p. 222); en los años 1880 se permitió a bancos emitir billetes garantizados en oro (p. 222); la crisis Baring (1890-91), "the first emerging-market crisis of the modern era" (p. 221); la Caja de Conversión, creada en 1890 (p. 222) u operativa desde 1891 (p. 221) según el pasaje; vuelta a la paridad oro en 1899 (p. 235).
-- Usada en: serie 01
+- Usada en: serie 01, serie 03
 
 ### F-0021
 - Título: Monedas de curso legal en nuestro país — Boletín Digital El Sitio N.º 53
@@ -267,7 +267,7 @@ Formato de cada entrada:
 - Nivel: 2
 - Consultada: 2026-11-04
 - Cita clave: concurso francés de 1848 (Oudiné gana la de 5 francos con 5 votos, pp. 3–5); Barré contratado en 1878 y muerto ese año (pp. 5–6); "Exceptuando la moneda de oro, que mostraba su perfil derecho" (p. 6); escudo "recargado con banderas y cañones" (p. 6); cartas de Oudiné a Castilla de 1880 (Archivo Histórico del Museo Casa de Moneda, Cuadernillo 2009): "70 cuños (entre cabeza y reverso)", precio de 27.500 a 25.000 francos, entrega del Argentino y del medio argentino antes del 5/07/1880 (pp. 6–8); el escudo lo "elaboró" Castilla (p. 8); Libertad "inspirada en Ceres" (p. 18).
-- Usada en: serie 01
+- Usada en: serie 01, serie 03
 
 ### F-0025
 - Título: Unidad monetaria, vertebración territorial y conformación nacional: el caso de la República Argentina — Anales de Historia Contemporánea 20 (2004), pp. 439–461
@@ -277,9 +277,9 @@ Formato de cada entrada:
 - Nivel: 2
 - Consultada: 2026-11-04 (releída por la sesión principal)
 - Cita clave: p. 440 y nota 1: ley dictada el 3/11/1881 por el ministro Juan Romero; "La ley 1130 se publicó el 5 de noviembre de 1881". p. 457: según la Memoria de la Casa de Moneda de la Nación (1881-1910) "fueron exactamente 6.343.022"; en 1896 se usaron "monedas extranjeras de oro, que se fundieron para fabricar los cospeles de los argentinos de 1896"; afirma que la ley de 900 "no se aplicó" (750 milésimos: dato contradicho por todas las demás fuentes). p. 458: "sólo el 10% de la población conocía su existencia en 1884"; buscaba una moneda como las 25 pesetas, el soberano, los 20 marcos y los 10 gulden.
-- Usada en: serie 01
+- Usada en: serie 01, serie 03
 - Revisión 2026-11-06: misma obra en Dialnet (https://dialnet.unirioja.es/descarga/articulo/1018781.pdf): p. 456 "Las piezas de 1 peso, 50, 20 y 10 centavos sólo se acuñaron entre 1881 y 1883"; p. 457 contrasta los 6.343.022 con los 6.344.000 del Standard Catalog.
-
+- Revisión 2026-11-07 (serie 03): la plata se dejó de acuñar en 1883 por el desplome del precio de la plata en Londres frente a la relación 15,5 (p. 458); "El oro y la plata se desvanecieron de la circulación" (p. 460); errores: 750 milésimas para la plata, Ley 3871 en "1889".
 ### F-0026
 - Título: The Statesman's Year-Book 1899 (American edition), Argentine Republic, pp. 709–710
 - Autor / institución: J. Scott Keltie (ed.), Macmillan, 1899 — transcripción en Wikisource (espejo kiwix)
@@ -288,7 +288,7 @@ Formato de cada entrada:
 - Nivel: 2
 - Consultada: 2026-11-04 (releída por la sesión principal)
 - Cita clave: p. 709: "The total coinage of the Argentine mint has been to the nominal amount of: gold, 31,716,545 pesos; silver, 2,805,840 pesos." p. 710: "Professedly the standard of value is gold"; "The money in circulation is chiefly inconvertible paper currency."
-- Usada en: serie 01
+- Usada en: serie 01, serie 03
 
 ### F-0027
 - Título: Report of the Director of the Mint upon the Coinage and Production of Precious Metals, 1887 (año calendario) — tabla de monedas extranjeras depositadas en el Assay Office de Nueva York
@@ -309,10 +309,10 @@ Formato de cada entrada:
 - Nivel: 1
 - Consultada: 2026-11-04 (releída por la sesión principal)
 - Cita clave: p. 13: el Banco Nacional buscaba aumentar su encaje "haciendo venir de Lóndres barras de este metal para acuñarlo"; p. 14: "tuvo que suspender las órdenes para traer barras de oro"; "Bajamos el cambio á un tipo que impidiese la extraccion de oro"; p. 28 (nota del 9/01/1885): "Ha convertido sus billetes en oro en el solo mes de Agosto, por la suma de seiscientos cuarenta mil pesos nacionales oro". (Nota de la revisión de la serie 02, 2026-11-06: la frase original "No trae la sección Casa de Moneda" era incorrecta; la sección está en pp. 115–124 del mismo PDF, según la lectura del 2026-11-06 que se registra abajo.)
-- Usada en: serie 01
+- Usada en: serie 01, serie 03
 - Revisión 2026-11-06: reabierta por el agente de la ronda 2 (Tomo II, Parte II, Memoria del Banco Nacional, Buenos Aires, 1886): p. 13 "venir de Lóndres barras de este metal para acuñarlo"; p. 14 "Los fondos públicos se realizaron en 30 de Abril de 1884" (según p. 19, ese día los compraron banqueros de París) y "el Banco tuvo que suspender las órdenes para traer barras de oro"; p. 28 (carta del 9/01/1885) "en el solo mes de Agosto, por la suma de seiscientos cuarenta mil pesos nacionales oro"; p. 18: los cuatros y las chirolas fueron "reacuñadas" por el Gobierno.
 - Revisión 2026-11-06 (serie 02): Memoria de la Casa de Moneda 1884 (pp. 115–124; "Buenos Aires, Abril 16 de 1886", al ministro Wenceslao Pacheco; firma no legible en el OCR). Cuadro N.º 4 "Denominación, peso y valor de las monedas emitidas hasta el 31 de diciembre 1884" (cuadros fechados el 8/01/1885): Argentinos 1.195.286 hasta el 31/12/1883, 447.900 en 1884, total 1.643.186; medios argentinos 9 hasta 1883, 421 (OCR "'21") en 1884, total 430; valor total de todo lo emitido 11.220.696,99. p. 116: "Todo el oro que figura como entrado este año, ha sido traído por el Banco Nacional"; "El oro, como he dicho, ha sido sellado por cuenta del Banco Nacional" (alcanzó para llenar los ocho millones del artículo de la ley); "Se ha fabricado oro, plata y cobre, pero solo este último en cantidad fuerte". p. 119: "Las 9/10 partes de los habitantes de la República, no han visto aún un Argentino en oro sellado" (y sin embargo se pudieron girar "cien millones en oro sobre el estrangero"). p. 120: "Así habrá moneda de cobre en toda la República…". pp. 120–121, Laboratorio Químico (J. J. Kyle, Químico Ensayador, 7/01/1885): se ensayó "una moneda de oro en cada 2,500 acuñadas", según el art. 11 del decreto reglamentario de la Casa de Moneda; Cuadro N.º 1 "Monedas de oro—Argentinos": "Ley general de las monedas (promedio de 447,900 piezas)" 899,719 milésimos; piezas "dentro de los límites de la tolerancia legal (1 milésimo)". Usada también en serie 02.
-
+- Revisión 2026-11-07 (serie 03; releída por la sesión principal, tramos 400000–600000): cuadro N.º 4: pesos de plata emitidos hasta el 31/12/1883, 573.737; en 1884, ninguno; 50 c 2.650.847 + 136.000 = 2.786.847; 20 c 119.000 en 1884, total 2.393.995; 10 c 34.000 en 1884, total 3.598.801. Resumen: "Plata … 70104 239 500 … 2805839 60". p. 116: "suspendida la fabricacion de moneda de plata en virtud de la ley sobre emision menor"; después se suspendió el sellado restante "por órden superior" y "Desde entonces no se ha fabricado absolutamente una sola pieza"; plata entrada "para ser fundida y remitida á Europa" (p. 115). p. 119: "La emision menor á papel, hizo suspender la emision de plata menor." Cuadro N.º 2 Plata: "Pasta remitida á Lóndres" 10.135 kg 830 g, $ 433.992,04 (OCR). Dirección de Rentas (p. 134): decreto del 19/07/1884 de desmonetización de la plata extranjera; precio "por cada 25 gramos"; "El billete del Banco Nacional y la moneda de plata argentina son completamente desconocidos en esos apartados lugares".
 ### F-0029
 - Título: Ley 733 de la moneda nacional, su tipo, fabricación y valor (1875) — texto
 - Autor / institución: Congreso de la Nación — transcripción en es.wikisource
@@ -361,7 +361,7 @@ Formato de cada entrada:
 - Nivel: 1
 - Consultada: 2026-11-04
 - Cita clave: la sección de la primera línea monetaria de 1881 exhibe "Argentinos de oro and patacones de plata".
-- Usada en: serie 01
+- Usada en: serie 01, serie 03
 
 ### F-0034
 - Título: Historias y secretos detrás de la colección de monedas más importante del país
@@ -371,8 +371,8 @@ Formato de cada entrada:
 - Nivel: 4
 - Consultada: 2026-11-04
 - Cita clave: Janson donó "280 monedas sin circular de los años 1881 a 1896, que incluyen todas las variaciones de argentinos de oro" y "una de las pocas monedas conocidas de ½ argentino de oro de 1881"; frase de Janson: "Yo tenía un hijo, no lo mandé a Rosario, lo mandé al Banco Central"; presidente del BCRA Federico Sturzenegger; directora del museo Mabel Esteve.
-- Usada en: serie 01
-
+- Usada en: serie 01, serie 03
+- Revisión 2026-11-07 (serie 03): la donación incluye "patacones de plata" y "piezas que sirvieron de ensayo".
 ### F-0035
 - Título: «Los Argentinos»: Oro para una Argentina exportadora
 - Autor / institución: Ruiz Calleja — Blog Numismático (blognumismatico.com), 10/12/2025 (contenido patrocinado por Río de la Plata Compañía Numismática, según el agente)
@@ -412,8 +412,8 @@ Formato de cada entrada:
 - Nivel: 2
 - Consultada: 2026-11-04
 - Cita clave: la Ley 1130 fue "un catalizador de todos los problemas que había generado la circulación de la plata boliviana" (p. 72); decreto del 31/10/1882: la Casa de Moneda compra dos millones de pesos bolivianos a 72 centavos, canje hasta el 5/11/1883 (p. 73).
-- Usada en: serie 01
-
+- Usada en: serie 01, serie 03
+- Revisión 2026-11-07 (serie 03): el decreto del 31/10/1882 pagaba los bolivianos "en oro o plata"; retiro de 1.999.216 hacia abril de 1883 (*El Independiente*, 28/04/1883); Agote: unos 4.000.000 en las provincias (p. 73, n. 43); canje de 75 c en Santa Fe y 56 c en Salta (p. 74).
 ### F-0039
 - Título: Historia Argentina (capítulo "Presidencia de Roca"), pp. 106–107
 - Autor / institución: José María Rosa (copia en elbibliote.com)
@@ -475,7 +475,7 @@ Formato de cada entrada:
 - Nivel: 4
 - Consultada: 2026-11-04
 - Cita clave: proyecto del Ejecutivo de 1879 con una moneda de oro "argentino" de 8,064 g y 900 milésimos, del que el Congreso aprobó solo el peso de plata (Ley 974); en 1878 Castilla recorrió cecas de Inglaterra, Bélgica y Francia y acordó el grabado con Barré, que murió poco después; Roca envió el proyecto en julio de 1881; "La ley 1130, promulgada el 5 de Noviembre, terminó con la anarquía monetaria"; las Cámaras la aprobaron el 3 de noviembre "sin modificaciones sustanciales".
-- Usada en: serie 01
+- Usada en: serie 01, serie 03
 
 ### F-0045
 - Título: Anarquía monetaria (historia de la moneda argentina)
@@ -586,7 +586,7 @@ Formato de cada entrada:
 - Nivel: 3
 - Consultada: 2026-11-04
 - Cita clave: último dígito repunzonado sobre uno elevado ("Janson 1.1 over 1.2"), no anotado en la etiqueta; "First date and lowest mintage of the type"; "rich gold color and light bagmarks"; estimación USD 1.000–1.500; cert. NGC 8473457-001.
-- Usada en: serie 01
+- Usada en: serie 01, serie 03
 
 ### F-0056
 - Título: Spink — lote 22180000724 (1888 NGC AU58) y lote 341000431 (colección de 10 Argentinos 1881–1896)
@@ -847,7 +847,7 @@ Formato de cada entrada:
 - Nivel: 3
 - Consultada: 2026-11-04
 - Cita clave: "right-facing profile"; leyenda "REPUBLICA ARGENTINA * 1883 *"; firma "OUDINE" bajo el busto (da además un diámetro aberrante de 20,9 mm).
-- Usada en: serie 01
+- Usada en: serie 01, serie 03
 
 ### F-0082
 - Título: 5 Pesos or 1881 à 1896 (ficha de producto)
@@ -878,7 +878,7 @@ Formato de cada entrada:
 - Nivel: 1
 - Consultada: 2026-11-06 (releída por la sesión principal)
 - Cita clave: p. cccxxiv: "La acuñación de monedas de oro es ilimitada." (solo fragmento de vista previa; según el agente, sigue: "La acuñación de plata no excederá de cuatro pesos por cada habitante de la República…"). Volúmenes siguientes en Google Books: vol. 2 (1884) ICUy-ddZtDwC, vol. 3 (1885) PnbIxlANcH8C, vol. 4 (1887) kjNyCFElb9EC (no leídos).
-- Usada en: serie 01
+- Usada en: serie 01, serie 03
 
 ### F-0085
 - Título: La Caisse de Conversion de la République Argentine (tesis doctoral, Facultad de Derecho de Neuchâtel; Lyon, Bosc Frères M. & L. Riou, 1938)
@@ -898,7 +898,7 @@ Formato de cada entrada:
 - Nivel: 2 (transcribe documentos de nivel 1)
 - Consultada: 2026-11-06 (releída por la sesión principal en los tramos 0–400.000)
 - Cita clave: Acuerdo del 9/01/1885 (Registro Nacional, tomo X, pp. 4–5): "los billetes del Banco Nacional serán recibidos como moneda legal"; art. 2 "suspender la conversión de sus billetes en moneda metálica durante el término de dos años"; firman Roca, V. de la Plaza, B. de Irigoyen, F. J. Ortiz, E. Wilde, B. Victorica. Índice: "Ley 1.734: Aprobando los decretos del Poder Ejecutivo de fecha nueve, quince, veintiuno…", 14/10/1885. Memoria de Hacienda 1884 (W. Pacheco): p. 132 "desde que en 1883 no se ha acuñado plata"; p. 160 "las funciones de la Casa de Moneda durante el pasado año se han limitado á la acuñación de moneda de cobre" (la ley de octubre de 1883 hizo innecesaria la plata fraccionaria). p. 166: Banco Provincial de Córdoba, 30/11/1884, "61.968 Argentinos á 5 $ m/n c/u" = $ 309.840. p. 169: Banco Nacional, existencia en caja al 29/11/1884, "En Argentinos $ 3.890.455" (onzas 230.203,33; cóndores 71.045,76; libras 111.552,84; napoleones 13.344; brasileñas 6.463,72; águilas 10.716,34). Según el agente: Agote, 31/03/1885, "llegó el 9 de Enero de 1885, en que apareció el decreto del curso forzoso"; Banco Provincial de Santa Fe: "onzas, cóndores, argentinos y libras esterlinas"; decreto reglamentario de la Ley 1734 (4/11/1885), art. 5: billetes "sellados por la casa de Moneda".
-- Usada en: serie 01
+- Usada en: serie 01, serie 03
 
 ### F-0087
 - Título: Primera Presidencia de Julio A. Roca — Año 1886 (compilación documental)
@@ -1068,8 +1068,8 @@ Formato de cada entrada:
 - Nivel: 3
 - Consultada: 2026-11-06
 - Cita clave: "y además la variante CUDINE de 1883"; lote 156: 5 pesos 1883, CJ 3.2, XF, 8,04 g, "Fecha normal y CUDINE"; lote 162: 1889, AU, 8,06 g; lote 163: 1896, AU, 8,01 g.
-- Usada en: serie 01
-
+- Usada en: serie 01, serie 03
+- Revisión 2026-11-07 (serie 03): lote 165: 1 peso 1881 CJ 12, 37,5 mm, 25,01 g, AU, "Solo 62.026 piezas acuñadas"; lote 168: 1 peso 1883 CJ 14, 25,00 g, 37,5 mm, XF, "leves golpes en el canto y pátina de PVC", "Solo 98.000 piezas acuñadas"; sin 1882; Ley 1130 "5 de noviembre de 1881".
 ### F-0104
 - Título: Argentina 5 pesos 1889 Argentino de oro CJ 9.1 (lote)
 - Autor / institución: Río de la Plata Compañía Numismática (auction.rpnumis.com)
@@ -1380,8 +1380,8 @@ Formato de cada entrada:
 - Nivel: 2 (como transcripción del texto legal; sus tiradas y precios son de catálogo y solo valen como pista)
 - Consultada: 2026-11-06 (releído por la sesión principal)
 - Cita clave: tabla del art. 2 (OCR): "Título Peso Diámetro / Justo / Tolerancia en más o menos / … Milésimos Gramos Milésimos Milímetros / Argentino ½ Argentino Oro 5 2 ½ 900 y 100 m/n 900 de cobre 1 80.645 40.322 2 22 19"; art. 4: "La acuñación de monedas de oro es ilimitada"; "Sanción: 5 de noviembre de 1881. Promulgación: 9 de noviembre de 1881." Ficha del ½ Argentino (p. 14): 4 g, 19 mm, espesor 0,989 mm (el Argentino, 1,418 mm, según el agente de nivel 1), canto estriado; anverso con el escudo, siete banderas y un cañón a cada lado, en círculo de perlas, "República Argentina" en semicírculo, fecha en el exergo entre estrellas, gráfila de puntos; reverso con la Libertad de Oudiné, "Libertad" arriba, "2 ½ Pesos" a la izquierda, "½ Argentino" abajo, "9 D Fino" a la derecha; 1881 "Ensayo, se acuñaron 9 piezas", valuado MB U$S 4.000 y SC 6.500; 1884: 421, valuado B 1.600, MB 2.500, SC 4.000 (lectura de la sesión principal).
-- Usada en: serie 02
-
+- Usada en: serie 02, serie 03
+- Revisión 2026-11-07 (serie 03): tabla del art. 2 para la plata (pp. 15–16): peso 25,000 g, 900, 37 mm; 50 c 12,5 g 30 mm; 20 c 5 g 23 mm; 10 c 2,5 g 18 mm; 5 c 1,5 g 16 mm; tolerancias 2-3-5-5-5 y 3-5-5-7-10 sin rótulo. Ficha del peso (pp. 17–18): "Peso 25 gr.", "Espesor 2,475 a 2,480 mm", "Módulo 35 mm" (errata frente a la ley), canto "IGUALDAD* ANTE* LA * LEY*****"; tiradas 62.026 / 413.711 / 98.000 (pista); precios 2005 MB/EXC/SC: 1881 170/250/350, 1882 130/230/300, 1883 250/350/450; variantes 1881 A–E y 1882 A–I sin descripción legible.
 ### F-0135
 - Título: Eliasberg Prices Stun Numismatic World (22/04/2005)
 - Autor / institución: NGC (comunicado "courtesy of American Numismatic Rarities")
@@ -1390,7 +1390,7 @@ Formato de cada entrada:
 - Nivel: 3
 - Consultada: 2026-11-06 (releído por la sesión principal)
 - Cita clave: "American Numismatic Rarities of Wolfeboro, New Hampshire is proud to announce the results"; "sold in New York City on April 18 and 19th"; total "$10,118,246.25"; Christine Karstedt: "Our staff worked very hard, along with the staff at Spink". Helmsley Park Lane Hotel. De Argentina menciona un 8 escudos Rosas 1836 XF45 (USD 149.500).
-- Usada en: serie 02, serie 01
+- Usada en: serie 02, serie 01, serie 03
 
 ### F-0136
 - Título: NGC Certifies Eliasberg World Gold (10/02/2005)
@@ -1400,7 +1400,7 @@ Formato de cada entrada:
 - Nivel: 3
 - Consultada: 2026-11-06 (releído por la sesión principal)
 - Cita clave: subasta pública del 18–19 de abril "by American Numismatic Rarities of Wolfeboro, NH"; "nearly three thousand gold coins and medals"; cada pieza con "Photo Certificate" para "permanently establish the pedigree on every piece".
-- Usada en: serie 02
+- Usada en: serie 02, serie 03
 
 ### F-0137
 - Título: American Numismatic Rarities Offers The Louis E. Eliasberg Collection of World Coins and Medals
@@ -1580,8 +1580,8 @@ Formato de cada entrada:
 - Nivel: 4
 - Consultada: 2026-11-06 (leído por el agente de nivel 2)
 - Cita clave: "½ Argentino … 4.032 g … (dated 1884)"; la acuñación se detuvo por razones técnicas (cita el catálogo de Janson de 2002).
-- Usada en: serie 02
-
+- Usada en: serie 02, serie 03
+- Revisión 2026-11-07 (serie 03): Ley 974 "de 16 de septiembre" (1879), modificaba la Ley 911 de 1877 y conservaba el peso de plata de 25 g; la plata se suspendió después de 1883 "porque el precio del metal seguía subiendo" (error probable).
 ### F-0155
 - Título: Museum rooms / Salas del museo
 - Autor / institución: Banco Central de la República Argentina, Museo Histórico y Numismático "Héctor Carlos Janson"
@@ -1590,7 +1590,7 @@ Formato de cada entrada:
 - Nivel: 1
 - Consultada: 2026-11-06 (leído por el agente de nivel 4)
 - Cita clave: Sala 3 ("Conservative republic and the 20th century") destaca "– Patacón de oro.", "– Half coin from Paraguay.", "– The 1,000,000 banknote." No nombra el medio argentino.
-- Usada en: serie 02
+- Usada en: serie 02, serie 03
 
 ### F-0156
 - Título: Argentino (Münze) (artículo)
@@ -1661,3 +1661,413 @@ Formato de cada entrada:
 - Consultada: 2026-11-06 (leído por el agente de nivel 3)
 - Cita clave: "Pedigreed to the Carlos Janson Collection (stated on label)".
 - Usada en: serie 02 (contexto), serie 03 (pista)
+- Revisión 2026-11-07 (serie 03): subasta 39 (Winter Park, 6–9/05/2026), sesión 3, lote 937, NGC MS64 cert. 8721639-004, Janson-13.1.1, KM-29, "cartwheel luster", "virtually no marks or wear", "currently tied with one other for finest in the NGC census", salida USD 2.600, cifras 3.500 y 7.000 sin rótulo; menciona 92 ejemplares de 1882 en el censo NGC.
+### F-0163
+- Título: Primera Presidencia de Julio A. Roca — Año 1882 (compilación documental; transcribe la Memoria del Departamento de Hacienda correspondiente al año de 1881, presentada en 1882, sección "II. Acuñación de moneda", pp. 328–332; el mensaje presidencial de mayo de 1882, p. 133; decretos de enero de 1882, pp. 13–27)
+- Autor / institución: Lic. Ricardo Raúl Corigliano — argentina1810-1910.com (documentos del Ministerio de Hacienda, ministro Juan J. Romero)
+- URL: https://argentina1810-1910.com/Pdfs/1881_1886/A%C3%B1o%201882.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (documento oficial transcripto)
+- Consultada: 2026-11-07 (agente de la ronda 2; la sesión principal releyó el tramo 600000–700000 tres veces)
+- Cita clave: la acuñación empezó el 3/11/1881 ("Estando pronto para funcionar el Establecimiento destinado á la fabricación de la moneda, se dio principio inmediatamente á la acuñación"); cuadro "Especies fabricadas hasta 31 de Diciembre 1881" (OCR): 37.152 Argentinos; 9 medios; 62.026 pesos; 1.020 de 50 c; 2.018 de 20 c; 1.020 de 10 c (total 103.245, "ciento tres mil doscientas cuarenta y cinco piezas"). Del 1/01 al 6/07/1882, "un millón ciento cinco mil trescientas treinta y cinco piezas" (fila con 239.130 y 127.130). Resumen al 6/07/1882: argentinos 276.282 ($ 1.381.410); ½ argentinos 9; pesos 189.156 ($ 189.156); 50 c 85.045; 20 c 367.043; 10 c 291.045; total 1.208.580 piezas, $ 1.715.624,10 ("se han acuñado un millón doscientas ocho mil quinientas ochenta piezas"). "falta absoluta de personas aptas para la fabricación de monedas entre nosotros"; la acuñación, "la mas difícil y precisa de las industrias conocidas". Mensaje de Roca (mayo de 1882): "en oro acuñado un valor de un millón trescientos mil pesos, y en plata ciento y tantos mil". Decreto del 23/01/1882: la equivalencia "es transitoria y únicamente mientras no se hayan acuñado las cantidades fijadas en el artículo 7º". La Memoria llama "ley de 5 de noviembre" a la Ley 1130.
+- Usada en: serie 03, serie 01, serie 02
+
+### F-0164
+- Título: Primera Presidencia de Julio A. Roca — Año 1883 (compilación documental: leyes 1.334 y 1.354, decreto del 2/12/1882, resolución del 4/01/1883, mensaje presidencial de mayo de 1883)
+- Autor / institución: Lic. Ricardo Raúl Corigliano — argentina1810-1910.com
+- URL: https://argentina1810-1910.com/Pdfs/1881_1886/A%C3%B1o%201883.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (documento oficial transcripto)
+- Consultada: 2026-11-07 (agente de la ronda 2; la sesión principal releyó el tramo 400000 en adelante)
+- Cita clave: Ley 1.334 (28/09/1883), art. 1: "billetes convertibles menores de un peso, hasta la suma de seis millones de pesos"; art. 2: "La Nación es la sola responsable de la emisión de estos billetes" y depósito "en monedas fraccionarias de un peso". Ley 1.354 (17/10/1883) "Sobre unificación de moneda": art. 1 "sólo podrán emitir billetes pagaderos en pesos nacionales oro"; art. 4 la moneda nacional de plata "solo es forzoso para los particulares y empleados públicos, hasta la concurrencia de cinco pesos por cada pago"; art. 5 "Queda prohibida la circulación legal de la moneda extranjera de plata, seis meses después de la presente Ley" (prórroga de tres meses si no circulan tres millones de la emisión autorizada "por la Ley de 4 de octubre de 1883"). Decreto del 2/12/1882: "establecer el precio de compra de las monedas de plata extranjeras para su reacuñación"; "han sido valoradas por decretos sucesivos según su valor metálico" (pp. 7–8). Mensaje de Roca (mayo de 1883, p. 97): hasta el 31/03/1883, "cinco millones setecientos cincuenta y cinco mil doscientos cincuenta y siete piezas de oro, plata y cobre".
+- Usada en: serie 03
+
+### F-0165
+- Título: Memoria del Departamento de Hacienda correspondiente al año 1885 (presentada en 1886), cuentas del Banco Inglés del Río de la Plata y de la Casa de Moneda
+- Autor / institución: Ministerio de Hacienda (W. Pacheco) — CDI del Ministerio de Economía (colección memoria2)
+- URL: https://cdi.mecon.gob.ar/greenstone/collect/memoria2/index/assoc/HASHfe9d.dir/doc.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 1)
+- Cita clave: p. 182 (14/03/1885): "Importe líquido de la venta de 191 lingotes Plata", £ 7.178 10s 9d = $ m/n 36.182,10; p. 164: "Diferencia en el producto de la remesa en lingotes hecha al Banco Inglés del Rio de la Plata en Lóndres", $ 1.872,67; p. 153: "Valor de pérdida en plata en barras remesadas á Europa".
+- Usada en: serie 03
+
+### F-0166
+- Título: Memoria del Departamento de Hacienda correspondiente al año 1890 (presentada en 1891), incluida la carta de Vicente L. Casares del 13/08/1890
+- Autor / institución: Ministerio de Hacienda (Vicente F. López, 5/03/1891) — CDI del Ministerio de Economía (memoria2)
+- URL: https://cdi.mecon.gob.ar/greenstone/collect/memoria2/index/assoc/HASH1a9c.dir/doc.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-07 (agente de la ronda 2; la sesión principal releyó la carta, tramo 120000–220000)
+- Cita clave: pp. LXX–LXXIII: "La ley de 1881, es una ley bimetalista pero que limita la acuñacion de la plata; mientras que la del oro es ilimitada"; "ese tímido ensayo de bimetalismo, perdió sus efectos, porque la acuñacion de plata se limitó á la moneda fraccionaria de un peso"; "La plata ha desempeñado esta funcion en una escala, muy secundaria"; "si á la par del billete circulara la moneda de plata". Carta de Casares al ministro López (Buenos Aires, 13/08/1890): el Dr. Pacheco ordenó remitir a Europa "cien mil pesos en plata nacional" (con 100.000 en oro en barras) para el saldo de "los Sres. Murrieta, de Lóndres"; "Como aún existen 350.000 pesos moneda nacional en plata nacional" (OCR "35Ü.OOO"); "V. E. tendrá á bien resolver si se remiten á Europa para atender los compromisos".
+- Usada en: serie 03
+
+### F-0167
+- Título: Ley 974 — Acuñación de moneda por el Banco Nacional (ficha)
+- Autor / institución: InfoLEG (argentina.gob.ar)
+- URL: https://www.argentina.gob.ar/normativa/nacional/ley-974-283646
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-07 (agente de la ronda 2)
+- Cita clave: sanción 16/09/1879; "ACUÑACION DE MONEDA POR EL BANCO NACIONAL"; observaciones: "PUBLICADA EN REGISTRO NACIONAL DE 1878". Sin articulado.
+- Usada en: serie 03
+
+### F-0168
+- Título: 80° Aniversario de la Creación del Banco Central (moneda conmemorativa)
+- Autor / institución: BCRA
+- URL: https://www.bcra.gob.ar/80-aniversario-de-la-creacion-del-banco-central/
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-07 (agentes de la ronda 1)
+- Cita clave: moneda de $1 "UN PESO", plata 900, 25 gramos, 37 mm, proof, canto estriado, emitida el 10/06/2015, acuñada en la "Fábrica Nacional de Moneda y Timbre - Real Casa de Moneda (España)"; "en cuyo diseño se replica la pieza de 50 centavos moneda nacional de plata conocida como «Medio Patacón»"; escudo con "un total de 14 banderas" y dos cañones; efigie de la Libertad de Oudiné.
+- Usada en: serie 03
+
+### F-0169
+- Título: Colección Janson | Destacados (30/05/2018)
+- Autor / institución: BCRA (María Laura Arufe)
+- URL: https://www.bcra.gob.ar/noticias/coleccion-janson-destacados/
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-07 (agente de la ronda 2)
+- Cita clave: menciona "las piezas de oro y plata emitidas a través de “Ley de Unificación Monetaria”"; no menciona un patacón de oro.
+- Usada en: serie 03
+
+### F-0170
+- Título: El Patacón (ponencia en las XXI Jornadas Nacionales de Numismática y Medallística, San Francisco, Córdoba, 18–19/08/2001)
+- Autor / institución: Lic. Federico de Ansó — Centro Numismático Buenos Aires
+- URL: https://cnba.org.ar/wp-content/uploads/2023/07/Art33.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (sus tiradas, sin fuente, solo como pista)
+- Consultada: 2026-11-07 (agente de la ronda 2; releída por la sesión principal)
+- Cita clave: ensayo de Würden de 1879: "LEY DEL 25 DE SETIEMBRE 1878 ♦ UN PATACON ♦", "sólo quedó como ensayo"; el peso de plata "se apropió de su nombre para apodo"; "El Peso de Plata de 35 milímetros de diámetro, 25 gramos de peso y 900 milésimos de fino"; "Nuestros 'Patacones' acuñados exclusivamente entre 1881 y 1883" (62.026 / 413.711 / 98.000); reverso "♦ Libertad ♦ Un Peso ♦ 9 Dos Fino ♦"; catorce banderas por las catorce provincias; "Patacón de Oro": "moneda de presentación" para Roca con los cuños de 1881, 36,5 g de oro 900 (Ricardo Gómez), intento de empeño en un "banco montepío", exhibido en el Museo "Dr. José Evaristo Uriburu" del BCRA del 13/04 al 12/05/2000, pagado US$ 5.000, valuado por Janson en US$ 50.000, "Este hermoso ejemplar numismático, que aclaramos es real y veraz"; falsificación bien hecha estudiada por Manuel Giménez Puig (IV Jornadas, Buenos Aires, 1984; Cuadernos del CNBA; reproducida por Cunietti-Ferrando 1989); reacuñaciones del centenario con cuños originales y llaveros de fundición; "hasta hoy el nombre Patacón es de origen incierto". Fecha la Ley 1130 el 25/11/1881 (error).
+- Usada en: serie 03
+
+### F-0171
+- Título: El Reverso n.º 57 (abril de 2019), "El Escudo Nacional en las monedas de la ley 1130", pp. 9–12
+- Autor / institución: Luciano Pezzano — Centro Filatélico y Numismático de San Francisco (Córdoba)
+- URL: https://www.monedasuruguay.com/bib/rev/rev057.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 2)
+- Cita clave: escudo con sol de 37 rayos, manos con pica y gorro, laureles, 14 banderas y 2 cañones; el sol de las banderas solo se ve en piezas de alto grado; los documentos de grabado ubican el escudo en el "reverso"; Cunietti: "hermosa, pero completamente arbitraria"; Marc atribuyó los "agregados y modificaciones" al gobierno; foto de un "1 peso (Patacón) 1882" (p. 9).
+- Usada en: serie 03
+
+### F-0172
+- Título: Moneda y crédito en una economía en transformación. Santa Fe, Argentina (1858-1883) — Revista de Historia Americana y Argentina 56 (1), 2021, pp. 133–172
+- Autor / institución: Juan Luis Martirén — Universidad Nacional de Cuyo
+- URL: https://revistas.uncu.edu.ar/ojs/index.php/revihistoriargenyame/article/download/4924/3577/17556
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 2)
+- Cita clave: "El proceso culminó en abril de 1883 con el retiro de 1.999.216 pesos bolivianos de circulación" (p. 156); *La Capital*: "la desmonetización del boliviano es un hecho consumado" (n. 28); el boliviano "tuvo una depreciación constante hasta su definitiva desmonetización" (p. 159); "patacones" como "unidad de cuenta ficticia, que podía incluir tanto los viejos pesos españoles" (p. 145); "cuatros febles" (n. 27).
+- Usada en: serie 03
+
+### F-0173
+- Título: El Patacón Paraguayo: Moneda de los dos escudos "Un Nacional" — Folleto Numismático n.º 13 (mayo de 2024)
+- Autor / institución: Raúl Olazar Cristaldo (Asunción) — biblioteca de monedasuruguay.com
+- URL: https://www.monedasuruguay.com/bib/o/fn13.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 2)
+- Cita clave: ley paraguaya de 1889, tres millones de "pesos fuertes"; 240 cajones de 2.500 pesos (600.000); cuños de Gotuzzo y Ferrarosa; José Domingo terminó la acuñación; "el canto utilizado en el patacon paraguayo es el canto argentino" (p. 6); pruebas de 1888 en aluminio, cobre y plata; 9 abierto y 9 cerrado; "la mayoría se fundieron para hacer mates y bombillas" (p. 7); falsas chinas y una falsa de época de dos chapas soldadas (p. 7).
+- Usada en: serie 03
+
+### F-0174
+- Título: Folleto Numismático n.º 11 (sobre los 2 centavos de Paraguay 1900/1903/1908)
+- Autor / institución: Raúl Olazar — monedasuruguay.com
+- URL: https://monedasuruguay.com/bib/o/fn11.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 2)
+- Cita clave: "Los cuños para el trabajo fueron grabados por GOTUZZO"; José Domingo "fue el encargado de terminar la acuñación"; ley paraguaya del 13/09/1889 y decreto del 29/03/1890 (curso legal a "las acuñaciones hechas por el Banco del Paraguay y Río de la Plata"); cita a Cunietti, Cuadernos de Numismática n.º 1 (dic. 1971).
+- Usada en: serie 03
+
+### F-0175
+- Título: Gacetilla del Centro Numismático Buenos Aires n.º 66 (marzo de 2016)
+- Autor / institución: Centro Numismático Buenos Aires — biblioteca de monedasuruguay.com
+- URL: https://monedasuruguay.com/bib/tel/tel066.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 2)
+- Cita clave: p. 12, reseña de Horacio Morero, *Numismática y metamorfosis: la reacuñación de los patacones de las Provincias del Río de la Plata en Brasil* (8 reales de Potosí 1813 y 1815 reacuñados como 960 réis); p. 13: la moneda del 80.º aniversario del BCRA tuvo una tirada de 7.000 piezas, no se vendió al público y se repartió entre el personal.
+- Usada en: serie 03
+
+### F-0176
+- Título: The E-Sylum v19n46 (13/11/2016), nota sobre el libro de Horacio Morero
+- Autor / institución: Numismatic Bibliomania Society
+- URL: https://coinbooks.org/esylum_v19n46a04.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 2)
+- Cita clave: los "patacones" de Potosí (8 reales y 8 soles de 1813 y 1815) usados en Brasil como cospel de las piezas de 960 réis; Premio FENyMA "Alberto (Coco) Derman" (agosto de 2016); unas 500.000 de 1.800.000 piezas "desaparecieron" en Brasil.
+- Usada en: serie 03
+
+### F-0177
+- Título: Pluralidad monetaria en la Argentina de 2001: emisión de patacones en la provincia de Buenos Aires — Ciclos XXX n.º 61, 2023, pp. 153–180
+- Autor / institución: María Julieta Maeso — Facultad de Ciencias Económicas, UBA
+- URL: https://ojs.econ.uba.ar/index.php/revistaCICLOS/article/download/2958/3828
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 4)
+- Cita clave: "la Ley 12.727, del 23 de julio de 2001, que declaró la emergencia económica provincial"; piso de $ 740 en pesos; Decreto 2812 del 5/12/2001.
+- Usada en: serie 03
+
+### F-0178
+- Título: Monetary Use of Silver in 1933 (p. 18, Argentina)
+- Autor / institución: U.S. (publicación oficial en FRASER, Federal Reserve Bank of St. Louis)
+- URL: https://fraser.stlouisfed.org/files/docs/publications/books/musilver_comm_1933.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-07 (agente de la ronda 2)
+- Cita clave: en la Argentina "no silver is in circulation"; propuesta de Alejandro E. Bunge (31/12/1932) de piezas de plata de 50 centavos, 1 y 2 pesos.
+- Usada en: serie 03
+
+### F-0179
+- Título: NGC World Coin Census — Argentina, Peso
+- Autor / institución: Numismatic Guaranty Company (NGC)
+- URL: https://ngccoin.com/census/world/argentina/sc-23/peso
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-07 (agentes de las rondas 1 y 2)
+- Cita clave: totales 1881 = 18, 1882 = 81, 1883 = 14; "1880 ARGENTINA PESO SILVER PATTERN UNOFFICIAL RESTRIKE … 22"; "1880 ARGENTINA PESO F-1226 GOLD PATTERN" 1; "1879 Buenos Aires Pattern, Silver" PF 1; "1879 … Silvered-Copper" PF 1; "1876 Silver Pattern, Fabricio Zuccotti" 2; total de la denominación 208 (MS), PF 2, PFUC 1. Celdas con piezas (sin grado asignable): 1881 1-3-4-6-1-2-1; 1882 2-2-3-4-16-18-1-10-18-6-1; 1883 3-9-1-1.
+- Usada en: serie 03
+
+### F-0180
+- Título: Argentina: Republic Peso 1882 MS63 NGC — Heritage NYINC World Coins Signature Auction #3061, lote 30012 (7/01/2018)
+- Autor / institución: Heritage Auctions
+- URL: https://coins.ha.com/itm/argentina/argentina-republic-peso-1882-ms63-ngc-/a/3061-30012.s
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 3)
+- Cita clave: KM29, 37,00 mm, 25 g; "Definitely superior to the Lissner piece, which itself---an NGC MS62---was considered exceptional"; "NGC grading only one specimen higher"; "A tremendously toned piece, exhibiting sublime cobalt hues"; 7 ofertas; precio no visible.
+- Usada en: serie 03
+
+### F-0181
+- Título: Argentina: Republic Peso 1881 MS62 NGC — Heritage 2021 ANA WFOM Platinum Night #3094, lote 30010 (19/08/2021)
+- Autor / institución: Heritage Auctions
+- URL: https://coins.ha.com/itm/argentina/argentina-republic-peso-1881-ms62-ngc-/a/3094-30010.s
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-07 (agentes de la ronda 1)
+- Cita clave: KM29, Elizondo-32, Janson-12; "From the Cape Coral Collection of Spain and Latin America"; "Of the examples submitted to third-party grading companies, only three have been awarded uncirculated designations"; "mintage 62,000"; pátina "peach, amber, and lilac".
+- Usada en: serie 03
+
+### F-0182
+- Título: Heritage ANA World & Ancient Coins #3125 (27/08/2025): lote 31007, Argentina Republic Peso 1881 MS64 NGC, y lote 31006, Silver Specimen Essai "Patacón" 1879 SP63 PCGS
+- Autor / institución: Heritage Auctions
+- URL: https://coins.ha.com/itm/argentina/argentina-republic-peso-1881-ms64-ngc-/a/3125-31007.s ; https://coins.ha.com/itm/argentina/argentina-republic-silver-specimen-essai-patacon-1879-sp63-pcgs-/a/3125-31006.s
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-07 (agentes de las rondas 1 y 2)
+- Cita clave: lote 31007: NGC 8213977020, Elizondo-32, CJ-12, ASW 0,7234 oz, "From the Eternal Collection, Part II", "sole-finest graded example at NGC and PCGS", "two points finer than the Cape Coral specimen", 25 ofertas. Lote 31006: "By C. Wurden", KM-XE6, Guttag-211A, Janson-25.1, PCGS 03516092, ex Silver Around The World (Heritage 3009, abril de 2010, lote 20174), "The largest of these Wurden patterns struck for Argentina in Brussels"; solo tres en plata habían salido antes a subasta.
+- Usada en: serie 03
+
+### F-0183
+- Título: Sedwick Treasure, World, U.S. Coin & Paper Money Auction 38 (14/11/2025), sesión 3: lote 837 (1 peso 1881 NGC MS62) y lote 838 (1 peso 1883 NGC MS63 "top pop")
+- Autor / institución: Sedwick & Associates
+- URL: https://beta.sedwickcoins.com/Item/58200891/{{linkUrl}} ; https://auction.sedwickcoins.com/Treasure-World-U-S-Coin-Paper-Money-Auction-38_as110857?ps=100
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-07 (agentes de la ronda 1)
+- Cita clave: lote 838: cert. 8473457-004, Janson-14, KM-29, "Very choice bold strike with full sunburst and sharp arms", "tied with just one other at the top of the NGC census", "1883 issue saw heavy circulation during a period of economic strain, leaving few survivors in high grade", estimación USD 2.500–3.750, salida 1.500. Lote 837: "1 peso 'patacón,' 1881", NGC MS62, Janson-12, estimación USD 1.500–2.250.
+- Usada en: serie 03
+
+### F-0184
+- Título: Sedwick Treasure Auction 28 (17–19/11/2020), lote 706: Argentina 1 peso "patacon" 1882 NGC AU 58, Janson-13.2
+- Autor / institución: Sedwick & Associates
+- URL: https://auction.sedwickcoins.com/Treasure-World-U-S-Coin-Paper-Money-Auction-28_as65943_p4?ps=10
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 3; fecha de la subasta vía NumisBids sale 4266)
+- Cita clave: "Argentina, 1 peso "patacon," 1882, NGC AU 58. Janson-13.2; KM-29." "Rather bold strike with minimal high-point wear, faint hairlines in obv"; estimación USD 500–750.
+- Usada en: serie 03
+
+### F-0185
+- Título: CGB Numismatique Paris — fichas del 1 peso 1881–1883 (fwo_1039249, fwo_1117071, v19_1855, fwo_245007, fwo_723709, fwo_839475, fwo_139120)
+- Autor / institución: CGB (París)
+- URL: https://www.cgbfr.com/argentina-1-peso-1881-xf,fwo_1039249,a.html ; https://www.cgbfr.com/argentina-1-peso-1882-xf,fwo_1117071,a.html ; https://www.cgbfr.com/argentine-republique-argentine-un-peso-5-francs-1883-ttb,v19_1855,a.html ; https://www.cgbfr.com/argentina-1-peso-1882-ms,fwo_245007,a.html ; https://www.cgbfr.com/argentine-republique-argentine-peso-1882-sup58-pcgs,fwo_723709,a.html ; https://www.cgbfr.com/argentina-1-peso-1882-vf,fwo_839475,a.html ; https://www.cgbfr.com/argentine-1-peso-liberte-au-bonnet-embleme-1882-birmingham-tb-,fwo_139120,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-07 (agentes de las rondas 1 y 2)
+- Cita clave: "* LIBERTAD *// UN PESO - 9 DOS FINO."; "REPUBLICA ARGENTINA// *1882*."; "Tête à gauche de la Liberté avec son bonnet phrygien, au-dessous signature OUDINE et étoile"; "Liberté - un peso - 9 décimes de fin"; canto "IGUALDAD * ANTE * LA * LEY ****"; 37 mm, 6 h. Pesos: 1881 XF 25,02 g ("Très léger nettoyage"); 1882 XF 25,00 g (280 €); 1883 XF 24,93 g, "Un peso (5 francs)", Monnaies 19 (2004), realizado 177 €, "Usure assez importante mais régulière sur les reliefs"; 1882 MS 520 € (2011); 1882 PCGS AU58 25,00 g, 611 € (8/03/2022, est. 900 €); 1882 VF 24,78 g "Monnaie nettoyée" 150 € (2023); 1882 VF 95 €, "Birmingham", 37,5 mm (error de ficha). Algunas fichas atribuyen 98.000 al 1882 y "KM.19/4" (errores).
+- Usada en: serie 03
+
+### F-0186
+- Título: Río de la Plata Compañía Numismática — "Primera emisión nacional: La serie «Patacón»" (9/03/2025) y lotes 4-1TOLYR (1882 CJ 13.1.3) y 4-F8CWFG (1881 CJ 12)
+- Autor / institución: Ricardo Veltri — Río de la Plata Compañía Numismática (rpnumis.com; auction.rpnumis.com)
+- URL: https://rpnumis.com/2025/03/09/primera-emision-nacional-la-serie-patacon/ ; https://auction.rpnumis.com/lots/view/4-1TOLYR/argentina-1-peso-1882-patacon-cj-1313 ; https://auction.rpnumis.com/lots/view/4-F8CWFG/argentina-1-peso-1881-patacon-cj-12
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-07 (agente de la ronda 2)
+- Cita clave: lote 239: 1881 CJ 12, XF, 24,80 g, 37,0 mm, "Fecha escasa", "Solo 62.026 unidades"; Ley 1130 sancionada el 5/11/1881, para "poner fin al caos monetario del país". Lote 1882: AG.900, 37,0 mm, 25,0 g, CJ 13.1.3, "aUNC", "(2 separado) posible nueva variante, separado + caído, a estudiar". Lote 1881: XF, 24,88 g, 37,0 mm. En resultados de búsqueda aparecen además lotes "1 Peso 1881-1981, Medalla Centenario del Patacón" en plata y en cobre (4-DOU7ZZ, 4-DOU801; solo títulos).
+- Usada en: serie 03
+
+### F-0187
+- Título: Lissner sale trebles pre-sale estimates (22/09/2014)
+- Autor / institución: Numismatic News
+- URL: https://www.numismaticnews.net/archive/lissner-sale-trebles-pre-sale-estimates
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-07 (agente de la ronda 2)
+- Cita clave: Richard L. Lissner Collection, St. James's Auctions y Classical Numismatic Group (catalogación de M. Louis Teller), Chicago Marriott O'Hare, 1–2/08/2014; USD 6.993.661, "three times pre-sale estimates"; 2.183 lotes vendidos. No menciona el patacón.
+- Usada en: serie 03
+
+### F-0188
+- Título: Argentina 1881 peso / 1882 peso / 1883 peso; Argentina 1878 centavo KM-E1; Paraguay 1889 peso (páginas de la wiki)
+- Autor / institución: coinvarieties.com (wiki colaborativa; reproduce descripciones de Stack's Bowers)
+- URL: https://coinvarieties.com/index.php/Argentina_1881_peso ; https://coinvarieties.com/index.php/Argentina_1882_peso ; https://coinvarieties.com/index.php/Argentina_1883_peso ; https://coinvarieties.com/index.php/Argentina_1878_centavo_KM-E1 ; https://coinvarieties.com/index.php/Paraguay_1889_peso
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (las citas de Stack's Bowers, nivel 3 de segunda mano)
+- Consultada: 2026-11-07 (agentes de la ronda 1)
+- Cita clave: 1882: "Recorded mintage: 413,711." 1883: Stack's Bowers NYINC enero 2018, lote 20014, NGC MS61, USD 900, ex Alex Siegel: "RARE in this state of preservation and the best date of the three year type." 1881: Stack's Bowers 2022 NYINC, lote 6358, PCGS AU-58, USD 960: "Just the second time we have offered this SCARCE first year type." "This is also the finest certified by PCGS." Ley del 25/09/1878 que autorizó el viaje de Castilla a Bélgica, Francia y Gran Bretaña. Paraguay 1889: 600.000, "many were melted" (Goldberg 46, lote 1149, NGC MS-64, USD 3.200, 2008).
+- Usada en: serie 03
+
+### F-0189
+- Título: 1 peso (1 patacón), Argentina (ficha de catálogo)
+- Autor / institución: Foronum
+- URL: https://en.foronum.com/coins-catalog/argentina/n-885-1-peso-1-patacon
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 4)
+- Cita clave: 1881 y 1883 "Rara"; precios por algoritmo de colecciones de usuarios: 490–510 €, 1882 XF 600 €, 1883 G 500 €.
+- Usada en: serie 03
+
+### F-0190
+- Título: Numista — fichas N# 8163 (1 peso 1881–1883), N# 53525 (1 peso 1880, "pattern") y N# 36016 (25 pesos 2010 "Patacón")
+- Autor / institución: Numista (catálogo colaborativo; solo pista)
+- URL: https://en.numista.com/8163 ; https://en.numista.com/36016
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (catálogo; solo pista)
+- Consultada: 2026-11-07 (agentes de la ronda 1)
+- Cita clave: N# 8163: espesor 2,7 mm, eje ↑↓, desmonetización 1/01/1896, "this currency was minted according to the standards of the Latin Union", "* UN PESO * 9 Dos FINO *". N# 53525: KM Pn20, CJ 39, 38 mm, canto liso, 2,7 mm. N# 36016: 25 pesos 2010, Ag 925, 27 g, 40 mm, 3.500, Carlos Pedro Rodríguez Dufour, La Habana; "the first national silver coin of $ 1, coined as of 1881".
+- Usada en: serie 03
+
+### F-0191
+- Título: Numisquare — "1 peso 1881-1883", "1 peso pattern 1880", "1 patacón pattern 1879", "25 pesos Ibero-American Series Patacón 2010"
+- Autor / institución: numisquare.com (agregador; texto en parte generado)
+- URL: https://www.numisquare.com/1-peso-1881-1883-7974590520.html ; https://www.numisquare.com/1-peso-pattern-1880-7714236000.html ; https://www.numisquare.com/1-patacon-pattern-1879-9051950500.html ; https://www.numisquare.com/25-pesos-ibero-american-series-patacon-2010-3910823930.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (poco fiable)
+- Consultada: 2026-11-07 (agentes de la ronda 1)
+- Cita clave: "The 1882 date is notably scarcer in circulated grades, as production was sharply curtailed mid-series" (falso); 1880: KM#Pn20, 25 g, 38 mm × 2,7 mm; el apodo remite a "the old Spanish colonial eight-reales coin".
+- Usada en: serie 03
+
+### F-0192
+- Título: 1880 1 peso (CKW-ARG-25)
+- Autor / institución: Collector's Key
+- URL: https://www.collectorskey.com/world-coins/argentina/peso/peso-moneda-nacional/1880-1-peso
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 3)
+- Cita clave: 38 mm; "more common issue".
+- Usada en: serie 03
+
+### F-0193
+- Título: Coin silver 1 patacon essai, KM E6 (Republic)
+- Autor / institución: coinscatalog.net (agregador; solo pista)
+- URL: https://coinscatalog.net/argentina/coin-silver-1-patacon-essai-denomination-km-e6-republic
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 4)
+- Cita clave: "LEY DEL 25 DE SETIEMBRE 1878. UN PATACON."; plata 25,7 g, 37,8 mm, canto estriado (E6); cobre 21,29 g, 37,8 mm (E6a, CJ 27.3).
+- Usada en: serie 03
+
+### F-0194
+- Título: "Ofrecen hasta $500.000 por una moneda antigua" (Noticias NQN, 17/11/2023) y "Quien tiene esta moneda vieja de un peso tiene un tesoro: cuesta casi 2 millones" (Vía País, sin fecha)
+- Autor / institución: Noticias NQN; Vía País (sin firma)
+- URL: https://www.noticiasnqn.com.ar/noticias/2023/11/17/286423-ofrecen-hasta-500000-por-una-moneda-antigua ; https://viapais.com.ar/economia/quien-tiene-esta-moneda-vieja-de-un-peso-tiene-un-tesoro-cuesta-casi-2-millones/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-07 (agentes de la ronda 1)
+- Cita clave: el patacón 1882 como "un ejemplar de serie de bonos emitido en 1882 … bajo la ley 18.188" (error); "9 dos Fino"; ofertas de "hasta $500.000"; aviso de Mercado Libre por $ 1.750.000.
+- Usada en: serie 03
+
+### F-0195
+- Título: Esta moneda de 50 centavos argentinos la podés vender a 6 mil dólares (6/05/2024)
+- Autor / institución: Ámbito Financiero
+- URL: https://www.ambito.com/economia/esta-moneda-50-centavos-argentinos-la-podes-vender-6-mil-dolares-n5993686
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-07 (agentes de la ronda 1)
+- Cita clave: el peso de plata o patacón con curso legal entre 1881 y 1896; del medio patacón de 1881 "se crearon tan solo 1020".
+- Usada en: serie 03
+
+### F-0196
+- Título: Coleccionar monedas antiguas para recordar hitos de la historia nacional (21/09/2024)
+- Autor / institución: Alejandra Cicchitti — Memo (Mendoza)
+- URL: https://www.memo.com.ar/cultura/un-coleccionista-de-monedas-del-siglo-xix/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 4)
+- Cita clave: "Hoy los patacones son un emblema para la numismática nacional"; pie: "Moneda de 1 Peso de 1881, conocidas como -patacón-, de plata con un peso de 25 gramos."
+- Usada en: serie 03
+
+### F-0197
+- Título: Hard Times Tarnish a Sterling Symbol (Washington Post, 30/08/2001, p. E01; copia)
+- Autor / institución: Anthony Faiola — copia en latinamericanstudies.org
+- URL: https://www.latinamericanstudies.org/argentina/patacon.htm
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 4)
+- Cita clave: "The sterling patacon, the official coin in Buenos Aires Province until the adoption of the Argentine peso in the late 1800s" (error de prensa).
+- Usada en: serie 03
+
+### F-0198
+- Título: Si guardaste un patacón tenés un tesoro: la cuasimoneda que marcó la crisis de 2001 se vende por hasta USD 350 (28/10/2026)
+- Autor / institución: Ezequiel Alippe — Canal 26
+- URL: https://www.canal26.com/economia/2026/10/28/si-guardaste-un-patacon-tenes-un-tesoro-la-cuasimoneda-que-marco-la-crisis-de-2001-se-vende-por-hasta-usd-350/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 4)
+- Cita clave: gobernación de Ruckauf; 7 % anual; Serie A ≈ $ 614,7 millones (2001), Serie B ≈ $ 2.703 millones (2002); poder cancelatorio hasta fines de 2003; rescate hasta 2006; $100 Serie A AU ofrecido a USD 350.
+- Usada en: serie 03
+
+### F-0199
+- Título: Patacón (bond) / Patoruzú (artículos)
+- Autor / institución: Wikipedia en inglés
+- URL: https://en.wikipedia.org/wiki/Patac%C3%B3n_(bond) ; https://en.wikipedia.org/wiki/Patoruz%C3%BA
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-07 (agentes de la ronda 1)
+- Cita clave: "The name patacón is derived from a former Argentine national currency"; "patacón" como jerga de "dinero" popularizada por Patoruzú (Isidoro Cañones).
+- Usada en: serie 03
+
+### F-0200
+- Título: Argentina peso 1881–1883 (ficha de valores)
+- Autor / institución: CoinQuest
+- URL: https://coinquest.com/cgi-bin/cq/coins.pl?coin=772
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 4)
+- Cita clave: USD 100 / 200 / 400 / 800 según estado; "these peso values apply to all dates, 1881, 1882, and 1883"; "Un-natural surfaces and off-weight are two good indicators of counterfeits."
+- Usada en: serie 03
+
+### F-0201
+- Título: Chapitre AR-31-1 (primera emisión del Banco Nacional; catálogo de billetes)
+- Autor / institución: Urs Graf, Multicollec (solo pista)
+- URL: https://multicollec.net/3-bi-h1/AR-31-1-An.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: catálogo (solo pista)
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 2)
+- Cita clave: la conversión se levantó "because of silver-to-gold price fluctuations"; billetes de 1883 resellados "LEY 14 OCTUBRE 1885".
+- Usada en: serie 03 (pista)
+
+### F-0202
+- Título: Argentina 1882 peso PCGS AU50 (aviso)
+- Autor / institución: eBay (vendedor RMWorldCoins)
+- URL: https://www.ebay.de/itm/153422212923
+- Archivo (Internet Archive): no aplica
+- Nivel: 3 (solo presencia)
+- Consultada: 2026-11-07 (agente de la ronda 1, nivel 3)
+- Cita clave: PCGS AU50 ("50+++ PQ"), pedido USD 1.850, "popular and rare coin".
+- Usada en: serie 03
+
+### F-0203
+- Título: Catálogo de Monedas de la República Argentina (Janson, ed. 2020), pp. 672–674 — extracto en el Proyecto "Catalogo NP" (Janson-2020.pdf)
+- Autor / institución: Héctor Carlos Janson (catálogo de referencia del mercado)
+- URL: (archivo del Proyecto, no público)
+- Archivo (Internet Archive): no aplica
+- Nivel: catálogo — SOLO PISTA (PROTOCOLO §0.2); nunca respaldo de tiradas ni datos históricos
+- Consultada: 2026-11-07 (agente de la ronda 2, lectura por imagen)
+- Cita clave: ficha "PESO: 25 gr - LEY: 900 Ag + 100 Cu … CANTO: IGUALDAD * ANTE * LA * LEY **** - MODULO: 37 mm"; CJ 12 (1881) 62.026; CJ 13.1.1 (1882) 413.711 "2 normal", 13.1.2 "2 cercano al 8", 13.1.3 "2 separado", 13.1.4 "2 caído", 13.2.1 "Moharra inferior derecha notablemente más corta", 13.2.2; CJ 14 (1883) 98.000; precios USD B/MB/EB/SC: 1881 300/800/1.200/1.600; 1882 (13.1.x) –/400/800/1.200 (13.1.3 –/450/1.000/1.500; 13.2.x 200/600/1.000/1.500); 1883 350/1.000/1.400/2.000. 50 c 1881 (CJ 15) 1.020; 50 c 1882 (CJ 16.1) 476.447; 50 c 1883 (CJ 17.1) 2.273.380.
+- Usada en: serie 03 (pista)
