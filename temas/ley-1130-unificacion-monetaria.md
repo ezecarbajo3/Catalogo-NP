@@ -28,7 +28,10 @@ Afecta a las series 01 a 08 (sistema peso moneda nacional, primer cono 1881–18
 - Ley 1.334 (sanc. 28/09/1883, promulgada el 4/10/1883): billetes convertibles menores de un peso hasta 6 millones, con depósito en monedas fraccionarias de un peso (≥ 1/5 de los billetes) [F-0164] · confirmado; es la "ley sobre emisión menor" que hizo suspender la plata [F-0028] · probable.
 - Ley 1.354 (17/10/1883) "Sobre unificación de moneda": billetes solo en pesos oro; plata nacional forzosa entre particulares hasta 5 pesos por pago; prohibición de la plata extranjera a los seis meses [F-0164] · confirmado.
 - Decreto del 19/07/1884: desmonetización de la plata extranjera [F-0028] · confirmado.
-- 1890: el Banco Nacional remitió a Europa 100.000 pesos en plata nacional y tenía otros 350.000 [F-0166] · confirmado. V. F. López (1891): "tímido ensayo de bimetalismo" [F-0166].
+- 1890: el Banco Nacional recibió la orden de remitir a Europa 100.000 pesos en plata nacional y tenía otros 350.000; el embarque de la plata, a confirmar [F-0166] · confirmado (la orden). V. F. López (1891): "tímido ensayo de bimetalismo" [F-0166].
+- Acuñación de plata por año y denominación (Agote 1884, p. 355): 1881: 62.026 pesos, 1.020 de 50 c, 2.018 de 20 c, 1.020 de 10 c; 1882: 413.711, 576.447, 762.027, 778.131; 1883: 98.000, 2.073.380, 1.510.950, 2.785.650 [F-0204] · confirmado (pesos y total; probable la asignación anual de 20 y 10 c). Ley media de la plata en 1883: 899,621 [F-0204] · probable.
+- La plata se restringió antes de la ley de emisión menor, por resistencia del público y rumores de falsificación; desde el 4/10/1883 se limitó al metal existente, 3.284 kg [F-0204] · confirmado.
+- "La mayor parte de la plata amonedada ha venido de Bolivia" [F-0204] · confirmado.
 - No se encontró la norma de desmonetización del peso de plata nacional (Numista: 1/01/1896, sin norma) [F-0190] · a confirmar.
 
 ## Pistas

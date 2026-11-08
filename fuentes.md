@@ -393,6 +393,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-04
 - Cita clave: "Según el artículo 4 la acuñación de monedas de oro sería ilimitada"; "Argentino, de 5 pesos como valor de la pieza, de 8,0645 gramos"; "Medio Argentino, de 2,5 pesos como valor de la pieza, de 4,0322 gramos"; premio del oro en 1896: 296.
 - Usada en: serie 01
+- Revisión 2026-11-08 (serie 03): F-0036 trae la serie anual 1884–1895 de pesos papel por 100 oro; usada también en serie 03.
 
 ### F-0037
 - Título: Monetary and banking experiments in Argentina: 1861-1930 (Working Paper)
@@ -1039,6 +1040,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-06
 - Cita clave: p. 547: "El periodo de convertibilidad sólo duró diecisiete meses"; "En marzo de 1885, el gobierno federal decretó «curso forzoso»"; p. 549 (cita a Ford 1962, p. 93): "se habían emitido monedas de oro por valor de 31,7 millones de pesos oro", cerca del cuádruple de lo planeado; en 1896 no circulaban monedas de oro.
 - Usada en: serie 01
+- Revisión 2026-11-08: usada también en serie 03.
 
 ### F-0101
 - Título: La deuda pública externa argentina, 1880-1906
