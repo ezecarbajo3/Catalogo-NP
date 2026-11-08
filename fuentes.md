@@ -1891,6 +1891,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-07 (agentes de las rondas 1 y 2)
 - Cita clave: "* LIBERTAD *// UN PESO - 9 DOS FINO."; "REPUBLICA ARGENTINA// *1882*."; "Tête à gauche de la Liberté avec son bonnet phrygien, au-dessous signature OUDINE et étoile"; "Liberté - un peso - 9 décimes de fin"; canto "IGUALDAD * ANTE * LA * LEY ****"; 37 mm, 6 h. Pesos: 1881 XF 25,02 g ("Très léger nettoyage"); 1882 XF 25,00 g (280 €); 1883 XF 24,93 g, "Un peso (5 francs)", Monnaies 19 (2004), realizado 177 €, "Usure assez importante mais régulière sur les reliefs"; 1882 MS 520 € (2011); 1882 PCGS AU58 25,00 g, 611 € (8/03/2022, est. 900 €); 1882 VF 24,78 g "Monnaie nettoyée" 150 € (2023); 1882 VF 95 €, "Birmingham", 37,5 mm (error de ficha). Algunas fichas atribuyen 98.000 al 1882 y "KM.19/4" (errores).
 - Usada en: serie 03
+- Revisión 2026-11-08 (serie 03): también fichas fwo_789159 (2023, 186 €), fwo_496130 (2018, 240 €), fwo_591957 (2020, 100 €); fwo_1039249 terminó el 22/07/2025 en 330 €; fwo_1117071 terminó el 12/05/2026 en 280 €. Fichas fwo_245007 y fwo_839475 traen datos de 1883 en fichas de 1882.
 
 ### F-0186
 - Título: Río de la Plata Compañía Numismática — "Primera emisión nacional: La serie «Patacón»" (9/03/2025) y lotes 4-1TOLYR (1882 CJ 13.1.3) y 4-F8CWFG (1881 CJ 12)
@@ -2071,3 +2072,253 @@ Formato de cada entrada:
 - Consultada: 2026-11-07 (agente de la ronda 2, lectura por imagen)
 - Cita clave: ficha "PESO: 25 gr - LEY: 900 Ag + 100 Cu … CANTO: IGUALDAD * ANTE * LA * LEY **** - MODULO: 37 mm"; CJ 12 (1881) 62.026; CJ 13.1.1 (1882) 413.711 "2 normal", 13.1.2 "2 cercano al 8", 13.1.3 "2 separado", 13.1.4 "2 caído", 13.2.1 "Moharra inferior derecha notablemente más corta", 13.2.2; CJ 14 (1883) 98.000; precios USD B/MB/EB/SC: 1881 300/800/1.200/1.600; 1882 (13.1.x) –/400/800/1.200 (13.1.3 –/450/1.000/1.500; 13.2.x 200/600/1.000/1.500); 1883 350/1.000/1.400/2.000. 50 c 1881 (CJ 15) 1.020; 50 c 1882 (CJ 16.1) 476.447; 50 c 1883 (CJ 17.1) 2.273.380.
 - Usada en: serie 03 (pista)
+
+### F-0204
+- Título: Informe del Presidente del Crédito Público Nacional Pedro Agote sobre la deuda pública, bancos, y acuñación de moneda — Libro II, 1884 (sección Moneda, pp. 347–370)
+- Autor / institución: Pedro Agote, Crédito Público Nacional (CDI-MECON)
+- URL: https://cdi.mecon.gob.ar/bases/librosantiguos/informe_credito_publico_nacional_libro_II_1884.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: "413,711 Piezas de 1 peso" (Año 1882, p. 355); "98,000 Piezas de 1 peso" (Año 1883, p. 355); "475,737 «Pesos» emitidos" (p. 361); "rumor de falsificacion ó mala acuñacion" (p. 356); "la mayor parte de la plata amonedada ha venido de Bolivia" (pp. 363–364). OCR; offsets ≈530.000–590.000 de 788.921. Releído por la sesión principal.
+- Usada en: serie 03
+
+### F-0205
+- Título: Informe del Crédito Público Nacional, Libro V, 1888 (4.ª parte, Casa de Moneda, pp. 401–411)
+- Autor / institución: Crédito Público Nacional (CDI-MECON)
+- URL: https://cdi.mecon.gob.ar/bases/librosantiguos/informe_credito_publico_nacional_libro_V_1888.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: "estando suspendida la amonedacion de este metal desde 1883" (p. 401); "573,737 Pesos" (pp. 409–410). Lectura de agente (ronda 2).
+- Usada en: serie 03
+
+### F-0206
+- Título: Statistical Abstract of the United States (1926), tabla 708 "Silver: Price, and Value of Silver in the Dollar" (origen: Annual Reports of the Director of the Mint)
+- Autor / institución: U.S. Department of Commerce (FRASER)
+- URL: https://fraser.stlouisfed.org/files/docs/publications/stat_abstract/pages/43750_1925-1929.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Londres, USD por onza fina: 1881 1.132; 1885 1.065; 1889 0.935; 1890 1.046; 1893 0.780. Releído por la sesión principal.
+- Usada en: serie 03
+
+### F-0207
+- Título: Federal Reserve Bulletin, 1/11/1917, "Movement of the Price of Silver"
+- Autor / institución: Federal Reserve Board (FRASER)
+- URL: https://fraser.stlouisfed.org/files/docs/publications/FRB/pages/1915-1919/24568_1915-1919.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Serie anual 1882–1895 coincidente con F-0206. Lectura de agente.
+- Usada en: serie 03
+
+### F-0208
+- Título: A. G. Ford, "Argentina y la crisis de Baring de 1890", Revista de Economía y Estadística, 1969, cuadro XII
+- Autor / institución: A. G. Ford
+- URL: https://core.ac.uk/download/480415684.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Serie del premio del oro; el 1893 se leyó 423 (errata de 324).
+- Usada en: serie 03
+
+### F-0209
+- Título: Gerardo della Paolera y Alan M. Taylor, Straining at the Anchor, cap. 5, tabla 5.3 (NBER)
+- Autor / institución: Della Paolera y Taylor (NBER)
+- URL: https://www.nber.org/chapters/c8840.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Oro en papel 1891–1899: 3,74 / 3,29 / 3,24 / 3,58 / 3,44 / 2,96 / 2,91 / 2,57 / 2,25.
+- Usada en: serie 03
+
+### F-0210
+- Título: Heritage World Coin Auctions, Showcase Auction 61343 (12–13/11/2023), lotes 23026–23030, vía NumisBids
+- Autor / institución: Heritage / NumisBids
+- URL: https://www.numisbids.com/sale/7303
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: "Argentina Republic Peso 1883 AU55 NGC, KM29": 440 USD. La página dice "Price realized". Releído por la sesión principal.
+- Usada en: serie 03
+
+### F-0211
+- Título: CoinArchives, resultados de los últimos 6 meses, "argentina" (página rotativa): Sedwick 40 lotes 811–813, CNG E-Auction 619 lote 952, Katz E-Auction 222 lote 2142
+- Autor / institución: CoinArchives
+- URL: https://www.coinarchives.com/w/results.php?search=argentina&s=0
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Consulta 2026-11-08; lotes con estimaciones. Lectura de agente.
+- Usada en: serie 03
+
+### F-0212
+- Título: Sedwick, Treasure, World & U.S. Coin & Paper Money Auction 26, lote 597 (1882 NGC AU58, J-13.1.1)
+- Autor / institución: Daniel Frank Sedwick
+- URL: https://auction.sedwickcoins.com/Treasure-World-U-S-Coin-Paper-Money-Auction-26_as60694
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Estimación USD 600–900.
+- Usada en: serie 03
+
+### F-0213
+- Título: HobbyRay, 1 peso 1882 (28/06/2014)
+- Autor / institución: HobbyRay (origen s/d)
+- URL: https://www.hobbyray.com/en/item-x-y-z-uMAKbzbiEnkAAAFGl2IOleho.htm
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: XF limpia, golpe en canto; "306" sin moneda.
+- Usada en: serie 03
+
+### F-0214
+- Título: Heritage 3035, lote 30013 (4/09/2014), Essai 1 Patacón 1879, NGC UNC Details
+- Autor / institución: Heritage
+- URL: https://coins.ha.com/itm/argentina/argentina-republic-essai-1-patacon-1879-unc-details-surface-hairlines-ngc-/a/3035-30013.s
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Lectura de agente.
+- Usada en: serie 03
+
+### F-0215
+- Título: Heritage Europe, Coins, Currency and Medals, nov. 2024, lote 6816 "Unofficial Restrike silver Pattern Peso 1880"
+- Autor / institución: Heritage Europe
+- URL: https://ha-europe.com/en/browse/Coins_Currency_and_Medals_November_2024/6816
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: KM Pn20, Janson-31, NGC AU Details cleaned, 25,03 g, salida 250 €.
+- Usada en: serie 03
+
+### F-0216
+- Título: Imperio Numismático, hilos sobre el patacón: t3818, t3818p25, t49754, t89387, t121452, t158507, t163642
+- Autor / institución: Foro Imperio Numismático
+- URL: https://www.imperio-numismatico.com/t3818-argentina-monedas-de-la-serie-del-patacon ; https://www.imperio-numismatico.com/t3818p25-argentina-monedas-de-la-serie-del-patacon ; https://www.imperio-numismatico.com/t49754-1-patacon-plata-argentina-1883 ; https://www.imperio-numismatico.com/t89387-1-peso-patacon-argentina-1882 ; https://www.imperio-numismatico.com/t121452-argentina-patacon-de-1882 ; https://www.imperio-numismatico.com/t158507-1-peso-republica-de-argentina-1882 ; https://www.imperio-numismatico.com/t163642-argentina-1-peso-patacin-ano-1882-cj13-1-3-a3-r1
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Comunidad. "el patacon de 1881 una de las mas dificiles" (IVON, 4/10/2009).
+- Usada en: serie 03
+
+### F-0217
+- Título: "Historia del único Patacón de Oro de 1881" (post de DANCE35, 29/10/2011)
+- Autor / institución: Foro Imperio Numismático
+- URL: https://www.imperio-numismatico.com/t31267-historia-del-unico-patacon-de-oro-de-1881
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Remate del 6/07/1972, 22 quilates, base 10.000 pesos ley, vendida en 50.000. Cita a Museo Uriburu y El Telégrafo del Centro (abril 2002).
+- Usada en: serie 03
+
+### F-0218
+- Título: "Los Argentinos: Oro para una Argentina exportadora" (10/12/2025)
+- Autor / institución: blognumismatico
+- URL: https://blognumismatico.com/2025/12/10/los-argentinos-oro-para-una-argentina-exportadora/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Exportación a Europa atribuida a los argentinos de oro, 1888–1890.
+- Usada en: serie 03
+
+### F-0219
+- Título: Identificación Numismática, hilo t102322 (27/03/2022)
+- Autor / institución: Foro Identificación Numismática
+- URL: https://www.identificacion-numismatica.com/t102322-argentina-1-peso-patacon-de-1882
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: "Solo han sobrevivido un 10%" (gransuricata).
+- Usada en: serie 03
+
+### F-0220
+- Título: Luciano Pezzano, bibliografía de Cunietti-Ferrando, El Reverso, número especial In Memoriam
+- Autor / institución: Luciano Pezzano
+- URL: https://monedasuruguay.com/bib/rev/revcun.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Para 1989: Monedas argentinas. Desde la época colonial hasta nuestros días; Monedas y medallas.
+- Usada en: serie 03
+
+### F-0221
+- Título: Ley 3321 (2/12/1895), moneda de níquel
+- Autor / institución: InfoLEG / Argentina.gob.ar
+- URL: https://www.argentina.gob.ar/normativa/nacional/ley-3321-284492/texto
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: No menciona la plata.
+- Usada en: serie 03
+
+### F-0222
+- Título: Fuentes de divulgación sobre el fin de las acuñaciones: Todo-Argentina cap. 12; Billetes Argentinos, Moneda Nacional; BCRA, Argentinos oro 1881–1896
+- Autor / institución: Todo-Argentina; Billetes Argentinos; BCRA
+- URL: https://www.todo-argentina.net/historia/hist_moneda/moneda12.htm ; https://www.billetesargentinos.com.ar/monedas/moneda_nacional.htm ; https://www.bcra.gob.ar/argentinos-oro-1881-1896/
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: En 1896 se interrumpieron todas las acuñaciones; "los valores de plata ya habían sido suprimidos en 1884".
+- Usada en: serie 03
+
+### F-0223
+- Título: Wikisource, "Ley 974 (no promulgada ni vetada) sobre acuñación de moneda" (título visto en resultado de búsqueda; página no abierta: url_not_found)
+- Autor / institución: Wikisource
+- URL: (url_not_found)
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Solo el título.
+- Usada en: serie 03
+
+### F-0224
+- Título: Roberto Cortés Conde, Seminario de Economía Rutgers 1995 (Univ. de San Andrés)
+- Autor / institución: Roberto Cortés Conde
+- URL: https://repositorio.udesa.edu.ar/jspui/bitstream/10908/19413/1/%5bP%5d%5bW%5d%20Sem.%20Eco.%2095-2.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: La suspensión de enero de 1885 alcanzó también a los depósitos metálicos.
+- Usada en: serie 03
+
+### F-0225
+- Título: Enrique Rapela, Conozcamos lo nuestro: El gaucho, pp. 44–45
+- Autor / institución: Enrique Rapela (El Ateneo)
+- URL: https://editorialelateneo.com.ar/descargas/CONOZCAMOS%20LO%20NUESTRO%20(p44-p45).pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: "tirador estaba adornado con patacones y otras monedas de valor".
+- Usada en: serie 03
+
+### F-0226
+- Título: Lee A. Jones (1998), sobre el tirador
+- Autor / institución: Lee A. Jones
+- URL: https://id33158.securedata.net/svaerd/ethsword/facon/tirador.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Monedas del siglo XIX en tiradores como reserva de riqueza.
+- Usada en: serie 03
+
+### F-0227
+- Título: "Tesoros numismáticos hallados en Argentina" (8/09/2023)
+- Autor / institución: Pilar a Diario
+- URL: https://www.pilaradiario.com/la-pancha/tesoros-numismaticos-hallados-argentina-n5446784
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Errores internos; no usar sin corroborar.
+- Usada en: serie 03
+
+### F-0228
+- Título: "El Patacón: moneda para un imperio" (30/07/2017)
+- Autor / institución: Blog Historias Verosímiles
+- URL: https://historiasverosimiles.blogspot.com/2017/07/el-patacon-moneda-para-un-imperio.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-08 (revisión serie 03)
+- Cita clave: Deriva de De Ansó.
+- Usada en: serie 03
