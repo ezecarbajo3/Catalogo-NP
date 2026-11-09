@@ -37,3 +37,11 @@ Afecta a las series 01 a 08 (sistema peso moneda nacional, primer cono 1881–18
 ## Pistas
 - Informes del Crédito Público de Agote, vols. 2–4 (Google Books) y Memoria del BCRA 1935 en castellano.
 - Conseguir el texto del Registro Nacional 1881 con las tablas del art. 2 y el decreto reglamentario de 1881.
+
+## La emisión menor y el fin de la plata fraccionaria (agregado 2026-11-09, serie 04)
+- Tiradas del 50 c: 1.020 (1881), 576.447 (1882), 2.073.380 (1883) [F-0163, F-0204]; 136.000 en 1884 con el metal existente, fecha de las piezas desconocida [F-0028] · confirmado. Las cifras del catálogo de referencia (476.447 y 2.273.380) suman 100.000 de más [F-0203] · solo pista.
+- La fraccionaria de 1884 vale $ 95.200 (136.000 × 0,50 + 119.000 × 0,20 + 34.000 × 0,10), igual a la línea "emitido en monedas en 1884" del cuadro de la plata (2.139,883 kg de fino) [F-0028] · confirmado (aritmética).
+- Billetes menores del Banco Nacional ("Ley de 4 de Octubre de 1883"): circulan desde fines de enero de 1884; $ 1.329.416,64 al 31/12/1884 con reserva de $ 265.883,20 [F-0028] · confirmado (cifras de OCR, probable). Al 31/03/1886, $ 4.254.751 en circulación [F-0165] · a confirmar.
+- Ley 2.741 (1890), Caja de Conversión [F-0250]; decreto del 8/03/1892: la emisión menor pasa a la Caja [F-0252]; billetes de 50 c de 1891–1892 [F-0233] · probable. Ley 3.321 (1895): níquel para 20, 10 y 5 c, sin 50 c ni mención de la plata [F-0221] · confirmado.
+- No se encontró norma de desmonetización de la plata fraccionaria; Numista da 1/01/1896 sin fuente [F-0234] · a confirmar. El 50 c volvió como moneda en 1941 (níquel) [F-0232] · probable.
+
