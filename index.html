@@ -1,0 +1,880 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Investigación Catálogo NP</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Visor de la base de investigación del Catálogo de Monedas Argentinas (Numismática Popper).">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600&family=Instrument+Sans:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+/* Layout: una columna de lectura (ficha de archivo numismático); tablero en grilla de dos columnas desde 860px; navegación abajo en el celular, arriba en pantallas anchas. */
+:root {
+  --bg: #f3f5f8;
+  --surface: #ffffff;
+  --ink: #16202c;
+  --muted: #5a6575;
+  --line: #dbe0e7;
+  --accent: #1d4f91;
+  --accent-soft: #e5edf8;
+  --oro: #a37718;
+  --oro-soft: #f6eedb;
+  --plata: #8c97a6;
+  --ok: #2c7a4c;
+  --prob: #24788a;
+  --warn: #b0701a;
+  --sup: #7656a6;
+  --shadow: 0 1px 2px rgba(22, 32, 44, .06), 0 4px 16px rgba(22, 32, 44, .05);
+  --f-display: "Cinzel", "Trajan Pro", Georgia, serif;
+  --f-read: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --f-ui: "Instrument Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --f-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  --nav-h: 62px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0d1219; --surface: #141b25; --ink: #e5e9ef; --muted: #98a3b3; --line: #253041;
+    --accent: #8ab8ee; --accent-soft: #1a2940; --oro: #d6b05a; --oro-soft: #2b2416; --plata: #b6bfcb;
+    --ok: #62bf88; --prob: #5db7c6; --warn: #e2a64c; --sup: #b49be2;
+    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 4px 16px rgba(0,0,0,.25);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0d1219; --surface: #141b25; --ink: #e5e9ef; --muted: #98a3b3; --line: #253041;
+  --accent: #8ab8ee; --accent-soft: #1a2940; --oro: #d6b05a; --oro-soft: #2b2416; --plata: #b6bfcb;
+  --ok: #62bf88; --prob: #5db7c6; --warn: #e2a64c; --sup: #b49be2;
+  --shadow: 0 1px 2px rgba(0,0,0,.3), 0 4px 16px rgba(0,0,0,.25);
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 15px/1.5 var(--f-ui);
+  padding-bottom: calc(var(--nav-h) + env(safe-area-inset-bottom, 0px));
+}
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 30; background: var(--surface); }
+a { color: var(--accent); }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+[hidden] { display: none !important; }
+img { max-width: 100%; }
+
+.wrap {
+  max-width: 1080px; margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.reading { max-width: 720px; margin: 0 auto; }
+
+/* ---------- Cabecera y navegación ---------- */
+.top {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20;
+  background: var(--surface); border-bottom: 1px solid var(--line);
+}
+.top .wrap { display: flex; align-items: center; gap: 16px; padding-block: 10px; }
+.brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--ink); min-width: 0; }
+.brand svg { flex: none; }
+.brand b { font: 600 15px/1.1 var(--f-display); letter-spacing: .06em; display: block; }
+.brand small { display: block; font-size: 11.5px; color: var(--muted); letter-spacing: .04em; }
+.nav {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 25;
+  display: flex; justify-content: space-around;
+  background: var(--surface); border-top: 1px solid var(--line);
+  padding: 6px max(8px, env(safe-area-inset-right, 0px)) calc(6px + env(safe-area-inset-bottom, 0px)) max(8px, env(safe-area-inset-left, 0px));
+}
+.nav a {
+  flex: 1; max-width: 110px; display: flex; flex-direction: column; align-items: center; gap: 3px;
+  padding: 4px 2px; border-radius: 10px; text-decoration: none; color: var(--muted);
+  font-size: 11.5px; font-weight: 500;
+}
+.nav a svg { width: 22px; height: 22px; }
+.nav a[aria-current="page"] { color: var(--accent); }
+.nav a[aria-current="page"] svg { stroke-width: 2.2; }
+@media (min-width: 860px) {
+  body { padding-bottom: 40px; }
+  .nav { position: static; border: 0; padding: 0; margin-left: auto; gap: 4px; background: none; }
+  .nav a { flex-direction: row; max-width: none; flex: none; padding: 8px 12px; font-size: 14px; gap: 7px; }
+  .nav a svg { width: 18px; height: 18px; }
+  .nav a[aria-current="page"] { background: var(--accent-soft); }
+}
+
+main { padding-block: 20px 32px; }
+.view { display: grid; gap: 22px; }
+
+/* ---------- Tipografía general ---------- */
+h1, h2, h3 { text-wrap: balance; }
+.eyebrow { font: 600 11.5px/1.2 var(--f-ui); letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin: 0; }
+.h-display { font: 600 clamp(24px, 6vw, 36px)/1.15 var(--f-display); letter-spacing: .02em; margin: 6px 0 0; }
+.h-sec { font: 600 13px/1.2 var(--f-ui); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin: 0 0 12px; display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+.h-sec a { font-size: 13px; letter-spacing: 0; text-transform: none; font-weight: 500; text-decoration: none; }
+.lead { font: 400 17px/1.55 var(--f-read); color: var(--muted); margin: 8px 0 0; max-width: 62ch; }
+.num { font-variant-numeric: tabular-nums; }
+
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px; box-shadow: var(--shadow); min-width: 0; }
+
+/* ---------- Tablero ---------- */
+.hero { display: grid; grid-template-columns: auto 1fr; gap: 18px; align-items: center; }
+.coin { width: 128px; height: 128px; }
+.coin .big { font: 600 34px var(--f-display); fill: var(--ink); }
+.coin .small { font: 500 10px var(--f-ui); fill: var(--muted); letter-spacing: .08em; }
+.hero-meta { display: grid; gap: 10px; min-width: 0; }
+.bar { height: 8px; border-radius: 99px; background: var(--line); overflow: hidden; }
+.bar > i { display: block; height: 100%; background: var(--oro); border-radius: 99px; }
+.meta-line { font-size: 13.5px; color: var(--muted); }
+.meta-line b { color: var(--ink); font-weight: 600; }
+@media (max-width: 420px) { .hero { grid-template-columns: 1fr; justify-items: start; } }
+
+.stats { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+@media (min-width: 640px) { .stats { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+.stat { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; }
+.stat b { display: block; font: 600 24px/1.1 var(--f-ui); font-variant-numeric: tabular-nums; }
+.stat span { font-size: 12.5px; color: var(--muted); }
+
+.grid2 { display: grid; gap: 22px; }
+@media (min-width: 860px) { .grid2 { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: start; } }
+
+/* Bandeja de monedas: una por serie */
+.tray { display: grid; gap: 14px; }
+.tray-row { display: grid; gap: 6px; }
+.tray-row header { display: flex; justify-content: space-between; gap: 8px; font-size: 13px; }
+.tray-row header span { color: var(--muted); }
+.dots { display: flex; flex-wrap: wrap; gap: 6px; }
+.dot {
+  width: 26px; height: 26px; border-radius: 50%; display: grid; place-items: center;
+  font: 600 10px var(--f-ui); font-variant-numeric: tabular-nums; text-decoration: none;
+  border: 1.5px solid var(--line); color: var(--muted); background: var(--surface);
+}
+.dot.completa { background: var(--oro); border-color: var(--oro); color: var(--surface); box-shadow: inset 0 0 0 2px rgba(255,255,255,.28); }
+.dot.revisar { background: var(--oro-soft); border-color: var(--oro); color: var(--oro); }
+.dot.investigacion { background: linear-gradient(90deg, var(--oro) 50%, var(--surface) 50%); border-color: var(--oro); color: var(--ink); }
+a.dot:hover { transform: translateY(-1px); }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 12.5px; color: var(--muted); margin-top: 12px; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { width: 11px; height: 11px; border-radius: 50%; display: inline-block; border: 1.5px solid var(--line); }
+
+/* Barras apiladas de confianza */
+.stack { display: grid; gap: 12px; }
+.stack-row { display: grid; gap: 5px; }
+.stack-row header { display: flex; justify-content: space-between; gap: 10px; font-size: 13px; }
+.stack-row header a { color: var(--ink); text-decoration: none; font-weight: 500; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.stack-row header span { color: var(--muted); flex: none; }
+.sbar { display: flex; height: 12px; border-radius: 4px; overflow: hidden; background: var(--line); }
+.sbar i { display: block; height: 100%; }
+.c-confirmado { background: var(--ok); }
+.c-probable { background: var(--prob); }
+.c-aconfirmar { background: var(--warn); }
+.c-supuesto { background: var(--sup); }
+
+.hbars { display: grid; gap: 9px; }
+.hbar { display: grid; grid-template-columns: 112px minmax(0, 1fr) 36px; gap: 10px; align-items: center; font-size: 13px; }
+.hbar .track { height: 10px; background: var(--line); border-radius: 99px; overflow: hidden; }
+.hbar .track i { display: block; height: 100%; background: var(--accent); border-radius: 99px; }
+.hbar b { text-align: right; font-weight: 600; font-variant-numeric: tabular-nums; }
+
+/* Listas */
+.list { display: grid; }
+.list > * + * { border-top: 1px solid var(--line); }
+.item { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 12px; align-items: center; padding: 11px 0; text-decoration: none; color: var(--ink); }
+.item .t { font-weight: 500; }
+.item .s { font-size: 12.5px; color: var(--muted); }
+.item.off { color: var(--muted); }
+.chev { color: var(--muted); }
+
+.pill { display: inline-block; font: 600 11px/1 var(--f-ui); letter-spacing: .04em; padding: 5px 8px; border-radius: 99px; white-space: nowrap; background: var(--line); color: var(--muted); }
+.pill.completa { background: var(--oro-soft); color: var(--oro); }
+.pill.revisar, .pill.investigacion { background: var(--accent-soft); color: var(--accent); }
+
+.cards { display: grid; gap: 12px; }
+@media (min-width: 640px) { .cards { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); } }
+.card { display: grid; gap: 8px; text-decoration: none; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 16px; }
+.card:hover { border-color: var(--oro); }
+.card h3 { margin: 0; font: 600 17px/1.25 var(--f-read); }
+.card p { margin: 0; font: 400 14.5px/1.5 var(--f-read); color: var(--muted); display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+
+.group-h { font: 600 18px/1.25 var(--f-display); letter-spacing: .03em; margin: 0; }
+.sub-h { font: 600 12px var(--f-ui); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin: 14px 0 0; }
+
+/* ---------- Ficha de serie ---------- */
+.back { font-size: 14px; text-decoration: none; display: inline-flex; gap: 6px; align-items: center; }
+.ficha { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 18px; margin: 0; }
+@media (min-width: 640px) { .ficha { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+.ficha div { min-width: 0; }
+.ficha dt { font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.ficha dd { margin: 2px 0 0; font-weight: 500; overflow-wrap: anywhere; }
+.resumen { font: 400 17px/1.6 var(--f-read); }
+.resumen p { margin: 0 0 .8em; }
+.resumen p:last-child { margin: 0; }
+
+.tabs { display: flex; gap: 4px; background: var(--line); padding: 4px; border-radius: 12px; position: sticky; top: calc(env(safe-area-inset-top, 0px) + 57px); z-index: 10; }
+.tabs button { flex: 1; border: 0; background: none; padding: 9px 10px; border-radius: 9px; font-weight: 600; font-size: 14px; color: var(--muted); cursor: pointer; }
+.tabs button[aria-selected="true"] { background: var(--surface); color: var(--ink); box-shadow: var(--shadow); }
+
+details.toc { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+details.toc summary { padding: 12px 14px; cursor: pointer; font-weight: 600; font-size: 14px; list-style: none; display: flex; justify-content: space-between; }
+details.toc summary::-webkit-details-marker { display: none; }
+details.toc summary::after { content: "+"; color: var(--muted); font-weight: 400; }
+details.toc[open] summary::after { content: "–"; }
+details.toc ol { margin: 0; padding: 0 14px 12px 34px; display: grid; gap: 6px; font-size: 14px; }
+details.toc a { text-decoration: none; }
+
+/* Texto largo en markdown */
+.md { font: 400 17px/1.68 var(--f-read); overflow-wrap: break-word; }
+.md > *:first-child { margin-top: 0; }
+.md h1 { font: 600 24px/1.25 var(--f-display); margin: 1.6em 0 .5em; }
+.md h2 { font: 600 21px/1.3 var(--f-read); margin: 1.8em 0 .5em; padding-top: .8em; border-top: 1px solid var(--line); scroll-margin-top: 130px; }
+.md h3 { font: 600 18px/1.3 var(--f-read); margin: 1.4em 0 .4em; scroll-margin-top: 130px; }
+.md h4 { font: 600 16px/1.3 var(--f-ui); margin: 1.2em 0 .3em; }
+.md p { margin: 0 0 1em; }
+.md ul, .md ol { padding-left: 1.3em; margin: 0 0 1em; }
+.md li { margin: .35em 0; }
+.md li::marker { color: var(--plata); }
+.md hr { border: 0; border-top: 1px solid var(--line); margin: 2em 0; }
+.md code { font: 13.5px var(--f-mono); background: var(--accent-soft); padding: 1px 5px; border-radius: 4px; overflow-wrap: anywhere; }
+.md pre { background: var(--accent-soft); padding: 12px; border-radius: 10px; overflow-x: auto; }
+.md pre code { background: none; padding: 0; }
+.md blockquote { margin: 1.2em 0; padding: 12px 16px; border-radius: 10px; background: var(--accent-soft); color: var(--ink); }
+.md blockquote p:last-child { margin: 0; }
+.md blockquote.supuesto { background: color-mix(in srgb, var(--sup) 12%, var(--surface)); border: 1px solid color-mix(in srgb, var(--sup) 35%, transparent); }
+.md strong { font-weight: 600; }
+.md a { overflow-wrap: anywhere; }
+.tabla { overflow-x: auto; margin: 0 0 1.2em; border: 1px solid var(--line); border-radius: 10px; }
+.md table { border-collapse: collapse; font: 13.5px/1.45 var(--f-ui); min-width: 100%; font-variant-numeric: tabular-nums; }
+.md th, .md td { padding: 8px 10px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+.md th { background: var(--bg); font-weight: 600; white-space: nowrap; }
+.md tr:last-child td { border-bottom: 0; }
+
+.fref {
+  font: 600 .74em/1 var(--f-mono); padding: 3px 5px; border-radius: 5px; cursor: pointer;
+  border: 1px solid var(--line); background: var(--surface); color: var(--accent); vertical-align: .08em; white-space: nowrap;
+}
+.fref:hover { border-color: var(--accent); }
+.conf { font: 600 .7em/1 var(--f-ui); padding: 3px 6px; border-radius: 99px; vertical-align: .12em; white-space: nowrap; color: var(--surface); }
+
+.pager { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.pager a { display: grid; gap: 2px; padding: 12px 14px; border: 1px solid var(--line); border-radius: 12px; text-decoration: none; background: var(--surface); color: var(--ink); min-width: 0; }
+.pager a span { font-size: 12px; color: var(--muted); }
+.pager a b { font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.pager a.next { text-align: right; grid-column: 2; }
+
+/* ---------- Bitácora ---------- */
+.log { display: grid; gap: 12px; }
+.entry { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; }
+.entry summary { list-style: none; cursor: pointer; padding: 14px 16px; display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 14px; align-items: start; }
+.entry summary::-webkit-details-marker { display: none; }
+.date { text-align: center; min-width: 46px; border-right: 1px solid var(--line); padding-right: 12px; }
+.date b { display: block; font: 600 22px/1 var(--f-ui); font-variant-numeric: tabular-nums; }
+.date span { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+.entry .t { font-weight: 600; font-size: 15px; }
+.entry .s { font-size: 13px; color: var(--muted); margin-top: 3px; }
+.entry .md { padding: 0 16px 16px; font-size: 15.5px; }
+.entry[open] summary { border-bottom: 1px solid var(--line); margin-bottom: 14px; }
+
+/* ---------- Fuentes ---------- */
+.filters { display: grid; gap: 10px; }
+.search { width: 100%; padding: 11px 14px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); font: 16px var(--f-ui); color: var(--ink); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { border: 1px solid var(--line); background: var(--surface); border-radius: 99px; padding: 6px 12px; font-size: 13px; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--surface); border-color: var(--ink); }
+.src { display: grid; gap: 4px; padding: 14px 0; }
+.src header { display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; }
+.src code { font: 600 12.5px var(--f-mono); color: var(--accent); }
+.src .t { font-weight: 500; }
+.src .s { font-size: 13px; color: var(--muted); overflow-wrap: anywhere; }
+.lvl { font: 600 10.5px/1 var(--f-ui); letter-spacing: .05em; padding: 4px 7px; border-radius: 99px; background: var(--line); color: var(--muted); white-space: nowrap; }
+.lvl.l1 { background: var(--oro-soft); color: var(--oro); }
+.lvl.l2 { background: var(--accent-soft); color: var(--accent); }
+.more { justify-self: center; margin-top: 8px; border: 1px solid var(--line); background: var(--surface); border-radius: 99px; padding: 9px 18px; cursor: pointer; font-weight: 500; }
+
+/* ---------- Hoja inferior (detalle de fuente) ---------- */
+.sheet-bg { position: fixed; inset: 0; background: rgba(8, 12, 18, .45); z-index: 40; }
+.sheet {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 41; max-height: 78vh; overflow-y: auto;
+  background: var(--surface); border-radius: 18px 18px 0 0; box-shadow: 0 -8px 30px rgba(0,0,0,.2);
+  padding: 8px max(18px, env(safe-area-inset-right, 0px)) calc(22px + env(safe-area-inset-bottom, 0px)) max(18px, env(safe-area-inset-left, 0px));
+}
+@media (min-width: 700px) { .sheet { left: 50%; right: auto; width: 620px; transform: translateX(-50%); bottom: 24px; border-radius: 18px; } }
+.grip { width: 40px; height: 4px; border-radius: 99px; background: var(--line); margin: 4px auto 12px; }
+.sheet h3 { margin: 6px 0 4px; font: 600 18px/1.3 var(--f-read); }
+.sheet dl { display: grid; gap: 10px; margin: 14px 0 0; }
+.sheet dt { font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.sheet dd { margin: 2px 0 0; overflow-wrap: anywhere; font-size: 14.5px; }
+.sheet blockquote { margin: 0; font: italic 400 15.5px/1.55 var(--f-read); padding-left: 12px; border-left: 3px solid var(--oro); }
+.sheet .close { position: absolute; top: 10px; right: max(12px, env(safe-area-inset-right, 0px)); border: 0; background: var(--line); width: 32px; height: 32px; border-radius: 50%; cursor: pointer; font-size: 18px; line-height: 1; }
+
+.state { padding: 40px 0; text-align: center; color: var(--muted); }
+.state b { display: block; color: var(--ink); font-size: 17px; margin-bottom: 6px; }
+.foot { font-size: 12.5px; color: var(--muted); text-align: center; padding-top: 8px; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .view { animation: in .25s ease-out both; }
+  @keyframes in { from { opacity: .4; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#inicio" aria-label="Inicio">
+      <svg width="34" height="34" viewBox="0 0 34 34" aria-hidden="true">
+        <circle cx="17" cy="17" r="15.5" fill="var(--oro)"></circle>
+        <circle cx="17" cy="17" r="12.5" fill="none" stroke="var(--surface)" stroke-width="1" stroke-dasharray="1 1.6" opacity=".8"></circle>
+        <text x="17" y="21.5" text-anchor="middle" font-family="Cinzel, Georgia, serif" font-weight="600" font-size="12" fill="var(--surface)">NP</text>
+      </svg>
+      <span><b>Catálogo NP</b><small>Base de investigación</small></span>
+    </a>
+    <nav class="nav" aria-label="Secciones">
+      <a href="#inicio" data-nav="inicio"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 4l9 6.5V20a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg>Inicio</a>
+      <a href="#series" data-nav="series"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="9" cy="9" r="5.5"/><circle cx="15" cy="15" r="5.5"/></svg>Series</a>
+      <a href="#bitacora" data-nav="bitacora"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><path d="M6 3h11a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H6a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z"/><path d="M8 8h6M8 12h6M8 16h4"/></svg>Bitácora</a>
+      <a href="#fuentes" data-nav="fuentes"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><path d="M4 19V6a2 2 0 0 1 2-2h12v13H6a2 2 0 0 0-2 2zm0 0a2 2 0 0 0 2 2h12"/><path d="M9 8h5"/></svg>Fuentes</a>
+      <a href="#temas" data-nav="temas"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><path d="M12 3 3 8l9 5 9-5z"/><path d="m3 13 9 5 9-5"/></svg>Temas</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap" id="app">
+  <div class="state"><b>Cargando la investigación…</b>Leyendo el índice, las series y la bitácora.</div>
+</main>
+
+<div class="sheet-bg" id="sheetBg" hidden></div>
+<aside class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="Detalle de la fuente" hidden></aside>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script>
+"use strict";
+/* Visor de la base de investigación del Catálogo NP.
+   Lee los .md del repositorio en el momento: cada sesión nueva aparece sola. */
+
+const S = { sistemas: [], series: [], docs: {}, fuentes: new Map(), bitacora: [], temas: [], extra: {} };
+const CONF = [
+  ["confirmado", "confirmado", "c-confirmado"],
+  ["probable", "probable", "c-probable"],
+  ["a confirmar", "a confirmar", "c-aconfirmar"],
+  ["supuesto", "supuesto", "c-supuesto"],
+];
+const NIVELES = { 1: "Oficial", 2: "Investigación", 3: "Mercado", 4: "Comunidad", 0: "Catálogo / otro" };
+const $app = document.getElementById("app");
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const inl = s => (window.marked ? marked.parseInline(String(s ?? "")) : esc(s));
+const fmtDate = (d, opt = { day: "numeric", month: "short", year: "numeric" }) => {
+  const t = new Date(d + "T12:00:00");
+  return isNaN(t) ? d : t.toLocaleDateString("es-AR", opt);
+};
+const slug = s => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+const store = {
+  get(k) { try { return localStorage.getItem("cnp:" + k); } catch (e) { return null; } },
+  set(k, v) { try { localStorage.setItem("cnp:" + k, v); } catch (e) {} },
+};
+
+async function get(path) {
+  const r = await fetch(path, { cache: "no-cache" });
+  if (!r.ok) throw new Error(path + " → " + r.status);
+  return (await r.text()).replace(/\r\n/g, "\n");
+}
+
+/* ---------- Lectura de los archivos ---------- */
+function frontMatter(md) {
+  const m = md.match(/^---\n([\s\S]*?)\n---\n?/);
+  if (!m) return { meta: {}, body: md };
+  const meta = {};
+  m[1].split("\n").forEach(l => {
+    const i = l.indexOf(":");
+    if (i > 0) {
+      let v = l.slice(i + 1).trim();
+      if (/^".*"$/.test(v)) v = v.slice(1, -1).replace(/\\"/g, '"');
+      if (/^\[.*\]$/.test(v)) v = v.slice(1, -1).split(/",\s*"|,\s*(?![^()]*\))/).map(x => x.replace(/^"|"$/g, "").trim()).filter(Boolean).join(" · ");
+      meta[l.slice(0, i).trim()] = v;
+    }
+  });
+  return { meta, body: md.slice(m[0].length) };
+}
+
+function parseIndice(md) {
+  const sistemas = []; let cur = null, sub = null;
+  for (const line of md.split("\n")) {
+    let m;
+    if ((m = line.match(/^## (\d+)\.\s+(.+)$/))) { cur = { n: m[1], nombre: m[2].trim(), series: [] }; sistemas.push(cur); sub = null; continue; }
+    if (/^## /.test(line)) { cur = null; continue; }
+    if (cur && (m = line.match(/^### (.+)$/))) { sub = m[1].trim(); continue; }
+    if (cur && /^\|\s*\d{2}\s*\|/.test(line)) {
+      const c = line.split("|").slice(1, -1).map(s => s.trim());
+      cur.series.push({ num: c[0], nombre: c[1], anios: c[2], ref: c[3], plan: c[4], hechas: c[5], estado: (c[6] || "").toLowerCase(), archivo: c[7], grupo: sub, sistema: cur.nombre, sistemaN: cur.n });
+    }
+  }
+  return sistemas;
+}
+
+const contarSesiones = s => { if (!s || /^[—-]$/.test(s)) return 0; let t = 0; s.replace(/(\d*)\s*(r2|i|r)/g, (_, n) => { t += n ? +n : 1; }); return t; };
+const estadoClase = e => e.startsWith("complet") ? "completa" : e.includes("revisar") ? "revisar" : e.includes("investig") ? "investigacion" : "pendiente";
+
+function splitSerie(body) {
+  const lines = body.split("\n");
+  const i1 = lines.findIndex(l => /^# Parte 1/.test(l));
+  const i2 = lines.findIndex(l => /^# Parte 2/.test(l));
+  const end1 = i2 > i1 ? i2 : lines.length;
+  let intro = lines.slice(0, i1 >= 0 ? i1 : (i2 >= 0 ? i2 : lines.length)).join("\n");
+  const titulo = (intro.match(/^# (.+)$/m) || [])[1] || "";
+  intro = intro.replace(/^# .+$/m, "").replace(/^\s*---\s*$/gm, "");
+  const resumen = (intro.match(/## Resumen\s*\n([\s\S]*)/) || [, intro])[1].trim();
+  return {
+    titulo, resumen,
+    p1: i1 >= 0 ? lines.slice(i1 + 1, end1).join("\n") : "",
+    p2: i2 >= 0 ? lines.slice(i2 + 1).join("\n") : "",
+  };
+}
+
+function contarConfianza(txt) {
+  const c = { confirmado: 0, probable: 0, "a confirmar": 0, supuesto: 0 };
+  (txt.match(/·\s*(a confirmar|confirmado|probable|supuesto)\b/gi) || []).forEach(m => { const k = m.replace(/^·\s*/, "").toLowerCase(); c[k]++; });
+  return c;
+}
+const contarPalabras = t => t.replace(/[#*_`>|\[\]()]/g, " ").split(/\s+/).filter(w => /[\p{L}\d]/u.test(w)).length;
+
+function parseFuentes(md) {
+  const map = new Map();
+  const sinCodigo = md.replace(/```[\s\S]*?```/g, "");
+  const parts = sinCodigo.split(/^### (F-\d{4})\s*$/m);
+  for (let i = 1; i < parts.length; i += 2) {
+    const id = parts[i], raw = parts[i + 1].replace(/<!--[\s\S]*?-->/g, "").trim();
+    const f = { id, raw };
+    raw.split("\n").forEach(l => { const m = l.match(/^- ([^:]{2,40}):\s*(.*)$/); if (m) f[m[1].trim().toLowerCase()] = m[2].trim(); });
+    const nv = (f["nivel"] || "").match(/^\s*([1-4])/);
+    f.nivel = nv ? +nv[1] : 0;
+    f.titulo = f["título"] || f["titulo"] || "(sin título)";
+    f.autor = f["autor / institución"] || f["autor"] || "";
+    f.blob = (id + " " + raw).toLowerCase();
+    map.set(id, f);
+  }
+  return map;
+}
+
+function parseBitacora(md) {
+  const out = [];
+  const parts = md.split(/^## /m).slice(1);
+  for (const p of parts) {
+    const nl = p.indexOf("\n");
+    const head = (nl < 0 ? p : p.slice(0, nl)).trim();
+    const body = nl < 0 ? "" : p.slice(nl + 1).replace(/^\s*---\s*$/gm, "").trim();
+    const bits = head.split(/\s+·\s+/);
+    const fecha = /^\d{4}-\d{2}-\d{2}/.test(bits[0]) ? bits[0].slice(0, 10) : "";
+    const serie = (head.match(/Serie (\d{2})/) || [])[1] || "";
+    out.push({ head, fecha, serie, titulo: bits.slice(1, serie ? 3 : 2).join(" · ") || head, tipo: bits.slice(serie ? 3 : 2).join(" · "), body });
+  }
+  return out;
+}
+
+/* ---------- Render de markdown con fuentes y confianza interactivas ---------- */
+function md(text) { return window.marked ? marked.parse(text, { gfm: true }) : "<pre>" + esc(text) + "</pre>"; }
+
+function enhance(root) {
+  root.querySelectorAll("table").forEach(t => { const w = document.createElement("div"); w.className = "tabla"; t.parentNode.insertBefore(w, t); w.appendChild(t); });
+  root.querySelectorAll("blockquote").forEach(b => { if (/^\s*Supuesto\./.test(b.textContent)) b.classList.add("supuesto"); });
+  root.querySelectorAll("a[href]").forEach(a => {
+    const h = a.getAttribute("href");
+    if (/^https?:/.test(h)) { a.target = "_blank"; a.rel = "noopener"; }
+    else { const r = localRoute(h); if (r) a.setAttribute("href", "#" + r); }
+  });
+  root.querySelectorAll("code").forEach(c => {
+    if (c.closest("pre") || c.closest("a")) return;
+    const r = localRoute(c.textContent.trim());
+    if (r) { const a = document.createElement("a"); a.href = "#" + r; c.parentNode.insertBefore(a, c); a.appendChild(c); }
+  });
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+    acceptNode: n => (n.parentElement.closest("pre, code, a, button, th") ? NodeFilter.FILTER_REJECT : /F-\d{4}|·\s*(a confirmar|confirmado|probable|supuesto)/i.test(n.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP),
+  });
+  const nodes = []; while (walker.nextNode()) nodes.push(walker.currentNode);
+  const re = /(F-\d{4})|·\s*(a confirmar|confirmado|probable|supuesto)\b/gi;
+  for (const n of nodes) {
+    const frag = document.createDocumentFragment(); let last = 0; const s = n.nodeValue; let m;
+    re.lastIndex = 0;
+    while ((m = re.exec(s))) {
+      frag.appendChild(document.createTextNode(s.slice(last, m.index)));
+      if (m[1]) {
+        const b = document.createElement("button"); b.type = "button"; b.className = "fref"; b.textContent = m[1]; b.dataset.f = m[1];
+        frag.appendChild(b);
+      } else {
+        const k = m[2].toLowerCase(); const c = CONF.find(x => x[0] === k);
+        const sp = document.createElement("span"); sp.className = "conf " + c[2]; sp.textContent = c[1];
+        frag.appendChild(document.createTextNode(" ")); frag.appendChild(sp);
+      }
+      last = re.lastIndex;
+    }
+    frag.appendChild(document.createTextNode(s.slice(last)));
+    n.parentNode.replaceChild(frag, n);
+  }
+  const used = new Set();
+  root.querySelectorAll("h2, h3").forEach(h => { let id = "s-" + slug(h.textContent).slice(0, 60); while (used.has(id)) id += "-"; used.add(id); h.id = id; });
+}
+
+function localRoute(path) {
+  if (!path) return null;
+  const p = path.replace(/^\.\//, "").replace(/#.*$/, "");
+  let m;
+  if ((m = p.match(/^(?:\.\.\/)?temas\/([a-z0-9-]+)\.md$/))) return m[1] === "README" ? "temas" : "tema-" + m[1];
+  if ((m = p.match(/^(?:\.\.\/)*monedas\/[^/]+\/(\d{2})-[^/]*\.md$/))) return "serie-" + m[1];
+  if (/^(?:\.\.\/)*fuentes\.md$/.test(p)) return "fuentes";
+  if (/^(?:\.\.\/)*bitacora\.md$/.test(p)) return "bitacora";
+  if (/^(?:\.\.\/)*indice\.md$/.test(p)) return "series";
+  if (/^(?:\.\.\/)*PROTOCOLO\.md$/.test(p)) return "metodo-protocolo";
+  if (/^(?:\.\.\/)*CONTEXTO\.md$/.test(p)) return "metodo-contexto";
+  if (/^(?:\.\.\/)*README\.md$/.test(p)) return "metodo";
+  return null;
+}
+
+/* ---------- Hoja de fuente ---------- */
+const $sheet = document.getElementById("sheet"), $sheetBg = document.getElementById("sheetBg");
+function openSource(id) {
+  const f = S.fuentes.get(id);
+  const row = (k, v) => v ? `<div><dt>${k}</dt><dd>${inl(v)}</dd></div>` : "";
+  $sheet.innerHTML = `<div class="grip"></div><button class="close" type="button" aria-label="Cerrar">×</button>` + (f ? `
+    <header style="display:flex;gap:8px;align-items:center;flex-wrap:wrap"><code style="font:600 13px var(--f-mono);color:var(--accent)">${esc(id)}</code><span class="lvl l${f.nivel}">Nivel ${f.nivel || "–"} · ${NIVELES[f.nivel]}</span></header>
+    <h3>${inl(f.titulo)}</h3>
+    <dl>
+      ${row("Autor / institución", f.autor)}
+      ${f["cita clave"] ? `<div><dt>Cita clave</dt><dd><blockquote>${inl(f["cita clave"])}</blockquote></dd></div>` : ""}
+      ${row("Enlace", f["url"])}
+      ${row("Archivo (Internet Archive)", f["archivo (internet archive)"])}
+      ${row("Consultada", f["consultada"])}
+      ${row("Usada en", f["usada en"])}
+    </dl>
+    <p style="margin:16px 0 0"><a href="#fuente-${esc(id)}">Ver en el registro de fuentes →</a></p>` : `<h3>${esc(id)}</h3><p>Esta fuente todavía no figura en el registro.</p>`);
+  $sheet.querySelectorAll("a[href^='http']").forEach(a => { a.target = "_blank"; a.rel = "noopener"; });
+  $sheet.hidden = false; $sheetBg.hidden = false; $sheet.scrollTop = 0;
+  $sheet.querySelector(".close").focus();
+}
+function closeSheet() { $sheet.hidden = true; $sheetBg.hidden = true; }
+$sheetBg.addEventListener("click", closeSheet);
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeSheet(); });
+document.addEventListener("click", e => {
+  const b = e.target.closest(".fref"); if (b) { openSource(b.dataset.f); return; }
+  if (e.target.closest(".close")) closeSheet();
+  if (e.target.closest("#sheet a[href^='#']")) closeSheet();
+});
+
+/* ---------- Vistas ---------- */
+function coinRing(done, total) {
+  const r = 50, C = 2 * Math.PI * r, frac = total ? done / total : 0;
+  let teeth = "";
+  for (let i = 0; i < 96; i++) {
+    const a = i / 96 * 2 * Math.PI, x1 = 64 + 60 * Math.cos(a), y1 = 64 + 60 * Math.sin(a), x2 = 64 + 63 * Math.cos(a), y2 = 64 + 63 * Math.sin(a);
+    teeth += `<line x1="${x1.toFixed(2)}" y1="${y1.toFixed(2)}" x2="${x2.toFixed(2)}" y2="${y2.toFixed(2)}"/>`;
+  }
+  return `<svg class="coin" viewBox="0 0 128 128" role="img" aria-label="${done} de ${total} series completas">
+    <g stroke="var(--plata)" stroke-width="1.4" opacity=".7">${teeth}</g>
+    <circle cx="64" cy="64" r="${r}" fill="none" stroke="var(--line)" stroke-width="9"/>
+    <circle cx="64" cy="64" r="${r}" fill="none" stroke="var(--oro)" stroke-width="9" stroke-linecap="round" stroke-dasharray="${(C * frac).toFixed(1)} ${C.toFixed(1)}" transform="rotate(-90 64 64)"/>
+    <text class="big" x="64" y="70" text-anchor="middle">${done}</text>
+    <text class="small" x="64" y="88" text-anchor="middle">DE ${total} SERIES</text>
+  </svg>`;
+}
+
+function viewInicio() {
+  const total = S.series.length, comp = S.series.filter(s => estadoClase(s.estado) === "completa");
+  const sesPlan = S.series.reduce((a, s) => a + contarSesiones(s.plan), 0);
+  const sesHechas = S.series.reduce((a, s) => a + contarSesiones(s.hechas), 0);
+  const docs = S.series.filter(s => S.docs[s.num]);
+  const palabras = docs.reduce((a, s) => a + S.docs[s.num].palabras, 0);
+  const datos = docs.reduce((a, s) => a + Object.values(S.docs[s.num].conf).reduce((x, y) => x + y, 0), 0);
+  const ultima = S.bitacora.find(b => b.fecha);
+  const siguiente = S.series.find(s => estadoClase(s.estado) !== "completa");
+
+  const tray = S.sistemas.map(sis => {
+    const c = sis.series.filter(s => estadoClase(s.estado) === "completa").length;
+    return `<div class="tray-row"><header><b>${esc(sis.nombre)}</b><span class="num">${c}/${sis.series.length}</span></header>
+      <div class="dots">${sis.series.map(s => {
+        const k = estadoClase(s.estado), t = `${s.num} · ${s.nombre.replace(/"/g, "")} (${s.anios}) · ${s.estado}`;
+        return S.docs[s.num] ? `<a class="dot ${k}" href="#serie-${s.num}" title="${esc(t)}" aria-label="${esc(t)}">${s.num}</a>` : `<span class="dot ${k}" title="${esc(t)}">${s.num}</span>`;
+      }).join("")}</div></div>`;
+  }).join("");
+
+  const maxConf = Math.max(1, ...docs.map(s => Object.values(S.docs[s.num].conf).reduce((x, y) => x + y, 0)));
+  const stack = docs.map(s => {
+    const c = S.docs[s.num].conf, tot = Object.values(c).reduce((x, y) => x + y, 0);
+    return `<div class="stack-row"><header><a href="#serie-${s.num}">${s.num} · ${inl(s.nombre)}</a><span class="num">${tot} datos</span></header>
+      <div class="sbar" style="width:${(tot / maxConf * 100).toFixed(1)}%">${CONF.map(([k, , cl]) => c[k] ? `<i class="${cl}" style="width:${(c[k] / tot * 100).toFixed(2)}%" title="${k}: ${c[k]}"></i>` : "").join("")}</div></div>`;
+  }).join("");
+
+  const porNivel = [1, 2, 3, 4, 0].map(n => [n, [...S.fuentes.values()].filter(f => f.nivel === n).length]).filter(x => x[0] !== 0 || x[1]);
+  const maxN = Math.max(1, ...porNivel.map(x => x[1]));
+
+  return `<section class="view">
+    <div>
+      <p class="eyebrow">Catálogo de Monedas Argentinas · Numismática Popper</p>
+      <h1 class="h-display">La investigación, serie por serie</h1>
+      <p class="lead">Todo lo que las sesiones diarias fueron registrando: la historia de cada moneda, los datos con su fuente y el diario de trabajo.</p>
+    </div>
+
+    <div class="panel hero">
+      ${coinRing(comp.length, total)}
+      <div class="hero-meta">
+        <div class="meta-line">Primera ronda: <b class="num">${sesHechas} de ${sesPlan}</b> sesiones</div>
+        <div class="bar" aria-hidden="true"><i style="width:${(sesHechas / Math.max(1, sesPlan) * 100).toFixed(1)}%"></i></div>
+        ${ultima ? `<div class="meta-line">Última sesión: <b>${fmtDate(ultima.fecha)}</b> · ${esc(ultima.titulo)}</div>` : ""}
+        ${siguiente ? `<div class="meta-line">Sigue: <b>${esc(siguiente.num)} · ${inl(siguiente.nombre)}</b> (${esc(siguiente.anios)})</div>` : ""}
+      </div>
+    </div>
+
+    <div class="stats">
+      <div class="stat"><b>${S.fuentes.size}</b><span>fuentes registradas</span></div>
+      <div class="stat"><b>${datos.toLocaleString("es-AR")}</b><span>datos con fuente y confianza</span></div>
+      <div class="stat"><b>${palabras.toLocaleString("es-AR")}</b><span>palabras de historia</span></div>
+      <div class="stat"><b>${S.bitacora.filter(b => b.serie).length}</b><span>sesiones en la bitácora</span></div>
+    </div>
+
+    ${comp.length ? `<div><h2 class="h-sec">Series terminadas <a href="#series">Ver las 44 →</a></h2>
+      <div class="cards">${comp.filter(s => S.docs[s.num]).map(s => `<a class="card" href="#serie-${s.num}">
+        <span class="eyebrow">Serie ${esc(s.num)} · ${esc(s.anios)}</span><h3>${inl(s.nombre)}</h3><p>${esc(S.docs[s.num].resumenPlano)}</p></a>`).join("")}</div></div>` : ""}
+
+    <div class="grid2">
+      <div class="panel"><h2 class="h-sec">Avance por sistema monetario</h2>
+        <div class="tray">${tray}</div>
+        <div class="legend"><span><i style="background:var(--oro);border-color:var(--oro)"></i>Completa</span><span><i style="background:var(--oro-soft);border-color:var(--oro)"></i>A revisar</span><span><i style="background:linear-gradient(90deg,var(--oro) 50%,transparent 50%);border-color:var(--oro)"></i>En investigación</span><span><i></i>Pendiente</span></div>
+      </div>
+      <div class="grid2" style="grid-template-columns:minmax(0,1fr)">
+        <div class="panel"><h2 class="h-sec">Solidez de los datos</h2>
+          <div class="stack">${stack || '<p class="meta-line">Todavía no hay series con datos.</p>'}</div>
+          <div class="legend">${CONF.map(([k, l, cl]) => `<span><i class="${cl}" style="border:0"></i>${l}</span>`).join("")}</div>
+        </div>
+        <div class="panel"><h2 class="h-sec">Fuentes por nivel <a href="#fuentes">Ver todas →</a></h2>
+          <div class="hbars">${porNivel.map(([n, c]) => `<div class="hbar"><span>${n ? n + " · " : ""}${NIVELES[n]}</span><div class="track"><i style="width:${(c / maxN * 100).toFixed(1)}%"></i></div><b>${c}</b></div>`).join("")}</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel"><h2 class="h-sec">Últimas sesiones <a href="#bitacora">Bitácora completa →</a></h2>
+      <div class="list">${S.bitacora.slice(0, 4).map((b, i) => `<a class="item" href="#bitacora-${i}">
+        <span class="pill">${b.fecha ? fmtDate(b.fecha, { day: "numeric", month: "short" }) : "—"}</span>
+        <span><div class="t">${esc(b.titulo)}</div><div class="s">${esc(b.tipo)}</div></span><span class="chev">›</span></a>`).join("")}</div>
+    </div>
+
+    <p class="foot"><a href="#metodo">Cómo se investiga</a> · Los datos se leen del repositorio cada vez que abrís la página.</p>
+  </section>`;
+}
+
+function viewSeries() {
+  return `<section class="view">
+    <div><p class="eyebrow">Índice</p><h1 class="h-display">Las 44 series</h1>
+      <p class="lead">En orden cronológico y, dentro de cada período, de mayor a menor denominación. Tocá una serie terminada para leerla.</p></div>
+    ${S.sistemas.map(sis => {
+      let lastG = null;
+      return `<div class="panel"><h2 class="group-h">${esc(sis.n)}. ${esc(sis.nombre)}</h2><div class="list">${sis.series.map(s => {
+        const k = estadoClase(s.estado), ok = !!S.docs[s.num];
+        const g = s.grupo && s.grupo !== lastG ? `<p class="sub-h">${esc(s.grupo)}</p>` : ""; lastG = s.grupo;
+        const inner = `<span class="dot ${k}">${esc(s.num)}</span><span><div class="t">${inl(s.nombre)}</div><div class="s">${esc(s.anios)} · sesiones ${contarSesiones(s.hechas)}/${contarSesiones(s.plan)}</div></span><span class="pill ${k}">${esc(s.estado)}</span>`;
+        return g + (ok ? `<a class="item" href="#serie-${s.num}">${inner}</a>` : `<div class="item off">${inner}</div>`);
+      }).join("")}</div></div>`;
+    }).join("")}
+  </section>`;
+}
+
+function viewSerie(num) {
+  const s = S.series.find(x => x.num === num), d = S.docs[num];
+  if (!s || !d) return `<section class="view"><a class="back" href="#series">‹ Series</a><div class="state"><b>Serie ${esc(num)} sin archivo todavía</b>Aparece acá cuando una sesión la empiece.</div></section>`;
+  const idx = S.series.indexOf(s);
+  const prev = S.series.slice(0, idx).reverse().find(x => S.docs[x.num]);
+  const next = S.series.slice(idx + 1).find(x => S.docs[x.num]);
+  const m = d.meta, tab = store.get("tab") === "base" ? "base" : "historia";
+  const tot = Object.values(d.conf).reduce((x, y) => x + y, 0) || 1;
+  const field = (k, v) => v ? `<div><dt>${k}</dt><dd>${inl(v)}</dd></div>` : "";
+  return `<section class="view reading">
+    <a class="back" href="#series">‹ Todas las series</a>
+    <div><p class="eyebrow">Serie ${esc(num)} · ${esc(s.sistema)}</p><h1 class="h-display">${inl(d.titulo || s.nombre)}</h1></div>
+    <div class="panel"><dl class="ficha">
+      ${field("Años", m.anios || s.anios)}${field("Metal", m.metal)}${field("Estado", m.estado || s.estado)}
+      ${field("Denominaciones", m.denominaciones)}${field("Referencias", m.km)}${field("Actualizado", m.ultima_actualizacion ? fmtDate(m.ultima_actualizacion) : "")}
+    </dl>
+      <div style="margin-top:16px"><div class="sbar">${CONF.map(([k, , cl]) => d.conf[k] ? `<i class="${cl}" style="width:${(d.conf[k] / tot * 100).toFixed(2)}%"></i>` : "").join("")}</div>
+      <div class="legend" style="margin-top:8px">${CONF.map(([k, l, cl]) => `<span><i class="${cl}" style="border:0"></i>${d.conf[k]} ${l}</span>`).join("")}</div></div>
+    </div>
+    ${d.resumen ? `<div><h2 class="h-sec">Resumen</h2><div class="resumen md" id="resumen"></div></div>` : ""}
+    <div class="tabs" role="tablist">
+      <button role="tab" type="button" data-tab="historia" aria-selected="${tab === "historia"}">Historia completa</button>
+      <button role="tab" type="button" data-tab="base" aria-selected="${tab === "base"}">Base de datos</button>
+    </div>
+    <details class="toc"><summary>Contenido</summary><ol id="toc"></ol></details>
+    <article class="md" id="doc"></article>
+    <nav class="pager">${prev ? `<a href="#serie-${prev.num}"><span>‹ Anterior</span><b>${inl(prev.nombre)}</b></a>` : ""}${next ? `<a class="next" href="#serie-${next.num}"><span>Siguiente ›</span><b>${inl(next.nombre)}</b></a>` : ""}</nav>
+  </section>`;
+}
+
+function mountSerie(num) {
+  const d = S.docs[num]; if (!d) return;
+  const r = document.getElementById("resumen");
+  if (r) { r.innerHTML = md(d.resumen); enhance(r); }
+  const show = tab => {
+    store.set("tab", tab);
+    document.querySelectorAll(".tabs button").forEach(b => b.setAttribute("aria-selected", b.dataset.tab === tab));
+    const el = document.getElementById("doc");
+    el.innerHTML = md(tab === "base" ? d.p1 : (d.p2 || "_La Historia completa todavía no está escrita._"));
+    enhance(el);
+    document.getElementById("toc").innerHTML = [...el.querySelectorAll("h2")].map(h => `<li><a href="#" data-to="${h.id}">${esc(h.textContent)}</a></li>`).join("");
+  };
+  document.querySelectorAll(".tabs button").forEach(b => b.addEventListener("click", () => {
+    show(b.dataset.tab);
+    const t = document.querySelector(".tabs"); if (t.getBoundingClientRect().top < 0 || window.scrollY > t.offsetTop) window.scrollTo({ top: t.offsetTop - 70 });
+  }));
+  document.getElementById("toc").addEventListener("click", e => {
+    const a = e.target.closest("a[data-to]"); if (!a) return; e.preventDefault();
+    document.getElementById(a.dataset.to)?.scrollIntoView({ behavior: "smooth" });
+    a.closest("details").open = false;
+  });
+  show(store.get("tab") === "base" ? "base" : "historia");
+}
+
+function viewBitacora() {
+  const meses = { day: "numeric" };
+  return `<section class="view reading">
+    <div><p class="eyebrow">Diario de trabajo</p><h1 class="h-display">Bitácora</h1>
+      <p class="lead">Una entrada por sesión, la más reciente arriba: qué se buscó, qué se encontró y qué se corrigió.</p></div>
+    <div class="log">${S.bitacora.map((b, i) => `<details class="entry" id="bitacora-${i}">
+      <summary><div class="date">${b.fecha ? `<b>${fmtDate(b.fecha, meses)}</b><span>${fmtDate(b.fecha, { month: "short" })}</span>` : "<b>·</b>"}</div>
+        <div><div class="t">${esc(b.titulo)}</div><div class="s">${esc(b.tipo || "")}</div></div></summary>
+      <div class="md" data-i="${i}"></div></details>`).join("")}</div>
+  </section>`;
+}
+function mountBitacora(open) {
+  document.querySelectorAll(".entry").forEach(det => {
+    const fill = () => { const el = det.querySelector(".md"); if (!el.dataset.done) { el.innerHTML = md(S.bitacora[+el.dataset.i].body); enhance(el); el.dataset.done = 1; } };
+    det.addEventListener("toggle", () => det.open && fill());
+  });
+  const target = document.getElementById("bitacora-" + (open ?? 0));
+  if (target) { target.open = true; if (open != null) setTimeout(() => target.scrollIntoView({ block: "start" }), 30); }
+}
+
+let fuentesState = { q: "", nivel: "all", n: 40 };
+function viewFuentes() {
+  return `<section class="view reading">
+    <div><p class="eyebrow">Registro</p><h1 class="h-display">Fuentes</h1>
+      <p class="lead">Cada dato de las series remite a uno de estos códigos. Nivel 1 es oficial; el 4, comunidad.</p></div>
+    <div class="filters">
+      <input class="search" id="fq" type="search" placeholder="Buscar por código, título, autor o cita" value="${esc(fuentesState.q)}" aria-label="Buscar fuentes">
+      <div class="chips" id="fchips">${[["all", "Todas"], ["1", "1 · Oficial"], ["2", "2 · Investigación"], ["3", "3 · Mercado"], ["4", "4 · Comunidad"], ["0", "Otras"]].map(([k, l]) => `<button type="button" class="chip" data-n="${k}" aria-pressed="${fuentesState.nivel === k}">${l}</button>`).join("")}</div>
+    </div>
+    <div class="panel" style="padding-block:4px"><div class="list" id="flist"></div></div>
+  </section>`;
+}
+function mountFuentes(focusId) {
+  const list = document.getElementById("flist");
+  const render = () => {
+    const q = fuentesState.q.trim().toLowerCase();
+    const all = [...S.fuentes.values()].filter(f => (fuentesState.nivel === "all" || String(f.nivel) === fuentesState.nivel) && (!q || f.blob.includes(q)));
+    const shown = focusId ? all : all.slice(0, fuentesState.n);
+    list.innerHTML = (shown.map(f => `<div class="src" id="fuente-${f.id}">
+      <header><code>${f.id}</code><span class="lvl l${f.nivel}">${NIVELES[f.nivel]}</span></header>
+      <div class="t">${inl(f.titulo)}</div>${f.autor ? `<div class="s">${inl(f.autor)}</div>` : ""}
+      <div><button type="button" class="fref" data-f="${f.id}">Ver detalle</button></div></div>`).join("") || `<div class="state"><b>Sin resultados</b>Probá con otra palabra o nivel.</div>`)
+      + (shown.length < all.length ? `<button type="button" class="more" id="fmore">Mostrar más (${all.length - shown.length})</button>` : "");
+    list.querySelectorAll("a[href^='http']").forEach(a => { a.target = "_blank"; a.rel = "noopener"; });
+    document.getElementById("fmore")?.addEventListener("click", () => { fuentesState.n += 60; render(); });
+  };
+  document.getElementById("fq").addEventListener("input", e => { fuentesState.q = e.target.value; fuentesState.n = 40; focusId = null; render(); });
+  document.getElementById("fchips").addEventListener("click", e => {
+    const b = e.target.closest(".chip"); if (!b) return;
+    fuentesState.nivel = b.dataset.n; fuentesState.n = 40; focusId = null;
+    document.querySelectorAll("#fchips .chip").forEach(c => c.setAttribute("aria-pressed", c === b));
+    render();
+  });
+  render();
+  if (focusId) { const el = document.getElementById("fuente-" + focusId); if (el) { el.scrollIntoView({ block: "center" }); el.style.background = "var(--accent-soft)"; } }
+}
+
+function viewTemas() {
+  return `<section class="view reading">
+    <div><p class="eyebrow">Transversales</p><h1 class="h-display">Temas</h1>
+      <p class="lead">Información que afecta a varias series y se escribe una sola vez: leyes generales, la Casa de Moneda, grabadores, fundiciones.</p></div>
+    <div class="cards" style="grid-template-columns:minmax(0,1fr)">${S.temas.map(t => `<a class="card" href="#tema-${t.slug}"><span class="eyebrow">temas/${esc(t.slug)}.md</span><h3>${inl(t.titulo)}</h3><p>${esc(t.intro)}</p></a>`).join("") || '<div class="state"><b>Todavía no hay temas</b></div>'}</div>
+    <div class="panel"><h2 class="h-sec">Cómo se trabaja</h2><div class="list">
+      <a class="item" href="#metodo"><span class="dot">i</span><span><div class="t">Cómo se organiza la base</div><div class="s">README</div></span><span class="chev">›</span></a>
+      <a class="item" href="#metodo-contexto"><span class="dot">c</span><span><div class="t">Contexto del catálogo</div><div class="s">CONTEXTO</div></span><span class="chev">›</span></a>
+      <a class="item" href="#metodo-protocolo"><span class="dot">p</span><span><div class="t">Protocolo de cada sesión</div><div class="s">PROTOCOLO</div></span><span class="chev">›</span></a>
+    </div></div>
+  </section>`;
+}
+
+function viewDoc(eyebrow, backHref, backLabel) {
+  return `<section class="view reading"><a class="back" href="${backHref}">‹ ${backLabel}</a><p class="eyebrow">${esc(eyebrow)}</p>
+    <details class="toc"><summary>Contenido</summary><ol id="toc"></ol></details><article class="md" id="doc"><div class="state">Cargando…</div></article></section>`;
+}
+async function mountDoc(path) {
+  const el = document.getElementById("doc");
+  try {
+    let t = S.extra[path] ?? (S.extra[path] = await get(path));
+    t = frontMatter(t).body;
+    el.innerHTML = md(t); enhance(el);
+    const toc = document.getElementById("toc");
+    const hs = [...el.querySelectorAll("h2")];
+    if (hs.length < 2) toc.closest("details").hidden = true;
+    toc.innerHTML = hs.map(h => `<li><a href="#" data-to="${h.id}">${esc(h.textContent)}</a></li>`).join("");
+    toc.addEventListener("click", e => { const a = e.target.closest("a[data-to]"); if (!a) return; e.preventDefault(); document.getElementById(a.dataset.to)?.scrollIntoView({ behavior: "smooth" }); a.closest("details").open = false; });
+  } catch (e) { el.innerHTML = `<div class="state"><b>No se pudo abrir ${esc(path)}</b>${esc(e.message)}</div>`; }
+}
+
+/* ---------- Rutas ---------- */
+function route() {
+  closeSheet();
+  const h = decodeURIComponent(location.hash.slice(1)) || "inicio";
+  let m, nav = h.split("-")[0];
+  const scroll = () => window.scrollTo(0, 0);
+  if (h === "inicio") { $app.innerHTML = viewInicio(); scroll(); }
+  else if (h === "series") { $app.innerHTML = viewSeries(); scroll(); }
+  else if ((m = h.match(/^serie-(\d{2})$/))) { nav = "series"; $app.innerHTML = viewSerie(m[1]); scroll(); mountSerie(m[1]); }
+  else if ((m = h.match(/^bitacora(?:-(\d+))?$/))) { $app.innerHTML = viewBitacora(); if (m[1] == null) scroll(); mountBitacora(m[1] != null ? +m[1] : null); }
+  else if ((m = h.match(/^fuentes?(?:-(F-\d{4}))?$/))) { nav = "fuentes"; $app.innerHTML = viewFuentes(); scroll(); mountFuentes(m[1]); }
+  else if (h === "temas") { $app.innerHTML = viewTemas(); scroll(); }
+  else if ((m = h.match(/^tema-([a-z0-9-]+)$/))) { nav = "temas"; $app.innerHTML = viewDoc("Tema transversal", "#temas", "Temas"); scroll(); mountDoc(`temas/${m[1]}.md`); }
+  else if (h.startsWith("metodo")) {
+    nav = "temas";
+    const f = h === "metodo-protocolo" ? ["PROTOCOLO.md", "Protocolo de sesión"] : h === "metodo-contexto" ? ["CONTEXTO.md", "Contexto del catálogo"] : ["README.md", "Cómo se organiza"];
+    $app.innerHTML = viewDoc(f[1], "#temas", "Temas"); scroll(); mountDoc(f[0]);
+  }
+  else { $app.innerHTML = viewInicio(); nav = "inicio"; scroll(); }
+  document.querySelectorAll(".nav a").forEach(a => {
+    if (a.dataset.nav === nav) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
+  });
+}
+
+/* ---------- Arranque ---------- */
+async function boot() {
+  try {
+    const [indice, bit, fue, temasReadme] = await Promise.all([get("indice.md"), get("bitacora.md").catch(() => ""), get("fuentes.md").catch(() => ""), get("temas/README.md").catch(() => "")]);
+    S.sistemas = parseIndice(indice);
+    S.series = S.sistemas.flatMap(s => s.series);
+    S.bitacora = parseBitacora(bit);
+    S.fuentes = parseFuentes(fue);
+    const conArchivo = S.series.filter(s => s.archivo && (estadoClase(s.estado) !== "pendiente" || contarSesiones(s.hechas) > 0));
+    const res = await Promise.allSettled(conArchivo.map(s => get(s.archivo)));
+    let todo = temasReadme;
+    res.forEach((r, i) => {
+      if (r.status !== "fulfilled") return;
+      const s = conArchivo[i], { meta, body } = frontMatter(r.value), p = splitSerie(body);
+      todo += body;
+      S.docs[s.num] = { meta, ...p, conf: contarConfianza(p.p1), palabras: contarPalabras(p.p2), resumenPlano: p.resumen.replace(/[*_`#>\[\]]/g, "").replace(/\s+/g, " ").slice(0, 320) };
+    });
+    const slugs = [...new Set([...todo.matchAll(/temas\/([a-z0-9-]+)\.md/g)].map(m => m[1]))].filter(x => x !== "README");
+    const tr = await Promise.allSettled(slugs.map(sl => get(`temas/${sl}.md`)));
+    S.temas = tr.map((r, i) => {
+      if (r.status !== "fulfilled") return null;
+      S.extra[`temas/${slugs[i]}.md`] = r.value;
+      const b = frontMatter(r.value).body;
+      const titulo = (b.match(/^# (.+)$/m) || [, slugs[i]])[1];
+      const intro = (b.replace(/^# .+$/m, "").split(/\n\s*\n/).map(x => x.trim()).find(x => x && !/^[#|>-]/.test(x)) || "").replace(/[*_`\[\]]/g, "").slice(0, 260);
+      return { slug: slugs[i], titulo, intro };
+    }).filter(Boolean);
+    route();
+  } catch (e) {
+    $app.innerHTML = `<div class="state"><b>No se pudo leer la investigación</b>${esc(e.message)}<br>La página tiene que abrirse desde el sitio publicado (GitHub Pages), no como archivo suelto.</div>`;
+  }
+}
+window.addEventListener("hashchange", route);
+boot();
+</script>
+</body>
+</html>

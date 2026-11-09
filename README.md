@@ -15,6 +15,7 @@ Base de conocimiento acumulativa para el **Catálogo de Monedas Argentinas** (Nu
 | `PROTOCOLO.md` | Las reglas exactas que sigue cada sesión. |
 | `CONTEXTO.md` | Resumen de la visión del catálogo que guía la investigación. |
 | `plantillas/serie.md` | Estructura de cada archivo de serie. |
+| `index.html` | Visor web: muestra toda la base en forma gráfica (avance, series, bitácora, fuentes). Lee los `.md` en el momento, así que se actualiza solo. |
 
 ## Cómo leer un dato
 
