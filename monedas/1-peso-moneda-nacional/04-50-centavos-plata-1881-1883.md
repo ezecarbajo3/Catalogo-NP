@@ -6,9 +6,9 @@ anios: "1881–1883"
 denominaciones: [50 centavos]
 metal: "plata 900"
 km: [KM 28]
-estado: a revisar
-sesiones: [i1 2026-11-09]
-ultima_actualizacion: "2026-11-09"
+estado: completa
+sesiones: [i1 2026-11-09, r 2026-11-10]
+ultima_actualizacion: "2026-11-10"
 ---
 
 # 50 centavos plata "Medio Patacón" 1881–1883
@@ -37,6 +37,8 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **Billetes fraccionarios de 1891–1892:** Billetes Argentinos atribuye los de 1891 a la Ley 2.707 (11/11/1891) y los de 1892 a la Ley 2.822 [F-0244] · a confirmar; InfoLEG registra la Ley 2.822 (26/09/1891) como emisión para la deuda con los Consejos de Educación [F-0251] · confirmado (ver Discrepancias). Villamayor da la Ley 2707 para el contrato de billetes de 50 c fechados el 1/01/1891 [F-0233] · probable.
 - **Ley 3.321 (2/12/1895):** monedas de níquel que reemplazan billetes de 20, 10 y 5 c, con canje de hasta tres años; no nombra la plata ni el 50 c [F-0221] · confirmado.
 - **Desmonetización del 50 c:** no se encontró norma. Numista y Numisquare dan "1 January 1896" sin fuente [F-0234, F-0255] · a confirmar (pista). Se buscó en InfoLEG, Registro Nacional, Wikisource y Memorias de Hacienda (ver Pistas).
+- **El BCRA no registra la plata de 1881–1883:** su tabla de "emisiones anteriores" del peso moneda nacional empieza con el 1 y el 2 c de 1882 y el 5, 10 y 20 c de 1896; su único 50 c es el de 1941 (cese de curso legal 31/01/1969, desmonetización 29/03/1978); no da fecha para el oro ni para la plata de la Ley 1130 [F-0257] · confirmado (lo que dice la página). No respalda el "1/01/1896".
+- Juan B. Justo (1928) atribuye a una ley "de 1888" el tope de 5 pesos de plata por pago, que es el de la Ley 1.354 de 1883 [F-0281, F-0164] · confirmado como error de fecha del autor (o del OCR).
 - **El 50 c volvió en 1941:** Decreto 45.560 (27/10/1939), moneda de níquel de 6 g y 24 mm que "reemplazaba al billete del mismo valor"; canje desde el 23/03/1941 [F-0232] · probable (un estudio). Testolino: punzones de 1, 2 y 50 c pedidos a París el 27/06/1939, ensayo de Lucien Bazor en 1940 con dictamen desfavorable, Decreto 76.714 (12/11/1940), por el que la Casa de Moneda adaptó el diseño, y acuñación desde el 10/01/1941 [F-0024] · probable (ver Vida posterior).
 
 ## Contexto histórico y económico
@@ -45,6 +47,9 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - En 1883 la plata se volcó a la fraccionaria: los pesos fueron el 16 % de las piezas de plata en 1882 y el 1,5 % en 1883 [F-0204] · confirmado (cálculo de la serie 03). El 50 c fue el 22,8 % de las piezas de plata en 1882 (576.447 de 2.530.316) y el 32,1 % en 1883 (2.073.380 de 6.467.980); en valor, el 30,9 % de la plata de 1882 ($ 288.223,50 de $ 932.153) y el 60,4 % de la de 1883 ($ 1.036.690 de $ 1.715.445). [F-0204] · confirmado (cálculo propio sobre cifras oficiales).
 - En valor, el 50 c fue la denominación que más creció de 1882 a 1883 (de $ 288.223,50 a $ 1.036.690; el 10 c pasó de $ 77.813,10 a $ 278.565 y el peso bajó de $ 413.711 a $ 98.000) [F-0204] · confirmado (cálculo propio). Tiradas del peso: 413.711 (1882) y 98.000 (1883) [F-0204] · confirmado (serie 03).
 - Del total de la plata acuñada ($ 2.805.839,60), el 50 c representa $ 1.393.423,50, el 49,7 % [F-0028] · confirmado (cálculo propio).
+- Piezas de plata de 1883 según Agote: 98.000 pesos, 2.073.380 de 50 c, 1.510.950 de 20 c y 2.785.650 de 10 c (6.467.980 en total) [F-0204] · confirmado (reabierto por la sesión principal el 2026-11-10).
+- Santacreu (2004) opina que la caída de la plata en Londres "seguramente también influyó" en la suspensión de 1883 y que la plata debía cubrir las necesidades del Interior, de patrón plata [F-0025] · a confirmar (opinión del autor, sin documento). Agote atribuye el freno a la resistencia del público [F-0204].
+- Octubre de 1883: la misma semana de las leyes 1.334 y 1.354, el ministro de EE. UU. informaba que el Congreso había rechazado un empréstito de 80 millones para consolidar la deuda y que había renunciado el ministro de Hacienda [F-0280] · confirmado (contexto).
 - Causa del giro a la fraccionaria: el público resistió la plata, corrió un rumor de falsificación o mala acuñación y se restringió la emisión del peso (Agote, 1884) [F-0204] · confirmado (ver serie 03). Que la Casa siguiera con la plata menor se apoyaría en el art. 6 (recibo limitado) y en la necesidad de cambio chico · supuesto (ver Supuestos).
 - La plata vieja ("cuatros", "chirolas", plata extranjera) "todo ha desaparecido", reacuñada por el Gobierno o exportada por el Banco Nacional (Memoria del Banco Nacional, 1884) [F-0028] · confirmado.
 - 1884, Dirección de Rentas: en las receptorías del Norte y del Oeste no se conocía otro medio circulante que "la plata boliviana ó chilena"; la plata argentina y el billete eran "completamente desconocidos" [F-0028] · confirmado (ver serie 03).
@@ -59,20 +64,23 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 
 ## Diseño y grabadores
 - Escudo con sol, catorce banderas y dos cañones, "REPUBLICA ARGENTINA" y la fecha entre estrellas; Libertad con gorro frigio a la izquierda, "LIBERTAD" arriba y "50 CENTos * 9 Dos FINO" [F-0229, F-0237, F-0234] · probable (inventario de 1925 y casa; la abreviatura exacta: ver abajo). Es el mismo diseño del peso [F-0229, F-0185] · confirmado.
-- **Leyenda de la Libertad:** el inventario de 1925 la transcribe "Libertad (entre tres estrellas) 50 Cent.os. 9 Dos. Fino." [F-0229]; CGB, "LIBERTAD* 50 CENTOS* 9 DOS FINO*" y "50 CENTS" [F-0237]; Numista, "50 CENTos * 9 Dos FINO" [F-0234] · probable: "Centavos" abreviado con "os" en volado y "Dos" por décimos. Comparación: en el peso la casa transcribe "9 DOS FINO" [F-0185].
+- **Leyenda de la Libertad:** el inventario de 1925 la transcribe "Libertad (entre tres estrellas) 50 Cent.os. 9 Dos. Fino." [F-0229]; CGB, "LIBERTAD* 50 CENTOS* 9 DOS FINO*" y "50 CENTS" [F-0237]; Numista, "50 CENTos * 9 Dos FINO" [F-0234]; Testolino, a partir de las cartas de Oudiné: "la necesidad de equilibrar la palabra Centavos (CENTos) con 9 Dos Fino en las monedas de plata" [F-0024] · probable: "Centavos" abreviado "CENTos" (con "os" en volado) y "Dos" por décimos. Comparación: en el peso la casa transcribe "9 DOS FINO" [F-0185].
+- En el 2 centavos de cobre, del mismo módulo de 30 mm, Oudiné ubicó "Centavos (sin abreviatura)"; Testolino ilustra juntos el KM 33 (2 c) y el KM 28 (50 c) "(30 mm de diámetro)" [F-0024] · probable.
+- Carta N.º 5 (12/03/1880): Oudiné propone que "Un Peso" vaya en sentido descendente y "9 Dos Fino" en ascendente, con "Libertad" entre dos estrellas, separada de ambas frases (para el peso; es la lógica de la leyenda que luego tuvo el 50 c) [F-0024] · probable.
+- **Firma del grabador en el 50 c:** un agregador dice que el reverso lleva "OUDINE" [F-0272] · a confirmar (fuente poco fiable); un comercio clasifica variantes del 10 c de 1883 por firmas defectuosas ("Uudine") [F-0261] · pista; no se halló ninguna ficha que describa la firma en el 50 c · constancia.
 - El inventario de 1925 nombra al grabador "Ondine" (por Oudiné) y el canto acanalado [F-0229] · probable (lo que dice el inventario; la autoría de Oudiné es probable, como en la ficha técnica).
-- **Cartas de Oudiné a Castilla (1880), según Testolino:** el 7/01/1880 pidió prórroga y contaba "70 cuños (entre cabeza y reverso)", bajando el precio de 27.500 a 25.000 francos; el 1/03/1880, el 50 c debía entregarse junto con el peso "antes del 5 de mayo de 1880", y el 20 y el 10 c hasta el 5 de julio; el 22 y el 24/03/1880 discutió dónde ubicar "Centavos" y cómo equilibrarla con "9 Dos Fino" en las piezas de plata [F-0024] · probable (un estudio; el plazo del 50 c, a confirmar: ver Discrepancias; las cartas originales están en *Cartas E. Oudiné*, Museo de la Casa de Moneda, 2009 [F-0233]).
-- *Cartas E. Oudiné* (2009, 28 p.) reproduce trece cartas del 6/01 al 29/09/1880; "sólo se conocen las cartas de Oudiné" [F-0233] · confirmado (existencia de la publicación). No se consiguió el cuadernillo.
+- **Cartas de Oudiné a Castilla (1880), según Testolino:** el 7/01/1880 pidió prórroga (consideraba corto un plazo de 4 meses para "70 cuños (entre cabeza y reverso)" y pedía 6 meses más), bajando el precio de 27.500 a 25.000 francos; la carta N.º 3 del 1/03/1880 fijó que "las piezas de Peso, Peso Plata y 50 centavos" se entregarían "antes del 5 de mayo de 1880", y las de 20 y 10 c, el Argentino y el ½ Argentino, hasta el 5 de julio; el 22 y el 24/03/1880 (cartas N.º 7 y 8) discutió dónde ubicar "Centavos" y cómo equilibrarla con "9 Dos Fino" en las piezas de plata [F-0024] · probable (un estudio; la doble mención "Peso, Peso Plata" no se explica · a confirmar; las cartas originales están en *Cartas E. Oudiné*, Museo de la Casa de Moneda, 2009 [F-0233]).
+- *Cartas E. Oudiné* (2009, 28 p.) reproduce trece cartas del 6/01 al 29/09/1880; "sólo se conocen las cartas de Oudiné" [F-0233] · confirmado (existencia de la publicación). Título completo según Testolino: *Cartas E. Oudiné. Correspondencia del Grabador Eugéne Oudiné al Ingeniero Eduardo Castilla. Enero/Agosto 1880*, Cuadernillo de Extensión Cultural [F-0024]; Dabbah y Madonna lo citan a nombre de Nora Matassi [F-0005] · probable (autoría). Rango de fechas: enero–agosto [F-0024] o 6/01–29/09/1880 [F-0233] · a confirmar. No se consiguió el cuadernillo.
 - Las matrices de París llegaron fechadas 1880 [F-0005] · confirmado (ver serie 03). Libertad "inspirada en Ceres" y autoría del escudo (Castilla u Oudiné): ver serie 03 [F-0024, F-0171].
 - Pezzano (El Reverso 57) no menciona el 50 c [F-0171] · constancia.
 
 ## Ficha técnica
 | Atributo | Valor | Fuente | Confianza |
 |---|---|---|---|
-| Peso | 12,5 g (ley); medidos 12,47–12,53 g (CGB); 12,37 g (HobbyRay) | F-0134; F-0237; F-0238 | confirmado (ley); probable (12,47–12,53); a confirmar (12,37) |
-| Composición / ley | plata 900 (900 Ag + 100 Cu); "9 Dos FINO" | F-0134, F-0229 | confirmado |
+| Peso | 12,5 g (ley); medidos 12,47–12,53 g (CGB); 12,49 g (1883 AU, HobbyRay 2020); 12,50 g (1881 UNC, Río de la Plata); 12,4 g (1882 XF, ARG Collectibles); 12,37 g (HobbyRay 2014) | F-0134; F-0237; F-0238; F-0186; F-0269; F-0238 | confirmado (ley); probable (12,47–12,53, 12,49, 12,50); a confirmar (12,4 y 12,37) |
+| Composición / ley | plata 900 (900 Ag + 100 Cu); "9 Dos FINO"; ley media ensayada de la emisión de 1883: 899,046 milésimos | F-0134, F-0229; F-0204 | confirmado |
 | Plata fina | 11,25 g | cálculo (12,5 × 0,9) | confirmado (aritmética) |
-| Diámetro | 30 mm (ley; inventario 1925); 30,1 (Río de la Plata, Numista); 30,4 (HobbyRay); 30,5 (CGB, todas sus fichas) | F-0134, F-0229; F-0186, F-0234; F-0238; F-0237 | confirmado (30); a confirmar (medidas) |
+| Diámetro | 30 mm (ley; inventario 1925; Testolino); 30,1 (Río de la Plata, Numista); 30,4 (HobbyRay); 30,5 (CGB, todas sus fichas); 29 (Wikipedia EN, error); 31 (ARG Collectibles, error) | F-0134, F-0229, F-0024; F-0186, F-0234; F-0238; F-0237; F-0271; F-0269 | confirmado (30); a confirmar (medidas) |
 | Espesor | 1,9 mm | F-0234, F-0255 | a confirmar (solo catálogos) |
 | Canto | estriado (acanalado) | F-0002, F-0134, F-0229, F-0237 | confirmado |
 | Estrías por cm | 14 | F-0240 (y Janson, pista) | a confirmar (solo catálogos) |
@@ -90,22 +98,25 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 | 1884 | 136.000 | F-0028 (cuadro N.º 4, fila 1884) | confirmado (cantidad) | Fecha que llevan las piezas: desconocida (ver Por año y Supuestos). |
 | Total | 2.786.847 | F-0028 (cuadro N.º 4); F-0205 (mismo total al 31/12/1887) | confirmado | |
 
-- La división por año del 50 c en Agote [F-0204] fue leída en la revisión de la serie 03 (2026-11-08); en esta sesión no se pudo reabrir el PDF (su URL no apareció en ninguna búsqueda; ver Pistas). Respaldo: la suma de las tres cifras da exactamente el total oficial hasta 1883 del cuadro N.º 4 [F-0028] y, con los 136.000 de 1884, el total de 2.786.847 [F-0028, F-0205] · confirmado (control aritmético entre dos documentos oficiales).
+- **Reapertura de Agote 1884 (revisión del 2026-11-10):** la sesión principal volvió a abrir el PDF desde la página "Libros antiguos" del CDI. El bloque "Peso bruto de las monedas emitidas hasta 31 de Diciembre de 1883" da para 1882 "576,447 » » 50 cts" y para 1883 "2.073,380 » » 50 cts"; el cuadro de 1883 da "50 cts. )) 2.073,380" por $ "1.036,690"; el cuadro de 1882 trae una columna de totales acumulados desde noviembre de 1881 con "577,467 )) 288,733 50", que es 1.020 + 576.447, igual que 289.244 Argentinos (37.152 + 252.092) y 475.737 pesos (62.026 + 413.711); el texto dice "En 1882 se acuñaron 2.978,112 piezas" y el cuadro suma 3.081.357: la diferencia, 103.245, es exactamente el total de 1881 [F-0204, F-0163] · confirmado (las tres cifras del 50 c, leídas de nuevo; los controles son cálculo propio). El cuadro mensual de 1883 existe (junio a diciembre) pero el OCR no deja leer las filas [F-0204].
+- La división por año del 50 c en Agote [F-0204] se leyó en la revisión de la serie 03 (2026-11-08) y se releyó el 2026-11-10. Respaldo adicional: la suma de las tres cifras da exactamente el total oficial hasta 1883 del cuadro N.º 4 [F-0028] y, con los 136.000 de 1884, el total de 2.786.847 [F-0028, F-0205] · confirmado (control aritmético entre dos documentos oficiales).
 - Primer semestre de 1882: 84.025 piezas (85.045 − 1.020); segundo semestre: 492.422 (576.447 − 84.025) [F-0163, F-0204] · confirmado (cálculo sobre cifras oficiales). Al 6/07/1882 se habían hecho 189.156 pesos, 85.045 de 50 c, 367.043 de 20 c y 291.045 de 10 c [F-0163] · confirmado.
 - Valor acuñado: 1881, $ 510; 1882, $ 288.223,50; 1883, $ 1.036.690; 1884, $ 68.000; total $ 1.393.423,50 (cálculo propio) · confirmado (aritmética).
 - Peso bruto del total: 2.786.847 × 12,5 g = 34.836 kg (31.352 kg de plata fina) (cálculo propio) · confirmado (aritmética).
 - **La fraccionaria de 1884 cierra con el cuadro de la plata:** el cuadro N.º 2 de 1884 registra "emitido en monedas en 1884" 2.139 kg 883 g por $ 95.200 [F-0028]; 136.000 × 0,50 + 119.000 × 0,20 + 34.000 × 0,10 = $ 95.200 exactos, y $ 95.200 a 22,5 g de fino por peso son 2.142 kg (cálculo propio) · confirmado (aritmética: los kilos son de plata fina y corresponden a la fraccionaria de 1884; no hubo pesos ese año [F-0028]).
-- **Cifras de catálogo:** Janson da 1.020 / 476.447 / 2.273.380 [F-0203] (pista); Foronum, Aguirre Horn y Wikipedia ES las repiten [F-0241, F-0240, F-0246]; Numista, Heritage, CGB, coinvarieties y Stash of Coins las redondean a 476.000 y 2.273.000 [F-0234, F-0236, F-0237, F-0235, F-0255]. Ninguna cita documento · solo pista. Totales erróneos: 2.755.666 (Collector's Key), 2.750.020 (Stash), ≈3.505.000 (Golden Eagle) [F-0255].
+- **Cifras de catálogo:** Janson da 1.020 / 476.447 / 2.273.380 [F-0203] (pista); Foronum, Aguirre Horn y Wikipedia ES las repiten [F-0241, F-0240, F-0246]; Numista, Heritage, CGB, coinvarieties y Stash of Coins las redondean a 476.000 y 2.273.000 [F-0234, F-0236, F-0237, F-0235, F-0255]. Ninguna cita documento · solo pista. Totales erróneos: 2.755.666 (Collector's Key), 2.750.020 (Stash), ≈3.505.000 (Golden Eagle) [F-0255]; 3.769.000 piezas de 50 c en un artículo académico que cita el catálogo Krause (Santacreu, 2004), que además dice que la plata "sólo se acuñó entre 1881 y 1883" [F-0025] · error de la fuente.
 - Presentaciones: solo suelta · supuesto (ninguna fuente menciona otra).
 
 ## Fabricación
 - Origen de la plata: "la mayor parte de la plata amonedada ha venido de Bolivia" [F-0204] · confirmado (ver serie 03). Dabbah: metal "principalmente proveniente de la fundición" de la moneda boliviana [F-0249] · probable.
+- **Ley media de 1883:** el "Departamento de Ensayos 1883" de Agote da, como "Ley general de estas monedas", 899,046 milésimos para los 2.073.380 de 50 c, 899,621 para los pesos, 897,627 para el 20 c y 897,636 para el 10 c [F-0204] · confirmado (OCR con alineación aproximada). El 50 c quedó a menos de un milésimo de la ley de 900, más cerca que el 20 y el 10 c.
 - Ensayes de 1884 (nota del 7/01/1885 al director Castilla): ley promedio ≈ 898,86 (50 c), 897,64 (20 c), 897,40 (10 c) milésimos; la asignación por denominación es insegura en el OCR [F-0028] · a confirmar.
-- Comisión revisora de 1883 (Parodi, Godoy, Cuyar, Puiggari, Agote, Clark): sus resultados para el peso están en la serie 03; los del 50 c no se pudieron leer (Agote 1884 no se reabrió) [F-0204] · pista pendiente.
+- Comisión revisora de 1883 (Parodi, Godoy, Cuyar, Puiggari, Agote, Clark): sus resultados se refieren al oro y al peso (serie 03); no da resultados separados del 50 c (relectura del 2026-11-10) [F-0204] · constancia.
 - En 1884 la plata entrada no era "para usos del Establecimiento sino para ser fundida y remitida á Europa"; la fraccionaria de ese año se hizo con el metal existente [F-0028] · confirmado.
 - **Ensayo en estaño de 1882:** el inventario de la colección Fernández Blanco (1925) registra un 50 c 1882 "ensayo de estaño", de 10-6 g (OCR; 10,6 g probable) y 30 ¼ mm [F-0229] · probable (OCR; única mención hallada).
 - **Dos cuños de 1882:** el mismo inventario describe un 50 c 1882 "de cuño diferente, tiene el último ocho y el dos más separados" [F-0229] · probable. Ver Variantes.
-- No se encontraron noticias de rechazos, roturas de cuños ni reacuñaciones del 50 c · constancia.
+- No se encontraron noticias de rechazos, roturas de cuños ni reacuñaciones del 50 c en documentos · constancia. Un comercio ofrece un 1882 con "doble golpe" y "sol incuso" (ver Variantes) [F-0261] · a confirmar.
+- **Cuños fuera de la Casa:** el catálogo de referencia de 2005/2006, citado por Dabbah y Madonna, habla de la aparición en el mercado de "cuños presumiblemente robados de la Casa de Moneda" como explicación de las piezas de 1880 [F-0005] · probable (cita de un catálogo dentro de un estudio).
 
 ## Circulación, retiro, desmonetización y fundiciones
 - Circulación limitada a la Capital y la provincia de Buenos Aires (1884) [F-0028] · confirmado.
@@ -117,26 +128,28 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 
 ## Rareza real y supervivencia
 - **1881 (1.020):** la fecha clave. Apariciones halladas: Río de la Plata online n.º 2, lote 180, 18/10/2020, UNC, USD 3.900 más comisión [F-0234 · probable]; Stack's Bowers ANA 2022, lote 34005, PCGS Genuine Cleaned Unc Details, ex Pat Johnson, USD 3.360 [F-0235 · probable]; Río de la Plata online 21, lote 244 (2025), UNC, "Muy Rara", "Solo 1.020 acuñadas durante el primer año de la Casa de la Moneda" [F-0186] · confirmado (oferta). Un miembro de Foronum declara una 1881 UNC [F-0241] · a confirmar. Monetario de la ANH: un 50 c 1881 (N.º 13) [F-0230] · probable (OCR).
-- Que los lotes de 2020 y 2025 de Río de la Plata sean la misma pieza no se pudo comparar · constancia.
+- Que los lotes de 2020 y 2025 de Río de la Plata sean la misma pieza no se pudo comparar · constancia. La plataforma de la casa tiene además un lote 480 titulado "Argentina. 50 Centavos 1881. AG.900, 30.1mm; ..." (página con error: sin fecha, grado ni precio) [F-0277] · a confirmar: puede ser la misma pieza ofrecida otra vez o una tercera. El lote 244 pesaba 12,50 g [F-0186] · confirmado (oferta). NumisBids fecha la subasta online n.º 2 el 17/10/2020 [F-0278] · a confirmar (ver Discrepancias).
+- En noviembre de 2026 no había ninguna 1881 a la venta en eBay [F-0276] · constancia (búsqueda de un día).
 - Coinvarieties: "one of only a few certified examples" [F-0235] · a confirmar.
-- Censos NGC y PCGS del 50 c: no se pudieron ver (error del sitio en cinco URL) · pista pendiente.
+- Censos NGC y PCGS del 50 c: no se pudieron ver (error del sitio en cinco URL en la primera sesión; en la revisión, la guía de precios de NGC del KM 28 y la página de Greysheet del 1881 existen pero dieron error) · pista pendiente.
 - Numista: 6 % de los socios con la 1881, 43 % con la 1882, 76 % con la 1883 [F-0234] · pista (indicio de abundancia relativa, sin base declarada).
 - La 1883, con la mayor tirada, es la fecha más común en el mercado relevado; en estado sin circular se ven las dos fechas comunes hasta MS64 [F-0234, F-0211, F-0236] · probable.
-- Ninguna fecha muestra prima por rareza fuera de la 1881: en noviembre de 2026 un 1882 NGC MS62 se vendió en USD 150 y un 1883 NGC MS62 en USD 170 (Heritage 61665) [F-0211] · confirmado (resultado listado).
+- Ninguna fecha muestra prima por rareza fuera de la 1881: en noviembre de 2026 un 1882 NGC MS62 se vendió en USD 150 y un 1883 NGC MS62 en USD 170 (Heritage 61665) [F-0211]; en septiembre de 2026 Río de la Plata vendió un 1882 AU/UNC y un 1883 UNC en USD 80 cada uno [F-0275] · confirmado (resultados listados). Los pedidos de eBay por piezas MS61–MS63 (USD 339–365) duplican esos resultados [F-0276] · confirmado (pedidos).
 
 ## Por año
 ### 1881
 - 1.020 piezas entre el 3/11 y el 31/12/1881, igual cifra que el 10 c (1.020) y aproximadamente la mitad del 20 c (2.018) [F-0163] · confirmado. El 50 c y el 10 c de 1881 comparten la tirada más baja de la plata de la Ley 1130 [F-0163] · confirmado.
 - No se halló ningún documento que explique para qué se hicieron ni si se repartieron (Memorias de Hacienda 1881 y 1884, compilaciones de 1882 y 1883) · constancia.
 - Rareza R4 "Muy Rara" en Aguirre Horn [F-0240] · pista.
-- Ensayo de 50 c fechado 1881 en el Monetario de la ANH (N.º 33, "50 centavos. Plata.") [F-0230] · a confirmar: no se sabe si es una prueba distinta o un ejemplar de la tirada.
+- Ensayo de 50 c fechado 1881 en el Monetario de la ANH (N.º 33, "33 – 1881 – 50 centavos. Plata.", p. 89, sin peso, diámetro ni procedencia), en la misma sección que una prueba unifaz de 1 peso en níquel (N.º 32, "Carece de anverso") y un ½ argentino en cobre (N.º 34) [F-0230] · a confirmar: no se sabe si es una prueba distinta o un ejemplar de la tirada.
 
 ### 1882
 - 576.447 piezas; 84.025 en el primer semestre y 492.422 en el segundo [F-0163, F-0204] · confirmado (cálculo).
 - Dos cuños distinguibles por la separación entre el último 8 y el 2 (inventario de 1925) [F-0229] · probable; ensayo de estaño [F-0229] · probable.
 
 ### 1883
-- 2.073.380 piezas, la mayor tirada de la plata de la Ley 1130 en una sola fecha y denominación salvo el 10 c de 1883 (2.785.650) [F-0204] · confirmado.
+- 2.073.380 piezas, la mayor tirada de la plata de la Ley 1130 en una sola fecha y denominación salvo el 10 c de 1883 (2.785.650) [F-0204] · confirmado (releído el 2026-11-10). Ley media de la emisión: 899,046 milésimos [F-0204] · confirmado.
+- Un comercio ofrece un "1883/3" (sobrefecha 3 sobre 3) [F-0261] · a confirmar (ver Variantes).
 - La Ley 1.334 (4/10/1883) frenó la plata menor; se siguió sellando para consumir el metal existente [F-0028, F-0204] · confirmado.
 
 ### 1884 (sin fecha propia conocida)
@@ -148,24 +161,31 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 | Variante | Cómo se identifica | Documentada por | Estado |
 |---|---|---|---|
 | 1882 "2 normal" (CJ 16.1) | el 2 en su posición | Janson 2020 [F-0203] | a confirmar (solo catálogo) |
-| 1882 "2 caído" (CJ 16.2) | el 2 más bajo que el 8 | [F-0203] | a confirmar |
+| 1882 "2 caído" (CJ 16.2) | el 2 más bajo que el 8 | [F-0203]; usado por dos comercios argentinos (BINUMIS, FILACOR) [F-0262, F-0261] | a confirmar (catálogo y comercios; ninguno describe la variante) |
 | 1882 "2 separado" (CJ 16.3) | más espacio entre el último 8 y el 2 | [F-0203]; inventario Fernández Blanco 1925, "el último ocho y el dos más separados" [F-0229] | probable (dos fuentes independientes, una de 1925) |
 | 1882 "2 separado y caído" (CJ 16.4) | combinación de las dos | [F-0203] | a confirmar |
-| 1883 "3 normal" (CJ 17.1) / "3 caído" (CJ 17.2) | posición del 3 | [F-0203] | a confirmar |
+| 1882 "2 elevado" ("No Catalogada en CJ") | el 2 más alto (según el título) | FILACOR [F-0261] | a confirmar (solo título de un producto) |
+| 1883 "3 normal" (CJ 17.1) / "3 caído" (CJ 17.2) | posición del 3 | [F-0203]; FILACOR vende CJ 17.2 [F-0261] | a confirmar |
+| 1883 "CJ 17.3", "CJ 17.4.1" y "CJ 17.4.2" | no descripto | títulos de FILACOR [F-0261]; el Janson 2020 (p. 675) solo trae 17.1 y 17.2 [F-0203] | a confirmar (numeración de origen desconocido) |
+| 1883/3 (sobrefecha) | 3 sobre 3 (según el título) | FILACOR, "Variante - Año 1883/3", UNC-, sin número CJ [F-0261] | a confirmar (una oferta, sin descripción leída) |
+| 1882 con doble golpe y "sol incuso" (error) | doble golpe en leyenda, estrellas y fecha del anverso; sol incuso en el reverso | FILACOR, CJ 16.1, MB+ [F-0261] | a confirmar (una oferta) |
 | Ensayo en estaño 1882 | estaño, ≈10,6 g, 30 ¼ mm | [F-0229] | probable (OCR) |
-| Ensayo 1881 en plata (ANH N.º 33) | sin descripción | [F-0230] | a confirmar |
-| Fantasías fechadas 1880 | plata 900, cospel sin listel, canto liso | Dabbah y Madonna [F-0005] | a confirmar (ver abajo) |
-| Sobrefechas, cuños rotos, errores de canto | no documentados | — | no hallada |
+| Ensayo 1881 en plata (ANH N.º 33) | sin descripción (p. 89) | [F-0230] | a confirmar |
+| Fantasías fechadas 1880 (CJ 34–36, junto con el 20 y el 10 c) | plata 900, cospel "de apariencia casera", sin listel, canto liso | Dabbah y Madonna [F-0005] | probable (pasaje transcripto; ver abajo) |
+| Cuños rotos, errores de canto, otras sobrefechas | no documentados | — | no hallada |
 
-- Ninguna casa de subastas ni foro nombra variantes del 50 c: los lotes usan solo CJ 15, 16 y 17 [F-0236, F-0237, F-0186, F-0234] · constancia. Numista marca "see comments" en 1882 y 1883 con comentarios en imagen que no se pudieron leer [F-0234] · pista.
+- Ninguna casa de subastas ni foro nombra variantes del 50 c: los lotes usan solo CJ 15, 16 y 17 [F-0236, F-0237, F-0186, F-0234] · constancia. Sí lo hacen dos comercios argentinos en sus tiendas: BINUMIS ("CJ#16.2 (2 caído)") y FILACOR (subtipos 16.1, 16.2, 17.2, 17.3, 17.4.1, 17.4.2, "2 elevado" y "1883/3") [F-0262, F-0261] · confirmado (uso comercial). Ninguno explica cómo se ve cada variante · constancia. Numista marca "see comments" en 1882 y 1883 con comentarios en imagen que no se pudieron leer [F-0234] · pista.
 - El mismo inventario de 1925 registra en el peso de 1882 una "diferencia de cuño" con "el 8 y el 2 que están más separados" [F-0229] · probable: el fenómeno se repite en las dos denominaciones (ver serie 03).
-- **Fantasías fechadas 1880:** según la lectura de un agente, Dabbah y Madonna incluyen 50, 20 y 10 c fechados 1880 (CJ 34–36) en plata 900, cospel liso sin listel, rareza R4, "extremadamente raras"; no son ensayos ni pruebas sino "piezas de fantasía" hechas con matrices oficiales en un establecimiento particular [F-0005] · a confirmar (leído a través de un resumen; el pasaje no está transcripto en el registro). El estudio ubica la fabricación de las fantasías de 1880 "entre los años '70 y '80" del siglo XX, en la segunda mitad del siglo XX [F-0005] · probable. El Museo Janson y el Monetario de la ANH no tienen ningún 50 c 1880 [F-0231, F-0230] · constancia.
+- **Fantasías fechadas 1880:** Dabbah y Madonna escriben que "las piezas de 50, 20, y 10 centavos, también en Plata .900 y canto liso (CJ#34 a 36), son extremadamente raras"; su tabla da "50 Centavos Plata 900 Liso sin listel R4" y la imagen 7 muestra un "Ejemplar de 50 Centavos. Muy Rara."; las piezas de 1880 se hicieron en "cospeles de apariencia casera, sin listel", en un establecimiento particular, con matrices oficiales [F-0005] · confirmado (lo que dice el estudio; transcripto en la revisión); la existencia de las piezas · probable. El estudio ubica su fabricación "entre los años `70 y `80" y concluye que son de "la segunda mitad del siglo XX" [F-0005] · probable. El artículo no da peso ni diámetro del 50 c [F-0005] · constancia.
+- **Historia de la clasificación de las piezas de 1880:** Cunietti-Ferrando (1964, *La amonedación nacional 1881-1964*) mencionaba 50 c de plata fechados 1880 como posibles ensayos originales; el catálogo de referencia de 2005/2006 suponía que venían de "cuños presumiblemente robados" y no conocía ninguno legítimo; la edición de 2019 dice que "deben ser consideradas como réplicas" (todo según Dabbah y Madonna) [F-0005] · probable. El Museo Janson y el Monetario de la ANH no tienen ningún 50 c 1880 [F-0231, F-0230] · constancia.
 - Ensayos de Würden de 1879 (Bruselas): 80, 40 y 20 centavos fuertes y "Un patacón" (fichas 43–46 del Museo Janson; 40 c: 10 g, 27,4 mm) [F-0231] · confirmado. No hay un 50 c en esa serie [F-0231] · constancia (lectura parcial). Ver serie 03.
 - No se encontró ningún 50 c en cobre de 1881 (las únicas pruebas en cobre son del peso y del Argentino) [F-0005, F-0231] · constancia.
 
 ## Falsificaciones conocidas
 - Numista muestra un 1883 CJ 17 rotulado "FAKE", de metal blanco (colección "The Black Collection"); no se vio el comentario [F-0234] · a confirmar.
 - Réplica plateada "souvenir" fechada 1883, en venta a USD 18 [F-0248] · confirmado (oferta); sin metal base ni peso.
+- La versión turca de Numista rotula la ficha del 1883 de metal blanco "SAHTE" (falso) [F-0234] · a confirmar (sin descripción).
+- **Réplicas para platería criolla:** una tienda argentina vende un "medio patacón" de aleación de plata, de 3 cm, con argolla soldada y detalles dorados, a unos 16 dólares [F-0264] · confirmado (oferta). Por tamaño y metal, puede llegar al mercado como moneda · supuesto (ver Supuestos).
 - Ninguna casa advierte falsas del 50 c; no se encontró ninguna 1881 falsa identificada · constancia.
 - Señales para reconocer piezas fuera de norma: 12,5 g con pocas centésimas de diferencia en piezas sin desgaste (12,47–12,53 g medidos) [F-0237]; 30–30,5 mm; canto estriado; las fantasías de 1880 se reconocen por la fecha y el cospel sin listel [F-0005] · probable.
 
@@ -176,26 +196,37 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **Wenceslao Pacheco:** ministro de Hacienda al que se dirige la Memoria de la Casa de Moneda de 1884 (16/04/1886) [F-0028] · confirmado.
 - **Pedro Agote:** presidente del Crédito Público; su informe de 1884 da la tirada por año [F-0204] · confirmado.
 - **Vicente F. López:** ministro de Hacienda en 1891; describió la plata como limitada a "la moneda fraccionaria de un peso" [F-0166] · confirmado.
-- **Isaac Fernández Blanco:** coleccionista; el inventario de 1925 de su colección incluye cuatro 50 c (1882 ×3 con un ensayo de estaño, 1883) [F-0229] · probable. Una pieza del inventario ("Cuños varios", 63-14) lleva la inscripción "Donación 2 Septiembre 1921 / Inauguración 24 de Mayo 1922" [F-0229] · confirmado (lo que dice); su relación con la donación de la colección · a confirmar.
-- **Lucien Bazor:** grabador francés del ensayo del 50 c de níquel de 1940 [F-0024] · probable.
+- **Isaac Fernández Blanco (colección):** el inventario de 1925, del "Museo Isaac Fernández Blanco", incluye cuatro 50 c (1882 ×3 con un ensayo de estaño, 1883), con números de catálogo 275–278 [F-0229] · probable. Cómo pasó la colección a la ANH ("Ex colección") · a confirmar.
+- **Lucien Bazor:** grabador francés de los ensayos del 50 c de níquel de 1940 (Pn54) y 1941 (Pn55); el 9/11/1939 envió "32 fotografías de modelos para las piezas de 1, 2 y 50 centavos" [F-0024] · probable.
+- **Nora Matassi:** autora a la que Dabbah y Madonna atribuyen *Cartas de E. Oudiné* (2009) [F-0005] · probable.
+- **J. N. (Jorge N.) Ferrari:** autor de *Un "ensayo" inédito y las monedas de cincuenta centavos 1881-1956* (1956), única monografía hallada cuyo título abarca el 50 c desde 1881 [F-0024] · confirmado (existencia, por cita); de la *Bibliografía Numismática Argentina* (ANH, 1977) [F-0220] · confirmado. No se consiguió el folleto de 1956.
+- **Arnaldo J. Cunietti-Ferrando:** *La amonedación nacional 1881-1964* (Asociación Numismática Argentina, 1964) [F-0220], donde trataba los 50 c de 1880 como posibles ensayos [F-0005] · probable.
+- **Isaac Fernández Blanco:** fundó en septiembre de 1921 su museo, el primero privado del país, y el 24/05/1922 firmó la donación de la casa y sus colecciones a la ciudad; murió en 1928 [F-0282] · confirmado. Las fechas coinciden con las de la pieza 63 del inventario ("Donación 2 Septiembre 1921 / Inauguración 24 de Mayo 1922", un escudo ideado por Enrique Peña, primer cuño hecho para medallas) [F-0229] · probable.
 - Pat Johnson (colección vendida por Stack's Bowers en 2022, con la 1881) [F-0235] · probable.
 
 ## La voz de la época (prensa, debates, testimonios)
 - No se encontró prensa de 1881–1885 que mencione el 50 c, ni el apodo "medio patacón" en textos de época (se buscó en Caras y Caretas, El Mosquito, Don Quijote, The Standard, Buenos Aires Herald, Hemeroteca BNE, Gallica, Chronicling America, Trove y en la literatura gauchesca) · constancia.
 - El catálogo de referencia titula la pieza "50 CENTAVOS - MEDIO PATACON" (Janson 2020, p. 675) [F-0203] · confirmado (uso).
 - "Medio patacón" en fuentes oficiales actuales: el BCRA (2015) [F-0168] y las fichas del Museo Janson del BCRA (altas de 1995): "piezas menores en dicho metal de 50 centavos conocido como 'medio patacón' de 12,5 gramos" [F-0231] · confirmado (uso institucional). Foronum y Aguirre Horn también lo usan [F-0241, F-0240] · confirmado (uso).
+- Otros usos actuales de "medio patacón": la ficha CE6913 del Museo Nacional del Romanticismo (España) dice que la Ley 1130 creó monedas de 50 centavos ("medio patacón") [F-0265] · confirmado (uso institucional extranjero); un hilo de Imperio Numismático (7/12/2018) titulado "ARGENTINA: Medio Patacón, 1883" [F-0266]; comercios (ARG Collectibles, FILACOR, Río de la Plata) [F-0269, F-0122]; Billetes Argentinos repite que la moneda del BCRA de 2015 replica el "Medio Patacón" "de 1881" [F-0274] · confirmado (uso). Las búsquedas en Google Books, diccionarios de argentinismos y literatura gauchesca no dieron ningún uso anterior a 1950 · constancia.
+- "La plata se dejó de acuñar en 1883": lo repiten un blog de 2009, la Wikipedia en inglés y Santacreu (2004) [F-0270, F-0271, F-0025], contra los 136.000 de 1884 [F-0028] · error de esas fuentes.
 - Wikipedia ES deriva "patacón" del árabe "batakká" y dice que de la serie "solo se acuñaron 600.000 unidades", en contradicción con sus propias tiradas [F-0246] · confirmado como error del artículo.
 - López (1891), la plata "en una escala, muy secundaria" [F-0166]; la Casa de Moneda (1886) duda de que la suspensión de la plata fuera acertada: "¿Fué acertada esta medida…? Es dudoso" [F-0028] · confirmado.
 - **Prensa actual (2024–2025):** Ámbito (6/05/2024) publicó que el 50 c de 1881 se podía vender a "6 mil dólares" y que "se crearon tan solo 1020"; el epígrafe habla de 1883 y la bajada, de 6 millones de pesos [F-0195] · confirmado (lo que publica, según la lectura de dos agentes); iProfesional (25/05/2024, "pieza única", "hasta 6.000 dólares"), Los Andes (30/05/2024, que atribuye el valor a "errores de acuñación" sin describirlos), La Gaceta (30/05/2025) y TodoJujuy (1/07/2025) repiten la cifra sin citar ventas [F-0239] · confirmado (lo que publican). Ninguna venta hallada llega a USD 6.000 [F-0234, F-0235] · confirmado (comparación).
 - El Cronista (2/08/2023): un 1882 a u$s 140 según el sitio FILACOR; La Gaceta (29/07/2024): avisos de $ 150.000–160.000 en Mercado Libre [F-0239] · confirmado (lo que publican; son pedidos, no ventas).
+- Más prensa de 2023–2026 sobre el 1882 y el 1881: Aire de Santa Fe (12/09/2023), pedidos de $ 45.000–50.000 y un "pequeño error de acuñación" no descripto (la nota más antigua hallada con ese tópico, que repite Los Andes en 2024); Agenda Salta (3/04/2024), $ 90.000–95.000; El Destape (22/10/2024), pedidos de $ 350.000–360.000 por un 1882; El Destape (11/06/2026), el 1881 "vale 3 millones de pesos", con "1.020 ejemplares" y un escudo "rodeado de laureles" (error: lleva banderas y cañones) [F-0268, F-0267, F-0239] · confirmado (lo que publican; ninguno cita ventas).
 
 ## Vida posterior (existencias guardadas, ventas oficiales, tesoros, colecciones célebres)
 - **Colección Fernández Blanco (1925):** cuatro 50 c: 1882 (N.º 82), 1882 de otro cuño (N.º 83), 1882 ensayo de estaño (N.º 84) y 1883 (N.º 85); ninguno de 1881 [F-0229] · probable (OCR).
 - **Monetario de la ANH (1997):** 1881 (N.º 13), dos de 1882, dos de 1883 (N.º 26–27) y un ensayo 1881 (N.º 33) [F-0230] · probable (el 1881 N.º 13; verificado por el auditor); a confirmar la identidad del ensayo.
 - **Museo Janson del BCRA:** nombra el 50 c como "medio patacón" en sus fichas; no se vio en ellas un 50 c de la Ley 1130 (lectura parcial) [F-0231] · probable.
 - **Colección Janson** donada al BCRA (2017): 280 monedas sin circular de 1881–1896 [F-0034] · probable (ver serie 03; no se sabe si incluye un 50 c 1881).
-- **La reaparición del 50 c:** ensayo de níquel de 1936 con la Libertad de Oudiné y "CINCUENTA CENTAVOS", 6 g, 24,5 mm (ficha 55 del Museo Janson) [F-0231] · confirmado; ensayo de Bazor de 1940 y acuñación desde el 10/01/1941 [F-0024] · probable; 11.044.714 acuñadas según la Casa de Moneda (10.961.142 según Cunietti y Janson), 8.044.700 emitidas en 1941 y 2.365.000 fundidas en 1944 [F-0232] · probable (un estudio).
+- **El BCRA y el 50 c:** la tabla oficial de emisiones anteriores registra como primer 50 c el de 1941 [F-0257] · confirmado.
+- **La reaparición del 50 c:** ensayo de níquel de 1936 con la Libertad de Oudiné y "CINCUENTA CENTAVOS", 6 g, 24,5 mm (ficha 55 del Museo Janson) [F-0231] · confirmado; ensayos de Bazor de 1940 (Pn54) y 1941 (Pn55), cuños de París llegados en septiembre de 1941 y acuñación desde el 10/01/1941 [F-0024] · probable; 11.044.714 acuñadas según la Casa de Moneda (10.961.142 según Cunietti y Janson), 8.044.700 emitidas en 1941 y 2.365.000 fundidas en 1944 [F-0232] · probable (un estudio).
 - **Réplica del BCRA de 2015:** el BCRA dice que su moneda de $1 del 80.º aniversario "replica la pieza de 50 centavos moneda nacional de plata conocida como «Medio Patacón»", pero tiene el módulo del peso (25 g, 37 mm) [F-0168, F-0134] · confirmado (ver serie 03).
+- **Medalla uruguaya sobre un medio patacón:** Río de la Plata ofreció en su Subasta 24 (diciembre de 2025) una medalla del Centenario del Hospital de Caridad (Uruguay, 1888) "Acuñada sobre Argentina, 50 Centavos “Medio Patacón” 1882", plata 900, 30,0 mm, 11,40 g, XF, "Pieza para estudiar", estimación 200–300 [F-0122] · confirmado (oferta).
+- **Un 50 c montado:** el Kölner Münzkabinett ofrece un 1882 VF-EF con "Henkelspur" (rastro de asa: estuvo colgado) [F-0263] · probable.
+- **Archivos que podrían documentar el retiro:** el Museo Janson del BCRA guarda los libros de actas de la Junta del Crédito Público (1878–1886 y 1886–1897) y de la Caja de Conversión (desde 1890), no digitalizados [F-0258] · confirmado (existencia); su contenido no se vio.
 - No se encontró ningún tesoro, lote masivo ni venta oficial del 50 c · constancia.
 
 ## Historias y curiosidades
@@ -203,11 +234,13 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **Billetes de 50 c de 1891–1892:** contrato de Laass con el Banco Nacional por 2 millones de billetes fechados "Enero 1° de 1891" (Ley 2707); en noviembre de 1891, "50 centavos (ambos): 4.320.000 billetes"; mayo de 1892, "1.100.004 billetes de 50 centavos (según Bottero)" [F-0233] · probable.
 - **El 50 c de 1941 reemplazaba un billete:** Rey: "La nueva moneda de 50 centavos reemplazaba al billete del mismo valor"; el billete volvió el 19/05/1942 [F-0232] · probable (un estudio). Entre 1884 y 1941, el 50 c argentino fue papel · supuesto (ver Supuestos).
 - **Reloj "medio patacón":** caja de reloj de bolsillo con el motivo del 50 c; los foristas discuten si se usó una moneda o una caja fundida por encargo [F-0247] · a confirmar.
-- **Montajes:** el inventario de 1925 registra un 20 c 1881 con "pie de gemelo" y un oro de 1885 con "pié de alfiler", ningún 50 c montado [F-0229] · probable.
-- **Rastras:** Rapela habla de patacones en rastras y tiradores, no de medios patacones [F-0225] · constancia; no se halló ninguna fuente sobre el 50 c en platería criolla.
+- **Montajes:** el inventario de 1925 registra un 20 c 1881 con "pie de gemelo" y un oro de 1885 con "pié de alfiler", ningún 50 c montado [F-0229] · probable. En el mercado actual hay al menos un 1882 con rastro de asa [F-0263] · probable.
+- **Rastras:** Rapela habla de patacones en rastras y tiradores, no de medios patacones [F-0225] · constancia; no se halló ninguna fuente sobre el 50 c original en platería criolla. Hoy la platería criolla vende réplicas de "medio patacón" con argolla [F-0264] · confirmado (oferta).
 - **Errores de agregadores:** coinvarieties atribuye la acuñación de 1882 y 1883 "most likely" a París, aunque su página de 1881 dice "Buenos Aires Mint" [F-0235]; Collector's Key fecha la serie "1881–1969" [F-0255]· error.
 - *The Baedeker of the Argentine Republic* (1914) cuenta entre las monedas de plata acuñadas "1 peso and 50, 20, 10 and 5 centavos": el 5 c no se acuñó [F-0253] · error de la guía.
 - El 50 c boliviano (KM 161) tiene el mismo patrón y la misma marca "9 DS FINO" [F-0254] · pista.
+- Coinquest, para el 1881: "multiply these values by twenty" (sobre valores de USD 15–80 del tipo) [F-0200] · pista.
+- Testolino también enumera "piezas menores de 50, 20, 10 y 5 centavos" siguiendo la Ley 1130, que preveía un 5 c de plata nunca acuñado [F-0024] · confirmado (lo que dice).
 
 ## Observaciones de mercado
 | Fecha | Casa / subasta | Lote | Año | Grado / estado | Precio | Fuente |
@@ -239,47 +272,68 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 | 2026 | CGB | fwo_1051317 | 1882 | AU, 12,50 g, marca de marcador | 90 € | F-0237 |
 | 2026 | CGB | fwo_1117070 | 1883 | XF, 12,53 g | 65 € | F-0237 |
 | s/f | CGB | fwo_765483 | 1883 | PCGS AU58, 12,50 g | 140 € | F-0237 |
-| 21/10/2026 | CNG E-Auction 619 | 953 | 1883 (a confirmar) | PCGS MS62 | est. USD 100; realizó USD 600 | F-0211 (a confirmar) |
+| 28/12/2020 | HobbyRay (eBay) | — | 1883 | AU, 12,49 g, 30 mm, rayas en el anverso | USD 33 | F-0238 (probable) |
+| 22/09/2026 | Río de la Plata Online Auction 27 | 217 | 1882 | AU/UNC, 12,5 g | est. USD 100–150; realizó USD 80 | F-0275 |
+| 22/09/2026 | Río de la Plata Online Auction 27 | 218 | 1883 | UNC | est. USD 80–120; realizó USD 80 | F-0275 |
+| 21/10/2026 | CNG E-Auction 619 | 953 | 1883 | PCGS MS62, "iridescent toning" | est. USD 100; realizó USD 600 | F-0211, F-0275 |
 | 1/11/2026 | Heritage Showcase 61665 | 24007 / 24008 | 1882 / 1883 | NGC MS62 / NGC MS62 | USD 150 / USD 170 | F-0211 |
-| 3/11/2026 | Stack's Bowers CCO | 73058 | 1883 (en lote mixto) | PCGS MS64 | lote de 4 piezas: USD 600 | F-0211 (probable) |
+| 3/11/2026 | Stack's Bowers CCO | 73058 | 1883 (en lote mixto) | PCGS MS64 | lote de 4 piezas: est. USD 700–1.000; realizó USD 600 | F-0211, F-0275 |
+| 2025 | Río de la Plata Subasta 24 | 1339 | 1882 (sobre él, medalla uruguaya de 1888) | XF, 11,40 g, 30,0 mm | est. 200–300 | F-0122 |
+| 10/11/2026 | eBay (pedidos) | — | 1882 / 1883 | NGC MS61 ×2; PCGS MS63; NGC AU; sin certificar | USD 365, 365, 339, 159, 227–300 (pedidos) | F-0276 |
+| 2026 | MA-Shops (Dilmarks) | — | 1883 | PCGS AU58 | pedido 219 € | F-0263 |
+| 2026 | MA-Shops (Kölner Münzkabinett) | — | 1882 | VF-EF, rastro de asa | pedido USD 112 | F-0263 |
+| 2026 | FILACOR (tienda) | — | 1882 / 1883 | MB+ a UNC, por subtipo | pedidos USD 80–200 | F-0261 |
+| 2026 | BINUMIS (tienda) | — | 1882 CJ 16.2 | VF+ | pedido $ 158.400,69 | F-0262 |
+| 2026 | ARG Collectibles (tienda) | — | 1882 | XF, 12,4 g | pedido USD 70 | F-0269 |
 | actual | Golden Eagle Coins | — | 1882 | XF | pedido USD 95 | F-0255 |
 
 - Numista lista unas 43–44 ventas y muestra 10 (los precios de Katz aparecen allí convertidos a dólares: 49,60 / 59,28 / 111,31 / 43,60 / 77,52; los valores en euros de la tabla son los originales); CoinArchives da 288 coincidencias y muestra 100: el relevamiento es parcial [F-0234, F-0211] · constancia.
 - Los números de lote de Heritage que da Numista (24017, 64394) no coinciden con los de sus URL (61618-29002, 232221-44002) [F-0234] · a confirmar.
 - La descripción del lote 24008 de Heritage 61665 menciona "Tegucigalpa mint, KM51", error de texto [F-0211] · a confirmar.
-- Valores de referencia (no ventas): Coinscatalog, 1881 F 600 / VF 1.000 / XF 1.500 / MS60 2.000 USD; 1882 hasta MS63 200; 1883 hasta MS60 100 [F-0255] · pista. Janson 2020: 1881 MB 3.000 / EB 5.000 / SC 7.000 USD; 1882 80 / 120 / 200; 1883 60 / 100 / 160 [F-0203] · pista.
+- Valores de referencia (no ventas): Worldcoinsinfo, XF USD 60–80 sin distinguir fecha [F-0273] · pista; Coinquest, 1881 = valor del tipo × 20 [F-0200] · pista; Coinscatalog, 1881 F 600 / VF 1.000 / XF 1.500 / MS60 2.000 USD; 1882 hasta MS63 200; 1883 hasta MS60 100 [F-0255] · pista. Janson 2020: 1881 MB 3.000 / EB 5.000 / SC 7.000 USD; 1882 80 / 120 / 200; 1883 60 / 100 / 160 [F-0203] · pista.
 
 ## Graduación: puntos de desgaste y problemas típicos
 - Limpieza frecuente: tres de las fichas de CGB y la 1881 de Stack's muestran limpieza o marcas [F-0237, F-0235] · confirmado (casos), sin estadística.
 - Heritage, 1882 PCGS MS63: "Light silvery toning with enchanting luster"; 1883 MS61: "lustrous and eye-appealing for the grade" [F-0236]; Stack's, 1883 AU58: "molten gray surfaces" [F-0235] · probable.
 - Pesos: 12,47–12,53 g en piezas XF–AU [F-0237]; 12,37 g en una XF de HobbyRay [F-0238] · a confirmar (ficha inconsistente).
-- No se halló una guía de desgaste propia del 50 c. Ver Supuestos.
+- HobbyRay, 1883 AU (2020): "Minor scratches in obverse, otherwise a nicely toned AU!" [F-0238] · probable. CNG, 1883 MS62: "iridescent toning" [F-0275] · confirmado (descripción).
+- Problemas de colección: rastro de asa por montaje [F-0263]; reacuñación como medalla (pieza de 11,40 g) [F-0122] · confirmado (casos).
+- No se halló una guía de desgaste propia del 50 c (se buscó también en comercios, foros y descripciones de lotes en la revisión) · constancia. Ver Supuestos.
 
 ## Discrepancias
 - **Tiradas de 1882 y 1883:** 576.447 y 2.073.380 (Agote 1884 [F-0204], que cierran con el cuadro N.º 4 [F-0028]) contra 476.447 y 2.273.380 (Janson [F-0203] y quienes lo copian [F-0240, F-0241, F-0246]). Las cifras de catálogo difieren en un solo dígito en cada año y suman 100.000 de más (2.750.847 contra 2.650.847). Se toma la oficial.
 - **¿Hubo plata en 1884?** Sí, según el cuadro N.º 4 y el texto de la Memoria de la Casa de Moneda 1884 [F-0028]; Agote 1888 dice "suspendida… desde 1883" [F-0205]. Las dos se concilian si la suspensión de 1883 es la de la ley y las piezas de 1884 son el sellado del remanente · supuesto.
 - **Diámetro:** 30 mm (ley, inventario 1925) [F-0134, F-0229]; 30,1 (Río de la Plata, Numista) [F-0186, F-0234]; 30,4 (HobbyRay) [F-0238]; 30,5 (CGB) [F-0237]. Se toma 30 mm.
-- **Leyenda:** "50 Cent.os 9 Dos Fino" [F-0229, F-0234] contra "50 CENTS 9 DOS FINO" o "50 CENTOS" [F-0237, F-0255].
-- **Plazo de entrega del 50 c (1880):** según la lectura de esta sesión, el 50 c y el peso debían entregarse antes del 5/05/1880 y el 20 y el 10 c antes del 5/07/1880 [F-0024]; el registro de la serie 01 anota la entrega del Argentino y del medio argentino antes del 5/07/1880 [F-0024]. A confirmar con el PDF de Testolino.
+- **Leyenda:** "50 Cent.os 9 Dos Fino" [F-0229, F-0234] y "CENTos" en Testolino [F-0024] contra "50 CENTS 9 DOS FINO" o "50 CENTOS" [F-0237, F-0255]. Con la cita de las cartas de Oudiné, la lectura "CENTos" pasa a ser la preferida (probable).
+- **Plazo de entrega del 50 c (1880) — resuelta en la revisión del 2026-11-10:** la carta N.º 3 dice "las piezas de Peso, Peso Plata y 50 centavos, se entregarán antes del 5 de mayo de 1880" y "las piezas correspondientes a 20 y 10 centavos, como así también el Argentino y ½ Argentino" hasta el 5 de julio [F-0024]. Las dos lecturas no se contradecían: se referían a piezas distintas. Queda abierta la mención doble "Peso, Peso Plata".
 - **Leyes de los billetes fraccionarios de 1891–1892:** Ley 2.707 y Ley 2.822 según Billetes Argentinos [F-0244]; la Ley 2.822 de InfoLEG es otra cosa [F-0251].
 - **Emisión menor en 1886:** circulación $ 4.254.751 contra emitido $ 4.132.017,85 [F-0165] (OCR; no cierran).
-- **Ensayo 1881 de la ANH:** "ensayo" [F-0230] contra la tirada regular de 1.020: no se sabe qué es.
+- **Ensayo 1881 de la ANH:** "ensayo" [F-0230] contra la tirada regular de 1.020: no se sabe qué es (la p. 89 no da más datos).
+- **Totales de acuñación del 50 c en fuentes secundarias:** 2.786.847 oficial [F-0028]; 2.750.847 del catálogo; 3.769.000 en Santacreu (2004), tomado de Krause [F-0025]; otros agregadores [F-0255]. Se toma el oficial.
+- **¿La plata terminó en 1883?** Varias fuentes secundarias dicen que sí [F-0025, F-0270, F-0271, F-0205]; el cuadro N.º 4 registra 136.000 piezas de 50 c en 1884 [F-0028]. Ver el supuesto de conciliación.
+- **Fecha de la venta de la 1881 de Río de la Plata (2020):** 18/10/2020 según Numista [F-0234]; NumisBids titula la subasta "Online Auction 2 (17 Oct 2020)" [F-0278]. Puede ser una subasta de dos días · a confirmar.
+- **Cuadernillo de las cartas de Oudiné:** enero–agosto de 1880 [F-0024] o 6/01–29/09/1880 [F-0233].
+- **Ley de la Caja de Conversión:** 2.741 (InfoLEG) [F-0250]; el inventario del Museo Janson dice "Ley N° 2.471 de 1890" [F-0258], probable transposición de dígitos.
 
 ## Pistas para la próxima sesión
-- **Agote 1884 (F-0204):** releer en imagen p. 355 (filas del 50 c), el resultado de la Comisión revisora para el 50 c (pesos, ley, tolerancia) y el cuadro mensual de 1883. La URL de CDI-MECON no aparece en WebSearch (tres búsquedas de la sesión principal y seis de agentes); existe ficha en Google Books (id ICUy-ddZtDwC) sin lectura. Agote III (1885, Google Books id PnbIxlANcH8C, "Acuñacion de Monedas" en p. 221).
-- **Fecha de los 136.000 de 1884:** buscar la "orden superior" (Registro Nacional 1884), una memoria de la Casa de Moneda de 1885 y ver si hay cuños de 1883 o 1884 en el Museo de la Casa de Moneda.
-- Monetario de la ANH: ver el PDF en imagen (N.º 13 y N.º 33) para saber si el "ensayo 1881" es una prueba o la moneda corriente.
-- Inventario Fernández Blanco: ver la imagen del N.º 84 (peso del ensayo de estaño) y dónde está hoy la colección (Museo Fernández Blanco o ANH).
-- *Cartas E. Oudiné* (Museo de la Casa de Moneda, 2009): plazos y cuños del 50 c.
-- Censos NGC y PCGS del 50 c (cinco URL de NGC dieron error).
-- Lotes de Río de la Plata 180 (2020) y 244 (2025) de la 1881: comparar fotos; https://auction.rpnumis.com/lots/view/4-XQCGS/… y …/4-FZULOW/… (vistas dentro de páginas, no en búsquedas).
-- Comentarios en imagen de Numista N# 11353 (1882 y 1883) y la ficha "FAKE".
-- Norma de desmonetización de la plata fraccionaria; balances de la Caja de Conversión 1891–1900 (rubro plata); Registro Nacional en cdi.mecon (registr1 HASH7348, sin revisar).
+(Actualizada en la revisión del 2026-11-10. Resueltas: Agote 1884 reabierto (tiradas 1882 y 1883, ley media 1883; la Comisión no da datos del 50 c); plazo de Oudiné; pasaje de las fantasías de 1880; descripción del N.º 33 de la ANH (no hay más datos).)
+- **Fecha de los 136.000 de 1884 y la "orden superior":** Agote Libro III (1885), https://cdi.mecon.gob.ar/bases/librosantiguos/informe_credito_publico_nacional_libro_III_1885.pdf (client_error en WebFetch; el proxy bloquea curl a cdi.mecon); Libro IV (1887) es un PDF sin texto (haría falta OCR); ediciones del BNA [F-0259] (PROVENANCE_REQUIRED: el dueño podría pegar las URL); base de datos de Mónica Gómez, UNC, hdl.handle.net/11086/556539 [F-0260]; Memoria de la Casa de Moneda de 1885 (no apareció en la colección memoria2); libros de actas de la Junta del Crédito Público 1878–1886 en el Museo Janson [F-0258] (no digitalizados).
+- **Cuadro mensual de 1883 de Agote (F-0204):** existe (junio a diciembre) pero el OCR no se lee: verlo en imagen para saber si hubo 50 c en octubre–diciembre de 1883.
+- Monetario de la ANH y Fernández Blanco: ver en imagen el N.º 33 y el "10-6" del N.º 84 (el proxy bloquea curl a repositorio.anh.org.ar).
+- *Cartas E. Oudiné* (Museo de la Casa de Moneda, 2009; Matassi): mención "Peso, Peso Plata" y rango de fechas.
+- Folleto de J. N. Ferrari (1956) sobre las monedas de 50 c 1881–1956 y su *Bibliografía Numismática Argentina* (1977); Cunietti-Ferrando, *La amonedación nacional 1881-1964* (1964).
+- Censos NGC y PCGS: https://www.ngccoin.com/price-guide/world/argentina-50-centavos-km-28-1881-1883-cuid-1067279-duid-1213014 y https://www.greysheet.com/prices/item/1881_50_centavos-world-coins/gsid/235929 (error del sitio; NGC bloqueado para curl).
+- Lotes 1881 de Río de la Plata: 180 (2020), 244 (2025) y 480 (bidinside, error) [F-0277]: comparar fotos.
+- FILACOR: fichas propias del 1883/3 (producto 5598), "2 elevado" (4683), CJ 17.3 (4686/4660), CJ 17.4.x (4661/4687) y 10 c "Uudine": solo aparecieron dentro de páginas, no en búsquedas. Qué edición del catálogo de referencia numera 17.3 y 17.4.
+- Firma "OUDINE" en el 50 c: verificar con fotos en alta resolución.
+- Stack's Bowers, "Argentina 50 centavos 1883 NGC MS-63", https://auctions.stacksbowers.com/lots/view/3-VAF6K/argentina-50-centavos-1883-ngc-ms-63 (error).
+- conuvi.net, "Serie Patacón: 10 Centavos 1882, 20 y 50 Centavos 1883" (25/10/2014), server_error.
+- Comentarios en imagen de Numista N# 11353 (1882 y 1883) y la ficha "FAKE"/"SAHTE".
+- Norma de desmonetización de la plata fraccionaria; balances y actas de la Caja de Conversión 1890–1900 [F-0258]; Registro Nacional en cdi.mecon (registr1 HASH7348, client_error); Wikisource "Bancos y moneda. Recopilación de leyes y decretos 1854 a 1890" (url_not_found; contiene un "Decreto reglamentario de la Ley de Curso Legal").
 - Fuente oficial de los 2.500.000 billetes de 50 c de 1884.
-- Report of the Director of the Mint 1884–1887 (tabla XXVI de F-0027, fuera del alcance de lectura).
-- De Ansó (F-0170, PROVENANCE_REQUIRED) y Gancedo (F-0134, URL no aparece en búsquedas): lo que digan del medio patacón y su espesor.
-- *La Patria a través de sus monedas* (archive.org, PROVENANCE_REQUIRED).
-- Prensa de 1882–1884 (sin resultados en hemerotecas digitales).
+- Report of the Director of the Mint 1884–1887: tabla de "Coinages of various countries" (p. 322 del de 1887, fuera del tramo legible); PDF del año fiscal 1884 en FRASER (no apareció en búsquedas).
+- De Ansó, *La Patria a través de sus monedas* (archive.org, PROVENANCE_REQUIRED en la redirección) y Gancedo (F-0134, URL no aparece en búsquedas).
+- Prensa de 1882–1884 (sin resultados en hemerotecas digitales, tampoco en Gallica ni en prensa inglesa en esta revisión).
 
 ## Supuestos
 - **Las 136.000 piezas de 1884 llevarían fecha 1883.** Se apoya en que se hicieron "para consumir la existencia" poco después de la ley de octubre de 1883 [F-0028], con los cuños en uso, y en que no se conoce ninguna moneda fechada 1884 en catálogos, casas ni colecciones [F-0203, F-0229, F-0230]. Si fuera así, la emisión con fecha 1883 sería de 2.209.380. Para confirmarlo haría falta un documento de la Casa de Moneda o un cuño. · supuesto
@@ -290,6 +344,10 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **Destino del metal:** como el patacón, después de 1889 el valor del metal del 50 c (11,25 g de fino, la mitad del peso por cada 50 c, es decir, la misma relación) superó al del papel [ver serie 03, cálculo sobre F-0206 y F-0036]; las piezas se habrían atesorado o fundido. No hay documento. · supuesto
 - **Puntos de desgaste:** como en el peso, primero el gorro frigio y el cabello sobre la frente y la oreja de la Libertad; del lado del escudo, el sol y las moharras (regla general del proyecto, CONTEXTO.md, y lo que miran las casas en el peso [F-0171, F-0183]). · supuesto
 - Solo se conoce la presentación suelta. · supuesto
+- **El 50 c llegó al Uruguay:** la medalla del Centenario del Hospital de Caridad de 1888 sellada sobre un 50 c de 1882 [F-0122] indica que al menos una pieza estaba en Uruguay cinco años después de acuñada; si circulaba allí como moneda o llegó como metal no se sabe. Se apoya en esa sola pieza. · supuesto
+- **La pieza de la medalla perdió metal:** pesa 11,40 g contra 12,5 g de ley [F-0122, F-0134]; la diferencia (≈1,1 g) sugiere desgaste previo o rebaje al reacuñar (cálculo propio). · supuesto
+- **El ensayo de estaño de 1882 sería más grueso o el peso está mal leído:** con la densidad del estaño (≈7,3 g/cm³) y la de la plata 900 (≈10,3 g/cm³), un cospel de estaño del mismo volumen que uno de 12,5 g pesaría unos 8,8 g, no 10,6 (cálculo propio sobre [F-0229]). · supuesto
+- **Las réplicas de platería pueden confundirse con originales:** las de Cuenca Mestiza tienen 3 cm y son de aleación de plata [F-0264]; se distinguen por la argolla soldada y los detalles dorados, pero una pieza sin argolla podría circular como moneda. · supuesto
 
 ---
 
