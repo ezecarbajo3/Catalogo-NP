@@ -2908,7 +2908,7 @@ Formato de cada entrada:
 - Archivo (Internet Archive): a buscar
 - Nivel: 2
 - Consultada: 2026-11-11 (agente de la ronda 2, nivel 2)
-- Cita clave: p. 14, reseña del libro de Ariel Dabbah *Errores de acuñación en la amonedación nacional 1881-2016* (edición del autor, 2017). No da detalle del 50 centavos.
+- Cita clave: p. 14 (sección bibliográfica), mención del libro de Ariel Dabbah *Errores de acuñación en la amonedación nacional 1881-2016* (edición del autor, 2017). No da detalle del 50 centavos.
 - Usada en: serie 04
 
 ### F-0285
@@ -2918,5 +2918,5 @@ Formato de cada entrada:
 - Archivo (Internet Archive): a buscar
 - Nivel: 2
 - Consultada: 2026-11-11 (agente de la ronda 2, nivel 2)
-- Cita clave: p. 893 nombra a Pedro Agote como presidente del Crédito Público "(1883-1889)"; pp. 899–900: la unificación monetaria "recién se logró en 1881". No trata la plata ni el 50 centavos.
+- Cita clave: p. 894 nombra a Pedro Agote como presidente del Crédito Público "(1883-1889)" (la bibliografía fecha sus informes 1881-1889); pp. 899–900: la unificación monetaria "recién se logró en 1881". No trata la plata ni el 50 centavos.
 - Usada en: serie 04

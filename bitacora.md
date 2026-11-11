@@ -4,6 +4,36 @@ Una entrada por sesión, **la más reciente arriba**. Formato en `PROTOCOLO.md` 
 
 ---
 
+## 2026-11-11 · Serie 04 · 50 centavos plata "Medio Patacón" · revisión (cierre de la sesión del 2026-11-10, pedido por el dueño)
+- Motivo: la sesión de revisión del 2026-11-10 (tarde) dejó tres avances en el repositorio pero se cortó antes del auditor, la bitácora y el índice. Esta sesión la reemplaza: ronda 2 sobre las pistas pendientes, auditor independiente, correcciones y cierre.
+- Búsquedas: ≈101 (oficiales 32, mercado y comunidad 29, estudios y prensa 30, auditor 10) · Documentos leídos: ≈57 (15 + 15 + 15 + 12 del auditor; muchas lecturas fallidas por bloqueos) · Fuentes nuevas: F-0283–F-0285
+- Agentes: 3 en la ronda 2 (uno por nivel de fuente: oficiales; mercado y comunidad; estudios y prensa) y 1 auditor independiente. Por falta de cupo y de acceso no se repitió la ronda 1.
+- Hallazgos principales: casi nulos, y se registran como tales.
+  - Spink, subasta 17029, lote 73: un 50 c 1883 XF dentro de un lote de ocho monedas sudamericanas, vendido en £120 todo el lote [F-0283] · sin valor para fijar precio.
+  - Pedro Agote presidía el Crédito Público Nacional en 1883–1889 según Regalsky (2025) [F-0285 · probable].
+  - La Gacetilla del CNBA n.º 71 (2017) registra en su bibliografía el libro de Dabbah sobre errores de acuñación 1881–2016 [F-0284]; supuesto: posible origen de los "errores de acuñación" que repite la prensa.
+  - La Memoria de Hacienda 1890 confirma que la plata se limitó a la fraccionaria "de recibo sólo por cantidad limitada" (ya en F-0166); el balance del Banco Nacional de 1890 menciona "plata nacional" sin distinguir el 50 c (a confirmar).
+  - Sin resolver: fecha de los 136.000 de 1884 y la "orden superior", fabricante y fuente oficial de los 2.500.000 billetes de 50 c, norma de desmonetización, censos NGC/PCGS, variantes (1883/3, "2 elevado", firma Oudiné) y falsificaciones.
+- Historia completa: Parte 2 de ≈11.430 palabras (versión 3); se agregaron Agote [F-0285], Spink [F-0283] y la pista de Dabbah [F-0284], y se reescribieron los pasajes marcados por el auditor.
+- Auditor: ≈40 datos contrastados con `fuentes.md`, ≈20 abriendo la fuente real; no pudo reabrir los documentos oficiales de las tiradas (F-0163, F-0204, F-0028, F-0205: cdi.mecon bloqueado) pero la aritmética (tiradas, totales, 49,7 % y 60,4 %) cierra sin errores. 20 observaciones.
+- Correcciones (dato anterior → dato nuevo):
+  - Medalla uruguaya: "cinco años después de acuñada" → seis (1888 − 1882) [F-0122] (auditor).
+  - Resumen: "el primer bimestre de la Casa" → "de acuñación"; "no volvió a tener una moneda de 50 c hasta 1941" → "el primer 50 c que registra el BCRA después es el de 1941" y el resto como supuesto; ventas de USD 3.360–3.900 rotuladas "según Numista y coinvarieties · a confirmar".
+  - Sección 7 de la Historia: "volvió medio siglo más tarde" → atribuido al BCRA, con la salvedad del supuesto.
+  - Fecha de la Ley 1130 en la Parte 1: "3, 5 o 9/11" → sanción 3/11, publicación 5/11, promulgación 9/11.
+  - Fecha de inicio de la acuñación (3/11/1881): rotulada "a confirmar" (la cita registrada de F-0163 no la trae textual).
+  - F-0285: p. 893 → p. 894. F-0284: "reseña" → mención bibliográfica; la conjetura sobre la prensa pasa a supuesto.
+  - Santacreu ("El oro y la plata se desvanecieron…") se ubica tras la crisis de 1890 y se agrega a la Parte 1.
+  - eBay: "el doble" → cerca de una vez y media el AU58 de USD 104; ventas de HobbyRay "2014–2019" → 2014–2020.
+  - Errata de coinvarieties "from 1881 to 183": rotulada a confirmar (la página de 1881 decía "1881-83" en la lectura de hoy).
+  - Fernández Blanco: fechas rotuladas como en la pieza ("Donación" 2/09/1921, "Inauguración" 24/05/1922).
+  - Discrepancia de totales: 2.750.847 del catálogo se compara con 2.650.847 (suma hasta 1883).
+- Discrepancias abiertas: las de ayer (tiradas del catálogo vs. oficiales; ¿plata en 1884?; diámetro; leyenda; ley de los billetes de 1891–1892; ensayo 1881 de la ANH; fecha de la venta de 2020; Ley 2.741 vs. "2.471"), más: medidas del billete de 50 c de 1884 (125×70 vs. 120×70) y fecha de llegada de los cuños de París en 1941.
+- Pendientes de mejora (observaciones del auditor no resueltas, a hacer en la próxima r2): pasar a la Parte 1 lo que la Parte 2 dice de F-0279 (billete de 1884) y de Spink 338; rotular como supuesto "el 1883 se ofrece como relleno de lotes mixtos" y "la escalada sigue a la inflación"; quitar entradas duplicadas de Personajes (Agote, Fernández Blanco); acortar el Resumen; ordenar la tabla de mercado; completar la cronología (27/06/1939, 12/11/1940, 19/05/1942); agregar a `fuentes.md` las citas de F-0195 y F-0239 sobre la prensa de 2023–2025.
+- Pistas pendientes: ver la sección Pistas del archivo de la serie. Para destrabar lo bloqueado, el dueño puede pegar las URL de cdi.mecon (Libros III y IV de Agote), de las ediciones del Banco Nación, de NGC/PCGS, de FILACOR y de Stack's Bowers.
+- Incidencias: Wikisource (cuatro páginas) dio url_not_found; eBay, cnumis, foronum y coin-identifier dieron client_error; el archivo de De Ansó en archive.org redirige a un servidor que no figuró en las búsquedas; NGC/PCGS sin resultado. No se detectaron instrucciones incrustadas en el contenido web. Catálogos (Janson, Numista, Krause) usados solo como pista.
+
+
 ## 2026-11-09 · Serie 04 · 50 centavos plata "Medio Patacón" · investigación 1 (sesión de tarde)
 - Búsquedas: ≈171 (ronda 1: 29 + 30 + 25 + 28; ronda 2: 20 + 20; consolidación de la sesión principal: 8; auditor: 11) · Documentos leídos: ≈175 lecturas (≈35 de nivel 1: Memoria de Hacienda 1884 en 9 tramos, Agote 1888 en 4, compilaciones Corigliano 1883, 1885, 1889 y 1892, Memorias de Hacienda 1885 y 1890, leyes 2741, 2822 y 3321, fichas del Museo Janson; más el Janson 2020 del Proyecto, leído en imagen como pista) · Fuentes nuevas: F-0229–F-0256 (más notas de revisión en F-0005, F-0024, F-0028, F-0164, F-0165, F-0186, F-0203, F-0204, F-0205, F-0211)
 - Agentes: 4 en la ronda 1 (uno por nivel), 2 en la ronda 2 (oficiales y prensa; estudios, mercado y variantes) y 1 auditor independiente (35 datos verificados, 16 abriendo la fuente, más la Historia). La sesión principal reabrió en persona el inventario Fernández Blanco (1925) y el Monetario de la ANH (1997), y leyó en imagen la p. 675 del Janson. No pudo reabrir Agote 1884 (F-0204): la URL no apareció en ninguna búsqueda y el pedido directo dio PROVENANCE_REQUIRED.
