@@ -273,6 +273,7 @@ Formato de cada entrada:
 - Usada en: serie 01, serie 03, serie 04
 - Revisión 2026-11-09 (serie 04; lectura de agente, a cotejar): carta n.º 3 del 1/03/1880 (p. 7): el 50 c, con el peso, "antes del 5 de mayo de 1880"; 20 y 10 c hasta el 5/07/1880 (ver la cita anterior, que da el 5/07 para el Argentino y el medio: discrepancia a confirmar); cartas n.º 7 y 8 (22 y 24/03/1880, p. 8): ubicación de "Centavos" y "9 Dos Fino"; 27/06/1939 pedido a París de punzones de 1, 2 y 50 c; ensayo de Lucien Bazor (1940), dictamen desfavorable; Decreto 76.714 (12/11/1940); acuñación desde el 10/01/1941 (pp. 11–14).
 - Revisión 2026-11-10 (serie 04, revisión; lectura de agente con citas): p. 7, carta N.º 3 (1/03/1880): "las piezas de Peso, Peso Plata y 50 centavos, se entregarán antes del 5 de mayo de 1880"; "las piezas correspondientes a 20 y 10 centavos, como así también el Argentino y ½ Argentino, siendo su último plazo de entrega para el 5 de julio de 1880" (concilia las dos lecturas anteriores). Carta N.º 5 (12/03/1880): "Un Peso" descendente y "9 Dos Fino" ascendente, "Libertad" entre dos estrellas. p. 8, cartas N.º 7 y 8: "Centavos (sin abreviatura) para la pieza de 30 mm en cobre" y "la necesidad de equilibrar la palabra Centavos (CENTos) con 9 Dos Fino en las monedas de plata"; Imagen 5: "KM#33, 2 centavos y KM#28, 50 centavos (30 mm de diámetro)". p. 6: "piezas menores de 50, 20, 10 y 5 centavos". Bibliografía: *Cartas E. Oudiné. Correspondencia del Grabador Eugéne Oudiné al Ingeniero Eduardo Castilla. Enero/Agosto 1880*, Museo Casa de Moneda, 2009; J. N. Ferrari, *Un "ensayo" inédito y las monedas de cincuenta centavos 1881-1956* (Buenos Aires, 1956). pp. 10–15: ensayos de 50 c 1940 (Pn54) y 1941 (Pn55) de Bazor; 9/11/1939, "32 fotografías de modelos para las piezas de 1, 2 y 50 centavos"; cuños de París llegados en septiembre de 1941.
+- Revisión 2026-11-11 (serie 05): p. 7, carta N.º 3 (1/03/1880): el 20 y el 10 c, con el Argentino y el ½ Argentino, "último plazo de entrega para el 5 de julio de 1880"; Oudiné: "A la pieza de 25 mm. (1 centavo) perfectamente se puede colocar la cabeza de la moneda de plata de 20 centavos"; p. 14: Decreto 76.714 (1940): "El busto de la Libertad tiene iguales dimensiones que en los 20 centavos de plata". Lectura de agente.
 
 ### F-0025
 - Título: Unidad monetaria, vertebración territorial y conformación nacional: el caso de la República Argentina — Anales de Historia Contemporánea 20 (2004), pp. 439–461
@@ -286,6 +287,7 @@ Formato de cada entrada:
 - Revisión 2026-11-06: misma obra en Dialnet (https://dialnet.unirioja.es/descarga/articulo/1018781.pdf): p. 456 "Las piezas de 1 peso, 50, 20 y 10 centavos sólo se acuñaron entre 1881 y 1883"; p. 457 contrasta los 6.343.022 con los 6.344.000 del Standard Catalog.
 - Revisión 2026-11-07 (serie 03): la plata se dejó de acuñar en 1883 por el desplome del precio de la plata en Londres frente a la relación 15,5 (p. 458); "El oro y la plata se desvanecieron de la circulación" (p. 460); errores: 750 milésimas para la plata, Ley 3871 en "1889".
 - Revisión 2026-11-10 (serie 04, revisión; lectura de agente): p. 457: "574.000 monedas de 1 peso, 3.769.000 de 50 centavos, 4.291.000 de 20 centavos y 4.584.000 de 10 centavos" (según el catálogo Krause); "sólo se acuñaron entre 1881 y 1883"; p. 458: la caída de la plata en Londres "seguramente también influyó" en la suspensión de 1883; p. 461: "El oro y la plata se desvanecieron de la circulación." Usada en serie 04.
+- Revisión 2026-11-11 (serie 05): p. 458: "Los 20 centavos se ajustaban a las características del franco o la peseta"; p. 455: "escasez creciente de monedas divisionarias"; p. 457: cuadro con 4.291.000 piezas de 20 c (error frente a la cifra oficial). Lectura de agente.
 
 ### F-0026
 - Título: The Statesman's Year-Book 1899 (American edition), Argentine Republic, pp. 709–710
@@ -321,6 +323,8 @@ Formato de cada entrada:
 - Revisión 2026-11-06 (serie 02): Memoria de la Casa de Moneda 1884 (pp. 115–124; "Buenos Aires, Abril 16 de 1886", al ministro Wenceslao Pacheco; firma no legible en el OCR). Cuadro N.º 4 "Denominación, peso y valor de las monedas emitidas hasta el 31 de diciembre 1884" (cuadros fechados el 8/01/1885): Argentinos 1.195.286 hasta el 31/12/1883, 447.900 en 1884, total 1.643.186; medios argentinos 9 hasta 1883, 421 (OCR "'21") en 1884, total 430; valor total de todo lo emitido 11.220.696,99. p. 116: "Todo el oro que figura como entrado este año, ha sido traído por el Banco Nacional"; "El oro, como he dicho, ha sido sellado por cuenta del Banco Nacional" (alcanzó para llenar los ocho millones del artículo de la ley); "Se ha fabricado oro, plata y cobre, pero solo este último en cantidad fuerte". p. 119: "Las 9/10 partes de los habitantes de la República, no han visto aún un Argentino en oro sellado" (y sin embargo se pudieron girar "cien millones en oro sobre el estrangero"). p. 120: "Así habrá moneda de cobre en toda la República…". pp. 120–121, Laboratorio Químico (J. J. Kyle, Químico Ensayador, 7/01/1885): se ensayó "una moneda de oro en cada 2,500 acuñadas", según el art. 11 del decreto reglamentario de la Casa de Moneda; Cuadro N.º 1 "Monedas de oro—Argentinos": "Ley general de las monedas (promedio de 447,900 piezas)" 899,719 milésimos; piezas "dentro de los límites de la tolerancia legal (1 milésimo)". Usada también en serie 02.
 - Revisión 2026-11-07 (serie 03; releída por la sesión principal, tramos 400000–600000): cuadro N.º 4: pesos de plata emitidos hasta el 31/12/1883, 573.737; en 1884, ninguno; 50 c 2.650.847 + 136.000 = 2.786.847; 20 c 119.000 en 1884, total 2.393.995; 10 c 34.000 en 1884, total 3.598.801. Resumen: "Plata … 70104 239 500 … 2805839 60". p. 116: "suspendida la fabricacion de moneda de plata en virtud de la ley sobre emision menor"; después se suspendió el sellado restante "por órden superior" y "Desde entonces no se ha fabricado absolutamente una sola pieza"; plata entrada "para ser fundida y remitida á Europa" (p. 115). p. 119: "La emision menor á papel, hizo suspender la emision de plata menor." Cuadro N.º 2 Plata: "Pasta remitida á Lóndres" 10.135 kg 830 g, $ 433.992,04 (OCR). Dirección de Rentas (p. 134): decreto del 19/07/1884 de desmonetización de la plata extranjera; precio "por cada 25 gramos"; "El billete del Banco Nacional y la moneda de plata argentina son completamente desconocidos en esos apartados lugares".
 - Revisión 2026-11-09 (serie 04): cuadro N.º 2 de la plata 1884, "emitido en monedas en 1884" 2.139 kg 883 g por $ 95.200 (= 136.000 × 0,50 + 119.000 × 0,20 + 34.000 × 0,10); ensayes de 1884 (nota del 7/01/1885 a Castilla): ≈898,86 / 897,64 / 897,40 milésimos (asignación insegura); Memoria de la Casa de Moneda: "La emision menor á papel, hizo suspender la emision de plata menor", "se continuaron sellando pequeñas cantidades para consumir la existencia de ese metal", "¿Fué acertada esta medida…? Es dudoso"; fuera de la Capital y de Buenos Aires "no circula ninguna de las dos"; Banco Nacional: billetes menores "empezaron á circular á fines de Enero de 1884", circulación al 31/12/1884 $ 1.329.416,64, "Reserva para la Emision Menor segun «Ley 4 de Octubre 1883»" $ 265.883,20 (OCR); "Los cuatros, las chirolas, la plata extranjera, todo ha desaparecido".
+- Revisión 2026-11-11 (serie 05): cuadro N.º 4, fila de 1884: "447900 '21 - 136000 119000 34000"; total "2393995" para el 20 c. Cuadro N.º 2 del Laboratorio (J. J. Kyle): "Veinte centavos (promedio de u¡¡.ooo)" (OCR, ¿119.000?), ley "897-Ó4" = 897,64. Memoria del Banco Nacional (Pacheco, 19/02/1885), p. 18: "Los cuatros, las chirolas, la plata extranjera, todo ha desaparecido". Lectura de agente.
+
 ### F-0029
 - Título: Ley 733 de la moneda nacional, su tipo, fabricación y valor (1875) — texto
 - Autor / institución: Congreso de la Nación — transcripción en es.wikisource
@@ -908,6 +912,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-06 (releída por la sesión principal en los tramos 0–400.000)
 - Cita clave: Acuerdo del 9/01/1885 (Registro Nacional, tomo X, pp. 4–5): "los billetes del Banco Nacional serán recibidos como moneda legal"; art. 2 "suspender la conversión de sus billetes en moneda metálica durante el término de dos años"; firman Roca, V. de la Plaza, B. de Irigoyen, F. J. Ortiz, E. Wilde, B. Victorica. Índice: "Ley 1.734: Aprobando los decretos del Poder Ejecutivo de fecha nueve, quince, veintiuno…", 14/10/1885. Memoria de Hacienda 1884 (W. Pacheco): p. 132 "desde que en 1883 no se ha acuñado plata"; p. 160 "las funciones de la Casa de Moneda durante el pasado año se han limitado á la acuñación de moneda de cobre" (la ley de octubre de 1883 hizo innecesaria la plata fraccionaria). p. 166: Banco Provincial de Córdoba, 30/11/1884, "61.968 Argentinos á 5 $ m/n c/u" = $ 309.840. p. 169: Banco Nacional, existencia en caja al 29/11/1884, "En Argentinos $ 3.890.455" (onzas 230.203,33; cóndores 71.045,76; libras 111.552,84; napoleones 13.344; brasileñas 6.463,72; águilas 10.716,34). Según el agente: Agote, 31/03/1885, "llegó el 9 de Enero de 1885, en que apareció el decreto del curso forzoso"; Banco Provincial de Santa Fe: "onzas, cóndores, argentinos y libras esterlinas"; decreto reglamentario de la Ley 1734 (4/11/1885), art. 5: billetes "sellados por la casa de Moneda".
 - Usada en: serie 01, serie 03, serie 04
+- Revisión 2026-11-11 (serie 05): Corigliano "Año 1885", p. 35: billetes del Banco de la Provincia al 31/12/1884, "0 20 8.406". Lectura de agente.
 
 ### F-0087
 - Título: Primera Presidencia de Julio A. Roca — Año 1886 (compilación documental)
@@ -1080,6 +1085,8 @@ Formato de cada entrada:
 - Cita clave: "y además la variante CUDINE de 1883"; lote 156: 5 pesos 1883, CJ 3.2, XF, 8,04 g, "Fecha normal y CUDINE"; lote 162: 1889, AU, 8,06 g; lote 163: 1896, AU, 8,01 g.
 - Usada en: serie 01, serie 03
 - Revisión 2026-11-07 (serie 03): lote 165: 1 peso 1881 CJ 12, 37,5 mm, 25,01 g, AU, "Solo 62.026 piezas acuñadas"; lote 168: 1 peso 1883 CJ 14, 25,00 g, 37,5 mm, XF, "leves golpes en el canto y pátina de PVC", "Solo 98.000 piezas acuñadas"; sin 1882; Ley 1130 "5 de noviembre de 1881".
+- Revisión 2026-11-11 (serie 05): lote 172: "Argentina. 20 Centavos 1881. Ceca de Buenos Aires. Plata 900; 23.0mm; 4.93g." "Solo 2.018 acuñadas durante el primer año de la Casa de la Moneda. Muy Rara. CJ 18; KM27 (XF) Limpiada, raya en anverso"; estimación 1500-2000 (F-0122).
+
 ### F-0104
 - Título: Argentina 5 pesos 1889 Argentino de oro CJ 9.1 (lote)
 - Autor / institución: Río de la Plata Compañía Numismática (auction.rpnumis.com)
@@ -1393,6 +1400,8 @@ Formato de cada entrada:
 - Cita clave: tabla del art. 2 (OCR): "Título Peso Diámetro / Justo / Tolerancia en más o menos / … Milésimos Gramos Milésimos Milímetros / Argentino ½ Argentino Oro 5 2 ½ 900 y 100 m/n 900 de cobre 1 80.645 40.322 2 22 19"; art. 4: "La acuñación de monedas de oro es ilimitada"; "Sanción: 5 de noviembre de 1881. Promulgación: 9 de noviembre de 1881." Ficha del ½ Argentino (p. 14): 4 g, 19 mm, espesor 0,989 mm (el Argentino, 1,418 mm, según el agente de nivel 1), canto estriado; anverso con el escudo, siete banderas y un cañón a cada lado, en círculo de perlas, "República Argentina" en semicírculo, fecha en el exergo entre estrellas, gráfila de puntos; reverso con la Libertad de Oudiné, "Libertad" arriba, "2 ½ Pesos" a la izquierda, "½ Argentino" abajo, "9 D Fino" a la derecha; 1881 "Ensayo, se acuñaron 9 piezas", valuado MB U$S 4.000 y SC 6.500; 1884: 421, valuado B 1.600, MB 2.500, SC 4.000 (lectura de la sesión principal).
 - Usada en: serie 02, serie 03, serie 04
 - Revisión 2026-11-07 (serie 03): tabla del art. 2 para la plata (pp. 15–16): peso 25,000 g, 900, 37 mm; 50 c 12,5 g 30 mm; 20 c 5 g 23 mm; 10 c 2,5 g 18 mm; 5 c 1,5 g 16 mm; tolerancias 2-3-5-5-5 y 3-5-5-7-10 sin rótulo. Ficha del peso (pp. 17–18): "Peso 25 gr.", "Espesor 2,475 a 2,480 mm", "Módulo 35 mm" (errata frente a la ley), canto "IGUALDAD* ANTE* LA * LEY*****"; tiradas 62.026 / 413.711 / 98.000 (pista); precios 2005 MB/EXC/SC: 1881 170/250/350, 1882 130/230/300, 1883 250/350/450; variantes 1881 A–E y 1882 A–I sin descripción legible.
+- Revisión 2026-11-11 (serie 05; lectura de agente): ficha del 20 c (p. 21): "Peso 5 gr. Módulo 23 mm. Canto estriado. Espesor 1,314 mm."; variantes de cuño con letra (p. 22): 1881 A–E, 1882 A–Q, 1883 A–O (clave no leída); precios U$S MB/EXC/SC: 1881 700/1.000/1.500, 1882 25/60/80, 1883 30/65/90. No da fecha de retiro para la plata. Catálogo: solo pista.
+
 ### F-0135
 - Título: Eliasberg Prices Stun Numismatic World (22/04/2005)
 - Autor / institución: NGC (comunicado "courtesy of American Numismatic Rarities")
@@ -1682,6 +1691,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-07 (agente de la ronda 2; la sesión principal releyó el tramo 600000–700000 tres veces)
 - Cita clave: la acuñación empezó el 3/11/1881 ("Estando pronto para funcionar el Establecimiento destinado á la fabricación de la moneda, se dio principio inmediatamente á la acuñación"); cuadro "Especies fabricadas hasta 31 de Diciembre 1881" (OCR): 37.152 Argentinos; 9 medios; 62.026 pesos; 1.020 de 50 c; 2.018 de 20 c; 1.020 de 10 c (total 103.245, "ciento tres mil doscientas cuarenta y cinco piezas"). Del 1/01 al 6/07/1882, "un millón ciento cinco mil trescientas treinta y cinco piezas" (fila con 239.130 y 127.130). Resumen al 6/07/1882: argentinos 276.282 ($ 1.381.410); ½ argentinos 9; pesos 189.156 ($ 189.156); 50 c 85.045; 20 c 367.043; 10 c 291.045; total 1.208.580 piezas, $ 1.715.624,10 ("se han acuñado un millón doscientas ocho mil quinientas ochenta piezas"). "falta absoluta de personas aptas para la fabricación de monedas entre nosotros"; la acuñación, "la mas difícil y precisa de las industrias conocidas". Mensaje de Roca (mayo de 1882): "en oro acuñado un valor de un millón trescientos mil pesos, y en plata ciento y tantos mil". Decreto del 23/01/1882: la equivalencia "es transitoria y únicamente mientras no se hayan acuñado las cantidades fijadas en el artículo 7º". La Memoria llama "ley de 5 de noviembre" a la Ley 1130.
 - Usada en: serie 03, serie 01, serie 02, serie 04
+- Revisión 2026-11-11 (serie 05): p. 332, Resumen al 6/07/1882, "20 centavos" 367.043 por $ 73.408,60; "No obstante estas dificultades, la acuñación de monedas de diversas clases ha continuado con bastante buen éxito." Lectura de agente.
 
 ### F-0164
 - Título: Primera Presidencia de Julio A. Roca — Año 1883 (compilación documental: leyes 1.334 y 1.354, decreto del 2/12/1882, resolución del 4/01/1883, mensaje presidencial de mayo de 1883)
@@ -1693,6 +1703,7 @@ Formato de cada entrada:
 - Cita clave: Ley 1.334 (28/09/1883), art. 1: "billetes convertibles menores de un peso, hasta la suma de seis millones de pesos"; art. 2: "La Nación es la sola responsable de la emisión de estos billetes" y depósito "en monedas fraccionarias de un peso". Ley 1.354 (17/10/1883) "Sobre unificación de moneda": art. 1 "sólo podrán emitir billetes pagaderos en pesos nacionales oro"; art. 4 la moneda nacional de plata "solo es forzoso para los particulares y empleados públicos, hasta la concurrencia de cinco pesos por cada pago"; art. 5 "Queda prohibida la circulación legal de la moneda extranjera de plata, seis meses después de la presente Ley" (prórroga de tres meses si no circulan tres millones de la emisión autorizada "por la Ley de 4 de octubre de 1883"). Decreto del 2/12/1882: "establecer el precio de compra de las monedas de plata extranjeras para su reacuñación"; "han sido valoradas por decretos sucesivos según su valor metálico" (pp. 7–8). Mensaje de Roca (mayo de 1883, p. 97): hasta el 31/03/1883, "cinco millones setecientos cincuenta y cinco mil doscientos cincuenta y siete piezas de oro, plata y cobre".
 - Usada en: serie 03, serie 04
 - Revisión 2026-11-09 (serie 04): Ley 1.334 en Registro Nacional t. IX, pp. 470–471 (promulgada el 4/10/1883); Ley 1.354 publicada el 19/10/1883 (t. IX, p. 487); mensaje de Roca de mayo de 1883 (p. 96 de la compilación, citando a Mabragaña): 5.755.257 piezas al 31/03/1883 por $f 4.154.519,16, "la unidad monetaria de la Nación quedará definitivamente realizada"; Memoria del Banco Nacional del 30/01/1883: "8 millones en oro y 4 millones en plata". Lectura de agente.
+- Revisión 2026-11-11 (serie 05): p. 86, billetes del Banco de la Provincia al 31/12/1882: "0.20 … 11.386" (a confirmar si son unidades o pesos). Lectura de agente.
 
 ### F-0165
 - Título: Memoria del Departamento de Hacienda correspondiente al año 1885 (presentada en 1886), cuentas del Banco Inglés del Río de la Plata y de la Casa de Moneda
@@ -1704,6 +1715,7 @@ Formato de cada entrada:
 - Cita clave: p. 182 (14/03/1885): "Importe líquido de la venta de 191 lingotes Plata", £ 7.178 10s 9d = $ m/n 36.182,10; p. 164: "Diferencia en el producto de la remesa en lingotes hecha al Banco Inglés del Rio de la Plata en Lóndres", $ 1.872,67; p. 153: "Valor de pérdida en plata en barras remesadas á Europa".
 - Usada en: serie 03, serie 04
 - Revisión 2026-11-09 (serie 04): emisión menor en circulación al 31/03/1886, $ 4.254.751; emitido hasta esa fecha $ 4.132.017,85, "encaje metálico del 20%" $ 826.403,57 (OCR; no cierran); Casa de Moneda "que en 1885 no parecen haber producido un solo centavo". Lectura de agente.
+- Revisión 2026-11-11 (serie 05): entre las existencias de 1884, "Narciso Parchappe (Contrato Plata)". Lectura de agente.
 
 ### F-0166
 - Título: Memoria del Departamento de Hacienda correspondiente al año 1890 (presentada en 1891), incluida la carta de Vicente L. Casares del 13/08/1890
@@ -1714,6 +1726,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-07 (agente de la ronda 2; la sesión principal releyó la carta, tramo 120000–220000)
 - Cita clave: pp. LXX–LXXIII: "La ley de 1881, es una ley bimetalista pero que limita la acuñacion de la plata; mientras que la del oro es ilimitada"; "ese tímido ensayo de bimetalismo, perdió sus efectos, porque la acuñacion de plata se limitó á la moneda fraccionaria de un peso"; "La plata ha desempeñado esta funcion en una escala, muy secundaria"; "si á la par del billete circulara la moneda de plata". Carta de Casares al ministro López (Buenos Aires, 13/08/1890): el Dr. Pacheco ordenó remitir a Europa "cien mil pesos en plata nacional" (con 100.000 en oro en barras) para el saldo de "los Sres. Murrieta, de Lóndres"; "Como aún existen 350.000 pesos moneda nacional en plata nacional" (OCR "35Ü.OOO"); "V. E. tendrá á bien resolver si se remiten á Europa para atender los compromisos".
 - Usada en: serie 03, serie 04
+- Revisión 2026-11-11 (serie 05): pp. LXX–LXXI: "La ley de 1881, es una ley bimetalista pero que limita la acuñacion de la plata;". Lectura de agente.
 
 ### F-0167
 - Título: Ley 974 — Acuñación de moneda por el Banco Nacional (ficha)
@@ -1754,6 +1767,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-07 (agente de la ronda 2; releída por la sesión principal)
 - Cita clave: ensayo de Würden de 1879: "LEY DEL 25 DE SETIEMBRE 1878 ♦ UN PATACON ♦", "sólo quedó como ensayo"; el peso de plata "se apropió de su nombre para apodo"; "El Peso de Plata de 35 milímetros de diámetro, 25 gramos de peso y 900 milésimos de fino"; "Nuestros 'Patacones' acuñados exclusivamente entre 1881 y 1883" (62.026 / 413.711 / 98.000); reverso "♦ Libertad ♦ Un Peso ♦ 9 Dos Fino ♦"; catorce banderas por las catorce provincias; "Patacón de Oro": "moneda de presentación" para Roca con los cuños de 1881, 36,5 g de oro 900 (Ricardo Gómez), intento de empeño en un "banco montepío", exhibido en el Museo "Dr. José Evaristo Uriburu" del BCRA del 13/04 al 12/05/2000, pagado US$ 5.000, valuado por Janson en US$ 50.000, "Este hermoso ejemplar numismático, que aclaramos es real y veraz"; falsificación bien hecha estudiada por Manuel Giménez Puig (IV Jornadas, Buenos Aires, 1984; Cuadernos del CNBA; reproducida por Cunietti-Ferrando 1989); reacuñaciones del centenario con cuños originales y llaveros de fundición; "hasta hoy el nombre Patacón es de origen incierto". Fecha la Ley 1130 el 25/11/1881 (error).
 - Usada en: serie 03, serie 04
+- Revisión 2026-11-11 (serie 05): tabla de la Ley 1130: "20 ctvos. 5 gramos 5 milésimos 23 mm"; tope de plata "cuatro pesos por habitante". Lectura de agente.
 
 ### F-0171
 - Título: El Reverso n.º 57 (abril de 2019), "El Escudo Nacional en las monedas de la ley 1130", pp. 9–12
@@ -2089,6 +2103,7 @@ Formato de cada entrada:
 - Cita clave: ficha "PESO: 25 gr - LEY: 900 Ag + 100 Cu … CANTO: IGUALDAD * ANTE * LA * LEY **** - MODULO: 37 mm"; CJ 12 (1881) 62.026; CJ 13.1.1 (1882) 413.711 "2 normal", 13.1.2 "2 cercano al 8", 13.1.3 "2 separado", 13.1.4 "2 caído", 13.2.1 "Moharra inferior derecha notablemente más corta", 13.2.2; CJ 14 (1883) 98.000; precios USD B/MB/EB/SC: 1881 300/800/1.200/1.600; 1882 (13.1.x) –/400/800/1.200 (13.1.3 –/450/1.000/1.500; 13.2.x 200/600/1.000/1.500); 1883 350/1.000/1.400/2.000. 50 c 1881 (CJ 15) 1.020; 50 c 1882 (CJ 16.1) 476.447; 50 c 1883 (CJ 17.1) 2.273.380.
 - Usada en: serie 03 (pista), serie 04
 - Revisión 2026-11-09 (serie 04; lectura en imagen por la sesión principal y el auditor): p. 675, "50 CENTAVOS - MEDIO PATACON", "PESO: 12,5 gr - LEY: 900 Ag + 100 Cu - REVERSO: moneda - CECA: Casa de Moneda de la Nación Argentina - CANTO: Estriado recto (14 e/cm) - MODULO: 30 mm"; CJ 15 1881 1.020 (MB 3.000 / EB 5.000 / SC 7.000 USD); CJ 16.1 1882 476.447 "2 en posición normal", 16.2 "2 caído", 16.3 "2 separado", 16.4 "2 separado y caído" (80/120/200); CJ 17.1 1883 2.273.380 "3 en posición normal", 17.2 "3 caído" (60/100/160). Solo pista.
+- Revisión 2026-11-11 (serie 05; lectura en imagen por la sesión principal, pp. 676–677): "20 CENTAVOS", "PESO: 5 gr - LEY: 900 Ag + 100 Cu - REVERSO: moneda - CECA: Casa de Moneda de la Nación Argentina - CANTO: Estriado recto (14 e/cm) - MODULO: 23 mm"; CJ 18 1881 2.018 (MB 1.500 / EB 2.500 / SC 3.500); CJ 19.1 1882 762.027 "2 en posición normal", 19.2 "2 cercano al 8", 19.3 "2 separado y caído" (20/40/80), 19.4 "2 en posición y caído", 19.5 "2 separado", 19.6 "Idem, pero rev. estrella / estrella", 19.7 "2 elevado", 19.8 "Idem, pero anv. estrella / estrella" (35/70/150); CJ 20.1 1883 1.510.950 "3 en posición normal", 20.2 "3 cercano al 8" ("La base superior de la cifra 3 ligeramente redondeada"), 20.3 "3 recto" ("La base superior de la cifra 3 recta y con retoque de cuño"), 20.4 "3 caído", 20.5 "3 elevado" (20/40/60), 20.6 "3/3 de módulo menor" (30/60/120). En el 50 c (p. 676): CJ 17.4.2 1883 "3 elevado y 1 sobre 1 invertido". Solo pista.
 
 ### F-0204
 - Título: Informe del Presidente del Crédito Público Nacional Pedro Agote sobre la deuda pública, bancos, y acuñación de moneda — Libro II, 1884 (sección Moneda, pp. 347–370)
@@ -2101,6 +2116,7 @@ Formato de cada entrada:
 - Usada en: serie 03, serie 04
 - Revisión 2026-11-09 (serie 04): filas del 50 c en el cuadro por año de p. 355 (OCR, leídas en la revisión de la serie 03 del 2026-11-08 y copiadas en su base): 1881: 1.020; 1882: 576.447; 1883: 2.073.380 (y 10 c de 1883: 2.785.650). Control: 1.020 + 576.447 + 2.073.380 = 2.650.847 = cuadro N.º 4 de F-0028 hasta el 31/12/1883. En esta sesión la URL no apareció en ninguna búsqueda (no se reabrió). Comisión revisora: Parodi, Godoy, Cuyar, Puiggari, Agote, Clark.
 - Revisión 2026-11-10 (serie 04, revisión; reabierta por la sesión principal desde el enlace de la página "Libros antiguos" del CDI, https://cdi.mecon.gob.ar/libros-antiguos, hallada en búsqueda): bloque "Peso bruto de las monedas emitidas hasta 31 de Diciembre de 1883", año 1882: "576,447 » » 50 cts"; cuadro de 1882 (columna de totales acumulados desde noviembre de 1881): "577,467 )) 288,733 50" (= 1.020 + 576.447), junto con 289,244 Argentinos y 475,737 pesos (acumulados); texto: "En 1882 se acuñaron 2.978,112 piezas" contra 3,081,357 del cuadro (diferencia 103.245 = total de 1881). Año 1883: "50 cts. )) 2.073,380" y valor "1.036,690"; "Departamento de Ensayos 1883", "Ley general de estas monedas": 1 peso 98,000 ley media 899,621; 50 cts 2.073,380 ley media 899,046; 20 c 1.510,950, 897,627; 10 c 2.785,650, 897,636. La Comisión revisora no da resultados separados del 50 c. Cuadro mensual de 1883 (junio a diciembre) ilegible en el OCR. Libro III (1885) dio client_error y el proxy bloquea curl a cdi.mecon; Libro IV (1887) es un PDF sin texto.
+- Revisión 2026-11-11 (serie 05): filas del 20 c en p. 355 (bloque "Peso bruto de las monedas emitidas hasta 31 de Diciembre de 1883"), releídas por la sesión principal: "2,018 » » 20 «" (1881), "762,027 » 20 »" (1882), "1.510,950 ~ » 20 1>" (1883), Resumen "2.274.995 :. )) 20 »"; p. 354, tabla mensual: "764,045 >> 152,809" (acumulado a 1882). Cuadro de 1883: "1.510,950 » 302,190"; Resumen: valor 454.999, plata total 9.064.380 piezas y $ 2.710.639,60; p. 365, "20 1.510,950 )) )) 897,627"; 4.301 ensayes de plata (1.568 de monedas argentinas). Comisión revisora: acta 19/03/1883, decreto 5/04/1883 (Roca, Romero), "lotes de á 1000 piezas de cada tipo", 20 c 897,3 (OCR dañado). p. 359: quejas de la prensa sobre los 50 c ("se partían facilmente"); p. 362: "solo han aparecido algunas piezas de plata falsificadas; pero siendo pésima la imitacion". p. 354: compra a "$m/n 37 71 por kilogramo de fino"; p. 366: ingresos de 1883 (lingotes y piñas de Bolivia 22.257 kg 754 g; cuatros y Melgarejos 2.312 kg 364 g; chirolas 1.871 kg; lingotes de La Rioja 1.596 kg; total 66.420 kg 454 g; 2.182 kg a Londres); plata de "Parchapp y Almonacid, situada en Chilecito". Lectura del agente de la ronda 1 (nivel 1), cifras del 20 c reabiertas por la sesión principal.
 
 ### F-0205
 - Título: Informe del Crédito Público Nacional, Libro V, 1888 (4.ª parte, Casa de Moneda, pp. 401–411)
@@ -2112,6 +2128,7 @@ Formato de cada entrada:
 - Cita clave: "estando suspendida la amonedacion de este metal desde 1883" (p. 401); "573,737 Pesos" (pp. 409–410). Lectura de agente (ronda 2).
 - Usada en: serie 03, serie 04
 - Revisión 2026-11-09 (serie 04): cuadro de lo emitido hasta el 31/12/1887 (p. 408): 2.786.847 piezas de 50 centavos; en 1887 la plata solo se usó en medallas. Lectura de agente.
+- Revisión 2026-11-11 (serie 05): p. 410, cuadro "Hasta el 15 de Octubre de 1888": "2,393,995 20" (valor agrupado con el 10 c); p. 402: "estando suspendida la amonedacion de este metal desde 1883, se limita esta á la fabricacion de medallas". Lectura de agente.
 
 ### F-0206
 - Título: Statistical Abstract of the United States (1926), tabla 708 "Silver: Price, and Value of Silver in the Dollar" (origen: Annual Reports of the Director of the Mint)
@@ -2356,6 +2373,7 @@ Formato de cada entrada:
 - Cita clave: N.º 82 (1882): "Libertad (entre tres estrellas) 50 Cent.os. 9 Dos. Fino.", plata, 12 ½ g, 30 mm; N.º 83: "de cuño diferente, tiene el último ocho y el dos más separados"; N.º 84: "es un ensayo de estaño", 10-6 g (OCR), 30 ¼ mm; N.º 85: 1883. Peso 1882 N.º 61: "el 8 y el 2 que están más separados". 20 c 1881 N.º 120 con "pie de gemelo". OCR.
 - Usada en: serie 04, serie 03
 - Revisión 2026-11-10 (serie 04, revisión; lectura de agente): N.º 84 (catálogo 277-84): "Igual a la N°. 82; pero es un ensayo de estaño. Estaño. Peso 10-6 grs. Diám. 30 1|4. (1882)." Los 50 c llevan números de catálogo 275–278. La entrada 62 nombra el "Museo Isaac Fernández Blanco"; la 63 ("Donación 2 Septiembre 1921 / Inauguración 24 de Mayo 1922") es un escudo ideado por Enrique Peña, primer cuño para medallas.
+- Revisión 2026-11-11 (serie 05): 20 c 1881, N.º 120, con "pie de gemelo" (OCR).
 
 ### F-0230
 - Título: Catálogo del Monetario de la Academia Nacional de la Historia (1997)
@@ -2367,6 +2385,7 @@ Formato de cada entrada:
 - Cita clave: "REPÚBLICA ARGENTINA LEY 1130 DE 1881": 1881, N.º 13 "Cincuenta centavos"; 1882 (dos ejemplares, numeración incierta por OCR) y 1883 (N.º 26–27); "ENSAYOS Y PRUEBAS DE MONEDAS ARGENTINAS": 1881, N.º 33 "50 centavos. Plata." sin más datos.
 - Usada en: serie 04
 - Revisión 2026-11-10 (serie 04, revisión; lectura de agente): p. 89, "ENSAYOS Y PRUEBAS DE MONEDAS ARGENTINAS": "33 – 1881 – 50 centavos. Plata.", sin peso, diámetro ni procedencia; vecinos: N.º 31 (1880, 1 centavo cobre), N.º 32 (s/f, "1 Peso. Níquel. Oudiné. Carece de anverso."), N.º 34 (s/f, "1/2 argentino. Cobre. Oudiné."). p. 83: moneda corriente 1881 (N.º 13).
+- Revisión 2026-11-11 (serie 05): p. 83: N.º 14 (1881, "Veinte centavos"), N.º 21 y 22 (1882), N.º 28 y 29 (1883); el 10 c 1881 N.º 15 figura como "Flor de cuño". Lectura de agente.
 
 ### F-0231
 - Título: Museo Histórico y Numismático "Héctor C. Janson" (BCRA) — fichas de Ensayos (SENIP)
@@ -2397,6 +2416,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-09 (agente de la ronda 2, nivel 1)
 - Cita clave: contrato con el Banco Nacional por 2 millones de billetes de 50 c fechados "Enero 1° de 1891" (Ley 2707); noviembre de 1891, "50 centavos (ambos): 4.320.000 billetes"; mayo de 1892, "1.100.004 billetes de 50 centavos (según Bottero)"; *Don Quijote* (junio de 1890): "El papel moneda nacional no existe"; reseña: *Cartas E. Oudiné* (Casa de Moneda, 2009, 28 p.), 13 cartas del 6/01 al 29/09/1880, "sólo se conocen las cartas de Oudiné".
 - Usada en: serie 04
+- Revisión 2026-11-11 (serie 05): reseña de *Cartas E. Oudiné* (pp. 55–56): 27.500 francos "para el grabado y el suministro de 70 punzones y matrices a entregar en seis meses"; contrato en París el 1/03/1880 por 25.000 francos, entrega "a más tardar el 5 de julio"; presupuesto del 1/05/1880 por 28.000 francos aprobado por Castilla el 5/05. Lectura de agente (truncada en el carácter 100.000).
 
 ### F-0234
 - Título: Numista — ficha N# 11353, 50 Centavos 1881–1883 (Argentina, KM 28)
@@ -2419,6 +2439,7 @@ Formato de cada entrada:
 - Cita clave: 1881: Stack's Bowers, ANA (Chicago), agosto de 2022, lote 34005, PCGS Genuine Cleaned Unc Details, ex Pat Johnson, USD 3.360, "one of only a few certified examples"; 1883: Stack's Bowers NYINC, enero de 2022, lote 6360, PCGS AU58, USD 144, "molten gray surfaces". Las páginas de 1882 y 1883 atribuyen la acuñación "most likely" a París (error).
 - Usada en: serie 04
 - Revisión 2026-11-10 (serie 04, revisión; lectura de agente): la página de 1881 dice que la pieza de Stack's Bowers ANA 2022 era "free of tone" y la menciona junto con un 10 c, un 20 c y un 1 peso de plata (si fue un solo lote, a confirmar); errata "struck from 1881 to 183"; la venta de enero de 2022 (lote 6360) unía las colecciones Mark and Lottie Salton y Pat Johnson.
+- Revisión 2026-11-11 (serie 05): la ficha del 50 c 1881 dice que la pieza "is accompanied by a silver ten centavos, twenty centavos and…" (fecha del 20 c no indicada).
 
 ### F-0236
 - Título: Heritage Auctions — lotes del 50 centavos: 3031-27307 (1882 PCGS MS63, 20/01/2014), 231227-62003 (1882 ANACS AU55, 5/07/2012), 271941-40008 (1883 NGC MS61, Lake County Collection, 13/10/2019)
@@ -2470,6 +2491,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-09 (agentes de las rondas 1 y 2)
 - Cita clave: "MN 50C 1 1881 1.020 R4"; 1882 476.447 (R2); 1883 2.273.380 (R2); canto "14 e/cm."; alineación "Moneda"; sin variantes ni entrada de 1884.
 - Usada en: serie 04 (pista)
+- Revisión 2026-11-11 (serie 05): ficha "20 CENTAVOS (1881 – 1883) [Serie del Patacón]" (p. 20): "CESE CURSO LEGAL 31/01/1967", "DESMONETIZACIÓN 01/04/1967" (iguales a su ficha del 20 c de cuproníquel, pp. 24–25), "CANTO 14 e/cm.", 5 g, 23 mm, alineación moneda; rareza 1881 R4, 1882 R2, 1883 R2. Solo pista.
 
 ### F-0241
 - Título: 50 centavos (½ patacón), Argentina (ficha n-1588)
@@ -2640,6 +2662,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-10 (agente de la ronda 1 y sesión principal)
 - Cita clave: "Mediante la sanción de la Ley 1130, modificada por la Ley 3871 del 4 de noviembre de 1899 se establece como unidad monetaria argentina el PESO MONEDA NACIONAL (m$n)." Tabla de monedas del peso moneda nacional: 1 y 2 c (1882), 5, 10 y 20 c (1896), 50 c (emisión 1941; cese 31/01/1969; desmonetización 29/03/1978), 1, 5, 10 y 25 m$n. No incluye el oro ni la plata de 1881–1883.
 - Usada en: serie 04
+- Revisión 2026-11-11 (serie 05): fila "20 centavos | 1896 | 31/01/1967 | 01/04/1967" (emisión, cese de curso legal, desmonetización); 10 c (1896) 21/01/1966 y 01/07/1966. No hay fila para el 20 c de plata. Lectura de agente.
 
 ### F-0258
 - Título: Museo Histórico y Numismático Héctor C. Janson — Documentos Históricos 1 (inventario SENIP)
@@ -2920,3 +2943,283 @@ Formato de cada entrada:
 - Consultada: 2026-11-11 (agente de la ronda 2, nivel 2)
 - Cita clave: p. 894 nombra a Pedro Agote como presidente del Crédito Público "(1883-1889)" (la bibliografía fecha sus informes 1881-1889); pp. 899–900: la unificación monetaria "recién se logró en 1881". No trata la plata ni el 50 centavos.
 - Usada en: serie 04
+
+### F-0286
+- Título: 20 Centavos (KM# 27), ficha N# 8160
+- Autor / institución: Numista (catálogo colaborativo)
+- URL: https://en.numista.com/8160
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 — catálogo, SOLO PISTA (los datos de venta que recopila son nivel 3 indirecto)
+- Consultada: 2026-11-11 (agentes de las rondas 1 y 2)
+- Cita clave: "Demonetized: 1 January 1896" (sin fuente); 5 g, 23,3 mm, 1,5 mm, "Coin alignment ↑↓"; tiradas 1881 2.018 (CJ 18), 1882 762.027 (CJ 19), 1883 1.510.950 (CJ 20), citando a Janson 2020; "1883 … Version with inverted '2'" (3 % de los usuarios); frecuencia en colecciones 1881 4 %, 1882 61 %, 1883 57 %; acuñada según "the standards of the Latin Union". Ventas listadas: Heritage 61372 lote 22007, 19/02/2024, 1881 NGC MS64, USD 5.040; Heritage 61618 lote 24016, 3/05/2026, 1882 NGC MS64, USD 207,40; Katz, ocho lotes de 1882 entre 13 y 87 €.
+- Usada en: serie 05
+
+### F-0287
+- Título: "New top pop Argentina 1881 20 Centavos!" (hilo, 5/10/2023)
+- Autor / institución: usuario "stealer" — Collectors Universe, World & Ancient Coins Forum
+- URL: https://forums.collectors.com/discussion/1096246/new-top-pop-argentina-1881-20-centavos
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-11 (agentes de las rondas 1 y 2)
+- Cita clave: "a new top pop 1881 20 centavos that I made recently (my first ever!), with a mintage of 2,018 pieces"; "it makes two straight graded examples at NGC now, the other being an AU55 (none at PCGS)"; "has nice light toning on both sides". No da el grado de la pieza.
+- Usada en: serie 05
+
+### F-0288
+- Título: Heritage Auctions — lotes del 20 centavos KM 27: 387-12210 (Long Beach #387, 22/09/2005, "Republic silver tandem: KM27 20 Centavos 1883/2 (inverted 2), XF, lightly cleaned and KM28 50 Centavos 1882, choice toned AU"); 271941-40007 (Monthly Online #271941, Lake County Collection, 13/10/2019, 1883 NGC MS63, cert. 4884168017); 61618-24016 (Latin America World Coins Showcase #61618, 3/05/2026, 1882 NGC MS64, cert. 8485264017)
+- Autor / institución: Heritage Auctions
+- URL: https://coins.ha.com/itm/argentina/republic-silver-tandem-km27-20-centavos-1883-2-inverted-2-xf-lightly-cleaned-and-km28-50-centavos-1882-choice-toned-au-v/a/387-12210.s ; https://coins.ha.com/itm/argentina/argentina-republic-20-centavos-1883-ms63-ngc-/a/271941-40007.s ; https://coins.ha.com/itm/-republic-20-centavos-1882-ms64-ngc-/a/61618-24016.s
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-11 (agentes de las rondas 1 y 2)
+- Cita clave: 387-12210: "KM27 20 Centavos 1883/2 (inverted 2), XF, lightly cleaned", 7 pujas, precio oculto; 271941-40007: "Dressed in a silver patina, with watery, reflective fields", 11 pujas; 61618-24016: 12 pujas (precio USD 207,40 según F-0286).
+- Usada en: serie 05
+
+### F-0289
+- Título: CHS Basel Numismatics, Online Auction 15 (23/04/2025), catálogo, lote 13
+- Autor / institución: CHS Basel Numismatics (vía biddr)
+- URL: https://media.biddr.com/media/pdf/auction_catalogues/5727.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 3)
+- Cita clave: "ARGENTINA. 20 Centavos 1883/2, inverted 2 in date, silver, SCARCE! AU! KM# 27." Base 50 €.
+- Usada en: serie 05
+
+### F-0290
+- Título: 1883/2 PCGS MS 64 Argentina 20 Centavos Inverted 2 Silver Coin POP 1/0 (ficha 24111901C)
+- Autor / institución: Certified Genuine Coins (cgcoins.com)
+- URL: https://www.cgcoins.com/products/1883-2-pcgs-ms-64-argentina-20-centavos-inverted-2-silver-coin-pop-1-0-24111901c
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-11 (agente de la ronda 2)
+- Cita clave: "Rare overdate and Mint Error with 3 in date engraved over an inverted 2."; "Certified by PCGS to MS 64, Population census: This coin, NONE higher (NGC 1/1)." Pedido USD 695; fecha probable noviembre de 2024 (inferida del código).
+- Usada en: serie 05
+
+### F-0291
+- Título: Agregadores y fichas de catálogo del 20 c KM 27 (solo pista): Greysheet gsid 235867 ("1883 version with inverted '2' 20 Centavos MS"); LastDodo 9448843; Coinscatalog KM 27; Stash of Coins 93761; Allnumis 22623; worldcoinsinfo; monedasantiguas.net; hilo "Réplica de patacón" de Imperio Numismático (t8719)
+- Autor / institución: varios
+- URL: https://livetest.greysheet.com/prices/item/1883-20-centavos-world-coins-km-27-235867/gsid/235867 ; https://www.lastdodo.com/en/items/9448843-argentina-20-centavos-1883 ; https://coinscatalog.net/argentina/coin-silver-20-centavos-capped-liberty-km-27-republic ; https://www.stashofcoins.com/coin/93761-argentina-20-centavos-1881 ; https://www.allnumis.com/coins-catalog/argentina/republic-1881-1899/20-centavos-1882-22623 ; https://worldcoinsinfo.com/es/paginas/argentina-20-centavos-monedas.html ; https://monedasantiguas.net/paises/argentinas.html ; https://www.imperio-numismatico.com/t8719-replica-de-patacon
+- Archivo (Internet Archive): no aplica
+- Nivel: 4 — SOLO PISTA
+- Consultada: 2026-11-11 (agentes de las rondas 1 y 2)
+- Cita clave: Greysheet: 5 g, 23,3 mm, sin valores; LastDodo: "A variant has an inverted '2' in the date"; Coinscatalog: "1883/2 Inverted 2" con 1.511.000 y valores KM 1881 F12 400 / VF20 600 / XF40 900 / MS60 1.200, 1882 8/15/25/40, 1883 5/10/20/30 USD, eje moneda; Stash of Coins: total 2.274.995; Allnumis: 4,0 g y ceca "Sociedad del Estado Casa de Moneda" (errores), F 8 / VF 15 / XF 35 / UNC 80; worldcoinsinfo XF USD 30–40; monedasantiguas 5–30 €. Imperio Numismático: la réplica discutida es del peso.
+- Usada en: serie 05 (pista)
+
+### F-0292
+- Título: Subasta Online #20 (5/12/2024), lote 196: Argentina 20 Centavos 1881
+- Autor / institución: Río de la Plata Compañía Numismática
+- URL: https://rpnumis.com/2024/12/05/subasta-online-20/
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 3)
+- Cita clave: "Argentina. 20 Centavos 1881. Plata 900; 23.0mm; 4.83g." "Solo 2.018 acuñadas durante el primer año de la Casa de la Moneda. Muy Rara." CJ 18; KM 27; AU. Sin precio realizado.
+- Usada en: serie 05
+
+### F-0293
+- Título: CGB Numismatique Paris — fichas del 20 centavos 1882–1883 (fwo_326184, fwo_683804, fwo_375358, fwo_601499, fwo_488121, fwo_1031907, fwo_831588, fwo_897050, fwo_959747, fwo_889008) y oferta en MA-Shops
+- Autor / institución: CGB Numismatique
+- URL: https://www.cgbfr.com/argentina-20-centavos-1882-xf,fwo_326184,a.html ; https://www.cgbfr.com/argentina-20-centavos-1882,fwo_683804,a.html ; https://www.cgbfr.com/argentine-20-centavos-1882-spl,fwo_375358,a.html ; https://www.cgbfr.com/argentina-20-centavos-1882-au,fwo_601499,a.html ; https://www.cgbfr.com/argentina-20-centavos-1882-au,fwo_488121,a.html ; https://www.cgbfr.com/argentina-20-centavos-1883-ms63-pcgs,fwo_1031907,a.html ; https://cgbfr.com/argentina-20-centavos-1883-ms63-pcgs,fwo_831588,a.html ; https://www.cgbfr.com/argentina-20-centavos-1883-au,fwo_897050,a.html ; https://www.cgbfr.com/argentine-20-centavos-1883-ttb,fwo_959747,a.html ; https://www.cgbfr.es/argentine-20-centavos-1882-ttb,fwo_889008,a.html ; https://www.ma-shops.com/shops/search.php?searchstr=ARGENTINIEN%3A++20+Centavos+1883+9+DOS+FINO&curr=USD
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-11 (agentes de las rondas 1 y 2)
+- Cita clave: todas 23 mm, eje "6 h.", canto "cannelée". fwo_326184: 1882 XF 5,04 g, e-auction 21/04/2014, 19 €; fwo_683804: 1882 4,98 g, e-auction 432, 26/07/2021, 12 €; fwo_375358: 1882 MS 5,0 g, 2015, 95 €; fwo_601499 y fwo_488121: 1882 AU 5,0 g, 2022, 30 €; fwo_1031907/fwo_831588: 1883 PCGS MS63, 5,00 g, 75 €; fwo_897050: 1883, "monnaie anciennement nettoyée et repatinée", 50 €; fwo_959747: 1883 XF 4,90 g, 2025, 30 €; fwo_889008: 1882 TTB 4,95 g, "Rayure derrière la tête de la Liberté", 20 €, 2025; MA-Shops: 1883 XF "23mm, 4,97g, 6h", USD 39,09.
+- Usada en: serie 05
+
+### F-0294
+- Título: HobbyRay — 20 centavos 1883 (aviso de eBay archivado, 24/07/2019)
+- Autor / institución: HobbyRay
+- URL: https://www.hobbyray.com/en/item-x-y-z-sLxY_n9NHOAAAAFswZjENQOs.htm
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-11 (agentes de las rondas 1, niveles 3 y 4)
+- Cita clave: 1883 XF-AU, 4,85 g, 23 mm, vendido en USD 21 el 24/07/2019; el aviso transcribe "10 CENTos" (error del vendedor).
+- Usada en: serie 05
+
+### F-0295
+- Título: Argentina 20 Centavos 1882 CJ 19.1 Variante 2 normal (plata)
+- Autor / institución: SNB Numismática
+- URL: https://www.snbnumismatica.com.ar/monedas/monedas-argentinas/argentina-20-centavos-1882-cj-191-variante-2-normal-plata
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 3)
+- Cita clave: "Variante: '2' en posición normal"; Muy Bueno [VF-]; 4,95 g; 23,00 mm; ARS 56.000.
+- Usada en: serie 05
+
+### F-0296
+- Título: FILACOR — fichas del 20 c: "Argentina 20 Centavos 1882 CJ#19.2 Ag EXC-" (4645) y "Argentina 20 Centavos 1882 CJ:19.1 con errores de acuñación" (784)
+- Autor / institución: FILACOR
+- URL: https://filacor.com/serie-patacones-1881-1896/4645-argentina-20-centavos-1882-cj192-ag-exc-.html ; https://filacor.com/serie-patacones-1881-1896/784-argentina-20-centavos-1882-cj-191-con-errores-de-acunacion.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 3)
+- Cita clave: 4645: "CJ#19.2 (2 Cercano al 8)", "Anverso Estrella/Estrella", EXC-, USD 35; 784: "Anv 'A' Cortada – Doble Golpe en Año (1882)", MB, USD 40.
+- Usada en: serie 05
+
+### F-0297
+- Título: BINUMIS — listado "Serie Patacón, plata"
+- Autor / institución: Numismática BINUMIS
+- URL: https://numismaticabinumis.com.ar/monedas/argentinas/serie-patacon/plata
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 3)
+- Cita clave: "Argentina 20 Centavos 1883 CJ#20.2/Km#27 Unc" ARS 102.399; "Argentina 20 Centavos 1882 CJ#19.1/Km#27 VF+" ARS 51.199,50.
+- Usada en: serie 05
+
+### F-0298
+- Título: Sedwick, Treasure Auction #6 (22/10/2009), lote 1211: Argentina 20 centavos 1882 NGC MS-61
+- Autor / institución: Daniel Frank Sedwick
+- URL: https://auction.sedwickcoins.com/Argentina-20-centavos-1882-encapsulated-NGC-MS-61_i8645800
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 3)
+- Cita clave: "Very lustrous, with hint of yellow toning at about 4 o'clock on the obverse." Estimación USD 75–110.
+- Usada en: serie 05
+
+### F-0299
+- Título: Stack's Bowers — títulos de lotes "ARGENTINA. 20 Centavos, 1882. Buenos Aires Mint. NGC MS-63." (3-ROJZZ) y "ARGENTINA. 20 Centavos, 1883. Buenos Aires Mint. NGC MS-60." (3-ROK12)
+- Autor / institución: Stack's Bowers Galleries
+- URL: https://auctions.stacksbowers.com/lots/view/3-ROJZZ ; https://auctions.stacksbowers.com/lots/view/3-ROK12
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-11 (solo títulos de resultados de búsqueda; las páginas dieron error)
+- Cita clave: los títulos citados. Sin fecha, precio ni procedencia.
+- Usada en: serie 05
+
+### F-0300
+- Título: Ofertas del 20 c 1882 en eBay y ARG Collectibles (ebay.de 166869950183, NGC MS61 "Older Slab"; ebay.ie 201608154024, "Blast White"; ARG Collectibles, 1882 XF CJ-19)
+- Autor / institución: vendedores de eBay; ARG Collectibles
+- URL: https://www.ebay.de/itm/166869950183 ; https://www.ebay.ie/itm/201608154024 ; https://www.argcollectibles.com/producto/argentina-moneda-20-centavos-1882-plata-900-patacon-km-27-cj-19-xf/
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (presencia, no ventas)
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 3)
+- Cita clave: USD 139,99 (NGC MS61); USD 62,99 (sin certificar); USD 40 (XF, "CJ-19, KM-27").
+- Usada en: serie 05
+
+### F-0301
+- Título: Spink 338 (NYINC, "The Andean Collection"), lote 90: billetes fraccionarios L.1883 first issue (5, 10 y 20 centavos)
+- Autor / institución: Spink
+- URL: https://spink.com/lot/338000090
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 3)
+- Cita clave: grupo de billetes de 5, 10 y 20 centavos "L.1883 first issue" (Pick 1–3), "one of the 20 centavos uncirculated"; vendido en USD 800.
+- Usada en: serie 05
+
+### F-0302
+- Título: Stack's Bowers Galleries to Conduct Eclectic and Important World Coin Sale as Part of their Summer 2022 Global Showcase Auction
+- Autor / institución: Greysheet (nota de prensa)
+- URL: https://www.greysheet.com/news/story/stack-s-bowers-galleries-to-conduct-eclectic-and-important-world-coin-sale-as-part-of-their-summer-2022-global-showcase-auction
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 3)
+- Cita clave: "another installment of the impressive Pat Johnson Collection"; sesiones del 22 al 30 de agosto de 2022. No menciona Argentina.
+- Usada en: serie 05
+
+### F-0303
+- Título: Argentina, 50 centavos de peso 1881 (8/03/2025)
+- Autor / institución: Adolfo Ruiz Calleja y Fabián Oliveto — blognumismatico.com
+- URL: https://blognumismatico.com/2025/03/08/argentina-50-centavos-de-peso-1881/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 3)
+- Cita clave: "las más raras son las de 50, 20 y 10 centavos, con solo 1.020, 2.018 y 1.020 ejemplares acuñados respectivamente."
+- Usada en: serie 05
+
+### F-0304
+- Título: La iconografía de la Libertad en la numismática argentina. Primera parte — El Reverso n.º 72 (octubre de 2021), pp. 7–13
+- Autor / institución: Luciano Pezzano — Centro Numismático Buenos Aires (copia en monedasuruguay.com)
+- URL: https://www.monedasuruguay.com/bib/rev/rev072.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 2)
+- Cita clave: nota 20, p. 11: "el punzón de la efigie en la moneda de 1 centavo es el mismo de la moneda de plata de 20 centavos"; Oudiné propuso una gráfila de perlas porque la efigie quedaba chica; Oudiné creía que su cabeza iría en el anverso, "como lo muestran sus cartas"; el contrato hablaba de una "tête symbolisant la Liberté".
+- Usada en: serie 05
+
+### F-0305
+- Título: Catalogue of Coins, Tokens, and Medals in the Numismatic Collection of the Mint of the United States at Philadelphia (1912)
+- Autor / institución: United States Mint (Filadelfia) — texto en Internet Archive
+- URL: https://archive.org/stream/CatalogueOfCoinsTokensAndMedalsInTheNumismaticCollectionOfTheMint/1912MintCatalogOfCoins_djvu.txt
+- Archivo (Internet Archive): es la copia
+- Nivel: 2 (catálogo institucional de colección)
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 2; desde el carácter 455.000)
+- Cita clave: Argentine Republic, N.º 26: "Peseta (20 Centavos), 1883"; escudo en gráfila perlada; cabeza de la Libertad a la izquierda; "20 CENTos", "9 Dos. FINO", "by Oudine"; canto estriado; 24 mm.
+- Usada en: serie 05
+
+### F-0306
+- Título: Capítulo AR-29: Banco Nacional 1872-1880 (versión en castellano)
+- Autor / institución: Urs Graf — multicollec.net
+- URL: https://multicollec.net/3-bi-h1/AR-29-Es.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (estudio de catálogo de billetes; cifras de emisión de Guillermo A. Beckman, XXVI Jornadas Nacionales de Numismática y Medallística)
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 2)
+- Cita clave: billetes de 1880 con equivalencia en chirolas bolivianas de 20 c: 14 centavos fuertes = 1 chirola (piezas de "un menor peso o aleación, acuñadas a partir de 1870", BN-110) y 16 centavos fuertes = 1 chirola ("chirolas de peso y aleación legales, acuñadas de 1864 a 1866", BN-115); la chirola pesaba entre 4,70 y 5 g; ley del 24/10/1876 que prohibió a los bancos emitir en moneda boliviana.
+- Usada en: serie 05
+
+### F-0307
+- Título: Denominaciones curiosas (15/05/2021)
+- Autor / institución: R. J. Bauman — IFINRA
+- URL: https://ifinra.org/wp-content/uploads/2021/05/denominaciones-curiosas-1.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 2)
+- Cita clave: p. 5: "Una Chirola era una moneda de plata boliviana que se usaba como valor de referencia".
+- Usada en: serie 05
+
+### F-0308
+- Título: Aporte numismático sobre las piezas argentinas de 1883 (19/06/2021, modificado el 29/01/2022) y página de etiqueta "Ariel Dabbah"
+- Autor / institución: Ariel Dabbah — IFINRA
+- URL: https://ifinra.org/2021/06/19/aporte-numismatico-sobre-las-piezas-argentinas-de-1883/ ; https://ifinra.org/tag/ariel-dabbah/
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-11 (agentes de las rondas 1 y 2; solo la presentación: el PDF no apareció en búsquedas)
+- Cita clave: presentación (paráfrasis del agente): todas las piezas de 1883 de la serie Patacón acuñadas por la Casa de Moneda, en todos los valores y metales, tienen un 2 invertido en el último dígito de la fecha; el autor dice haberlo hallado casi por casualidad; etiquetas "1883", "2 invertido", "cuños". La página de etiqueta registra "Errores de acuñación en la amonedación nacional 1881-2016" (22/03/2020), libro puesto en formato digital.
+- Usada en: serie 05
+
+### F-0309
+- Título: Casa de la Moneda (Archivo General del Ejército Argentino)
+- Autor / institución: Ministerio de Defensa, Gestión Cultural, Monumentos
+- URL: https://www.argentina.gob.ar/defensa/gestion-cultural/monumentos/casa-de-la-moneda-archivo-general-del-ejercito-argentino
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-11 (agente de la ronda 2)
+- Cita clave: el edificio es "obra del ingeniero Eduardo Castilla"; "fue inaugurada en 1881 y funcionó como tal hasta 1944".
+- Usada en: serie 05
+
+### F-0310
+- Título: Argentina 1882 20 centavos (página de la wiki)
+- Autor / institución: coinvarieties.com (wiki colaborativa)
+- URL: https://coinvarieties.com/index.php/Argentina_1882_20_centavos
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-11 (agentes de las rondas 1 y 2)
+- Cita clave: "struck 1881-83 for Argentina, most likely at the Paris mint" (error); "The type is common"; tirada "762,000"; "When production of the twenty centavos resumed in 1896, it was as a copper-nickel coin, though Oudiné's Libertad was retained." Bibliografía: Cunietti-Ferrando 1965, Janson 1998, KM 2019.
+- Usada en: serie 05
+
+### F-0311
+- Título: Registro 9-1351, "20 Centavos 1881" (Museo Nacional Benjamín Vicuña Mackenna, Chile)
+- Autor / institución: SURDOC — Servicio Nacional del Patrimonio Cultural (Chile)
+- URL: https://surdoc.cl/registro/9-1351/pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (registro de museo, con datos inconsistentes)
+- Consultada: 2026-11-11 (agentes de las rondas 1 y 2)
+- Cita clave: título "20 Centavos 1881", historia "Moneda de circulación Argentina", KM# 125a; la descripción y la leyenda ("Por la Razón o la fuerza", 1861) son de un 20 c chileno; plata, 2,3 cm, inventario 0275.
+- Usada en: serie 05
+
+### F-0312
+- Título: Billetes de 20 centavos: N# 220097 (Banco Nacional, 1/01/1884, "Law of 1883 (First Issue)") y N# 283230 (Caja de Conversión, 1892)
+- Autor / institución: Numista (catálogo colaborativo)
+- URL: https://tr.numista.com/220097 ; https://en.numista.com/220097 ; https://tr.numista.com/283230
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 — catálogo, SOLO PISTA
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 4)
+- Cita clave: 220097: Buenos Aires, 1/01/1884, Ley del 4/10/1883, 112 × 68 mm, Pick 3A, Bauman BN-173, firmas Agustín Roca y Wenceslao Pacheco, impresor "Billetes de Banco B. Lange, Buenos Aires", Mitre al centro y escudo abajo; reverso naranja "20 Veinte Centavos"; sin mención de ganado. 283230: 20 c de 1892 (Ley 2822; Pick 215; South American Bank Note Co.; firmas Cuyár/Santamarina y Cárdenas/Achával), con viñeta de ganado en el reverso.
+- Usada en: serie 05 (pista)
+
+### F-0313
+- Título: 16 Centavos Fuertes — 1 Chirola (1880), ficha 3569984632
+- Autor / institución: Numisquare (catálogo)
+- URL: https://www.numisquare.com/16-centavos-fuertes-1-chirola-1880-3569984632.html?lang=es
+- Archivo (Internet Archive): no aplica
+- Nivel: 4 — SOLO PISTA
+- Consultada: 2026-11-11 (agente de la ronda 1, nivel 4)
+- Cita clave: billete del Banco Nacional del 1/03/1880 de 16 centavos fuertes con la equivalencia "una chirola".
+- Usada en: serie 05 (pista)
