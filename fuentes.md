@@ -2890,3 +2890,33 @@ Formato de cada entrada:
 - Consultada: 2026-11-10 (agente de la ronda 1, nivel 2)
 - Cita clave: En septiembre de 1921 creó "el primer museo privado de Argentina"; al año siguiente vendió simbólicamente la casa a la comuna y "entregó la totalidad de sus colecciones"; firma de la donación el 24/05/1922; en 1928 había "más de 9.500 piezas". No menciona la numismática.
 - Usada en: serie 04
+
+### F-0283
+- Título: Lote 73, Spink Auction 17029 (British and Foreign Coins and Commemorative Medals)
+- Autor / institución: Spink
+- URL: https://spink.com/lot/17029000073
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (mercado)
+- Consultada: 2026-11-11 (agente de la ronda 2, nivel 3-4)
+- Cita clave: la tabla del lote lista "Argentina | 50-Centavos, 1883 | KM.28 | Extremely fine" dentro de un grupo de ocho monedas sudamericanas; precio de todo el lote £120. Sin estimado ni procedencia ni fecha en la página.
+- Usada en: serie 04
+
+### F-0284
+- Título: Gacetilla del Centro Numismático Buenos Aires n.º 71 (Año 22, diciembre de 2017)
+- Autor / institución: Centro Numismático Buenos Aires
+- URL: https://monedasuruguay.com/bib/tel/tel071.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-11 (agente de la ronda 2, nivel 2)
+- Cita clave: p. 14, reseña del libro de Ariel Dabbah *Errores de acuñación en la amonedación nacional 1881-2016* (edición del autor, 2017). No da detalle del 50 centavos.
+- Usada en: serie 04
+
+### F-0285
+- Título: Una experiencia latinoamericana: los largos prolegómenos de la banca central en la Argentina
+- Autor / institución: Andrés Regalsky, *El Trimestre Económico* 92 (368), 2025, pp. 891–924
+- URL: https://www.scielo.org.mx/pdf/ete/v92n368/2448-718X-ete-92-368-891.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-11 (agente de la ronda 2, nivel 2)
+- Cita clave: p. 893 nombra a Pedro Agote como presidente del Crédito Público "(1883-1889)"; pp. 899–900: la unificación monetaria "recién se logró en 1881". No trata la plata ni el 50 centavos.
+- Usada en: serie 04
