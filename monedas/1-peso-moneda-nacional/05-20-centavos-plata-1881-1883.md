@@ -6,15 +6,15 @@ anios: "1881–1883"
 denominaciones: [20 centavos]
 metal: "plata 900"
 km: [KM 27]
-estado: a revisar
-sesiones: [i1 2026-11-11]
-ultima_actualizacion: "2026-11-11"
+estado: completa
+sesiones: [i1 2026-11-11, r1 2026-11-12]
+ultima_actualizacion: "2026-11-13"
 ---
 
 # 20 centavos plata 1881–1883
 
 ## Resumen
-El 20 centavos de plata es la quinta parte del patacón de la Ley 1130: 5 g de plata 900, 23 mm, canto estriado, el escudo de las catorce banderas y la Libertad de Oudiné, con "20 CENTos" y "9 Dos FINO". Sus cuatro cifras de producción tienen documento oficial y cierran entre sí: 2.018 piezas en 1881, 762.027 en 1882, 1.510.950 en 1883 (Agote, Crédito Público, 1884, leídas fila por fila en esta sesión) y 119.000 en 1884, sin fecha propia conocida (Memoria de la Casa de Moneda 1884), en total 2.393.995 piezas por $ 478.799. A mediados de 1882 era la pieza de plata más fabricada de la Casa. La de 1883 salió con una ley media de 897,627 milésimos. El 1881 es la fecha clave: en octubre de 2023 NGC solo tenía dos ejemplares con grado limpio y PCGS ninguno; uno en MS64 se vendió en Heritage en 2024 por USD 5.040 (dato tomado de Numista, a confirmar). El mercado y un estudio de Dabbah discuten un "2 invertido" bajo el 3 de 1883 (para unos, una variedad; para Dabbah, una marca de todas las piezas de ese año). La cabeza de la Libertad de esta moneda pasó, con el mismo punzón, al centavo de cobre. En 1884 la reemplazó el billete de 20 centavos de la emisión menor, y la siguiente moneda de 20 c fue la de cuproníquel de 1896. No se encontró ninguna norma que la desmonetice: las fechas que circulan (1896 y 1967) no tienen respaldo para la plata.
+El 20 centavos de plata es la quinta parte del patacón de la Ley 1130: 5 g de plata 900, 23 mm, canto estriado, el escudo de las catorce banderas y la Libertad de Oudiné, con "20 CENTos" y "9 Dos FINO". Sus cuatro cifras de producción tienen documento oficial y cierran entre sí: 2.018 piezas en 1881, 762.027 en 1882, 1.510.950 en 1883 (Agote, Crédito Público, 1884, leídas fila por fila y verificadas en una segunda lectura independiente en la revisión) y 119.000 en 1884, sin fecha propia conocida (Memoria de la Casa de Moneda 1884), en total 2.393.995 piezas por $ 478.799. A mediados de 1882 era la pieza de plata más fabricada de la Casa. La de 1883 salió con una ley media de 897,627 milésimos. El 1881 es la fecha clave: en octubre de 2023 NGC solo tenía dos ejemplares con grado limpio y PCGS ninguno; uno en MS64 se vendió en Heritage en 2024 por USD 5.040 (dato tomado de Numista, a confirmar). El mercado y un estudio de Dabbah discuten un "2 invertido" bajo el 3 de 1883: para el mercado es una variedad (PCGS tiene al menos dos piezas así rotuladas); para Dabbah, que partió justamente de un 20 c de 1883 con esa etiqueta, todas las piezas de ese año llevan un 3 fabricado a mano a partir de un punzón de 2 invertido, porque de París solo habrían llegado los punzones del 1 y el 2. Nada documenta un apodo propio: en los diccionarios de 1910–1911 "chirola" es la pieza boliviana de 20 c o cualquier moneda chica. La cabeza de la Libertad de esta moneda pasó, con el mismo punzón, al centavo de cobre. En 1884 la reemplazó el billete de 20 centavos de la emisión menor, y la siguiente moneda de 20 c fue la de cuproníquel de 1896. No se encontró ninguna norma que la desmonetice: las fechas que circulan (1896 y 1967) no tienen respaldo para la plata.
 
 ---
 
@@ -32,8 +32,9 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **Ley 1.334 (28/09/1883, promulgada el 4/10/1883):** billetes convertibles menores de un peso [F-0164] · confirmado. **Ley 1.354 (17/10/1883):** la plata nacional, forzosa hasta cinco pesos por pago [F-0164] · confirmado. Detalle en la serie 04.
 - La ley del 4/10/1883 "paralizó, segun el Director de la Casa de Moneda," la acuñación de plata; desde entonces solo se acuñó el metal existente, "que alcanzaba en aquella fecha á 3284 kilóg." (Agote, 1884) [F-0204] · confirmado.
 - Memoria de la Casa de Moneda 1884: "La emision menor á papel, hizo suspender la emision de plata menor"; se siguieron sellando "pequeñas cantidades para consumir la existencia de ese metal", hasta una "órden superior"; "Desde entonces no se ha fabricado absolutamente una sola pieza" [F-0028] · confirmado.
+- La Memoria de la Casa de Moneda 1884 empieza así el tema: "Aunque suspendida la fabricacion de moneda de plata en virtud de la ley sobre emision menor"; la "órden superior" no lleva fecha ni número [F-0028] · confirmado. La Memoria de Rentas de 1885 dice que la Casa "en 1885 no parecen haber producido un solo centavo" [F-0165] · probable (lectura de agente).
 - **Ley 3.321 (2/12/1895):** monedas de níquel que reemplazan los billetes de 20, 10 y 5 c [F-0221] · confirmado (ver serie 04). El 20 c volvió como moneda en 1896, en cuproníquel [F-0257] · confirmado; con la misma Libertad de Oudiné, según coinvarieties [F-0310] · a confirmar.
-- **Desmonetización:** no se encontró ninguna norma que quite el curso legal al 20 c de plata (se buscó en InfoLEG, Wikisource, la Ley 3.321, la Ley 3.871 —texto no abierto— y Memorias de Hacienda) · constancia. Ver Discrepancias para las dos fechas que circulan.
+- **Desmonetización:** no se encontró ninguna norma que quite el curso legal al 20 c de plata (se buscó en InfoLEG, Wikisource, la Ley 3.321, la Ley 3.871 —texto no abierto— y Memorias de Hacienda; en la revisión, otra vez en Wikisource —dominio inaccesible: url_not_found y PROVENANCE_REQUIRED—, Memorias de la Caja de Conversión y Memorias de Hacienda 1886–1900, sin resultado) · constancia. Ver Discrepancias para las dos fechas que circulan.
 - **El BCRA no registra la plata de 1881–1883:** su tabla de emisiones anteriores del peso moneda nacional trae un único 20 c, emisión 1896, cese de curso legal 31/01/1967, desmonetización 01/04/1967 [F-0257] · confirmado (lo que dice la página).
 
 ## Contexto histórico y económico
@@ -48,6 +49,7 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - Causa del freno de la plata: el público la resistió, "ofreció y continúa ofreciendo resístencias que las desvalorizaron", atribuido a la falta de hábito de un sistema nuevo (Agote, 1884) [F-0204] · confirmado (ver serie 03 para el rumor de falsificación o mala acuñación).
 - La plata menor no circulaba fuera de la Capital y la provincia de Buenos Aires: "no circula ninguna de las dos" (plata menor ni papel menor; Memoria de la Casa de Moneda 1884) [F-0028] · confirmado.
 - Mensaje de Roca (mayo de 1883): 5.755.257 piezas de oro, plata y cobre entregadas hasta el 31/03/1883 y la Casa "habrá acuñado todas las cantidades en oro y plata determinadas en el artículo 7°" [F-0164] · confirmado. Memoria del Banco Nacional (30/01/1883): "8 millones en oro y 4 millones en plata" [F-0164] · confirmado.
+- **1883, el año grande de la Casa:** 9.548.855 piezas en todos los metales, "6.570,743 piezas de monedas mas que en 1882" (2.978.112) [F-0204] · confirmado (segunda lectura). La fábrica empezó a acuñar el 14/02/1881 según Wikipedia [F-0116] · probable; obras del edificio del 12/07/1879 al 31/01/1881 [F-0160] · probable.
 - **Billetes provinciales de 20 c:** el Banco de la Provincia de Buenos Aires tenía en circulación billetes de "0.20" (11.386 al 31/12/1882; 8.406 al 31/12/1884), en pesos fuertes [F-0164, F-0086] · a confirmar (si son unidades o pesos; lectura de agente).
 - Memoria de Hacienda 1890 (López): "La ley de 1881, es una ley bimetalista pero que limita la acuñacion de la plata" [F-0166] · confirmado.
 - 1890: Pacheco había ordenado remitir a Europa "cien mil pesos en plata nacional"; quedaban 350.000 pesos en plata nacional en el Banco Nacional (carta de Casares, 13/08/1890) [F-0166] · confirmado; no distingue denominaciones (ver serie 03).
@@ -60,20 +62,21 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **El punzón del 20 c pasó al centavo:** "el punzón de la efigie en la moneda de 1 centavo es el mismo de la moneda de plata de 20 centavos"; Oudiné propuso una gráfila de perlas para llenar el campo, porque la efigie quedaba chica (Pezzano, El Reverso 72, nota 20) [F-0304] · confirmado (dos estudios). Testolino cita a Oudiné: a la pieza de 25 mm (1 centavo) "perfectamente se puede colocar la cabeza de la moneda de plata de 20 centavos" [F-0024] · confirmado.
 - **El 20 c como patrón en 1940:** el Decreto 76.714 (1940), para el proyecto de 50 c de níquel, indicaba que "El busto de la Libertad tiene iguales dimensiones que en los 20 centavos de plata" (citado por Testolino) [F-0024] · probable (decreto no leído en el original).
 - Matrices de París llegadas con fecha 1880 [F-0005] · confirmado (ver serie 03). Autoría del escudo: ver serie 03.
+- **Cómo se fechaban los cuños (según Dabbah):** las matrices de París "venían con la fecha 1880" y de ellas "se abrieron todos los cuños y punzones hasta 1884"; los cuños de trabajo se hacían "fechados 188--" y después "se punzonaba el último dígito"; su Imagen 2 muestra un "Cuño de 20 centavos al que aún no se le añadió el último número de la fecha" [F-0308] · probable (lo que dice el autor; leído el PDF completo).
 - Firma "OUDINE" en el 20 c: el catálogo de Filadelfia dice "by Oudine" [F-0305] · a confirmar (no dice si la firma está en la pieza).
 
 ## Ficha técnica
 | Atributo | Valor | Fuente | Confianza |
 |---|---|---|---|
-| Peso | 5 g (ley); medidos: 4,83 g (1881 AU), 4,93 g (1881 XF limpiada), 4,85 (1883 XF-AU), 4,90 (1883 XF), 4,95 (1882 VF y 1882 TTB), 4,97 (1883 XF), 4,98, 5,0, 5,00 y 5,04 g (1882–1883, XF a MS63) | F-0134, F-0170; F-0292; F-0103; F-0294; F-0293; F-0295, F-0293; F-0293 | confirmado (ley); probable (medidas) |
+| Peso | 5 g (ley); medidos: 4,83 g (1881 AU), 4,93 g (1881 XF limpiada), 4,85 (1883 XF-AU), 4,90 (1883 XF), 4,94 (1882 XF), 4,95 (1882 VF y 1882 TTB), 4,96 y 4,97 (1882 XF/AU), 4,97 (1883 XF), 4,98, 5,0, 5,00 y 5,04 g (1882–1883, XF a MS63; 1882 TTB de 2026, 5,00) | F-0134, F-0170; F-0292; F-0103; F-0294; F-0293; F-0326; F-0295, F-0293; F-0293 | confirmado (ley); probable (medidas) |
 | Composición / ley | plata 900 ("9 Dos FINO"); ley media ensayada: 897,627 milésimos (1883), 897,64 (1884) | F-0134; F-0204; F-0028 | confirmado (900 y 1883); probable (1884) |
 | Plata fina | 4,5 g (de ley); ≈4,49 g a la ley media de 1883 | cálculo (5 × 0,9; 5 × 0,897627) | confirmado (aritmética) |
 | Tolerancia de ley | 5 milésimos | F-0170 | probable (ver serie 03 sobre las tolerancias sin rótulo de F-0134) |
-| Diámetro | 23 mm (ley; CGB; Río de la Plata; SNB); 23,3 mm (Numista, Greysheet); 24 mm (Filadelfia 1912) | F-0134, F-0170, F-0293, F-0292, F-0295; F-0286, F-0291; F-0305 | confirmado (23); a confirmar (23,3 y 24) |
-| Espesor | 1,314 mm (Gancedo); 1,5 mm (Numista) | F-0134; F-0286 | a confirmar (solo catálogos) |
+| Diámetro | 23 mm (ley; Gancedo; CGB; Río de la Plata; SNB; avisos de eBay); 23,3 mm (Numista, Greysheet, Stash of Coins, Numisquare, WorldCoinsDB); 24 mm (Filadelfia 1912); 22 mm (Wikipedia EN) | F-0134, F-0170, F-0293, F-0292, F-0295, F-0326; F-0286, F-0291, F-0328, F-0333; F-0305; F-0271 | confirmado (23); a confirmar (23,3, 24 y 22) |
+| Espesor | 1,314 mm (Gancedo); 1,5 mm (Numista y sus derivados) | F-0134; F-0286, F-0291, F-0328 | a confirmar (solo catálogos) |
 | Canto | estriado (acanalado; "cannelée") | F-0002, F-0134, F-0293 | confirmado |
 | Estrías por cm | 14 | F-0240 (y Janson, pista [F-0203]) | a confirmar (solo catálogos) |
-| Eje | 6 h (moneda, ↑↓) | F-0293, F-0286, F-0291 | probable |
+| Eje | 6 h (moneda, ↑↓) | F-0293 (también fwo_959747 y fwo_1113123), F-0286, F-0291 | probable |
 | Ceca | Casa de Moneda de Buenos Aires | F-0163, F-0204, F-0028 | confirmado |
 | Grabador | Eugène-André Oudiné | F-0024, F-0304, F-0305 | confirmado (fuentes independientes) |
 
@@ -86,14 +89,15 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 | 1884 | 119.000 | F-0028 (cuadro N.º 4, fila 1884) | confirmado (cantidad) | Fecha que llevan las piezas: desconocida (ver Supuestos). |
 | Total | 2.393.995 | F-0028 (cuadro N.º 4); F-0205 (mismo total al 15/10/1888, p. 410) | confirmado | Hasta el 31/12/1883: 2.274.995 = $ 454.999 [F-0204, Resumen; F-0028]. |
 
-- **Lectura de Agote 1884 (F-0204):** el agente de la ronda 1 leyó las cuatro filas del 20 c (1881, 1882, 1883 y Resumen) y la sesión principal volvió a abrir el PDF en la p. 355: "2,018 » » 20 «"; "762,027 » 20 »"; "1.510,950 ~ » 20 1>"; "2.274.995 :. )) 20 »"; la línea "764,045 >> 152,809" está en la tabla mensual de la p. 354 [F-0204] · confirmado.
+- **Segunda lectura independiente (revisión, 2026-11-12/13):** un agente de nivel 1 (seis tramos) y la sesión principal (tres consultas al PDF) volvieron a leer las cifras: "2,018" (diciembre de 1881), "764,045 » 152,809", "762,027 » » 20", "1.510,950 » 20", "20 1.510,950" (ensayes), Resumen "2.274.995 / 454.999" y la ley "897,627"; al pie del cuadro mensual de 1883, los totales anuales por denominación (argentinos 906.042, pesos 98.000, 50 c 2.073.380, 20 c 1.510.950, 10 c 2.785.650, 2 c 1.389.000, 1 c 785.833 = 9.548.855) [F-0204] · confirmado (dos lecturas independientes). El agente ubica el acumulado "764,045" en la página anterior a la 355; la sesión de investigación lo había ubicado en la p. 354 (detalle sin consecuencia).
+- **Lectura de Agote 1884 (F-0204), sesión de investigación:** el agente de la ronda 1 leyó las cuatro filas del 20 c (1881, 1882, 1883 y Resumen) y la sesión principal volvió a abrir el PDF en la p. 355: "2,018 » » 20 «"; "762,027 » 20 »"; "1.510,950 ~ » 20 1>"; "2.274.995 :. )) 20 »"; la línea "764,045 >> 152,809" está en la tabla mensual de la p. 354 [F-0204] · confirmado.
 - **Control aritmético:** 2.018 + 762.027 + 1.510.950 = 2.274.995 = Resumen de Agote y cuadro N.º 4 "hasta el 31 de diciembre de 1883" (deducido: 2.393.995 − 119.000) [F-0204, F-0028]; con 1884, 2.393.995 [F-0028, F-0205] · confirmado. 2.018 + 762.027 = 764.045 [F-0204] · confirmado.
 - **Semestres de 1882:** primer semestre (1/01–6/07/1882) 365.025 piezas (367.043 − 2.018); segundo semestre 397.002 (762.027 − 365.025) [F-0163, F-0204] · confirmado (cálculo propio sobre cifras oficiales).
 - **Valor acuñado:** 1881, $ 403,60; 1882, $ 152.405,40; 1883, $ 302.190; 1884, $ 23.800; total $ 478.799 [cálculo propio; coinciden $ 152.809 acumulado a 1882 y $ 454.999 a 1883 de F-0204, y $ 73.408,60 al 6/07/1882 de F-0163] · confirmado (aritmética).
 - **Peso del total:** 2.393.995 × 5 g = 11.970 kg brutos; 10.773 kg de plata fina a ley 900 (cálculo propio) · confirmado (aritmética).
 - **La fraccionaria de 1884 cierra con el cuadro de la plata:** $ 95.200 = 136.000 × 0,50 + 119.000 × 0,20 + 34.000 × 0,10 [F-0028] · confirmado (ver serie 04).
 - **Plata total de la Ley 1130:** hasta el 31/12/1883, 9.064.380 piezas de plata por $ 2.710.639,60 (Resumen de Agote) [F-0204]; con las 289.000 de 1884 (136.000 + 119.000 + 34.000), 9.353.380 piezas; el 20 c es el 25,6 % de las piezas [F-0204, F-0028] · confirmado (cálculo propio).
-- El cuadro mensual de 1883 (junio a diciembre) existe pero el OCR mezcla las columnas: no se puede saber cuántos 20 c se hicieron después de la ley de octubre [F-0204] · constancia. Lo mismo con el cuadro mensual de 1882.
+- **Cuadro mensual de 1883:** trae doce totales mensuales (980.900, 186.000, 1.507.000, 486.333, 255.000, 1.176.000, 687.800, 530.522, 792.000, 875.500, 1.247.000 y 824.800, que suman 9.548.855) y, para junio a diciembre, 40 cifras sin rótulo de fila que suman 6.133.702, casi exactamente los 6.133.622 de esos siete totales [F-0204] · confirmado (comprobación de la sesión principal). El agente de nivel 1 propuso para el 20 c: junio 75.000, julio 100.000, agosto 150.000, septiembre 225.000, octubre 97.000, noviembre 133.000 y diciembre 128.500 (908.500 de junio a diciembre; 602.450 de enero a mayo, por resta) [F-0204] · a confirmar: la sesión principal comprobó que, sin rótulos de fila, las cifras admiten más de una asignación; hace falta el facsímil. Si fuera así, después de la ley del 4/10/1883 se habrían hecho todavía unos 261.500 veintes en noviembre y diciembre, con el metal existente. Lo mismo vale para el cuadro mensual de 1882 (no reconstruido).
 - **Cifras de catálogo:** Janson 2020 da 2.018 / 762.027 / 1.510.950, iguales a las oficiales [F-0203] · pista (coinciden). Numista las repite citando a Janson [F-0286]; coinvarieties redondea 762.000 [F-0310]; Coinscatalog asigna toda la tirada de 1883 (1.511.000) a la "1883/2" [F-0291]; Stash of Coins da un total de 2.274.995 (sin 1884) [F-0291] · pista. Santacreu (2004) da 4.291.000 piezas de 20 c en un cuadro [F-0025] · error de la fuente.
 - Presentaciones: solo suelta · supuesto (ninguna fuente menciona otra).
 
@@ -103,11 +107,13 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **Precio de compra:** "$m/n 37 71 por kilogramo de fino" si la ley pasaba de 0,910, y $ 37,61 si era menor; plata comprada, $ 2.400.831,10 [F-0204] · probable (OCR).
 - **Comisión revisora de 1883:** la "Comision encargada de la revisacion de Monedas" (Domingo Parodi, Emilio B. Godoy, Antonio Cuyar, Miguel Puiggari, Pedro Agote y Juan E. Clark) firmó su acta el 19/03/1883; la aprobó un decreto del 5/04/1883 (Roca y Juan J. Romero); tomó "lotes de á 1000 piezas de cada tipo, tomadas igualmente al acaso"; el peso "resultó siempre … comprendido entre los límites de las tolerancias legales" y las monedas estaban "en condiciones legales" [F-0204] · confirmado. En su tabla de leyes, la pieza de 20 c dio 897,3 milésimos [F-0204] · probable (OCR dañado).
 - **Ley media de 1883:** "Ley general de estas monedas": 20 c, 1.510.950 piezas, 897,627 milésimos (50 c 899,046; 10 c 897,636; pesos 899,621) [F-0204] · confirmado. Ese año se hicieron 4.301 ensayes de plata, 1.568 "de monedas argentinas" [F-0204] · probable (OCR). El 20 c quedó 2,4 milésimos debajo de 900, dentro de los 5 milésimos de tolerancia [F-0204; F-0170 · probable] (cálculo propio).
-- **Ensayes de 1884:** "Veinte centavos", ley media 897,64 milésimos (cuadro N.º 2 del Laboratorio, J. J. Kyle, enero de 1885, al director Castilla) [F-0028] · probable (la serie 04 lo tenía a confirmar por la asignación de columnas; el agente de esta sesión lo leyó en la fila rotulada "Veinte centavos", pero la sesión principal no lo releyó). La cantidad promediada se lee "112,000" en el OCR, probablemente 119.000 · a confirmar.
+- **Ensayes de 1884:** "Veinte centavos", ley media 897,64 milésimos (cuadro N.º 2 del Laboratorio, J. J. Kyle, "Químico Ensayador", 7 u 8 de enero de 1885 según la lectura, al director Castilla) [F-0028] · probable (dos lecturas de agente; en la revisión el OCR dio "8g8.86 / 897-Ó4 / 897.40"). La cantidad promediada se lee "112,000" en una lectura y "u¡¡.ooo" en la otra: 119.000 o 112.000 · a confirmar (facsímil).
+- **La tolerancia como freno de la reacuñación:** según Agote, el Director se valió "del medio legal de aumentar la mitad de la tolerancia en el peso y disminuir casi la mitad de la tolerancia en el fino", para demorar "la reacuñacion de monedas que es muy gravoso" [F-0204] · confirmado (sesión principal y agente). No dice a qué denominaciones ni desde cuándo se aplicó.
+- **El cuño sin el último dígito:** ver Diseño (Dabbah) [F-0308] · probable.
 - **Personal:** la Memoria de Hacienda 1881 destaca la "falta absoluta de personas aptas para la fabricación de monedas entre nosotros"; aun así, la acuñación "ha continuado con bastante buen éxito" [F-0163] · confirmado.
 - **Quejas de la prensa (1883):** se referían al 50 c: que "se partían facilmente" y tenían oxidación negra "nacida sin duda de alguna burbuja de aire al fundirse"; la Comisión respondió que "solo la ignorancia en esta materia puede haber producido la alarma infundada" [F-0204] · confirmado (no nombran el 20 c).
 - 1884: la plata entrada no era "para usos del Establecimiento, sino para ser fundida y remitida á Europa", en parte "saldo del contrato con los señores Parchappe y Almonacid"; la fraccionaria de ese año se hizo con el metal existente [F-0028] · confirmado.
-- No se encontraron noticias de rechazos, roturas de cuños ni reacuñaciones del 20 c · constancia. Errores en piezas sueltas: ver Variantes.
+- No se encontraron noticias de rechazos, roturas de cuños ni reacuñaciones del 20 c (Dabbah dice que faltan los "libros de taller" del Museo de la Casa de Moneda [F-0308]) · constancia. Errores en piezas sueltas: ver Variantes.
 
 ## Circulación, retiro, desmonetización y fundiciones
 - Circulación limitada, en 1884, a la Capital y la provincia de Buenos Aires [F-0028] · confirmado.
@@ -122,8 +128,10 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **1881 (2.018 piezas):** la fecha clave. Catálogos: R4 (Amonedación Argentina) [F-0240]; "Muy Rara" (Río de la Plata) [F-0292, F-0103] · pista / uso comercial.
 - **Censo NGC (octubre de 2023):** un coleccionista escribió que su 1881 recién graduado era "top pop" y que con él había "two straight graded examples at NGC now, the other being an AU55 (none at PCGS)" [F-0287] · a confirmar (un solo testimonio de comunidad; el censo NGC no se pudo abrir).
 - Apariciones conocidas del 1881: el "top pop" de 2023 [F-0287]; Heritage, subasta 61372, lote 22007, 19/02/2024, NGC MS64, USD 5.040 con comisión [F-0286] · a confirmar (dato de Numista; el lote no se abrió); Río de la Plata, Subasta Online #20 (diciembre de 2024), lote 196, AU, 23,0 mm, 4,83 g [F-0292]; Río de la Plata, Subasta 24 (diciembre de 2025), lote 172, XF, "Limpiada, raya en anverso", 23,0 mm, 4,93 g, estimación 1.500–2.000 [F-0103, F-0122]; colección Pat Johnson (Stack's Bowers, agosto de 2022): según coinvarieties, el 50 c 1881 "is accompanied by a silver ten centavos, twenty centavos and…" un peso de plata; la fecha del 20 c no se indica [F-0235] · a confirmar; Monetario de la ANH, N.º 14 [F-0230]; colección Fernández Blanco (1925), N.º 120, montado como gemelo [F-0229] · probable. Si el lote de 2024 y el de 2025 son piezas distintas: ver Supuestos.
+- **Heritage 61372 (revisión):** la venta existe ("2024 February 19 Spotlight: Latin America World Coins Showcase Auction #61372"; lote 22009, un peso 1882 NGC MS62) [F-0288] · confirmado; el lote 22007 no apareció en ninguna búsqueda y NumisBids da error: el 1881 MS64 y su precio siguen · a confirmar. El hilo de 2023 no da grado ni certificado, de modo que no se puede cruzar con el lote [F-0287].
+- **Testimonios de catálogo sobre la prima del 1881:** CoinQuest: "For an 1881 coin, multiply these values by twenty" (base USD 8–70) [F-0200]; WorldCoinsDB califica todo el tipo como "Common coin" sin distinguir el 1881 [F-0333] · pista.
 - **Frecuencia en colecciones de usuarios de Numista:** 1881, 4 %; 1882, 61 %; 1883, 57 % [F-0286] · pista (comunidad).
-- **1882 y 1883:** comunes en grados de circulación (CGB vende VF/XF–AU entre 12 y 50 € [F-0293]); en sin circular hay NGC MS64 (1882, Heritage 2026 [F-0288]), NGC MS63 (1882, Stack's Bowers [F-0299]; 1883, Heritage 2019 [F-0288]), PCGS MS63 (1883, CGB [F-0293]) y PCGS MS64 1883/2 (cgcoins [F-0290]) · confirmado (casos).
+- **1882 y 1883:** comunes en grados de circulación (CGB vende VF/XF–AU entre 12 y 50 € [F-0293]); en sin circular hay NGC MS64 (1882, Heritage 2026 [F-0288]), NGC MS64 (1883, Pegasus, 329 € [F-0330]), NGC MS63 (1882, Stack's Bowers [F-0299]; 1883, Heritage 2019 [F-0288]), NGC MS62 (1882, Heritage 2026, USD 85 [F-0211]), PCGS MS63 (1883, CGB [F-0293]; otro en eBay [F-0325]) y PCGS MS64 y MS62 1883/2 (cgcoins y eBay [F-0290, F-0325]) · confirmado (casos).
 - Rareza por estado: no se halló estudio. Ver Observaciones de mercado y Supuestos.
 
 ## Por año
@@ -142,9 +150,11 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 ### 1883
 - 1.510.950 piezas, $ 302.190, ley media 897,627 [F-0204] · confirmado.
 - Hipótesis de Dabbah del "2 invertido" en el último dígito (ver Variantes).
+- Reparto mensual propuesto por un agente (junio–diciembre 908.500; octubre 97.000, noviembre 133.000, diciembre 128.500) [F-0204] · a confirmar (ver Acuñación).
 
 ### 1884 (sin fecha propia conocida)
-- 119.000 piezas "para consumir la existencia de ese metal", hasta una "órden superior" [F-0028] · confirmado.
+- 119.000 piezas "para consumir la existencia de ese metal", hasta una "órden superior" [F-0028] · confirmado (releído en la revisión: fila "136000 119000 34000").
+- En 1885 la Casa no acuñó moneda [F-0165] · probable; hasta el 15/10/1888 el total del 20 c sigue en 2.393.995 [F-0205] · confirmado.
 - No se conoce ninguna pieza fechada 1884 en catálogos, casas ni colecciones [F-0203, F-0230, F-0229, F-0286] · constancia.
 
 ## Variantes y errores
@@ -160,14 +170,16 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 | 1883 "3 normal", "3 cercano al 8", "3 recto", "3 caído", "3 elevado" (CJ 20.1–20.5) | posición del 3; el 20.2 con "la base superior de la cifra 3 ligeramente redondeada" y el 20.3 con "la base superior de la cifra 3 recta y con retoque de cuño" | [F-0203]; BINUMIS vende CJ 20.2 [F-0297] | a confirmar |
 | 1883 "3/3 de módulo menor" (CJ 20.6) | un 3 chico debajo del 3 (foto ampliada en Janson) | [F-0203] | a confirmar |
 | 1883/2 "inverted 2" (3 sobre 2 invertido) | un 2 rotado debajo del 3 | Heritage 2005, lote 12210 [F-0288]; CHS Basel 2025, lote 13 [F-0289]; PCGS MS64 rotulado "1883/2" (cgcoins) [F-0290]; Numista (3 %), Greysheet, LastDodo, Coinscatalog [F-0286, F-0291]; hilo del foro NGC (no leído) | probable (existe la atribución de mercado y de PCGS); la descripción, a confirmar |
-| Todas las piezas de 1883 con "2 invertido" | según Dabbah, en todos los valores y metales de 1883; dice haberlo hallado "casi por casualidad" | Dabbah, IFINRA 2021 [F-0308] | a confirmar (solo se leyó la presentación) |
+| 1883/2 PCGS MS62 | rotulado por el vendedor "Pop 1/1~Janson-20.3" | eBay 2026 [F-0325] | a confirmar (oferta; asocia la variedad al CJ 20.3, no al 20.6) |
+| Todas las piezas de 1883 con "2 invertido" | según Dabbah, en todos los valores y metales de 1883: el último dígito es "absolutamente tosco", la diagonal del 3 es curva como la panza de un 2 y en algunas piezas se ven restos del 2; el 3 se habría fabricado retocando a mano un punzón de 2 puesto al revés, porque en "el primer y único embarque" de París solo habrían venido los punzones del 1 y el 2. Partió de un 20 c de 1883 con la etiqueta "inverted 2" visto en una feria de EE. UU. en 2017; examinó más de 500 piezas de 7 valores | Dabbah, IFINRA 2021, PDF completo [F-0308] | probable (lo que sostiene el autor); la tesis, a confirmar (ningún documento menciona los punzones; faltan los libros de taller) |
 | 1882 con "A" cortada y doble golpe en el año (error) | anverso | FILACOR, CJ 19.1, MB [F-0296] | a confirmar (una oferta) |
-| Variantes de cuño "A"–"E" (1881), "A"–"Q" (1882) y "A"–"O" (1883) | clave propia del catálogo, no leída | Gancedo 2005 [F-0134] | a confirmar (catálogo) |
+| Variantes de cuño "A"–"E" (1881), "A"–"Q" (1882) y "A"–"O" (1883) | las letras solo figuran como epígrafes de fotos ("20 C 881 'A'"…); no hay texto que explique cada una | Gancedo 2005 [F-0134] | a confirmar (catálogo; solo se distinguen en las imágenes) |
 | Fantasías fechadas 1880 (CJ 34–36, con el 50 y el 10 c) | plata 900, canto liso, sin listel; "extremadamente raras"; hechas en la segunda mitad del siglo XX con matrices oficiales | Dabbah y Madonna [F-0005] | probable (ver serie 04) |
 | Ensayo de 20 centavos fuertes (Würden, 1879) | ensayo belga de otro sistema | Museo Janson [F-0231] | confirmado (no es el 20 c de la Ley 1130) |
 | Pruebas, ensayos o cuños rotos del 20 c de la Ley 1130 | no documentados | — | no hallada |
 
 - El catálogo de referencia ilustra cada subtipo de 1882 y 1883 con una foto ampliada de la fecha (19.6 y 20.6 con detalle de una estrella y de las cifras) [F-0203] · pista.
+- Una pieza de 1883 NGC MS64 vendida por Pegasus no lleva la atribución 1883/2 [F-0330]; NGC y PCGS solo agregan la variedad si se la piden, de modo que esto no prueba que la pieza no la tenga · constancia. Un 1883 "Doubled REV" ofrecido en eBay [F-0325] · a confirmar (una oferta).
 - Ninguna casa extranjera nombra las variantes de posición; solo comercios argentinos [F-0295, F-0296, F-0297] · constancia. Ninguno explica cómo distinguirlas fuera de los rótulos · constancia.
 - El catálogo de referencia trae la misma familia de variantes en el 50 c de 1883, incluida una "3 elevado y 1 sobre 1 invertido" (CJ 17.4.2) [F-0203] · pista (lectura en imagen de esta sesión; ver serie 04, donde los títulos de FILACOR 17.3 y 17.4.x quedaban sin explicar).
 
@@ -175,27 +187,28 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - Agote (1884): "solo han aparecido algunas piezas de plata falsificadas; pero siendo pésima la imitacion", se descubrieron enseguida [F-0204] · confirmado; no distingue denominaciones · constancia.
 - No se encontró ninguna falsificación del 20 c ofrecida ni advertida en casas, foros ni comercios (se buscó en foros hispanos, CoinTalk, Collectors Universe, Imperio Numismático, Mercado Libre) · constancia. El hilo "Réplica de patacón" de Imperio Numismático trata del peso [F-0291] · constancia.
 - Fantasías de 1880: ver Variantes [F-0005].
+- CoinQuest, en general para el tipo: "Un-natural surfaces and off-weight are two good indicators of counterfeits" [F-0200] · pista. En la revisión tampoco apareció ninguna advertencia de casas o graduadoras sobre copias del 1881 · constancia.
 
 ## Personajes
-- **Eugène-André Oudiné:** grabador de la Monnaie de París; abrió los punzones y matrices de la Libertad; su cabeza del 20 c sirvió también para el centavo [F-0024, F-0304, F-0233] · confirmado (fuentes independientes).
+- **Eugène-André Oudiné:** grabador de la Monnaie de París; abrió los punzones y matrices de la Libertad; su cabeza del 20 c sirvió también para el centavo [F-0024, F-0304, F-0233] · confirmado (fuentes independientes). Nació en París el 1/01/1810 y murió allí el 12/04/1887 [F-0319, F-0019, F-0321] · confirmado (el blog Trésor du Patrimoine da el 3/01 [F-0320]: ver Discrepancias); alumno de André Galle (grabado) y de Ingres (dibujo) [F-0319, F-0322] · confirmado; Prix de Rome de grabado en medallas en 1831 [F-0320, F-0322, F-0019] · confirmado; miembro de la Commission des Monnaies et Médailles de 1846 a su supresión (27/02/1885) y caballero de la Legión de Honor en 1857 [F-0320] · probable. Murió cuatro años después de la última acuñación del 20 c.
 - **Eduardo Castilla:** ingeniero, proyectó el edificio de la Casa de Moneda ("obra del ingeniero Eduardo Castilla", inaugurada en 1881 y en funciones hasta 1944) [F-0309] · confirmado; primer director y destinatario de las cartas de Oudiné; aprobó el presupuesto de 28.000 francos el 5/05/1880 [F-0233, F-0024] · confirmado.
-- **Pedro Agote:** presidente del Crédito Público; su informe de 1884 trae las tiradas por año y fue miembro de la Comisión revisora de 1883 [F-0204] · confirmado.
+- **Pedro Agote:** presidente del Crédito Público; su informe de 1884, cerrado el 10/07/1884, trae las tiradas por año y fue miembro de la Comisión revisora de 1883 [F-0204] · confirmado. Una columna de La Gaceta presenta a un Pedro Agote catamarqueño (1816–1909), minero en Chile, diputado y ministro bonaerense, autor de *Recuerdos del pasado* [F-0324] · a confirmar que sea el mismo (la nota no menciona el Crédito Público).
 - **Comisión revisora de 1883:** Domingo Parodi, Emilio B. Godoy, Antonio Cuyar, Miguel Puiggari, Pedro Agote y Juan E. Clark [F-0204] · confirmado.
 - **Julio A. Roca y Juan J. Romero:** presidente y ministro de Hacienda; firmaron el decreto del 5/04/1883 que aprobó la Comisión [F-0204] · confirmado.
-- **J. J. Kyle:** químico ensayador; firmó en enero de 1885 los ensayes de 1884 [F-0028] · confirmado; ley del 20 c, 897,64 [F-0028] · probable.
+- **J. J. Kyle:** químico ensayador; firmó en enero de 1885 los ensayes de 1884 [F-0028] · confirmado; ley del 20 c, 897,64 [F-0028] · probable. John Joseph Jolly Kyle, nacido en Stirling (Escocia) el 2/02/1838, llegado a la Argentina en julio de 1862, "chief chemist" de la Casa desde 1881, muerto en Buenos Aires el 23/02/1922 [F-0323, F-0116] · probable (enciclopedia).
 - **Narciso Parchappe y Almonacid:** proveedores de la plata de Chilecito [F-0204, F-0165, F-0028] · confirmado / probable.
 - **Agustín Roca y Wenceslao Pacheco:** firmas del billete de 20 c de 1884 [F-0312] · a confirmar (catálogo).
 - **Vicente L. Casares:** Banco Nacional; carta del 13/08/1890 sobre la plata nacional a remitir a Europa [F-0166] · confirmado.
 - **Ariel Dabbah:** investigador de IFINRA; propuso en 2021 la tesis del "2 invertido" de 1883 [F-0308] y es autor de *Errores de acuñación en la amonedación nacional 1881-2016* [F-0284, F-0308] · confirmado (autoría).
 - **Luciano Pezzano:** documentó que el punzón de la efigie del centavo es el del 20 c de plata [F-0304] · confirmado.
 - **"stealer"** (usuario de Collectors Universe): dueño del "top pop" NGC del 1881 en 2023 [F-0287] · a confirmar.
-- **Pat Johnson:** colección vendida en Stack's Bowers en agosto de 2022, con un 20 c de plata junto al 50 c 1881 [F-0235, F-0302] · a confirmar.
+- **Pat Johnson:** colección vendida en Stack's Bowers en agosto de 2022, con un 20 c de plata junto al 50 c 1881 según coinvarieties [F-0235, F-0302] · a confirmar; CoinWeek describe la colección como piezas chicas de América Latina y no menciona la Argentina [F-0327].
 
 ## La voz de la época (prensa, debates, testimonios)
 - No se encontró prensa de 1881–1885 que nombre el 20 c (se buscó en Caras y Caretas, La Nación, El Nacional, The Standard, Hemeroteca BNE, Gallica, prensahistorica, Google Books) · constancia.
 - Las quejas de 1883 que recoge Agote son sobre el 50 c [F-0204] · constancia.
 - **"Peseta":** el catálogo de la Casa de Moneda de Filadelfia (1912) titula su ejemplar "Peseta (20 Centavos), 1883" [F-0305] (cita textual; una sola fuente, extranjera). No se halló el uso en fuentes argentinas · constancia.
-- **"Chirola":** era el nombre de la moneda boliviana de 20 c [F-0306, F-0307]; Evans (1889) enumera "chirolas y pesetas, soles peruanos, y pesos bolivianos y chilenos" [F-0038] · probable. No se halló ninguna fuente que llame chirola al 20 c argentino · constancia (ver Supuestos).
+- **"Chirola":** era el nombre de la moneda boliviana de 20 c [F-0306, F-0307]; Evans (1889) enumera "chirolas y pesetas, soles peruanos, y pesos bolivianos y chilenos" [F-0038] · probable. No se halló ninguna fuente que llame chirola al 20 c argentino · constancia (ver Supuestos). **Diccionarios de época:** Segovia (1911): "CHIROLA … Moneda boliviana de plata del valor aproximado de veinte centavos" [F-0315] · confirmado (lo que dice); Garzón (1910): "Moneda pequeña, particularmente la de níquel" [F-0316] · confirmado (lo que dice); Granada: "chaucha" = pieza de 20 c en Chile [F-0317] · confirmado (uso chileno). Hoy "chirola" es, en el habla argentina, una moneda o suma insignificante; una nota la deriva de la moneda boliviana y otra del ministro José Matienzo, apodado "Chirola" (1916–1919) [F-0331] · a confirmar (divulgación). Una página divulgativa describe la chirola boliviana como "de amplia circulación en nuestro país en el siglo XIX" [F-0318] · probable.
 - Hoy los comercios la ubican en la "serie Patacón" [F-0261, F-0297, F-0103] · confirmado (uso).
 - Memoria de la Casa de Moneda 1884 sobre la suspensión de la plata menor: "¿Fué acertada esta medida…? Es dudoso" [F-0028] · confirmado.
 - No se encontró prensa actual sobre el 20 c de plata (Clarín, La Nación, TN, Infobae, Ámbito, iProfesional): las notas de 2023–2026 tratan del 50 c y del peso [F-0239] · constancia.
@@ -215,6 +228,7 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **El mito de París:** coinvarieties dice que el tipo se acuñó "most likely at the Paris mint" [F-0310] · error (la ceca es Buenos Aires [F-0163, F-0204]).
 - **Ficha chilena equivocada:** ver Vida posterior [F-0311].
 - **Un vendedor de eBay** transcribió "10 CENTos" en la leyenda de un 20 c de 1883 [F-0294] · confirmado (el aviso).
+- **Más errores de catálogos en línea:** Numisquare dice que el tipo se acuñó "at the Paris and Potosí mints" [F-0328]; cnumis atribuye las tres fechas a la ceca de París [F-0329]; Dorset Coin da 762.027 en el texto y 762029 en su tabla [F-0332]; Wikipedia en inglés le da 22 mm [F-0271] · error o a confirmar.
 - **Ficha errónea de un agregador:** Allnumis da 4,0 g y ceca "Sociedad del Estado Casa de Moneda" [F-0291] · error.
 - **Ensayo de 20 centavos fuertes (1879):** Würden hizo en Bruselas ensayos de 80, 40 y 20 centavos fuertes para el sistema anterior [F-0231] · confirmado (ver serie 03).
 
@@ -238,7 +252,15 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 | 23/04/2025 | CHS Basel, Online 15, lote 13 | 1883/2, "SCARCE!" | AU | base 50 € | F-0289 |
 | 2025 | CGB, tienda (fwo_959747; fwo_889008) | 1883 XF 4,90 g; 1882 TTB 4,95 g ("Rayure derrière la tête") | XF / TTB | 30 € y 20 € | F-0293 |
 | dic. 2025 | Río de la Plata, Subasta 24, lote 172 | 1881, 23,0 mm, 4,93 g | XF, limpiada, raya | est. 1.500–2.000 | F-0103, F-0122 |
+| 29/10/2017 | eBay (archivado por HobbyRay) | 1882, 4,94 g | XF | USD 20 | F-0326 |
+| 24/07/2019 | eBay (archivado por HobbyRay) | 1882, 23 mm, 4,97 g | XF/AU | USD 27 | F-0326 |
+| 23/12/2020 | eBay (archivado por CoinsHome) | 1882, 23 mm, 4,96 g | XF/AU | publicado; sin precio | F-0326 |
+| s/f | Pegasus Auctions (MA-Shops 98700418) | 1883 | NGC MS64 | 329 € | F-0330 |
+| s/f | Dorset Coin Company | 1882 | "Near Mint" | £30 | F-0332 |
 | 3/05/2026 | Heritage 61618, lote 24016, cert. NGC 8485264017 | 1882 | NGC MS64 | USD 207,40 (vía Numista); 12 pujas | F-0288, F-0286 |
+| 2026 | CGB (fwo_1113123) | 1882, 23 mm, 5,00 g, "Traces de nettoyage" | TTB | 30 € | F-0293 |
+| 1/11/2026 | Heritage Showcase 61665, lote 24006 | 1882 | NGC MS62 | USD 85 (vía CoinArchives) | F-0211 |
+| nov. 2026 (ofertas) | eBay | 1883/2 PCGS MS64 (USD 695); 1883/2 PCGS MS62 "Pop 1/1~Janson-20.3" (USD 339); 1883 PCGS MS63 (USD 132,99); 1883/2 sin certificar "UNC" (USD 109,74); 1883/2 XF (USD 60,87); 1883 "Doubled REV" (USD 69) | — | precios pedidos | F-0325 |
 | 2026 (ofertas) | CGB (fwo_1031907 / fwo_831588; MA-Shops) | 1883, 5,00 g; 1883 XF 4,97 g | PCGS MS63; XF | 75 €; USD 39,09 | F-0293 |
 | 2026 (ofertas) | SNB; BINUMIS; FILACOR; ARG Collectibles; eBay | 1882 CJ 19.1 VF- 4,95 g; 1883 CJ 20.2 Unc; 1882 CJ 19.1 VF+; 1882 CJ 19.2 EXC-; 1882 error; 1882 XF; 1882 NGC MS61; 1882 sin certificar | — | ARS 56.000; ARS 102.399; ARS 51.199,50; USD 35; USD 40; USD 40; USD 139,99; USD 62,99 | F-0295, F-0297, F-0296, F-0300 |
 
@@ -247,54 +269,61 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 ## Graduación: puntos de desgaste y problemas típicos
 - Limpieza frecuente: 1883/2 de Heritage "lightly cleaned" [F-0288]; 1881 de Río de la Plata "Limpiada, raya en anverso" [F-0103]; CGB, 1883 "monnaie anciennement nettoyée et repatinée" [F-0293] · confirmado (casos).
 - Descripciones de piezas sin circular: Heritage, 1883 MS63, "Dressed in a silver patina, with watery, reflective fields" [F-0288]; Sedwick, 1882 MS61, "Very lustrous, with hint of yellow toning" [F-0298]; el "top pop" de 1881, "nice light toning on both sides" [F-0287] · a confirmar.
+- Limpieza también en un 1882 TTB de CGB, "Traces de nettoyage" (2026) [F-0293]; un 1882 XF de eBay con "light scratches" [F-0326] · confirmado (casos).
 - Rayas: CGB, 1882 TTB, "Rayure derrière la tête de la Liberté" [F-0293] · confirmado (caso).
 - Peso: piezas XF–MS entre 4,90 y 5,04 g; las dos 1881 de Río de la Plata, 4,83 (AU) y 4,93 g (XF) [F-0293, F-0292, F-0103] · probable.
 - No se halló una guía de desgaste propia del 20 c · constancia. Ver Supuestos.
 
 ## Discrepancias
 - **Desmonetización:** Numista, "Demonetized: 1 January 1896", sin fuente [F-0286]; catálogo Amonedación Argentina, "CESE CURSO LEGAL 31/01/1967 / DESMONETIZACIÓN 01/04/1967" para la plata 1881–1883 (las mismas fechas en su ficha del 20 c de cuproníquel) [F-0240]; el BCRA da esas fechas solo para el 20 c de 1896 [F-0257]. Ninguna norma hallada para la plata · abierta.
-- **Diámetro:** 23 mm (ley y medidas de casas) / 23,3 mm (Numista, Greysheet) / 24 mm (Filadelfia 1912) [F-0134, F-0293, F-0286, F-0305].
+- **Diámetro:** 23 mm (ley y medidas de casas y avisos) / 23,3 mm (Numista, Greysheet y derivados) / 24 mm (Filadelfia 1912) / 22 mm (Wikipedia EN) [F-0134, F-0293, F-0326, F-0286, F-0305, F-0271]. En la revisión, todas las medidas de piezas reales siguen dando 23 mm.
+- **Nacimiento de Oudiné:** 1/01/1810 (Petit Palais, Wikipedia) / 3/01/1810 (Trésor du Patrimoine) [F-0319, F-0019, F-0320] · abierta (se inclina por el 1/01, fuente museística).
 - **Espesor:** 1,314 mm (Gancedo) / 1,5 mm (Numista) [F-0134, F-0286].
 - **El "2 invertido" de 1883:** variedad minoritaria (Numista, 3 % de los usuarios; Heritage, CHS, PCGS la atribuyen como 1883/2) [F-0286, F-0288, F-0289, F-0290] o marca de todas las piezas de 1883 (Dabbah; Coinscatalog asigna toda la tirada a la 1883/2) [F-0308, F-0291]; el catálogo de referencia no la nombra así y trae un "3/3 de módulo menor" (CJ 20.6) [F-0203] · abierta.
 - **El billete de 20 c de 1884:** la serie 04 anotó, como pista, "Mitre y una cabeza de ganado" [F-0243]; la ficha de Numista del 20 c de 1884 (Lange) describe a Mitre y el escudo en el anverso y un reverso naranja con "20 Veinte Centavos", sin ganado; la viñeta de ganado figura en el reverso del 20 c de 1892 de la Caja de Conversión (Pick 215, South American Bank Note Co.) [F-0312] · a confirmar (ambas son catálogos).
-- **Fecha de la Memoria de la Casa de Moneda de 1884:** "Abril 16 de 1886" en el OCR [F-0028] · a confirmar (ver serie 04).
+- **Fecha de la Memoria de la Casa de Moneda de 1884:** el texto dice "Buenos Aires, Abril 16 de 1886" (releído en la revisión), aunque el tomo se presentó en 1885 y la memoria del Crédito Público del mismo tomo está fechada el 31/03/1885 [F-0028] · confirmado lo que dice el texto; probable error de imprenta o de OCR por 1885 · a confirmar (facsímil).
+- **¿Se paró la plata en octubre de 1883?** Agote: la ley del 4/10/1883 "paralizó" la acuñación, limitada desde entonces al metal existente [F-0204]; la reconstrucción del cuadro mensual daría 97.000 veintes en octubre y 261.500 en noviembre y diciembre [F-0204 · a confirmar]; la Memoria de la Casa agrega las 119.000 de 1884 [F-0028]. Se concilian si "paralizó" significa que no se compró más plata (supuesto).
+- **El 1883/2 y el catálogo de referencia:** un vendedor asocia el 1883/2 PCGS MS62 al "Janson-20.3" (3 recto con retoque de cuño) [F-0325]; el supuesto de la sesión anterior lo vinculaba al CJ 20.6 (3/3 de módulo menor) · abierta.
 - **"Desde 1883" contra 119.000 piezas en 1884:** Agote 1888 da la plata suspendida desde 1883 [F-0205]; la Memoria de la Casa de Moneda registra 119.000 piezas de 20 c en 1884 [F-0028]. Se concilian si las de 1884 se cuentan como remanente de la emisión de 1883 · supuesto.
 - **Tirada en Santacreu:** 4.291.000 [F-0025] contra 2.393.995 oficiales [F-0028] · error de la fuente.
 
 ## Pistas para la próxima sesión
-- **Dabbah, "Aporte numismático sobre las piezas argentinas de 1883" (IFINRA, 19/06/2021):** el PDF (https://ifinra.org/wp-content/uploads/2021/06/1883.pdf) no apareció en ninguna búsqueda (cinco intentos); leerlo para describir el "2 invertido" y compararlo con el CJ 20.6.
-- **Dabbah, *Errores de acuñación en la amonedación nacional 1881-2016*:** monedasuruguay.com/bib/d/dabbah.pdf (client_error, sexta vez; el proxy bloquea el dominio para curl). Anunciado en IFINRA (22/03/2020) y en El Reverso 62.
-- **NGC:** hilo "Help – Argentina 20 Centavos 1883/2 inverted 2" (boards.ngccoin.com, topic 174496) y guía de precios KM 27 (cuid-15235, duid 50956, 1214786, 1212822): error del sitio. Censo NGC y PCGS por fecha.
-- **Heritage 61372, lote 22007 (1881 NGC MS64, 19/02/2024):** abrir el lote; ¿es el "top pop" de 2023?
-- **Stack's Bowers 3-ROJZZ y 3-ROK12** y la venta Pat Johnson (NumisBids, venta 5941): fecha y grado del 20 c que acompañaba al 50 c 1881.
-- **Gancedo (F-0134):** leer la clave de las variantes A–Q (pp. 21–22; leídos solo 100.000 de 285.000 caracteres).
-- **Report of the Director of the Mint (EE. UU.) 1882–1885:** FRASER (año fiscal 1882 y 1884) sin texto; archive.org annualreportofdi1882unit_o8o1 (client_error); HathiTrust (pst.000068052973, osu.32435063931422, uc1.l0069269777) sin abrir.
-- **Wikisource, "Decreto reglamentario de la ley de moneda (1881)":** url_not_found (tolerancias y diseño oficial).
-- **Ley 3.871 (1899)** y decretos de retiro de la plata menor; actas de la Caja de Conversión.
-- **Cuadros mensuales de 1882 y 1883 de Agote (pp. 354–355):** verlos en imagen para saber cuántos 20 c se hicieron tras la ley de octubre de 1883.
-- **Agote Libro III (1885)** (client_error) y IV (sin texto): fecha de las 119.000 de 1884.
-- Conuvi, "Serie Patacón: 10 Centavos 1882, 20 y 50 Centavos 1883" (server_error).
-- Otros registros SURDOC (30-1581, 24-2628, 24-2945) sin abrir.
-- **Agote 1884 (F-0204):** la sesión principal releyó las filas del 20 c, pero el auditor no pudo reabrir el PDF (la URL y la página "libros antiguos" del CDI no aparecieron en sus búsquedas); conviene una segunda lectura independiente en la revisión.
-- **CGB fwo_959747 y fwo_601499:** confirmar año, grado e identificador (el auditor vio fwo_959748 como "1882 TTB" y fwo_601499 con dos títulos).
-- Libro de Dabbah y hilo NGC del 1883/2: ver arriba.
+(Actualizadas en la revisión del 2026-11-12/13; entre paréntesis, lo intentado.)
+- **Facsímil del cuadro mensual de 1883 de Agote (F-0204, pp. 354–355):** ver la imagen para asignar las 40 cifras de junio a diciembre a cada denominación y confirmar los 20 c de octubre a diciembre (en la revisión se comprobó la suma, no la asignación). Lo mismo para 1882.
+- **Facsímil de la Memoria de la Casa de Moneda 1884 (F-0028):** cantidad de 20 c promediada por Kyle (119.000 o 112.000), fecha de su informe (7 u 8/01/1885) y fecha de la Memoria ("1886").
+- **Wikisource, "Bancos y moneda. Recopilación de leyes y decretos 1854 á 1890"** y "Decreto reglamentario de la ley de moneda (1881)": el dominio es inaccesible desde el entorno (url_not_found y PROVENANCE_REQUIRED en cuatro URL, revisión). Buscar copia en Google Books, HathiTrust o el Registro Nacional del CDI (cdi.mecon.gob.ar, colección registr1) y en bdu.siu.edu.ar (Registro Nacional 1881–1884).
+- **Agote, Libro III (1885) y IV:** no aparecieron en ninguna búsqueda (investigación y revisión).
+- **NGC:** hilo topic 174496 sobre el 1883/2 (la URL aparece en búsquedas pero da client_error, dos sesiones); guía de precios KM 27 y censo (client_error). PCGS CoinFacts/población (no apareció).
+- **Heritage 61372, lote 22007:** no aparece en búsquedas; la venta y el lote vecino 22009 sí. Probar PCGS Auction Prices o un listado de CoinArchives de febrero de 2024.
+- **Stack's Bowers 3-ROJZZ y 3-ROK12:** aparecen en búsquedas, dan client_error (dos sesiones).
+- **Venta Pat Johnson (NumisBids 5941):** client_error; CoinWeek no menciona la Argentina.
+- **Dabbah, libro de errores (2017):** solo se leyó el índice en Scribd; monedasuruguay.com/bib/d/dabbah.pdf sigue con client_error (octava vez).
+- **Gancedo (F-0134):** la clave A–Q solo está en fotos; habría que ver las imágenes del PDF.
+- **Report of the Director of the Mint (EE. UU.) 1882–1885 y Royal Mint 1882–1885:** FRASER solo da fichas sin texto; el visor de la Royal Mint no tiene texto (revisión).
+- **Ley 3.871 (1899)**, Memorias de la Caja de Conversión y decretos de retiro de la plata menor: sin texto en línea (revisión).
+- **El Mosquito 1882 (LOC/WDL, gdcwdl.wdl_08180 y 08152):** caricaturas de la época; client_error.
+- **Mulhall, *Handbook of the River Plate* (1885), p. 102 "Moneys, weights":** sin vista del texto; buscar copia en archive.org.
+- **Diccionarios:** cotejar en imagen la entrada CHIROLA de Segovia (abreviatura "CH.") y buscar "chirola" en el *Tesoro de catamarqueñismos* de Lafone Quevedo; artículo de lexicografía de la UNLP (olivar.fahce.unlp.edu.ar, OLIe051) sin texto legible.
+- **Pedro Agote:** confirmar si el presidente del Crédito Público es el catamarqueño de 1816–1909 [F-0324].
+- Conuvi, "Serie Patacón" (server_error); otros registros SURDOC (24-2628, 24-2945) sin abrir (el 30-1581 resultó un 20 c chileno).
 - Prensa de 1881–1884 en hemerotecas no digitalizadas en línea.
 
 ## Supuestos
 - **Las 119.000 piezas de 1884 llevarían fecha 1883.** Se apoya en que se hicieron "para consumir la existencia" poco después de la ley de octubre de 1883 [F-0028], con los cuños en uso, y en que no se conoce ningún 20 c fechado 1884 [F-0203, F-0230, F-0229]. Si fuera así, los 20 c con fecha 1883 serían 1.629.950 (cálculo propio). · supuesto
-- **El "3/3 de módulo menor" del catálogo de referencia y el "1883/2 inverted 2" del mercado podrían ser la misma marca vista de dos maneras:** un 2 rotado debajo del 3 deja trazos curvos que pueden leerse como un 3 más chico. Se apoya en que ambos describen una cifra debajo del 3 de 1883 y en que el catálogo no tiene ninguna entrada "1883/2" [F-0203, F-0288, F-0290]. Para confirmarlo hay que comparar fotos ampliadas o leer el artículo de Dabbah [F-0308]. · supuesto
-- **La reutilización de cuños de 1882:** si todas las piezas de 1883 tuvieran un 2 debajo del 3, como sostiene Dabbah [F-0308], la Casa habría corregido a mano matrices o cuños fechados 1882; la "base superior … con retoque de cuño" del CJ 20.3 [F-0203] iría en el mismo sentido. Ninguna fuente leída explica el mecanismo. · supuesto
+- **El "1883/2 inverted 2" del mercado correspondería a alguna de las variantes del 3 del catálogo de referencia:** la sesión de investigación lo vinculó al "3/3 de módulo menor" (CJ 20.6), porque un 2 rotado debajo del 3 deja trazos curvos que pueden leerse como un 3 más chico [F-0203, F-0288, F-0290]; en la revisión, un vendedor lo asocia en cambio al CJ 20.3, el "3 recto … con retoque de cuño" [F-0325], que coincide con el retoque a mano que describe Dabbah [F-0308]. Hace falta comparar fotos ampliadas. · supuesto
+- **Si Dabbah tiene razón, todas las variantes de posición del 3 vendrían de un mismo origen:** el último dígito se punzonaba a mano sobre cuños "fechados 188--" [F-0308], de modo que cada cuño tendría el 3 en una posición algo distinta (cercano, caído, elevado [F-0203]); y como el 3 salía de un punzón de 2 retocado, la marca del 2 estaría en todas, más o menos visible según el cuño y el desgaste. Eso explicaría que el mercado la vea solo en algunas piezas. Se apoya en el texto de Dabbah y en la lista de variantes del catálogo; ningún documento de la Casa lo confirma. · supuesto
 - **El 2.018 de 1881 no es una cifra redonda como el 1.020 del 50 y el 10 c** [F-0163]: el 20 c habría tenido en 1881 una tanda propia, quizás porque la Casa priorizó el cambio chico. Ningún documento lo dice. · supuesto
 - **Por qué el 20 c dominó a mediados de 1882** (367.043 al 6/07/1882 [F-0163]): el 20 c equivalía a la chirola boliviana, la moneda de cambio corriente [F-0306, F-0307], y su emisión reemplazaba al instante la pieza que el público conocía. Se apoya en la equivalencia de peso (4,70–5 g contra 5 g) y en que la Casa reacuñaba chirolas [F-0204, F-0028]. · supuesto
-- **El 20 c habría heredado el nombre "chirola" o "peseta" en el habla:** la peseta aparece en una obra extranjera [F-0305] y la chirola era su equivalente boliviano [F-0306]; ninguna fuente argentina lo registra. · supuesto
+- **El 20 c no habría tenido nombre propio en el habla:** en 1910–1911 los diccionarios argentinos definen la chirola como la pieza boliviana de 20 c (Segovia) o como cualquier moneda chica, sobre todo de níquel (Garzón) [F-0315, F-0316], y ninguno la liga al 20 c de plata; "peseta" solo aparece en una obra extranjera [F-0305]. La sesión de investigación había planteado que el 20 c heredara el nombre de chirola o peseta; la revisión no encontró apoyo y el supuesto se debilita: lo más probable es que el nombre de la chirola boliviana pasara a la moneda chica en general (el níquel desde 1896), no a esta pieza. · supuesto
 - **El "1/01/1896" de Numista** podría venir de la Ley 3.321 de níquel, que no nombra la plata [F-0286, F-0221]. · supuesto
 - **El "top pop" de 2023 y el MS64 vendido por Heritage en febrero de 2024 podrían ser la misma pieza**, vendida cuatro meses después: ambos son 1881 de NGC con el mejor grado conocido [F-0287, F-0286]. Hay que ver el lote de Heritage. · supuesto
 - **El lote 196 de 2024 y el 172 de 2025 de Río de la Plata serían piezas distintas**, por grado y peso (AU 4,83 g contra XF limpiada 4,93 g) [F-0292, F-0103]. · supuesto
 - **Las fechas de 1967 son un traslado del cuproníquel:** el catálogo que las da para la plata repite exactamente las del 20 c de 1896 del BCRA [F-0240, F-0257]. · supuesto (muy probable)
+- **"Paralizó" en octubre de 1883 significaría que se dejó de comprar plata, no de acuñar:** Agote dice que desde la ley del 4/10/1883 la acuñación quedó "limitada al metal existente", 3.284 kg [F-0204]; con ese metal se habrían hecho los veintes de octubre a diciembre que sugiere el cuadro mensual [F-0204 · a confirmar] y, después, las 289.000 fracciones de 1884 [F-0028]. Las fracciones de 1884 llevan 2.139,9 kg de plata fina según el agente que leyó la Memoria [F-0028 · a confirmar]. · supuesto
 - **Destino del metal:** como el patacón y el 50 c, después de 1889 el metal valió más que el papel y las piezas se habrían atesorado o fundido [ver series 03 y 04]. No hay documento propio del 20 c. · supuesto
 - **Puntos de desgaste:** como en el peso, primero el gorro frigio y el cabello sobre la frente y la oreja de la Libertad; del lado del escudo, el sol y las moharras (regla general del proyecto, CONTEXTO.md, y lo que miran las casas en el peso [F-0171, F-0183]). En un módulo de 23 mm el relieve es más bajo y la fecha, chica, se gasta pronto; por eso las variantes de posición de dígitos se leen mejor en piezas poco gastadas. · supuesto
 - Solo se conoce la presentación suelta. · supuesto
-- **Rareza por estado:** el 1882 y el 1883 aparecen seguido en XF–AU a 12–50 € y en NGC/PCGS MS61–MS64 a USD 75–700 [F-0293, F-0298, F-0288, F-0290]; el 1881 casi no aparece en ningún estado (dos piezas con grado limpio en NGC en 2023 [F-0287]). La escasez del 1881 sería absoluta, no solo por estado. · supuesto
+- **Rareza por estado:** el 1882 y el 1883 aparecen seguido en XF–AU a 12–50 € y en NGC/PCGS MS61–MS64 a USD 75–700 (en la revisión, MS62 a USD 85 y MS64 a 329 € [F-0211, F-0330]) [F-0293, F-0298, F-0288, F-0290]; el 1881 casi no aparece en ningún estado (dos piezas con grado limpio en NGC en 2023 [F-0287]). La escasez del 1881 sería absoluta, no solo por estado. · supuesto
 
 ---
 
