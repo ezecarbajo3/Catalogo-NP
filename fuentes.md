@@ -3599,7 +3599,7 @@ Formato de cada entrada:
 - Autor / institución: El Puesto de Liliana (blog)
 - URL: https://elpuestodeliliananumismatica.blogspot.com/2015/12/chirola.html
 - Archivo (Internet Archive): a buscar
-- Nivel: 4
+- Nivel: 4 — copia del texto de F-0318 (no es fuente independiente)
 - Consultada: 2026-11-16 (agente de nivel 4)
 - Cita clave: "Era una moneda boliviana de plata, cuyo valor facial es veinte centavos (quinta parte de UN Peso Boliviano)" (mismo texto que F-0318).
 - Usada en: serie 05
