@@ -63,6 +63,7 @@ Formato de cada entrada:
 - Cita clave: 29/09/1875 "creada por Ley Nº 733 Casa de Moneda de la Nación"; 14/02/1881 el Ing. Eduardo Castilla "inaugura la Ceca ubicada en las intersecciones de las calles México y Defensa".
 - Usada en: serie 01, temas/casa-de-moneda.md, serie 03, serie 04
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 1) la línea de tiempo menciona la "Ley Nº 1.130 de Unificación Monetaria" en la entrada de 1875 (error de la página); no menciona la plata ni su suspensión.
 ### F-0005
 - Título: Supuestos ensayos argentinos de 1880
 - Autor / institución: Ariel Dabbah y Jorge Madonna — IFINRA
@@ -108,6 +109,7 @@ Formato de cada entrada:
 - Cita clave: "el Argentino, de 5 pesos de 8,0645 gramos"; "Según el artículo 4 la acuñación de monedas de oro sería ilimitada"; la convertibilidad 1 peso oro = 1 peso papel del gobierno de Roca "ya en 1885 [...] se suspendió".
 - Usada en: serie 01, temas/ley-1130-unificacion-monetaria.md
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 1) enumera la plata de la Ley 1130 con un "5 centavos" y el tope de "4 pesos por cada habitante"; nada sobre el retiro de la plata. Usada también en serie 05.
 ### F-0009
 - Título: Argentina: Republic gold 5 Pesos (Argentino) 1896 AU58 NGC — Lote 23010, subasta 61565
 - Autor / institución: Heritage Auctions, 3/11/2025
@@ -512,6 +514,7 @@ Formato de cada entrada:
 - Cita clave: "$7,000,000 of this gold fund were used to take up the so called hard-dollar bonds"; otros 21 millones vendidos por el Banco Nacional "to arrest the depreciation of the forced paper currency".
 - Usada en: serie 01
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 2) el despacho llama a Agote "president of the national public credit department of this Government" (18/09/1889). Usada también en serie 05.
 ### F-0047
 - Título: ¿Qué es el Argentino Oro?
 - Autor / institución: Ámbito Financiero, 02/02/2023
@@ -895,6 +898,7 @@ Formato de cada entrada:
 - Cita clave: p. cccxxiv: "La acuñación de monedas de oro es ilimitada." (solo fragmento de vista previa; según el agente, sigue: "La acuñación de plata no excederá de cuatro pesos por cada habitante de la República…"). Volúmenes siguientes en Google Books: vol. 2 (1884) ICUy-ddZtDwC, vol. 3 (1885) PnbIxlANcH8C, vol. 4 (1887) kjNyCFElb9EC (no leídos).
 - Usada en: serie 01, serie 03
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): la sesión principal reabrió la ficha de Google Books (books.google.ci, id=1YdDBXHjAjwC): el fragmento de la p. cccxxiv dice "La acuñación de monedas de oro es ilimitada. La acuñación de plata no excederá de cuatro pesos por cada habitante de la República, y…"; la herramienta lo ubica como artículo 4.° de una disposición sobre acuñación, sin nombrar la ley. Usada también en serie 05.
 ### F-0085
 - Título: La Caisse de Conversion de la République Argentine (tesis doctoral, Facultad de Derecho de Neuchâtel; Lyon, Bosc Frères M. & L. Riou, 1938)
 - Autor / institución: Egas de Ezcurra — Université de Neuchâtel
@@ -1606,6 +1610,7 @@ Formato de cada entrada:
 - Cita clave: "½ Argentino … 4.032 g … (dated 1884)"; la acuñación se detuvo por razones técnicas (cita el catálogo de Janson de 2002).
 - Usada en: serie 02, serie 03
 - Revisión 2026-11-07 (serie 03): Ley 974 "de 16 de septiembre" (1879), modificaba la Ley 911 de 1877 y conservaba el peso de plata de 25 g; la plata se suspendió después de 1883 "porque el precio del metal seguía subiendo" (error probable).
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 1 y relectura de la sesión principal) el Banco de la Provincia de Buenos Aires pidió billetes fraccionarios el 24/04/1882, "Impresos en diciembre de 1882", con fecha 1/01/1883 y en centésimos de peso oro; a principios de 1883 el Ministerio de Hacienda "solicitó que, en lugar de billetes fraccionarios, se utilizaran las monedas de 10, 20 y 50 centavos", que "se habían acuñado en cantidades suficientes" (sin cita documental). También: las fracciones de plata se acuñarían "solo a 4 pesos per cápita"; "La fecha de 1881 es rara para monedas de 10 a 50 centavos"; la plata se suspendió "debido al aumento constante del precio de este metal" (cita a Janson 2002; error probable). Usada también en serie 05.
 ### F-0155
 - Título: Museum rooms / Salas del museo
 - Autor / institución: Banco Central de la República Argentina, Museo Histórico y Numismático "Héctor Carlos Janson"
@@ -1805,6 +1810,7 @@ Formato de cada entrada:
 - Cita clave: ley paraguaya de 1889, tres millones de "pesos fuertes"; 240 cajones de 2.500 pesos (600.000); cuños de Gotuzzo y Ferrarosa; José Domingo terminó la acuñación; "el canto utilizado en el patacon paraguayo es el canto argentino" (p. 6); pruebas de 1888 en aluminio, cobre y plata; 9 abierto y 9 cerrado; "la mayoría se fundieron para hacer mates y bombillas" (p. 7); falsas chinas y una falsa de época de dos chapas soldadas (p. 7).
 - Usada en: serie 03
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 2 y relectura de la sesión principal) p. 3: "En la actualidad se ven muchas reacuñaciones de las de 20, 10 y 5 centavos", "diseños acuñados sobre monedas argentinas ya sean en plata o incluso en cobre"; no se puede saber si son de época; no dice qué monedas argentinas sirvieron de base. Usada también en serie 05.
 ### F-0174
 - Título: Folleto Numismático n.º 11 (sobre los 2 centavos de Paraguay 1900/1903/1908)
 - Autor / institución: Raúl Olazar — monedasuruguay.com
@@ -2090,6 +2096,7 @@ Formato de cada entrada:
 - Cita clave: la conversión se levantó "because of silver-to-gold price fluctuations"; billetes de 1883 resellados "LEY 14 OCTUBRE 1885".
 - Usada en: serie 03 (pista)
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de ronda 2) el índice de capítulos de Urs Graf (https://multicollec.net/3-bi-h1/3h131-An) termina en el capítulo 31 ("... to be continued ..."); el AR-31-3 (https://multicollec.net/3-bi-h1/AR-31-3-An.pdf) trata solo los billetes en pesos m/n oro; el AR-31-1 dice que el Banco Nacional "was no longer allowed to issue fractional notes" bajo la Ley 1130. No hay capítulo publicado sobre la emisión menor de 1884. Usada también en serie 05 (constancia).
 ### F-0202
 - Título: Argentina 1882 peso PCGS AU50 (aviso)
 - Autor / institución: eBay (vendedor RMWorldCoins)
@@ -2202,6 +2209,7 @@ Formato de cada entrada:
 - Revisión 2026-11-10 (serie 04, revisión): la página de resultados de CoinArchives F-0275 describe el lote 953 de CNG E-Auction 619 como "1883, Buenos Aires mint, silver, iridescent toning, PCGS MS 62" (est. USD 100, realizado USD 600) y el lote 73058 de Stack's Bowers como lote de cuatro piezas, est. USD 700–1.000, realizado USD 600.
 - Revisión 2026-11-13 (serie 05, revisión; agente de nivel 3): en la consulta del 13/11/2026 figura Heritage Showcase 61665 (1/11/2026), lote 24006, "Argentina Republic 20 Centavos 1882 MS62 NGC, KM27", USD 85 (sin indicar si incluye comisión). Ningún 1881 ni 1883 en los primeros 100 de 1.961 resultados.
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 3) Katz Coins Notes & Supplies Europe, E-Auction 225 (30/10/2026), lote 2232: 20 c 1882 sin certificar, "Silver (.900) 5.00 g.; UNC with mint luster", salida 5 €, realizó 48 €.
 ### F-0212
 - Título: Sedwick, Treasure, World & U.S. Coin & Paper Money Auction 26, lote 597 (1882 NGC AU58, J-13.1.1)
 - Autor / institución: Daniel Frank Sedwick
@@ -2252,6 +2260,7 @@ Formato de cada entrada:
 - Cita clave: Comunidad. "el patacon de 1881 una de las mas dificiles" (IVON, 4/10/2009).
 - Usada en: serie 03
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 4) t3818: Mdelvalle (16/08/2009) muestra la serie con un "20 Centavos de plata"; PaNcHo (17/08/2009) consiguió "las de plata de 10 y 20 centavos a través de un regalo de dinero". Usada también en serie 05.
 ### F-0217
 - Título: "Historia del único Patacón de Oro de 1881" (post de DANCE35, 29/10/2011)
 - Autor / institución: Foro Imperio Numismático
@@ -2313,6 +2322,7 @@ Formato de cada entrada:
 - Cita clave: En 1896 se interrumpieron todas las acuñaciones; "los valores de plata ya habían sido suprimidos en 1884".
 - Usada en: serie 03
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de ronda 2) la página de Billetes Argentinos fecha la Ley 3.321 el 14/12/1895 (F-0221 da el 2/12/1895) y pone la Libertad en el anverso. Usada también en serie 05.
 ### F-0223
 - Título: Wikisource, "Ley 974 (no promulgada ni vetada) sobre acuñación de moneda" (título visto en resultado de búsqueda; página no abierta: url_not_found)
 - Autor / institución: Wikisource
@@ -2417,6 +2427,7 @@ Formato de cada entrada:
 - Cita clave: Decreto 45.560 (27/10/1939); "La nueva moneda de 50 centavos reemplazaba al billete del mismo valor"; canje desde el 23/03/1941; 11.044.714 acuñadas (Casa de Moneda); fundidas 2.365.000 en 1944; el billete de 50 c volvió el 19/05/1942. No menciona el 50 c de plata de 1881–1883.
 - Usada en: serie 04
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 1 y relectura de la sesión principal) "el Decreto N° 76.714 de fecha 12 de noviembre de 1940, del Vicepresidente Ramón S. Castillo"; anverso con "el busto de la Libertad tradicional"; el Banco Central había objetado los cuños dibujados en el extranjero y pidió adaptar los diseños de las monedas de 5, 10 y 20 centavos (de cuproníquel). Fuente del autor: Memoria de Hacienda 1940, t. II, pp. 97–98. No menciona el 20 c de plata ni las dimensiones del busto. Usada también en serie 05.
 ### F-0233
 - Título: "La Compañía Sudamericana de Billetes de Banco" y "Cartas de lectores"; reseña de *Cartas E. Oudiné* — Cuadernos de Numismática y Ciencias Históricas, t. XXIX, n.º 125 (diciembre de 2009)
 - Autor / institución: Daniel H. Villamayor y otros — Centro Numismático Buenos Aires (PDF en monedasuruguay.com)
@@ -2856,6 +2867,7 @@ Formato de cada entrada:
 - Cita clave: Río de la Plata Online Auction 27 (22/09/2026): lote 217, 1882 AU/UNC, 12,5 g, est. USD 100–150, realizó USD 80; lote 218, 1883 UNC, est. USD 80–120, realizó USD 80. CNG E-Auction 619, lote 953: "1883, Buenos Aires mint, silver, iridescent toning, PCGS MS 62", est. 100, realizó 600. Stack's Bowers CCO, lote 73058: cuatro piezas con un 1883 PCGS MS64, est. 700–1.000, realizó 600.
 - Usada en: serie 04
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 3) Río de la Plata, Online Auction 27 (22/09/2026): lote 219, 20 c 1882 AU, "Plata 900; 23.3mm; 5.00g. CJ 18; KM27", realizó USD 35; lote 220, 20 c 1883 AU, "Plata 900; 23mm; 5.0g. CJ 20; KM27. (AU) Bella pátina", realizó USD 40. Usada también en serie 05.
 ### F-0276
 - Título: eBay — categorías "Silver NGC Certified Argentine Coins" y "Silver 1882 Year Argentine Coins"
 - Autor / institución: eBay
@@ -3041,6 +3053,7 @@ Formato de cada entrada:
 - Usada en: serie 05
 - Revisión 2026-11-13 (serie 05, revisión): fwo_959747 confirmado (agente de nivel 4): 20 c 1883 MBC/XF, 4,90 g, eje 6 h, vendido en 30 € en 2025 (https://www.cgbfr.com/argentine-20-centavos-1883-ttb,fwo_959747,a.html). Nueva ficha fwo_1113123 (agente de nivel 3): 20 c 1882 TTB, 5,00 g, 23 mm, eje 6 h, "Traces de nettoyage", vendido en 30 € en 2026 (https://www.cgbfr.com/argentine-20-centavos-1882-ttb,fwo_1113123,a.html).
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 3) fwo_1062654: 1883 AU, 4,93 g, 23 mm, 6 h, 40 €, "Item sold on our e-shop (2026)" (https://www.cgbfr.com/argentine-20-centavos-1883-ttb-,fwo_1062654,a.html); fwo_758960: 1883 XF, 4,99 g, 23 mm, 30 €, vendido en 2023 (https://www.cgbfr.com/argentina-20-centavos-1883-xf,fwo_758960,a.html); fwo_1051320: 1883 AU, 5,00 g, 23 mm, 50 € (oferta; https://www.cgbfr.com/argentina-20-centavos-1883-au,fwo_1051320,a.html); fwo_831588 (1883 PCGS MS63, 75 €): "Item sold on our e-shop (2025)". Las fichas del 1883 dan "Quantity minted: 1,511,000" (cifra redondeada de catálogo, pista).
 ### F-0294
 - Título: HobbyRay — 20 centavos 1883 (aviso de eBay archivado, 24/07/2019)
 - Autor / institución: HobbyRay
@@ -3071,6 +3084,7 @@ Formato de cada entrada:
 - Cita clave: 4645: "CJ#19.2 (2 Cercano al 8)", "Anverso Estrella/Estrella", EXC-, USD 35; 784: "Anv 'A' Cortada – Doble Golpe en Año (1882)", MB, USD 40.
 - Usada en: serie 05
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agentes de nivel 4 y ronda 2) ficha "Argentina 20 Centavos 1883 CJ20.4 Ag EXC": "CJ#20.4 (3 Caido)"; "Observaciones: Estrella/Estrella"; USD 40 (https://filacor.com/serie-patacones-1881-1896/4653-argentina-20-centavos-1883-cj204-ag-exc.html).
 ### F-0297
 - Título: BINUMIS — listado "Serie Patacón, plata"
 - Autor / institución: Numismática BINUMIS
@@ -3081,6 +3095,7 @@ Formato de cada entrada:
 - Cita clave: "Argentina 20 Centavos 1883 CJ#20.2/Km#27 Unc" ARS 102.399; "Argentina 20 Centavos 1882 CJ#19.1/Km#27 VF+" ARS 51.199,50.
 - Usada en: serie 05
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 4) ficha "20 Centavos de Patacón de 1883 CJ#20.5 / (3 Elevado) Plata 0.900", VF, ARS 36.554, consultada el 16/11/2026 (https://www.numismaticabinumis.com.ar/monedas/argentinas/serie-patacon/20-centavos-1883-vf-cj205-3-elevado-km27).
 ### F-0298
 - Título: Sedwick, Treasure Auction #6 (22/10/2009), lote 1211: Argentina 20 centavos 1882 NGC MS-61
 - Autor / institución: Daniel Frank Sedwick
@@ -3363,6 +3378,7 @@ Formato de cada entrada:
 - Cita clave: "1883/2 PCGS MS 64 Argentina 20 Centavos Inverted 2 Coin POP 1/0 (24111901C)" USD 695; "Argentina 1883/2 Inverted 20 Centavos PCGS MS62 Pop 1/1~Janson-20.3, Scarce" USD 339; 1883 PCGS MS63 USD 132,99; 1883/2 "UNC / MS Satin pearlescent" sin certificar USD 109,74; 1883/2 XF USD 60,87; 1883 "Doubled REV" USD 69.
 - Usada en: serie 05
 
+- Revisión 2026-11-16 (serie 05, cierre de la revisión): (agentes de niveles 3 y 4) eBay 357608566834: lote de dos 1882 "VF-XF" sin certificar, USD 79 (oferta). El 1883/2 XF de USD 60,87 es el ítem 124856429860 (vendedor spcoinshop, Lubbock, Texas; actualizado el 17/07/2026); el 1883 "Doubled REV" de USD 69, el ítem 304654030807 (vendedor constitutionclct).
 ### F-0326
 - Título: Avisos de eBay archivados del 20 c 1882 (HobbyRay OUNY, 24/07/2019; HobbyRay Nb0K, 29/10/2017; CoinsHome jEXvf, 23/12/2020)
 - Autor / institución: HobbyRay / coinshome.net (agregadores de avisos)
@@ -3441,4 +3457,176 @@ Formato de cada entrada:
 - Nivel: 4 — SOLO PISTA
 - Consultada: 2026-11-13 (agente de la ronda 1, nivel 4)
 - Cita clave: "Common coin" (todo el tipo, sin distinguir 1881); 23,3 mm.
+- Usada en: serie 05
+
+### F-0334
+- Título: 20 centavos 1884 — Argentina (Pick 7), ficha de billete
+- Autor / institución: koguja.ee (catálogo de coleccionistas)
+- URL: https://www.koguja.ee/en/banknotes/20-centavos-1884-6esv
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 — SOLO PISTA (catálogo)
+- Consultada: 2026-11-16 (releída por la sesión principal)
+- Cita clave: Banco Nacional, 1/01/1884, Ley del 4/10/1883; American Bank Note Co.; 118 × 63 mm; anverso negro sobre fondo marrón rojizo claro, escudo a la izquierda y Mitre a la derecha; reverso "Brown, with a steer's head at the center"; firmas Agustín Roca, Ángel Sastre, Wenceslao Pacheco (tres variedades de firma).
+- Usada en: serie 05
+### F-0335
+- Título: p7a: 20 Centavos from 1884 (Argentina)
+- Autor / institución: RealBanknotes
+- URL: https://www.realbanknotes.com/banknote/10661-Argentina-p7a-20-Centavos-from-1884
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 — SOLO PISTA (catálogo)
+- Consultada: 2026-11-16 (releída por la sesión principal)
+- Cita clave: "L. 1883 Second Issue, Notes Dated 1884"; Banco Nacional; ABNC; escudo a la izquierda, Mitre a la derecha; reverso marrón con cabeza de novillo; dos variedades de numeración y tres de firma.
+- Usada en: serie 05
+### F-0336
+- Título: Fichas de catálogo del billete de 20 centavos de 1884 de B. Lange (Pick 3): abanknote.com y Numisquare
+- Autor / institución: abanknote.com; Numisquare
+- URL: https://www.abanknote.com/banknote/argentina/20/centavos/1884/4031 ; https://www.numisquare.com/20-centavos-1884-7908613660.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 — SOLO PISTA (catálogo)
+- Consultada: 2026-11-16 (agente de nivel 2)
+- Cita clave: "LEY DE 4 DE OCTUBRE 1883"; "B. Lange B. Aires"; 112 × 68 mm; anverso negro sobre fondo verde, Mitre al centro, escudo abajo; reverso naranja "20 Veinte Centavos"; firmas AR y WP. Numisquare registra un P3a (fondo marrón rojizo claro) y un P3b sin fondo, serie P, "not issued".
+- Usada en: serie 05
+### F-0337
+- Título: Historia del Banco de la Provincia de Buenos Aires 1822–1997, tomo I (Macchi, 1997); cap. VI, "La nueva organización del Banco de la Provincia de Buenos Aires frente al apogeo y crisis del liberalismo"
+- Autor / institución: Talía Violeta Gutiérrez (cap. VI); obra colectiva del Banco de la Provincia de Buenos Aires
+- URL: https://monedasuruguay.com/bib/b/bprov1.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-16 (agente de nivel 2; releída por la sesión principal (desde el carácter 400.000))
+- Cita clave: p. 191: "Se limitaba además la acuñación de monedas de plata a $ 4 por habitante", en línea con "la tendencia mundial a la desmonetización de la plata"; p. 197: pie con "submúltiplos (50, 20 y [10] centavos de plata)"; en octubre de 1883 "se implantó de hecho el monometalismo prohibiendo a los bancos emitir billetes que no fueran pagaderos en oro" y se prohibió "la circulación de monedas extranjeras de plata"; p. 199: "Billete de 50 centavos, emitido por la Nación, el 1º de enero de 1884, según ley del 4 de octubre de 18[83]"; cita el Informe de Agote, t. IV (1887).
+- Usada en: serie 05
+### F-0338
+- Título: Cuentos de Fray Mocho (Project Gutenberg n.º 75613; ed. Buenos Aires, Vaccaro, 1920; introducción de Miguel Cané, 24/08/1903)
+- Autor / institución: José S. Álvarez ("Fray Mocho")
+- URL: https://gutenberg.org/ebooks/75613.epub.noimages
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (literatura de época)
+- Consultada: 2026-11-16 (agente de nivel 2; releída por la sesión principal (primeros 100.000 caracteres))
+- Cita clave: "Instantánea": "nunca falta un danificao que me largue un vainte"; "Pechadores": "¿No tiene ni a'nque sea un váinte pa'l pobre milico?" (lectura del agente); "Llévese esos veinte centavos". Cuentos de 1890–1903: posteriores a la plata; el nombre llano de la pieza es "un veinte".
+- Usada en: serie 05
+### F-0339
+- Título: John Joseph Jolly Kyle (ficha biográfica)
+- Autor / institución: Prabook (derivado de enciclopedias)
+- URL: https://prabook.com/web/juan.john_joseph_jolly_kyle/2230310
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-16 (agente de nivel 2)
+- Cita clave: "chief chemist to the Casa de Moneda de la República Argentina (the Argentine Mint) in 1881"; aprendiz de farmacia en Edimburgo (1851), ayudante de Stevenson Macadam; farmacéutico del ejército en la guerra del Paraguay; profesor del Colegio Nacional (1871) y de la UBA; dirigió la primera tesis doctoral de química del país (1901).
+- Usada en: serie 05
+### F-0340
+- Título: Eugène-André Oudiné (fichas de autoridad): museum-digital y Science Museum Group
+- Autor / institución: museum-digital; Science Museum Group
+- URL: https://global.museum-digital.org/people/70061 ; https://collection.sciencemuseumgroup.org.uk/people/cp108980
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-16 (agente de nivel 2)
+- Cita clave: museum-digital: "born in Paris on 1 January 1810" (su fuente es Wikipedia, 2021; no independiente); Science Museum: 1810–1887, Prix de Rome 1831.
+- Usada en: serie 05
+### F-0341
+- Título: Monedas Argentinas no emitidas 2013-2017 — El Correo de las Canteras n.º 91 (febrero de 2023), pp. 26–33
+- Autor / institución: Ariel Dabbah — Centro Numismático de las Sierras del Tandil
+- URL: https://www.monedasuruguay.com/bib/cnst/cnst091.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-16 (agente de nivel 2)
+- Cita clave: Nota al pie: "Numismático e investigador, autor de varios artículos y libros". No trata la plata de 1881–1883.
+- Usada en: serie 05
+### F-0342
+- Título: El 90. La crisis económica y política vista desde la gráfica satírica de la época — Temas de Historia Argentina y Americana (UCA), pp. 132–143
+- Autor / institución: Andrea Matallana
+- URL: https://e-revistas.uca.edu.ar/index.php/THAA/article/download/5496/6123/19214
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-16 (agente de nivel 2)
+- Cita clave: Trata El Mosquito y Don Quijote en 1890–1891; no toca la Casa de Moneda ni la plata (constancia negativa para 1881–1885).
+- Usada en: serie 05
+### F-0343
+- Título: Registro Nacional de la República Argentina, Tercera Parte (1874–1890), tramo enero–julio de 1882
+- Autor / institución: Centro de Documentación e Información, Ministerio de Economía (colección registr1)
+- URL: https://cdi.mecon.gob.ar/greenstone/collect/registr1/index/assoc/HASH7348.dir/doc.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-16 (agente de nivel 1 (≈500.000 caracteres, OCR muy deteriorado))
+- Cita clave: Decreto de enero de 1882: desde el 1/02/1882 "todas las liquidaciones tengan la equivalencia en moneda nacional" (cita la ley del 5/11/1881 y un decreto del 2/11 sobre la relación entre monedas); sin decretos sobre la Casa de Moneda, la plata o los cuños en ese tramo.
+- Usada en: serie 05
+### F-0344
+- Título: Annual Report of the Secretary of the Treasury on the State of the Finances, 1885 (incluye el informe del Director of the Mint, 9/10/1885)
+- Autor / institución: U.S. Department of the Treasury — FRASER
+- URL: https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/annual-report-secretary-treasury-state-finances-year-1885-5530/fulltext
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-16 (agentes de nivel 1 y de ronda 2 (texto completo en tramos))
+- Cita clave: "Monetary Statistics of Foreign Countries" (pp. 191–203) cubre Uruguay, Brasil, Bolivia, Perú, Venezuela y México, no la Argentina; la tabla "Coinage of various countries" (Appendix XLVI) no está en el texto extraído (constancia negativa).
+- Usada en: serie 05
+### F-0345
+- Título: Informes del Director of the Mint de EE. UU. con datos de otros países: ficha FRASER del año fiscal 1884 y Report … upon the Production of the Precious Metals (1887), Google Books
+- Autor / institución: U.S. Mint — FRASER; Google Books
+- URL: https://fraser.stlouisfed.org/title/united-states-mint-annual-report-9404/fiscal-year-ended-june-30-1884-701456 ; https://books.google.com/books/about/Report_of_the_Director_of_the_Mint_Upon.html?id=wuoQ8kBXuWcC
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (no leídos: pistas)
+- Consultada: 2026-11-16 (agente de ronda 2)
+- Cita clave: El índice del informe de 1887 trae "Argentine Republic" (p. 100) y "Coinage of the various countries of the world" (p. 65); el PDF de 1884 dio PROVENANCE_REQUIRED.
+- Usada en: serie 05
+### F-0346
+- Título: 20 centavos (Argentina), ficha N-7086 del catálogo comunitario
+- Autor / institución: Foronum (usuarios)
+- URL: https://en.foronum.com/coins-catalog/argentina/n-7086-20-centavos
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-16 (agente de nivel 4)
+- Cita clave: Entradas 1881 (2.018, "Muy rara"), 1882 (762.027, "Rara"), 1883 (1.510.950) y "1883 – Muy rara – Numero 3 elevado"; precios calculados por usuarios: 1882 de 19,07 € a 52,89 €, 1883 de 24,23 € a 34,04 €, "3 elevado" 20 € en F; ofertas de canje de 20 a 45 € (80 € por un 1882 XF); un usuario declara 1881, 1882 y 1883 "PROOF" (sin verificar).
+- Usada en: serie 05
+### F-0347
+- Título: Imperio Numismático, hilos t15108 ("20 centavos 1883 Argentina", 2010) y t98418 ("20 centavos de Patacón. Argentina. 1883.", 2015)
+- Autor / institución: Foro Imperio Numismático (usuarios jose luis lopez, danielmc87, numismatico2013, koldomi, zingaro)
+- URL: https://www.imperio-numismatico.com/t15108-20-centavos-1883-argentina ; https://www.imperio-numismatico.com/t98418-20-centavos-de-patacon-argentina-1883
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-16 (agentes de nivel 4 y de ronda 2)
+- Cita clave: t15108 (30–31/08/2010): el 1883 tendría "unas 6 variantes"; "9 decimos de fino, osea .900 de pureza en plata". t98418 (19–30/06/2015): "una moneda muy bella y armoniosa que se salvó de ser medalla"; otro usuario celebra que no terminara como hebilla; "la ley de esta pieza es de 9 dineros, o lo que es lo mismo, 750 milésimas" (error).
+- Usada en: serie 05
+### F-0348
+- Título: argentina. 20 centavos de plata. 1882. (lote 148598884)
+- Autor / institución: todocoleccion
+- URL: https://en.todocoleccion.net/old-coins-america/argentina-20-centavos-plata-1882~x148598884
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-16 (agente de nivel 4)
+- Cita clave: 1882 EBC, 23,3 mm, 5 g, subastado el 9/09/2026; precio no visible sin sesión.
+- Usada en: serie 05
+### F-0349
+- Título: Monedas: Chirola (entrada de blog, 25/12/2015)
+- Autor / institución: El Puesto de Liliana (blog)
+- URL: https://elpuestodeliliananumismatica.blogspot.com/2015/12/chirola.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-16 (agente de nivel 4)
+- Cita clave: "Era una moneda boliviana de plata, cuyo valor facial es veinte centavos (quinta parte de UN Peso Boliviano)" (mismo texto que F-0318).
+- Usada en: serie 05
+### F-0350
+- Título: Chirolita (24/10/2020)
+- Autor / institución: TestimoniosBA (Redacción)
+- URL: https://www.testimoniosba.com/2020/10/24/chirolita/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-16 (agente de nivel 4)
+- Cita clave: "Originalmente fue nombre popular de las monedas chilenas de veinte centavos"; luego pasó a las "moneditas de níquel".
+- Usada en: serie 05
+### F-0351
+- Título: Pesos Moneda Nacional, 1ª Parte - Ley 1130 (24/12/2014)
+- Autor / institución: Iván Oviedo — blog Monedas Argentinas
+- URL: https://monedasargentinas.blogspot.com/2014/12/pesos-moneda-nacional-1-parte-ley-1130.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-16 (agente de ronda 2)
+- Cita clave: 20 c: "Ley: 900 Ag + 100 Cu"; "Módulo: 23 mm."; "Canto: Estriado recto (14 e/cm)"; "Total: 2.274.995" (sin 1884); la plata "cesa en 1883".
+- Usada en: serie 05
+### F-0352
+- Título: Handbook of the River Plate (ed. 1875, Internet Archive cu31924098118288) y ficha de la ed. 1892 (handbookofriverp00mulhuoft)
+- Autor / institución: M. G. y E. T. Mulhall
+- URL: https://archive.org/details/handbookofriverp00mulhuoft
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-16 (agente de ronda 2 (ed. 1875: primeros 100.000 caracteres; ed. 1892: solo la ficha))
+- Cita clave: Ed. 1875, p. 9: "In the upper provinces the currency is Bolivian dollars, worth 3s. English." La ed. 1892 (796 pp.) no se pudo leer (PROVENANCE_REQUIRED).
 - Usada en: serie 05
