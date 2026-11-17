@@ -3630,3 +3630,120 @@ Formato de cada entrada:
 - Consultada: 2026-11-16 (agente de ronda 2 (ed. 1875: primeros 100.000 caracteres; ed. 1892: solo la ficha))
 - Cita clave: Ed. 1875, p. 9: "In the upper provinces the currency is Bolivian dollars, worth 3s. English." La ed. 1892 (796 pp.) no se pudo leer (PROVENANCE_REQUIRED).
 - Usada en: serie 05
+### F-0353
+- Título: CGB — Argentine, 10 centavos 1882, SPL64 PCGS (fwo_1031913)
+- Autor / institución: CGB Numismatique Paris
+- URL: https://www.cgbfr.com/argentine-10-centavos-1882-spl64-pcgs,fwo_1031913,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-17 (agentes de ronda 1 (mercado) y ronda 2)
+- Cita clave: "Exemplaire sous coque PCGS MS64"; 2,45 g; 18 mm; canto estriado; eje 6 h; leyenda "LIBERTAD / 10 CENTAVOS 9 DOS FINO."; vendida en el e-shop en 2026 por 70 €.
+- Usada en: serie 06
+### F-0354
+- Título: CGB — Argentine, 10 centavos emblème / Liberté 1882, SPL63 NGC (fwo_245006)
+- Autor / institución: CGB Numismatique Paris
+- URL: https://www.cgbfr.com/argentine-10-centavos-embleme-liberte-1882-spl63-ngc,fwo_245006,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-17 (agente de ronda 1 (mercado))
+- Cita clave: "Item sold on our e-shop (2012)"; 95 €; 18,5 mm; canto estriado.
+- Usada en: serie 06
+### F-0355
+- Título: CGB — Argentine, 10 centavos 1883, TTB (fwo_634737)
+- Autor / institución: CGB Numismatique Paris
+- URL: https://www.cgbfr.com/argentine-10-centavos-1883-ttb,fwo_634737,a.html (también aparece como argentina-10-centavos-1883-xf,fwo_634737)
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-17 (agentes de ronda 1 (mercado) y ronda 2)
+- Cita clave: Leyendas "REPUBLICA ARGENTINA* 1883*" y "LIBERTAD* 10 CENTOS* 9DOS FINO*"; 2,59 g; 18,5 mm; estriado; eje 6 h; "Item sold on our e-shop (2023)", 25 €.
+- Usada en: serie 06
+### F-0356
+- Título: CGB — Argentine, 10 centavos 1883, SUP58 PCGS (fwo_831587)
+- Autor / institución: CGB Numismatique Paris
+- URL: https://www.cgbfr.com/argentine-10-centavos-1883-sup58-pcgs,fwo_831587,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-17 (agente de ronda 1 (mercado))
+- Cita clave: "Exemplaire sous coque PCGS AU58"; 2,52 g; 18,5 mm; estriado; precio pedido 50 € (no vendida al leer).
+- Usada en: serie 06
+### F-0357
+- Título: CGB — Argentine, 10 centavos emblème / Liberté 1882, TB (fwo_223127)
+- Autor / institución: CGB Numismatique Paris
+- URL: https://www.cgbfr.com/argentine-10-centavos-embleme-liberte-1882-tb-,fwo_223127,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-17 (agente de ronda 2)
+- Cita clave: 18,5 mm; canto estriado; vendida en el e-shop en 2013 por 12 €; sin peso ni leyendas.
+- Usada en: serie 06
+### F-0358
+- Título: Stash of Coins — 10 centavos, Argentina 1881 (ficha 74689)
+- Autor / institución: Stash of Coins (catálogo en línea)
+- URL: https://www.stashofcoins.com/coin/74689-argentina-10-centavos-1881
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 — catálogo, SOLO PISTA
+- Consultada: 2026-11-17 (agentes de ronda 1 (mercado) y ronda 2)
+- Cita clave: "Demonetized: January 1, 1896" (sin norma); 2,5 g, 18,3 mm, 1,2 mm; tiradas 1.020 / 778.000 / 2.786.000; total 3.565.020.
+- Usada en: serie 06
+### F-0359
+- Título: uCoin — Argentina 10 centavos, 1881-1883 (tid=21398)
+- Autor / institución: uCoin.net (catálogo)
+- URL: https://it.ucoin.net/coin/argentina-10-centavos-1881-1883/?tid=21398
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 — catálogo, SOLO PISTA
+- Consultada: 2026-11-17 (agente de ronda 1 (comunidad))
+- Cita clave: 18,3 mm; espesor 1,2 mm; canto estriado; Oudiné; tiradas 1.020 / 778.131 / 2.785.650; pone REPUBLICA ARGENTINA y LIBERTAD/10 CENTos en lados distintos (resumen de WebFetch).
+- Usada en: serie 06
+### F-0360
+- Título: coinscatalog.net — KM# 26 10 Centavos "Capped Liberty"
+- Autor / institución: coinscatalog.net (catálogo)
+- URL: https://coinscatalog.net/argentina/coin-silver-10-centavos-capped-liberty-km-26-republic
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 — catálogo, SOLO PISTA
+- Consultada: 2026-11-17 (agente de ronda 1 (comunidad))
+- Cita clave: "Diameter: 18.3 mm; Thickness: 1.2 mm; Edge: Reeded"; tiradas redondeadas 1.020 / 778.000 / 2.786.000.
+- Usada en: serie 06
+### F-0361
+- Título: cnumis — 10 centavos Liberty head / arms (18647)
+- Autor / institución: cnumis.com (catálogo)
+- URL: https://cnumis.com/en/catalog/argentina/vintage/10-centavos-liberty-head-arms-18647
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 — catálogo, SOLO PISTA
+- Consultada: 2026-11-17 (agente de ronda 2)
+- Cita clave: Anverso "LIBERTAD / 10 CENTos / 9D FINO", reverso "REPUBLICA ARGENTINA"; 2,500 g; 18,00 mm; estriado; dice "acuñado en París" (error); total 3.565.020.
+- Usada en: serie 06
+### F-0362
+- Título: coinvarieties — Argentina 1882 10 centavos y Argentina 1883 10 centavos
+- Autor / institución: coinvarieties.com (wiki de coleccionistas)
+- URL: https://coinvarieties.com/index.php/Argentina_1882_10_centavos ; https://coinvarieties.com/index.php/Argentina_1883_10_centavos
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-17 (agente de ronda 2)
+- Cita clave: "Oudiné's portrait of liberty... struck in silver only in 1881-83"; sin variantes listadas; 1883 "fecha común"; 1883 PCGS MS65, certificado 7419660, población 1 (extracto del lector).
+- Usada en: serie 06
+### F-0363
+- Título: La antigua moneda argentina de 10 centavos que vale hasta 120000 para los coleccionistas
+- Autor / institución: El Cronista (dic. 2023, modificada sept. 2025)
+- URL: https://www.cronista.com/informacion-gral/la-antigua-moneda-argentina-de-10-centavos-que-vale-hasta-120000-para-los-coleccionistas
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (prensa generalista)
+- Consultada: 2026-11-17 (agente de ronda 1 (comunidad))
+- Cita clave: "actualmente tiene un valor de $ 120.000" (sin fuente de la valuación).
+- Usada en: serie 06
+### F-0364
+- Título: Moneda Nacional (billetes)
+- Autor / institución: billetesargentinos.com.ar
+- URL: https://www.billetesargentinos.com.ar/billetes/en_moneda_nacional.htm
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-17 (agente de ronda 2)
+- Cita clave: "In 1883, when silver coins ceased production, the paper peso was set at a value of 2.2 francs".
+- Usada en: serie 06
+### F-0365
+- Título: DECIMO: coin of Argentina (Buenos Aires Province) (10/2023)
+- Autor / institución: dema-coins (blog)
+- URL: https://www.dema-coins.com/2023/10/decimo-coin-Buenos-Aires-Province-Argentina.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 — pista
+- Consultada: 2026-11-17 (agente de ronda 2)
+- Cita clave: El décimo "officially represented 1/10 of the local provincial real" (1822–1823); Chile 1851–1894, 1/10 de peso (paráfrasis); el blog admite verificación de archivo pendiente.
+- Usada en: serie 06
