@@ -42,6 +42,7 @@ Formato de cada entrada:
 - Cita clave: Art. 3: el "Argentino" y el "Peso plata" llevan en el canto la inscripción "Igualdad ante la ley"; todas las monedas llevan el escudo nacional en el anverso y en el reverso un busto con gorro frigio y la palabra "Libertad". Fecha indicada en la página: "Sanción: 03-11-1881". Las tablas del art. 2 (pesos, diámetros, tolerancias) están como imagen y no se pudieron leer.
 - Usada en: serie 01, temas/ley-1130-unificacion-monetaria.md, serie 03 (art. 1: peso de oro y peso de plata como unidades), serie 03, serie 04
 
+- Revisión 2026-11-17 (serie 06, agente de nivel 1 y auditor, texto de InfoLEG reabierto): sanción "3 de noviembre de 1881"; art. 3, canto acanalado para las monedas de oro y plata que no son el Argentino ni el peso; art. 6, recibo obligatorio de la plata menor "sólo … en la proporción de 50 centavos" en pagos de hasta 20 pesos (paráfrasis del lector); art. 7, fin del curso legal de la plata extranjera; la tabla del art. 2 sigue como imagen ilegible. Usada también en serie 06.
 ### F-0003
 - Título: Comunicación "A" 5258 (07/12/2011), CIRMO 3-45 — Anexo, punto 1.3.3 (venta de Argentinos oro)
 - Autor / institución: BCRA, publicada en el Boletín Oficial el 01/02/2012
@@ -431,6 +432,7 @@ Formato de cada entrada:
 - Cita clave: la Ley 1130 fue "un catalizador de todos los problemas que había generado la circulación de la plata boliviana" (p. 72); decreto del 31/10/1882: la Casa de Moneda compra dos millones de pesos bolivianos a 72 centavos, canje hasta el 5/11/1883 (p. 73).
 - Usada en: serie 01, serie 03, serie 04
 - Revisión 2026-11-07 (serie 03): el decreto del 31/10/1882 pagaba los bolivianos "en oro o plata"; retiro de 1.999.216 hacia abril de 1883 (*El Independiente*, 28/04/1883); Agote: unos 4.000.000 en las provincias (p. 73, n. 43); canje de 75 c en Santa Fe y 56 c en Salta (p. 74).
+- Revisión 2026-11-17 (serie 06, agente de ronda 2, resumen de WebFetch): el circulante del resto del país hasta los años 1880 estaba "monopolizado por piezas de plata en su gran mayoría febles" (p. 56, introducción); nota 16 sobre "la moneda boliviana de baja ley" (Martin de Moussy); menciona "la definitiva desmonetización del peso boliviano" y un decreto de 1882 "a razón de 72 centavos moneda nacional cada uno" (sin verificar). Usada también en serie 06.
 ### F-0039
 - Título: Historia Argentina (capítulo "Presidencia de Roca"), pp. 106–107
 - Autor / institución: José María Rosa (copia en elbibliote.com)
