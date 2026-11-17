@@ -4,6 +4,11 @@ Una entrada por sesión, **la más reciente arriba**. Formato en `PROTOCOLO.md` 
 
 ---
 
+## 2026-11-17 · Cambio de protocolo · Fuentes para leer con Chrome
+- Pedido del dueño: anotar todas las fuentes que no se pueden leer por API y necesitan una sesión de Chrome.
+- Nuevo archivo `pendientes-chrome.md` con 38 fuentes que fallaron en las sesiones hasta el 2026-11-16 (Corigliano "Año 1884" y "Año 1881", tomos III y IV de Agote, facsímiles de Agote 1884 y de la Memoria de 1884, Wikisource, informes de la Casa de Moneda de EE. UU., NGC, PCGS, Heritage, Stack's Bowers, dabbah.pdf, Numista, uCoin, Foronum, CoinArchives, YouTube, Mulhall, etc.), con motivo del fallo, qué buscar y prioridad.
+- `PROTOCOLO.md`: §2.4 punto 6 (registrar cada fuente que falle; los agentes devuelven la lista y la sesión principal escribe), formato de la bitácora (línea "Fuentes para Chrome") y §7 (control antes del commit). `README.md`: el archivo nuevo en la tabla.
+
 ## 2026-11-16 · Serie 05 · 20 centavos plata · revisión (sesión de tarde; cierre de la revisión del 2026-11-12)
 - Motivo: la revisión del 2026-11-12/13 dejó tres avances en el repositorio (fuentes F-0314–F-0333, Parte 1 y Historia v2) pero se cortó antes del auditor, la bitácora y el índice. Esta sesión la completa: rondas nuevas por caminos distintos, consolidación, Historia v3, auditor independiente y cierre.
 - Búsquedas: ≈174 (ronda 1: 30 oficiales + 31 estudios y prensa + 30 mercado + 30 comunidad; ronda 2: 15 + 15; consolidación de la sesión principal: 13; auditor: 10; además, 3 búsquedas denegadas por el clasificador de permisos) · Documentos leídos: ≈125 lecturas a fondo (ronda 1: 26, 22, 16 y 18; ronda 2: 12 y 12; sesión principal: 12; auditor: 7 fuentes, 14 datos). Nivel 1: Registro Nacional 1882 del CDI (5 tramos), informe del Tesoro de EE. UU. 1885 con el del Director of the Mint (≥5 tramos), Agote 1881 en Google Books (releído por la sesión principal), fichas de Agote III y IV, ficha FRASER del Mint Report 1884 y del de 1887, línea de tiempo de la Casa de Moneda, FRUS 1889 · Fuentes nuevas: F-0334–F-0352 (más notas de revisión en F-0004, F-0008, F-0046, F-0084, F-0154, F-0173, F-0201, F-0211, F-0216, F-0222, F-0232, F-0275, F-0293, F-0296, F-0297, F-0325)
