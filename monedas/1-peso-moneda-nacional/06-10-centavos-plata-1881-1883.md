@@ -6,7 +6,7 @@ anios: "1881–1883"
 denominaciones: [10 centavos]
 metal: "plata 900"
 km: [KM# 26]
-estado: en investigación
+estado: a revisar
 sesiones: [i1 2026-11-17]
 ultima_actualizacion: "2026-11-17"
 ---
