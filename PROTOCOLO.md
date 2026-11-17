@@ -78,6 +78,7 @@ Por eso, en la sesión principal y en todos los agentes:
 3. Si una URL igual devuelve `PROVENANCE_REQUIRED` o "permiso no respondido", **no reintentar**: anotarla en Pistas y en la bitácora, y seguir con otra.
 4. **Cupo de búsquedas:** el entorno permite ≈200 búsquedas por sesión, compartidas por todos los agentes. Repartirlas así: ronda 1 ≈ 4 × 30; ronda 2 ≈ 40; reserva de ≈ 30 para la consolidación y el auditor. Cada agente recibe su cupo en el encargo y lo informa al terminar.
 5. Copiar esta sección §2.4 entera en el encargo de cada agente.
+6. **Fuentes que no se pueden leer por API → `pendientes-chrome.md`.** Toda fuente que no se pudo leer desde la sesión automática (`client_error`, `PROVENANCE_REQUIRED` o pedido denegado, `url_not_found`, robots, login o suscripción, contenido solo en imagen o visor, límite de pedidos) se anota en `pendientes-chrome.md`, una fila por fuente, con: fecha, serie, título, URL exacta (o dónde encontrarla), motivo del fallo, qué se esperaba encontrar, prioridad (A: tirada, fecha o norma; B: mercado, censo o variante; C: contexto) y estado `pendiente`. Antes de agregar una fila, buscar si ya está: si está, solo se suma la serie o se actualiza el motivo. Cada agente devuelve, junto con sus hallazgos, la lista de URL que no pudo leer y por qué; la sesión principal es la única que escribe el archivo. Las que el dueño lea con una sesión de Chrome pasan a `leída AAAA-MM-DD` y lo que aporten se carga como cualquier otra fuente. No se intenta leerlas por otros medios (curl, espejos, cachés).
 
 ---
 
@@ -245,6 +246,7 @@ Al terminar:
 - Correcciones: (dato anterior → dato nuevo, fuente)  ó  "ninguna"
 - Discrepancias abiertas: …
 - Pistas pendientes: …
+- Fuentes para Chrome: N agregadas a `pendientes-chrome.md` (#…–#…)
 ```
 
 ---
@@ -252,6 +254,7 @@ Al terminar:
 ## 7. Guardar
 
 1. Revisar que todos los códigos `[F-####]` usados existan en `fuentes.md`.
+   Revisar también que todas las fuentes que fallaron en la sesión estén en `pendientes-chrome.md`.
 2. Commit con mensaje: `Serie NN <nombre> — <tipo de sesión> (AAAA-MM-DD)`.
 3. Push a la rama `main`. Si el push falla por conflicto, traer los cambios (`git pull --rebase`), resolver conservando ambos contenidos y volver a subir.
 

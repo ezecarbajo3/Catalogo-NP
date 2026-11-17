@@ -1,0 +1,55 @@
+# Fuentes pendientes de lectura con Chrome
+
+Registro de las fuentes que **no se pudieron leer desde la sesión automática** (WebFetch/API) y que hay que abrir en una sesión de Chrome (Claude in Chrome o el navegador del dueño). Cada sesión de investigación agrega acá **todas** las que le fallen (ver `PROTOCOLO.md` §2.4, punto 6). Cuando una se lee en Chrome, se cambia el Estado a `leída AAAA-MM-DD` y lo que aporte se carga en la serie y en `fuentes.md` como en cualquier sesión.
+
+**Motivos de fallo:**
+- `client_error`: el sitio rechaza la lectura automática (bloqueo de bots, Cloudflare, JavaScript).
+- `PROVENANCE_REQUIRED` / `denegada`: la URL existe pero el entorno no deja abrirla porque no apareció en un resultado de búsqueda, o el clasificador de permisos la frenó.
+- `url_not_found`: el dominio no responde desde el entorno (ej. Wikisource).
+- `robots`: el sitio prohíbe la lectura automática.
+- `login`: el contenido (precio, lote, texto) exige sesión iniciada o suscripción.
+- `sin texto`: la página abre pero el contenido está en imagen o visor (Google Books, HathiTrust, facsímiles) y hay que verlo.
+- `límite`: el sitio cortó por exceso de pedidos (YouTube).
+
+**Prioridad:** A = puede resolver una tirada, una fecha o una norma; B = dato de mercado, censo o variante; C = contexto o curiosidad.
+
+| # | Agregada | Serie | Fuente | URL | Motivo | Qué buscar | Prioridad | Estado |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 2026-11-16 | 05, 04, 06 | Corigliano, *Primera Presidencia de Julio A. Roca — Año 1884* (argentina1810-1910.com) | https://argentina1810-1910.com/Pdfs/1881_1886/Año 1884.pdf (enlazado desde https://argentina1810-1910.com/) | PROVENANCE_REQUIRED / denegada | La "órden superior" de 1884 que cortó la acuñación de plata; billetes menores por denominación; decretos de la Casa de Moneda | A | pendiente |
+| 2 | 2026-11-16 | 05, 03, 04 | Corigliano, *Año 1881* (mismo sitio) | https://argentina1810-1910.com/ (enlace "Año 1881") | no apareció en búsquedas | Decreto reglamentario de la Ley 1130 (2/11/1881) | A | pendiente |
+| 3 | 2026-11-16 | 05, 04, 06 | Agote, *Informe del Presidente del Crédito Público*, tomo III (1885), Google Books | https://books.google.com/books/about/Informe_del_Presidente_del_Cr%C3%A9dito_P%C3%BAb.html?id=PnbIxlANcH8C | sin texto | Sección "Acuñacion de Monedas" (desde la p. 221): plata de 1884, fecha de las 119.000 piezas de 20 c y 136.000 de 50 c | A | pendiente |
+| 4 | 2026-11-16 | 05, 01–08 | Agote, *Informe…*, tomo IV (1887), Google Books id=kjNyCFElb9EC | (buscar la ficha en Google Books por el id) | sin texto / no apareció | Acuñación, billetes menores, retiro de la plata | A | pendiente |
+| 5 | 2026-11-16 | 03–06 | Agote, *Informe…*, tomo II (1884), facsímil de las pp. 354–355 (cuadro mensual de 1883) | https://cdi.mecon.gob.ar (PDF de F-0204) | sin texto (OCR sin rótulos de fila) | Asignar las 40 cifras de junio–diciembre de 1883 a cada denominación | A | pendiente |
+| 6 | 2026-11-16 | 03–06 | Memoria de Hacienda 1884, t. II, Memoria de la Casa de Moneda (F-0028), facsímil | https://cdi.mecon.gob.ar/greenstone/collect/memoria2/index/assoc/HASH0158.dir/doc.pdf | sin texto (OCR dañado) | Cuadro N.º 4; informe de Kyle (119.000 o 112.000); fecha "Abril 16 de 1886" | A | pendiente |
+| 7 | 2026-11-16 | 01–08 | Wikisource: *Bancos y moneda. Recopilación de leyes y decretos 1854 á 1890* | https://es.wikisource.org/wiki/Bancos_y_moneda._Recopilaci%C3%B3n_de_leyes_y_decretos._1854_a_1890 | url_not_found (todas las sesiones desde el 2026-11-03) | Decreto reglamentario de 1881, normas de retiro o desmonetización de la plata, Leyes 911, 974 y 3.871 | A | pendiente |
+| 8 | 2026-11-16 | 01–08 | Wikisource: *Decreto reglamentario de la ley de moneda (1881)* | https://es.wikisource.org/wiki/Decreto_reglamentario_de_la_ley_de_moneda_(1881) | url_not_found | Texto del decreto | A | pendiente |
+| 9 | 2026-11-16 | 05 | U.S. Mint, Annual Report, año fiscal 1884 (FRASER) | https://fraser.stlouisfed.org//docs/publications/usmint/usmint_1884_annual-report.pdf (ficha: https://fraser.stlouisfed.org/title/united-states-mint-annual-report-9404/fiscal-year-ended-june-30-1884-701456) | PROVENANCE_REQUIRED | Acuñación argentina vista desde afuera ("Argentine Republic") | B | pendiente |
+| 10 | 2026-11-16 | 05 | Report of the Director of the Mint upon the Production of the Precious Metals (1887), Google Books | https://books.google.com/books/about/Report_of_the_Director_of_the_Mint_Upon.html?id=wuoQ8kBXuWcC | sin texto | "Argentine Republic" (p. 100) y "Coinage of the various countries" (p. 65) | B | pendiente |
+| 11 | 2026-11-16 | 05 | Report of the Director of the Mint 1884–85 y 1885–86 (HathiTrust) | https://babel.hathitrust.org/cgi/pt?id=osu.32435063931562 ; https://babel.hathitrust.org/cgi/pt?id=osu.32435029894094 | client_error | Ídem | B | pendiente |
+| 12 | 2026-11-16 | 05 | NGC Chat Boards, hilo 174496 "Help - Argentina 20 Centavos 1883/2 inverted 2" | https://www.ngccoin.com/boards/topic/174496-help-argentina-20-centavos-18832-inverted-2/ | client_error (tres sesiones) | Cómo se reconoce el 1883/2; fotos; opiniones | B | pendiente |
+| 13 | 2026-11-16 | 05 | NGC Price Guide / censo, 20 centavos KM 27 | https://www.ngccoin.com/price-guide/world/argentina-20-centavos-km-27-1881-18832-cuid-15235-duid-50953 ; https://www.ngccoin.com/price-guide/world/argentina-20-centavos-km-27-1881-1883-2-cuid-1038113-duid-1212822 | client_error | Censo por fecha (1881, 1882, 1883, 1883/2); ¿entrada propia del 1883/2? | B | pendiente |
+| 14 | 2026-11-16 | 03–06 | PCGS CoinFacts / Population, Argentina plata 1881–1883 | (no apareció en búsquedas: buscar en pcgs.com) | no apareció | Censos PCGS por fecha y variedad | B | pendiente |
+| 15 | 2026-11-16 | 05 | Heritage, subasta 61372 (19/02/2024), lote 22007: 20 c 1881 NGC MS64 | (buscar en coins.ha.com; NumisBids venta 7613) | no apareció / client_error | Confirmar pieza, grado, certificado y precio (USD 5.040 según Numista) | B | pendiente |
+| 16 | 2026-11-16 | 05 | NumisBids, venta 7613 (Heritage 61372) | https://www.numisbids.com/sale/7613 | client_error | Ídem | B | pendiente |
+| 17 | 2026-11-16 | 05 | Stack's Bowers, lotes 3-ROJZZ y 3-ROK12 (20 c 1882 NGC MS63 y 1883 NGC MS60) | (URL de stacksbowers.com registradas en F-0299) | client_error (dos sesiones) | Precio realizado y fecha | B | pendiente |
+| 18 | 2026-11-16 | 04, 05, 06 | Stack's Bowers, venta Pat Johnson (ANA, agosto de 2022), NumisBids 5941 | https://www.numisbids.com/sale/5941 | client_error | Fecha del 20 c y del 10 c que acompañaban al 50 c 1881 | B | pendiente |
+| 19 | 2026-11-16 | 01–08 | Dabbah, *Errores de acuñación en la amonedación nacional 1881-2016* (PDF) | https://monedasuruguay.com/bib/d/dabbah.pdf | client_error (nueve veces) | Errores del 20 c y del resto de la serie | B | pendiente |
+| 20 | 2026-11-16 | 05 | Numista, billete 20 centavos 1884 ABNC (N# 348061) | https://en.numista.com/348061 | client_error | Cantidad emitida, variantes | C | pendiente |
+| 21 | 2026-11-16 | 05 | Numista, 20 centavos 1881–1883 (N# 8160), comentarios y lista de ventas | https://en.numista.com/8160 | robots / client_error | Ventas listadas, comentarios con imágenes | C | pendiente |
+| 22 | 2026-11-16 | 05 | uCoin, 20 centavos 1881–1883 | https://en.ucoin.net/coin/argentina-20-centavos-1881-1883/?tid=21461 | client_error | Variantes y precios de usuarios | C | pendiente |
+| 23 | 2026-11-16 | 05 | Foronum, fichas 1881 y 1883 del 20 c y billete N-339 | https://en.foronum.com/banknotes-catalog/argentina/n-339-20-centavos/1883 | client_error | Ofertas y fotos | C | pendiente |
+| 24 | 2026-11-16 | 05 | todocoleccion, lote 148598884 (20 c 1882 EBC, 9/09/2026) | https://en.todocoleccion.net/old-coins-america/argentina-20-centavos-plata-1882~x148598884 | login | Precio realizado | C | pendiente |
+| 25 | 2026-11-16 | 01–08 | CoinArchives (resultados de más de seis meses) | https://www.coinarchives.com/ | login / suscripción | Ventas históricas del 1881 de cada denominación | B | pendiente |
+| 26 | 2026-11-16 | 05 | YouTube, "Moneda Circulante en el Territorio Argentino de 1881 a la fecha", parte 3 | https://www.youtube.com/watch?v=TJ1Sx5ew_L4 | límite | Datos sobre la plata 1881–1883 | C | pendiente |
+| 27 | 2026-11-16 | 01–08 | YouTube, "Una casa de moneda para Buenos Aires" | https://www.youtube.com/watch?v=9dGkPqnCzZk | límite | Historia de la Casa de Moneda | C | pendiente |
+| 28 | 2026-11-16 | 01–08 | YouTube, "Increíbles Datos de la Acuñación de Monedas Argentinas" | https://www.youtube.com/watch?v=pcV97aa6sg4 | no abierto | Ídem | C | pendiente |
+| 29 | 2026-11-16 | 05 | Lafone Quevedo, *Tesoro de catamarqueñismos* (PDF en Wikimedia Commons) | https://upload.wikimedia.org/ (archivo "Tesoro_de_catamarqueñismos_-_Samuel_A._Lafone_Quevedo.pdf") | url_not_found / denegada | Entrada "chirola" | C | pendiente |
+| 30 | 2026-11-16 | 03–06 | Mulhall, *Handbook of the River Plate* (ed. 1892), texto en archive.org | https://archive.org/details/handbookofriverp00mulhuoft | PROVENANCE_REQUIRED (texto djvu) | Sección de monedas; circulación o desaparición de la plata nacional | C | pendiente |
+| 31 | 2026-11-16 | 03–06 | Mulhall, *Handbook of the River Plate* (otra copia, quizás ed. 1885) | https://archive.org/details/handbookriverpl04mulhgoog | no abierto | Ídem, p. 102 "Moneys, weights" | C | pendiente |
+| 32 | 2026-11-16 | 03–06 | *La Patria a través de sus monedas* (archive.org) | (redirige a un servidor dn760005.eu.archive.org) | PROVENANCE_REQUIRED (varias sesiones) | Historia de la plata de 1881–1883 | C | pendiente |
+| 33 | 2026-11-16 | 01–08 | El Mosquito 1882 (Biblioteca del Congreso de EE. UU., World Digital Library: gdcwdl.wdl_08180 y wdl_08152) | (buscar en loc.gov) | client_error | Caricaturas sobre la moneda nueva | C | pendiente |
+| 34 | 2026-11-16 | 05 | Mercado Libre, "réplicas de patacones de plata" | https://listado.mercadolibre.com.ar/replicas-de-patacones-de-plata,-muy-fieles | robots | Réplicas del 20 c y del 1881 | C | pendiente |
+| 35 | 2026-11-16 | 05 | Pinterest, "Argentina 1882 Silver 20 Centavos Coin – Etsy" | https://www.pinterest.com/pin/argentina-1882-silver-20-centavos-coin-etsy-in-2025--4607323233257958912/ | robots | ¿Pieza montada como joya? | C | pendiente |
+| 36 | 2026-11-16 | 05 | British Museum, ficha de Oudiné (BIOG158771) | (buscar en britishmuseum.org) | client_error | Fecha de nacimiento (1 o 3/01/1810) | C | pendiente |
+| 37 | 2026-11-16 | 03–05 | Conuvi, "Serie Patacón" | (URL registrada en la sesión del 2026-11-11) | server_error | Variantes y fotos | C | pendiente |
+| 38 | 2026-11-16 | 05 | CGB, ficha de error fwo_897050 | (cgbfr.com, fwo_897050) | "Service indisponible" | Error de acuñación del 20 c | C | pendiente |

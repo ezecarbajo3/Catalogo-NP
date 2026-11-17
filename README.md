@@ -11,6 +11,7 @@ Base de conocimiento acumulativa para el **Catálogo de Monedas Argentinas** (Nu
 | `temas/` | Información que afecta a varias series (leyes generales, Casa de Moneda, grabadores, fundiciones). |
 | `fuentes.md` | Registro de todas las fuentes, cada una con su código `F-####`. |
 | `bitacora.md` | Qué se hizo cada día, qué se encontró y qué se corrigió. Lo más reciente, arriba. |
+| `pendientes-chrome.md` | Fuentes que la sesión automática no pudo leer y que hay que abrir con una sesión de Chrome. |
 | `documentos/` | Copias de documentos clave cuando se pueden guardar. |
 | `PROTOCOLO.md` | Las reglas exactas que sigue cada sesión. |
 | `CONTEXTO.md` | Resumen de la visión del catálogo que guía la investigación. |
