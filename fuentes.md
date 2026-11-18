@@ -1411,6 +1411,7 @@ Formato de cada entrada:
 - Revisión 2026-11-07 (serie 03): tabla del art. 2 para la plata (pp. 15–16): peso 25,000 g, 900, 37 mm; 50 c 12,5 g 30 mm; 20 c 5 g 23 mm; 10 c 2,5 g 18 mm; 5 c 1,5 g 16 mm; tolerancias 2-3-5-5-5 y 3-5-5-7-10 sin rótulo. Ficha del peso (pp. 17–18): "Peso 25 gr.", "Espesor 2,475 a 2,480 mm", "Módulo 35 mm" (errata frente a la ley), canto "IGUALDAD* ANTE* LA * LEY*****"; tiradas 62.026 / 413.711 / 98.000 (pista); precios 2005 MB/EXC/SC: 1881 170/250/350, 1882 130/230/300, 1883 250/350/450; variantes 1881 A–E y 1882 A–I sin descripción legible.
 - Revisión 2026-11-11 (serie 05; lectura de agente): ficha del 20 c (p. 21): "Peso 5 gr. Módulo 23 mm. Canto estriado. Espesor 1,314 mm."; variantes de cuño con letra (p. 22): 1881 A–E, 1882 A–Q, 1883 A–O (clave no leída); precios U$S MB/EXC/SC: 1881 700/1.000/1.500, 1882 25/60/80, 1883 30/65/90. No da fecha de retiro para la plata. Catálogo: solo pista.
 - Revisión 2026-11-13 (serie 05, revisión; agente de nivel 2, caracteres 0–200.000): ficha del 20 c ("1/5 de Patacón"): "Peso 5 gr. Módulo 23 mm. Canto estriado. Espesor 1,314 mm.", Libertad "diseño de Oudiné"; emisiones 2.018 / 762.027 / 1.510.950. Las letras A–E, A–Q y A–O solo aparecen como epígrafes de fotos ("20 C 881 'A'"…): no hay texto que explique cada variante; el "Método de Clasificación" del índice no está en el texto extraíble.
+- Revisión 2026-11-18 (serie 06, revisión; agente de ronda 2 y relectura de la sesión principal, caracteres 0–100.000, paráfrasis de WebFetch): sección "10 Centavos / 1/10 de Patacón", pp. 22–25: "Peso 2,5 gr", módulo 18,5 mm, canto estriado, espesor 1,131 mm; anverso con el escudo, siete banderas y un cañón por lado, "República Argentina", fecha entre estrellas; reverso con la Libertad a la izquierda, "Libertad", "10 Cent" a la izquierda y "9 D Fino" a la derecha. Emisiones 1.020 / 778.131 / 2.785.650; precios U$S MB/EXC/SC 1881 1.200/1.800/2.500, 1882 y 1883 20/50/80. Troqueles (solo fotos): 1881 A–C; 1882 "dientes separados" (DS) A–Q y "dientes juntos" (DJ) A–I; 1883 A–S. Nota (p. 23): DS se llamaba antes "canto grueso" y DJ "canto fino"; se cuentan haciendo rodar el canto sobre papel carbónico y contando los dientes en 1 cm; una línea visible en ciertas piezas ayuda a identificar el troquel. No da cantidad de dientes por cm ni fecha de desmonetización.
 
 ### F-0135
 - Título: Eliasberg Prices Stun Numismatic World (22/04/2005)
@@ -3748,4 +3749,84 @@ Formato de cada entrada:
 - Nivel: 4 — pista
 - Consultada: 2026-11-17 (agente de ronda 2)
 - Cita clave: El décimo "officially represented 1/10 of the local provincial real" (1822–1823); Chile 1851–1894, 1/10 de peso (paráfrasis); el blog admite verificación de archivo pendiente.
+- Usada en: serie 06
+
+### F-0366
+- Título: CGB — fichas del 10 centavos 1882–1883 (fwo_652184, fwo_959744, fwo_325913, fwo_1031914)
+- Autor / institución: CGB Numismatique Paris
+- URL: https://www.cgbfr.com/argentina-10-centavos-1883,fwo_652184,a.html ; https://www.cgbfr.com/argentina-10-centavos-1882-au,fwo_959744,a.html ; https://www.cgbfr.com/argentine-10-centavos-embleme-liberte-1882-ttb,fwo_325913,a.html ; https://www.cgbfr.com/argentina-10-centavos-1883-ms64-pcgs,fwo_1031914,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (comercio; fichas con medidas y leyendas transcriptas)
+- Consultada: 2026-11-18 (agentes de ronda 1 y 2, mercado; paráfrasis de WebFetch salvo las leyendas)
+- Cita clave: fwo_652184: 1883 AU, E-auction 418 (lote 330274), 2,5 g, 18,5 mm, 6 h, "LIBERTAD* 10 CENTOS* 9DOS FINO*", 36 € (8 postores, cierre 19/04/2021). fwo_959744: 1882 AU, 2,46 g, 18 mm, 6 h, "Traces de nettoyage", "LIBERTAD / 10 CENTAVOS 9 DOS FINO.", 30 € a la venta. fwo_325913: 1882 XF, 2,45 g, 18 mm, 6 h, "10 CENTAVOS 9 DOS FINO.", 22 €, "Item sold on our e-shop (2014)". fwo_1031914: 1883 PCGS MS64, 2,48 g, 18,5 mm, 6 h, 70 € a la venta; no transcribe la leyenda del valor.
+- Usada en: serie 06
+
+### F-0367
+- Título: Billete de 10 centavos fechado 1/01/1884, American Bank Note Co. (Pick 6): fichas de koguja.ee, Numisquare y worldbanknotescoins
+- Autor / institución: koguja.ee; numisquare.com; worldbanknotescoins.com (blog) — catálogos de coleccionistas
+- URL: https://www.koguja.ee/en/banknotes/10-centavos-1884-5r72 ; https://www.numisquare.com/10-centavos-1884-9821301940.html ; https://www.worldbanknotescoins.com/2010/02/argentina-10-centavos-banknote-1884.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (pista; tres fichas coincidentes)
+- Consultada: 2026-11-18 (agente de ronda 2; paráfrasis de WebFetch)
+- Cita clave: anverso con Sarmiento a la izquierda y el escudo a la derecha, negro sobre fondo verde; reverso verde con un gaucho a caballo; 112 × 60 mm; "Ley de 4 de Octubre de 1883"; firmas Roca, Sastre, Casares, Pacheco (tres variedades).
+- Usada en: serie 06
+
+### F-0368
+- Título: Billete de 10 centavos fechado 1/01/1884, R. Lange (Pick 2): fichas de RealBanknotes y abanknote.com
+- Autor / institución: realbanknotes.com; abanknote.com (foto con crédito a Heritage) — catálogos de coleccionistas
+- URL: https://www.realbanknotes.com/banknote/10655-Argentina-p2-10-Centavos-from-1884 ; https://abanknote.com/banknote/argentina/10/centavos/1884/4029
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (pista)
+- Consultada: 2026-11-18 (agente de ronda 2; paráfrasis de WebFetch)
+- Cita clave: "BUENOS AIRES, ENERO 1º DE 1884"; "R. Lange, Buenos Aires"; anverso con el escudo abajo a la izquierda y Sarmiento a la derecha, negro sobre fondo rosa y amarillo; reverso marrón con cabeza de la Libertad y "REPÚBLICA DIEZ 10 ARGENTINA"; 110 × 50 mm.
+- Usada en: serie 06
+
+### F-0369
+- Título: Greysheet — ficha del billete de 10 centavos "Enero 1º de 1884", Sig. 1 Roca/Pacheco, series A–F
+- Autor / institución: Greysheet (CDN Publishing)
+- URL: https://beta.greysheet.com/prices/item/enero-1o-de-1884-sig-1-roca-pacheco-series-a-f-3500000-notes/gsid/85529
+- Archivo (Internet Archive): a buscar
+- Nivel: 3–4 (catálogo de precios; solo pista)
+- Consultada: 2026-11-18 (agente de ronda 2; paráfrasis de WebFetch)
+- Cita clave: "Series: A through F. Quantity: 3,500,000 notes"; "Billetes de Banco R Lange Bs Aires"; 112 × 57 mm.
+- Usada en: serie 06
+
+### F-0370
+- Título: Excerpt from the Annual Report of the Director of the Mint, fiscal year 1883
+- Autor / institución: United States Mint
+- URL: https://usmint.gov/?p=13605
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (extracto oficial)
+- Consultada: 2026-11-18 (agente de ronda 2)
+- Cita clave: el extracto trata la suspensión del dólar de oro y de la pieza de 3 centavos y el trade dollar; no menciona la Argentina (constancia negativa; paráfrasis).
+- Usada en: serie 06
+
+### F-0371
+- Título: La curiosa moneda de 150 años de antigüedad que los coleccionistas pueden comprar por más de $100.000
+- Autor / institución: El Cronista
+- URL: https://www.cronista.com/informacion-gral/la-curiosa-moneda-de-150-anos-de-antiguedad-que-los-coleccionistas-pueden-comprar-por-mas-de-100000
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (prensa generalista que cita un aviso de Mercado Libre)
+- Consultada: 2026-11-18 (agente de ronda 1, comunidad; paráfrasis de WebFetch)
+- Cita clave: un 10 c de 1883, plata, 2,50 g, publicado en Mercado Libre a $ 100.000 (precio pedido, sin grado); "muy buscada por los aficionados".
+- Usada en: serie 06
+
+### F-0372
+- Título: CollecOnline — "Argentina 10 centavos 1882 doubling date" (item 209776) y 10 centavos 1883 (item 210322)
+- Autor / institución: colleconline.com (plataforma de coleccionistas, cerrada en 2025)
+- URL: https://www.colleconline.com/pt/items/209776/monnaies-monde-argentine-argentina-10-centavos-1882-doubling-date ; https://www.colleconline.com/es/items/210322/monnaies-monde-argentine-argentina-10-centavos-1883
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (solo pista: el contenido ya no existe; solo el título del resultado)
+- Consultada: 2026-11-18 (agentes de ronda 1; la página devuelve el aviso "Fermeture définitive – 2025")
+- Cita clave: título "10 centavos 1882 doubling date".
+- Usada en: serie 06
+
+### F-0373
+- Título: PCGS China, Set Registry — "1883 10C MS65" (Argentina), certificado 07962112
+- Autor / institución: PCGS (registro chino)
+- URL: https://pcgs.com.cn/setregistry/mycoinfacts/1883-10c/84061
+- Archivo (Internet Archive): a buscar
+- Nivel: 3–4 (solo el título del resultado de búsqueda; no abierta)
+- Consultada: 2026-11-18 (agente de ronda 1, mercado)
+- Cita clave: titular "1883 10C MS65"; certificado 07962112 (coinvarieties da 7419660 para un MS65 [F-0362]).
 - Usada en: serie 06
