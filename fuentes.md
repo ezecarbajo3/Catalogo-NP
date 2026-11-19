@@ -43,6 +43,8 @@ Formato de cada entrada:
 - Usada en: serie 01, temas/ley-1130-unificacion-monetaria.md, serie 03 (art. 1: peso de oro y peso de plata como unidades), serie 03, serie 04
 
 - Revisión 2026-11-17 (serie 06, agente de nivel 1 y auditor, texto de InfoLEG reabierto): sanción "3 de noviembre de 1881"; art. 3, canto acanalado para las monedas de oro y plata que no son el Argentino ni el peso; art. 6, recibo obligatorio de la plata menor "sólo … en la proporción de 50 centavos" en pagos de hasta 20 pesos (paráfrasis del lector); art. 7, fin del curso legal de la plata extranjera; la tabla del art. 2 sigue como imagen ilegible. Usada también en serie 06.
+- Revisión 2026-11-19 (serie 07; dos lecturas de agente por resumen de WebFetch): art. 3 "las demás monedas de oro y plata llevarán el canto acanalado y las de cobre liso"; art. 4, además de la plata, menciona "veinte centavos de cobre" (texto entrecortado: falta confirmar si es por habitante); la tabla del art. 2 (plata y cobre) sigue siendo imagen ilegible. Usada también en serie 07.
+
 ### F-0003
 - Título: Comunicación "A" 5258 (07/12/2011), CIRMO 3-45 — Anexo, punto 1.3.3 (venta de Argentinos oro)
 - Autor / institución: BCRA, publicada en el Boletín Oficial el 01/02/2012
@@ -79,6 +81,7 @@ Formato de cada entrada:
 - Revisión 2026-11-07 (serie 03): sobre el 1 peso: prueba en cobre de 1881, CJ 45.2, canto "IGUALDAD * ANTE * LA *LEY ****", "rarísimas piezas de 1 Peso" (p. 4); fantasías de 1 peso 1880, CJ 33, R1, "Las más abundantes son las de 1 Peso", plata 900, canto liso, cospel sin listel, corte horizontal en el canto, "120 piezas argentinas de 1 Peso en plata .900 fechadas 1880" (pp. 7–8), estimación de unas 200; Spink Zúrich 16/04/1986; Krause Pn20; NGC MS61.
 - Revisión 2026-11-09 (serie 04; lectura de agente a través de un resumen, a confirmar): fantasías de 50, 20 y 10 c fechadas 1880 (CJ 34–36), plata 900, cospel liso sin listel, R4, "extremadamente raras".
 - Revisión 2026-11-10 (serie 04, revisión; lectura de agente con citas): p. 8: "las piezas de 50, 20, y 10 centavos, también en Plata .900 y canto liso (CJ#34 a 36), son extremadamente raras"; tabla p. 9: "50 Centavos Plata 900 Liso sin listel R4"; pie de la Imagen 7: "Ejemplar de 50 Centavos. Muy Rara."; p. 7: "cospeles de apariencia casera, sin listel"; p. 5: acuñadas con matrices contra cospeles "entre los años `70 y `80"; p. 10: "realizadas con matrices oficiales en la segunda mitad del siglo XX". p. 6: Janson 2005/2006: "cuños presumiblemente robados de la Casa de Moneda"; Janson 2019: las piezas conocidas "deben ser consideradas como réplicas"; Cunietti-Ferrando (1964) menciona 50 c de plata fechados 1880 como posibles ensayos. Nota 2: cartas de Oudiné atribuidas a "Matassi, Nora, 2009".
+- Revisión 2026-11-19 (serie 07; lectura de agente por resumen): piezas unifaces de 1 y 2 c fechadas 1880 en aleación de cobre, R5, sin ejemplares en los museos relevados; Janson 2005 (CJ 31–39, cuños "presumiblemente robados") y Cunietti-Ferrando 1964 citados; Spink 1986: unifaces en "metal blanco, de apariencia aluminio"; el agente señala contradicciones internas ("con listel" / "canto liso sin listel"; fabricación en los años 70–80 del XIX / segunda mitad del XX): revisar en el PDF. Usada también en serie 07.
 
 ### F-0006
 - Título: Comienzos de la Casa de Moneda
@@ -278,6 +281,7 @@ Formato de cada entrada:
 - Revisión 2026-11-09 (serie 04; lectura de agente, a cotejar): carta n.º 3 del 1/03/1880 (p. 7): el 50 c, con el peso, "antes del 5 de mayo de 1880"; 20 y 10 c hasta el 5/07/1880 (ver la cita anterior, que da el 5/07 para el Argentino y el medio: discrepancia a confirmar); cartas n.º 7 y 8 (22 y 24/03/1880, p. 8): ubicación de "Centavos" y "9 Dos Fino"; 27/06/1939 pedido a París de punzones de 1, 2 y 50 c; ensayo de Lucien Bazor (1940), dictamen desfavorable; Decreto 76.714 (12/11/1940); acuñación desde el 10/01/1941 (pp. 11–14).
 - Revisión 2026-11-10 (serie 04, revisión; lectura de agente con citas): p. 7, carta N.º 3 (1/03/1880): "las piezas de Peso, Peso Plata y 50 centavos, se entregarán antes del 5 de mayo de 1880"; "las piezas correspondientes a 20 y 10 centavos, como así también el Argentino y ½ Argentino, siendo su último plazo de entrega para el 5 de julio de 1880" (concilia las dos lecturas anteriores). Carta N.º 5 (12/03/1880): "Un Peso" descendente y "9 Dos Fino" ascendente, "Libertad" entre dos estrellas. p. 8, cartas N.º 7 y 8: "Centavos (sin abreviatura) para la pieza de 30 mm en cobre" y "la necesidad de equilibrar la palabra Centavos (CENTos) con 9 Dos Fino en las monedas de plata"; Imagen 5: "KM#33, 2 centavos y KM#28, 50 centavos (30 mm de diámetro)". p. 6: "piezas menores de 50, 20, 10 y 5 centavos". Bibliografía: *Cartas E. Oudiné. Correspondencia del Grabador Eugéne Oudiné al Ingeniero Eduardo Castilla. Enero/Agosto 1880*, Museo Casa de Moneda, 2009; J. N. Ferrari, *Un "ensayo" inédito y las monedas de cincuenta centavos 1881-1956* (Buenos Aires, 1956). pp. 10–15: ensayos de 50 c 1940 (Pn54) y 1941 (Pn55) de Bazor; 9/11/1939, "32 fotografías de modelos para las piezas de 1, 2 y 50 centavos"; cuños de París llegados en septiembre de 1941.
 - Revisión 2026-11-11 (serie 05): p. 7, carta N.º 3 (1/03/1880): el 20 y el 10 c, con el Argentino y el ½ Argentino, "último plazo de entrega para el 5 de julio de 1880"; Oudiné: "A la pieza de 25 mm. (1 centavo) perfectamente se puede colocar la cabeza de la moneda de plata de 20 centavos"; p. 14: Decreto 76.714 (1940): "El busto de la Libertad tiene iguales dimensiones que en los 20 centavos de plata". Lectura de agente.
+- Revisión 2026-11-19 (serie 07; lectura de agente por resumen): el cobre se acuña desde 1882 (p. 9); acuñaciones de la ley interrumpidas definitivamente en 1896 (p. 10); los cobres de 1 y 2 c seguían circulando en los años treinta (p. 10); Decreto 29.159 (18/04/1939) ordena las nuevas piezas de 1 y 2 c, más chicas, que circulan a fines de 1939; no indica el origen de los cospeles de 1880–1896 (los de Europa y EE. UU. que menciona son de 1939–1942). Usada también en serie 07.
 
 ### F-0025
 - Título: Unidad monetaria, vertebración territorial y conformación nacional: el caso de la República Argentina — Anales de Historia Contemporánea 20 (2004), pp. 439–461
@@ -2420,6 +2424,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-09 (agentes de las rondas 1, niveles 2 y 4; leídos los primeros 100.000–200.000 de ≈500.000 caracteres)
 - Cita clave: "piezas menores en dicho metal de 50 centavos conocido como 'medio patacón' de 12,5 gramos" (fichas 7, 8 y 26, altas del 1/01/1995). Ensayos belgas de 1879 de 80, 40 y 20 centavos fuertes y "Un patacón" (fichas 43–46); los "1880" de plata de 1 peso son "copias realizadas con posterioridad con cuños originales modificando la fecha"; ficha 55: ensayo de níquel de 1936 con la Libertad de Oudiné, "CINCUENTA CENTAVOS". No se vio ningún ensayo de 50 c de la Ley 1130.
 - Usada en: serie 04
+- Revisión 2026-11-19 (serie 07; lectura de agente, primeros 100.000 de ≈500.000 caracteres): sin ensayos de 1 o 2 c de 1882–1896; ensayos de 1935 en cobre: reg. 27, 2 centavos, 3,3 g, 20,2 mm; reg. 28, 1 centavo, 1,5 g, 16,1 mm ("Ensayo presentado por Casa de Moneda de la Nación", paráfrasis). Usada también en serie 07.
 
 ### F-0232
 - Título: Las monedas de 50 centavos de 1941: un experimento de circulación monetaria (julio de 2019)
@@ -2689,6 +2694,7 @@ Formato de cada entrada:
 - Cita clave: "Mediante la sanción de la Ley 1130, modificada por la Ley 3871 del 4 de noviembre de 1899 se establece como unidad monetaria argentina el PESO MONEDA NACIONAL (m$n)." Tabla de monedas del peso moneda nacional: 1 y 2 c (1882), 5, 10 y 20 c (1896), 50 c (emisión 1941; cese 31/01/1969; desmonetización 29/03/1978), 1, 5, 10 y 25 m$n. No incluye el oro ni la plata de 1881–1883.
 - Usada en: serie 04
 - Revisión 2026-11-11 (serie 05): fila "20 centavos | 1896 | 31/01/1967 | 01/04/1967" (emisión, cese de curso legal, desmonetización); 10 c (1896) 21/01/1966 y 01/07/1966. No hay fila para el 20 c de plata. Lectura de agente.
+- Revisión 2026-11-19 (serie 07; lectura de agente por resumen): filas separadas "1 centavo | 1882 | 21/04/1959 | 02/01/1960" y "2 centavos | 1882 | 21/04/1959 | 02/01/1960" (emisión, cese de curso legal, desmonetización). Usada también en serie 07.
 
 ### F-0258
 - Título: Museo Histórico y Numismático Héctor C. Janson — Documentos Históricos 1 (inventario SENIP)
@@ -3831,3 +3837,73 @@ Formato de cada entrada:
 - Consultada: 2026-11-18 (agente de ronda 1, mercado)
 - Cita clave: titular "1883 10C MS65"; certificado 07962112 (coinvarieties da 7419660 para un MS65 [F-0362]).
 - Usada en: serie 06
+
+### F-0374
+- Título: NGC World Coin Price Guide — Argentina 2 Centavos KM# 33 (1882–1896)
+- Autor / institución: NGC (Numismatic Guaranty Company)
+- URL: https://ngccoin.com/price-guide/world/argentina-2-centavos-km-33-1882-1896-cuid-1038858-duid-1212693
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (guía de precios; valores de referencia, no ventas; sus especificaciones son de catálogo: solo pista)
+- Consultada: 2026-11-19 (agente de ronda 1, mercado)
+- Cita clave: "Weight 9.9100 g, Diameter 30 mm, Composition Bronze"; fechas 1882–1885 y 1887–1896, sin 1886; valores Ag/G/VG/F/VF/"último valor" (USD): 1882 20/35/65/175/275/450; 1887 30/45/100/300/550/750; 1888 15/25/35/85/150/225; 1890 1,3/2/4/10/15/20 (resto en la serie 07). Columna Pr vacía; sin censo.
+- Usada en: serie 07
+
+### F-0375
+- Título: CGB Numismatique Paris — fichas del 2 centavos: 1890 PCGS MS63BN (fwo_1012249), 1891 PCGS MS64BN (fwo_1012248), 1893 AU (fwo_603285)
+- Autor / institución: CGB Numismatique Paris (e-shop)
+- URL: https://www.cgbfr.com/argentina-2-centavos-1890-ms63-pcgs,fwo_1012249,a.html ; https://www.cgbfr.com/argentine-2-centavos-liberte-1891-spl64-pcgs,fwo_1012248,a.html ; https://www.cgbfr.com/argentina-2-centavos-1893-au,fwo_603285,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (precios y medidas de las piezas; las tiradas que cita son de catálogo: solo pista)
+- Consultada: 2026-11-19 (agente de ronda 1, mercado)
+- Cita clave: 1890 "Exemplaire sous coque PCGS MS63BN", 75 €, vendido 2026, bronce, 10 g, 30 mm, canto liso, tirada citada 3.609.000; 1891 "Exemplaire sous coque PCGS MS64BN", 80 €, 2026, tirada citada 8.050.000, título "2 Centavos 'Liberté'"; 1893 AU, 9,78 g, 30 mm, 15 €, "Item sold on our e-shop (2020)", tirada citada 5.473.000. CGB usa la referencia "KM.19/8" (propia, no KM 33).
+- Usada en: serie 07
+
+### F-0376
+- Título: Spink e-Auction 19041, "The 'Esseight' Collection", lote 10 — Argentina, 2 centavos 1891 y 1893, golpes en metal blanco
+- Autor / institución: Spink
+- URL: https://spink.com/lot/19041000010
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-19 (agente de ronda 1, mercado)
+- Cita clave: "off-metal strikes, in white metal… seemingly unrecorded"; muy bien, "probablemente limpiado" (paráfrasis); realizado 170 €; sin fecha de la subasta ni peso en la ficha.
+- Usada en: serie 07
+
+### F-0377
+- Título: coinvarieties — Argentina 1882 2 centavos y Argentina 1885 2 centavos
+- Autor / institución: coinvarieties.com (wiki de coleccionistas)
+- URL: https://coinvarieties.com/index.php/Argentina_1882_2_centavos ; https://coinvarieties.com/index.php/Argentina_1885_2_centavos
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (pista; el resultado de subasta que transcribe se toma como probable)
+- Consultada: 2026-11-19 (agente de ronda 1, comunidad; resumen de WebFetch)
+- Cita clave: 1882: "9.91 g, bronze, 30 mm diameter", "scarce key date" (síntesis del lector); 1885: PCGS MS64 RB vendido en US$ 390 en Steve Album Auction 54; "nice uncirculated specimens are undervalued".
+- Usada en: serie 07
+
+### F-0378
+- Título: Collectors Universe Forums — "Argentina laminated 1889 bronze two centavos" (comentario 5527063)
+- Autor / institución: forums.collectors.com, usuarios WillieBoyd2 y 1jester (2006)
+- URL: https://forums.collectors.com/discussion/comment/5527063
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-19 (agente de ronda 1, comunidad)
+- Cita clave: "bronze 30mm two centavos dated 1889"; "corrosion has gotten under the obverse lamination" (síntesis del lector).
+- Usada en: serie 07
+
+### F-0379
+- Título: Foro de Numista — "1892 Argentina Dos Centavos – mint errors or damaged" (topic174957) y "Argentina Dos centavos 1893" (topic169512)
+- Autor / institución: Numista, usuarios sin nombre visible
+- URL: https://pl.numista.com/forum/topic174957.html ; https://pl.numista.com/forum/topic169512.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-19 (agente de ronda 1, comunidad)
+- Cita clave: 1892: "almost 130 years of wear and tear, all post mint damage"; 1893: 1 y 2 c "very easy to find" (síntesis), parte del stock europeo llegó tras la desmonetización, el 1 c "the scarcer coin of the two", "5.4M minted" (usuario, sin fuente).
+- Usada en: serie 07
+
+### F-0380
+- Título: Numismatikforum.de — "Frage: Argentina's 1882-1896 2-centavos" (viewtopic p=471717)
+- Autor / institución: Numismatikforum.de, usuario "Guillermo" (Buenos Aires) y otros
+- URL: https://www.numismatikforum.de/viewtopic.php?p=471717
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-19 (agente de ronda 1, comunidad; resumen de WebFetch)
+- Cita clave: "copper, about 30mm and 10g"; "worth more that the cost of the raw material"; relato de contrabando a Francia para vender como metal a casi el triple de su costo (historia policial sin nombre); desmonetización 1/01/1896, aunque el mismo hilo anota acuñación en 1896 (síntesis del lector).
+- Usada en: serie 07
