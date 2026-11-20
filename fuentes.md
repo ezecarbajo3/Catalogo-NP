@@ -319,6 +319,7 @@ Formato de cada entrada:
 - Cita clave: en la tabla de monedas de oro y plata extranjeras depositadas en Nueva York en 1887: "Argentine Republic. | 5 pesos | $1,110,501" (texto OCR; centavos ilegibles; sección "Deposits and purchases", pp. 26–32).
 - Usada en: serie 01, serie 04
 - Revisión 2026-11-06: la tabla de monedas extranjeras depositadas en Nueva York en 1887 está en la p. 29; la fila argentina trae además "Silver parted: 22.83 standard ounces". El mismo informe estima la producción de las minas argentinas (vía el ministro de EE. UU. en Buenos Aires): 1886, oro $20.000 y plata $60.000; 1887, oro $30.000 y plata $30.000.
+- Revisión 2026-11-20 (serie 07, agente de ronda 2): leído entero (≈500.000 caracteres en cinco tramos): es el informe de producción de metales preciosos del año calendario 1887 y no trae sección de acuñación de países extranjeros, ni cuadro argentino, ni datos de cobre. Usada también en serie 07 (constancia negativa).
 
 ### F-0028
 - Título: Memoria del Departamento de Hacienda, ejercicio 1884, Tomo II (incluye la Memoria del Banco Nacional y, en pp. 115–124, la Memoria de la Casa de Moneda)
@@ -439,6 +440,8 @@ Formato de cada entrada:
 - Usada en: serie 01, serie 03, serie 04
 - Revisión 2026-11-07 (serie 03): el decreto del 31/10/1882 pagaba los bolivianos "en oro o plata"; retiro de 1.999.216 hacia abril de 1883 (*El Independiente*, 28/04/1883); Agote: unos 4.000.000 en las provincias (p. 73, n. 43); canje de 75 c en Santa Fe y 56 c en Salta (p. 74).
 - Revisión 2026-11-17 (serie 06, agente de ronda 2, resumen de WebFetch): el circulante del resto del país hasta los años 1880 estaba "monopolizado por piezas de plata en su gran mayoría febles" (p. 56, introducción); nota 16 sobre "la moneda boliviana de baja ley" (Martin de Moussy); menciona "la definitiva desmonetización del peso boliviano" y un decreto de 1882 "a razón de 72 centavos moneda nacional cada uno" (sin verificar). Usada también en serie 06.
+- Revisión 2026-11-20 (serie 07, agente de nivel 2, resumen de WebFetch): a fines de 1882 todavía circulaban en las provincias "las confusas y sospechosas calderillas de las naciones vecinas"; el artículo no trata el cobre de la Ley 1130. Usada también en serie 07.
+
 ### F-0039
 - Título: Historia Argentina (capítulo "Presidencia de Roca"), pp. 106–107
 - Autor / institución: José María Rosa (copia en elbibliote.com)
@@ -2439,6 +2442,8 @@ Formato de cada entrada:
 - Usada en: serie 04
 
 - Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 1 y relectura de la sesión principal) "el Decreto N° 76.714 de fecha 12 de noviembre de 1940, del Vicepresidente Ramón S. Castillo"; anverso con "el busto de la Libertad tradicional"; el Banco Central había objetado los cuños dibujados en el extranjero y pidió adaptar los diseños de las monedas de 5, 10 y 20 centavos (de cuproníquel). Fuente del autor: Memoria de Hacienda 1940, t. II, pp. 97–98. No menciona el 20 c de plata ni las dimensiones del busto. Usada también en serie 05.
+- Revisión 2026-11-20 (serie 07, agente de nivel 2 y lectura de verificación de la sesión): "En 1896 habían comenzado a circular monedas de cuproníquel de 5, 10 y 20 centavos, pero dejaron de acuñarse las piezas de cobre de 1 y 2 centavos, porque el valor del metal era superior al valor facial de circulación." (sin nota ni fuente); "en 1939 se acuñaron nuevas monedas de cobre de 1 y 2 centavos, de 2 y 3 gramos de peso respectivamente"; licitación privada de cospeles de cobre abierta el 3/05/1939 entre empresas argentinas y europeas. Bibliografía: Cunietti-Ferrando, *La amonedación nacional 1881–1964* (1964); Janson (1998 y 2015). Usada también en serie 07.
+
 ### F-0233
 - Título: "La Compañía Sudamericana de Billetes de Banco" y "Cartas de lectores"; reseña de *Cartas E. Oudiné* — Cuadernos de Numismática y Ciencias Históricas, t. XXIX, n.º 125 (diciembre de 2009)
 - Autor / institución: Daniel H. Villamayor y otros — Centro Numismático Buenos Aires (PDF en monedasuruguay.com)
@@ -3909,4 +3914,104 @@ Formato de cada entrada:
 - Nivel: 4
 - Consultada: 2026-11-19 (agente de ronda 1, comunidad; resumen de WebFetch)
 - Cita clave: "copper, about 30mm and 10g"; "worth more that the cost of the raw material"; relato de contrabando a Francia para vender como metal a casi el triple de su costo (historia policial sin nombre); desmonetización 1/01/1896, aunque el mismo hilo anota acuñación en 1896 (síntesis del lector).
+- Usada en: serie 07
+
+### F-0381
+- Título: Museum Wales (Amgueddfa Cymru), Archaeology & Numismatics — "Argentina (Republic) two centavos", n.º 08.166
+- Autor / institución: Amgueddfa Cymru – Museum Wales (Cardiff)
+- URL: https://museum.wales/collections/online/object/be2fa061-30ad-37e0-a3e4-662b9266d935?page=8
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (colección de museo)
+- Consultada: 2026-11-20 (agentes de niveles 2 y 4; releída por una lectura de verificación de la sesión)
+- Cita clave: "Weight (g): 9.893"; "Material: Copper"; "Acquisition: purchase, 1908"; la ficha no da fecha de la moneda, diámetro ni forma.
+- Usada en: serie 07
+
+### F-0382
+- Título: Falkirk Museums — "coin; centavo (two)", fichas 115202 (1882) y 115203 (1891)
+- Autor / institución: Falkirk Community Trust / Falkirk Museums (Escocia)
+- URL: https://collections.falkirk.gov.uk/objects/115202/coin-centavo-two ; https://collections.falkirk.gov.uk/objects/115203/coin-centavo-two
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (colección de museo)
+- Consultada: 2026-11-20 (agente de nivel 2; resumen de WebFetch)
+- Cita clave: 115202: "Libertad Dos Centavos" / "REPUBLICA ARGENTINA 1882"; 115203: "REPUBLICA ARGENTINA 1891", escudo "dentro de corona y flanqueado por banderas" (síntesis); sin medidas ni procedencia.
+- Usada en: serie 07
+
+### F-0383
+- Título: Registro 9-1340, "Dos centavos 1896" (Museo Nacional Benjamín Vicuña Mackenna, Chile)
+- Autor / institución: SURDOC — Servicio Nacional del Patrimonio Cultural (Chile)
+- URL: https://surdoc.cl/registro/9-1340/pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (registro de museo, con datos inconsistentes; mismo criterio que F-0311)
+- Consultada: 2026-11-20 (agente de nivel 2; resumen de WebFetch)
+- Cita clave: técnica "Acuñación - Bronce"; "Diámetro 3 cm"; ubica "Republica de Argentina 1896" en el canto (contradice el canto liso de la Ley 1130); sin peso.
+- Usada en: serie 07
+
+### F-0384
+- Título: Spink, e-Auction 21158 "World Coins and Medals", lote 14 — Argentina, 2 centavos 1891 y 1893, golpes en metal blanco
+- Autor / institución: Spink & Son
+- URL: https://spink.com/lot/21158000014
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-20 (agente de nivel 3; releída por una lectura de verificación de la sesión)
+- Cita clave: "Argentina, Republic, 2-Centavos [2], off-metal strikes, in white metal [?], 1891; another 1893 (cf. KM 33), toned, very fine, although probably once wiped, otherwise unusual and seemingly unrecorded"; salida 60 £; "Sold for" 70 £; fecha de la subasta no visible.
+- Usada en: serie 07
+
+### F-0385
+- Título: Spink, e-Auction 19041 "The 'Esseight' Collection", lote 9 — lote de doce monedas argentinas
+- Autor / institución: Spink & Son
+- URL: https://spink.com/lot/19041000009
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-20 (agente de nivel 3; resumen de WebFetch)
+- Cita clave: "2 Centavos, 1883, 1885, and 1891 (KM 33)"; "generally fine"; estimación 100–150 €; sin precio realizado visible.
+- Usada en: serie 07
+
+### F-0386
+- Título: LastDodo — "Argentina 2 centavos 1892 misstrike" (ítem 8857763)
+- Autor / institución: LastDodo, ficha de un coleccionista (en neerlandés)
+- URL: https://www.lastdodo.com/en/items/8857763-argentina-2-centavos-1892-misstrike
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-20 (agente de nivel 4; resumen de WebFetch con traducción automática; en la sesión del 2026-11-19 había sido denegada)
+- Cita clave: al menos cinco roturas de cuño ("die cracks") en el reverso; 9,91 g, 30 mm, 1,8 mm; KM# 33 (síntesis del lector, no cita literal).
+- Usada en: serie 07
+
+### F-0387
+- Título: Wikimedia Commons — "File:Two centavos 1891 Argentina.jpg" (espejo de OsmAnd)
+- Autor / institución: Eduard Petrov (autor de la foto, CC BY 4.0)
+- URL: https://download.osmand.net/wiki/File:Two_centavos_1891_Argentina.jpg
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-20 (agente de nivel 4; resumen de WebFetch)
+- Cita clave: 30,1 mm, 1,8 mm, 9,89 g, canto liso, grabador Oudiné, Casa de Moneda de Buenos Aires; "Mintage: 8,050,000 pieces" (sin fuente; la misma cifra que CGB).
+- Usada en: serie 07
+
+### F-0388
+- Título: LovecPokladu.cz — "Zajímavý kop!" (hallazgo 37357)
+- Autor / institución: LovecPokladu.cz, usuario ZDEN82
+- URL: https://www.lovecpokladu.cz/en/artifacts/finding/zajimavy-kop-37357/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-20 (agente de nivel 4; resumen de WebFetch)
+- Cita clave: 2 c 1893, 30,0 mm, hallado a 25 cm en suelo húmedo con detector GM4 en Ústecký kraj; publicado el 10/03/2014; comentario "Parádní kus."
+- Usada en: serie 07
+
+### F-0389
+- Título: "La particular moneda argentina que no sabías que había existido, cuánto pagan los coleccionistas por ella"
+- Autor / institución: El Cronista (sección Información general)
+- URL: https://www.cronista.com/informacion-gral/la-particular-moneda-argentina-que-no-sabias-que-habia-existido-cuanto-pagan-los-coleccionistas-por-ella
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (prensa de divulgación sobre precios de mercado)
+- Consultada: 2026-11-20 (agente de nivel 4; resumen de WebFetch)
+- Cita clave: 2 c 1893 "fabricada en cobre"; "puede superar los 215.000 pesos dependiendo de su estado" (precios de Mercado Libre, no ventas).
+- Usada en: serie 07
+
+### F-0390
+- Título: Coin Brothers (NumisCorner) — ficha coin4139, 2 centavos KM 33
+- Autor / institución: Coin Brothers
+- URL: https://coin-brothers.com/catalog/coin4139
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (catálogo: solo pista)
+- Consultada: 2026-11-20 (agente de nivel 3; resumen de WebFetch)
+- Cita clave: 10 g, 30 mm, espesor 1,8 mm, bronce, grabador Oudiné; "CJ# 24 to 37".
 - Usada en: serie 07

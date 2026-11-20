@@ -7,14 +7,14 @@ denominaciones: ["2 centavos"]
 metal: "cobre (según la ley) / bronce (según catálogos y casas)"
 km: ["KM 33"]
 estado: en investigación
-sesiones: [i1 2026-11-19]
-ultima_actualizacion: "2026-11-19"
+sesiones: [i1 2026-11-19, i2 2026-11-20]
+ultima_actualizacion: "2026-11-20"
 ---
 
 # 2 centavos cobre 1882–1896
 
 ## Resumen
-La pieza mayor de la moneda de cobre de la Ley 1130 de 1881: unos 10 g y 30 mm, el mismo módulo que el 50 centavos de plata, con el escudo nacional, la Libertad de Oudiné y canto liso, como manda la ley para el cobre. La plata dejó de fecharse en 1883; el cobre, en cambio, fue la producción fuerte de la Casa de Moneda en 1884 y, según los catálogos, lleva todas las fechas de 1882 a 1896 salvo 1886. La única tirada oficial por denominación disponible es la de 1883: 1.389.000 piezas, según el informe de Agote de 1884; para 1882 solo se puede calcular el total del cobre (1 y 2 c juntos) y del resto de los años no se pudo leer ninguna fuente oficial en esta primera sesión (los PDF del Ministerio de Economía bloquean la lectura automática). Circuló hasta bien entrado el siglo XX: el BCRA le da cese de curso legal el 21/04/1959 y desmonetización el 2/01/1960.
+La pieza mayor de la moneda de cobre de la Ley 1130 de 1881: unos 10 g y 30 mm, el mismo módulo que el 50 centavos de plata, con el escudo nacional, la Libertad de Oudiné y canto liso, como manda la ley para el cobre. La plata dejó de fecharse en 1883; el cobre, en cambio, fue la producción fuerte de la Casa de Moneda en 1884 y, según los catálogos, lleva todas las fechas de 1882 a 1896 salvo 1886. La única tirada oficial por denominación disponible es la de 1883: 1.389.000 piezas, según el informe de Agote de 1884; para 1882 solo se puede calcular el total del cobre (1 y 2 c juntos) y del resto de los años no se pudo leer ninguna fuente oficial en las dos primeras sesiones (los PDF del Ministerio de Economía bloquean la lectura automática y los informes de la Casa de Moneda de EE. UU. de esos años no están accesibles). Se dejó de acuñar en 1896, cuando llegó el cuproníquel; según un investigador del Museo Janson, porque el metal ya valía más que su valor facial, aunque no da la fuente. Circuló hasta bien entrado el siglo XX: el BCRA le da cese de curso legal el 21/04/1959 y desmonetización el 2/01/1960. Hay ejemplares en museos de Gales (comprado en 1908), Escocia y Chile.
 
 ---
 
@@ -29,13 +29,14 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **Art. 6:** la moneda de plata menor de un peso y la de cobre solo son de recibo obligatorio hasta 50 centavos en pagos de hasta 20 pesos y hasta un peso en los mayores [F-0002] · confirmado (verificado en InfoLEG por el auditor de esta sesión; ya en las series 03 y 04).
 - **Decreto del 7/01/1892:** la Casa de Moneda cambia cobre por papel [F-0252] · probable (registrado por la sesión de la serie 04; esta sesión no pudo reabrir la compilación: PROVENANCE_REQUIRED). Ese mismo año la emisión menor de papel pasó "á cargo esclusivo de la Caja de Conversión" (8/03/1892) [F-0252] · confirmado.
 - **Ley 3321 (2/12/1895):** crea la moneda de níquel [F-0221] · confirmado (título). No se pudo leer en esta sesión si dice algo del cobre (PROVENANCE_REQUIRED) · a confirmar.
-- **Fin de la acuñación:** las acuñaciones de la Ley 1130 se interrumpieron definitivamente en 1896 [F-0024] · probable (Testolino, lectura de agente).
+- **Fin de la acuñación:** las acuñaciones de la Ley 1130 se interrumpieron definitivamente en 1896 [F-0024] · probable (Testolino, lectura de agente). Daniel A. Rey (subdirector del Museo Janson, 2019): en 1896 empezaron a circular las de cuproníquel de 5, 10 y 20 c, "pero dejaron de acuñarse las piezas de cobre de 1 y 2 centavos, porque el valor del metal era superior al valor facial de circulación" [F-0232] · a confirmar (el cese coincide con Testolino; el motivo es una frase sin nota ni fuente, leída por un agente y releída por una lectura de verificación; ver Discrepancias).
 - **Decreto 29.159 (18/04/1939):** ordena las nuevas piezas de 1 y 2 c, más chicas, que circulan desde fines de 1939 [F-0024] · probable (Testolino, lectura de agente). Ver serie 13.
 - **Desmonetización:** la tabla del BCRA de emisiones anteriores da para el 2 centavos (emisión 1882) cese de curso legal el 21/04/1959 y desmonetización el 2/01/1960, en fila propia, separada del 1 centavo (mismas fechas) [F-0257] · confirmado (lectura de agente y verificación del auditor en la página; la cita clave anterior, de la serie 04, la había resumido como una sola fila "1 y 2 c (1882)", sin fechas). Un foro alemán dice que se desmonetizó el 1/01/1896, aunque el mismo hilo anota acuñación en 1896 [F-0380] · a confirmar (ver Discrepancias).
 
 ## Contexto histórico y económico
 - La Ley 1130 creó un sistema de oro, plata y cobre; el cobre era moneda de vuelto, de curso obligatorio limitado (art. 6) [F-0002] · confirmado.
 - Antes de inaugurarse la fábrica, el personal novicio se ejercitó "por haber fabricado con cobre los diferentes tipos de moneda proyectada" (Castilla) [F-0006] · probable. Las únicas pruebas de ese entrenamiento identificadas son de 1 peso de 1881, no de centavos [F-0005, F-0006] · probable.
+- A fines de 1882 todavía circulaban en las provincias "las confusas y sospechosas calderillas de las naciones vecinas" (Djenderedjian, Martirén y Moyano) [F-0038] · probable (lectura de agente; el artículo cubre 1826–1883 y no trata el cobre de la ley). Es el cambio menudo que el cobre nacional venía a reemplazar · supuesto (ver Supuestos).
 - La Casa de Moneda se inauguró el 14/02/1881 [F-0004, F-0116] · confirmado; la acuñación empezó el 3/11/1881 [F-0163] · confirmado (ver serie 03). El cobre se acuña desde 1882 [F-0024] · probable (Testolino).
 - Al 31/03/1883 la Casa había entregado 5.755.257 piezas de oro, plata y cobre (mensaje de Roca, mayo de 1883, en la compilación, citando a Mabragaña) [F-0164] · probable (cita de segunda mano; la cifra no separa el cobre).
 - **1882 y 1883 en números:** la Casa acuñó 2.978.112 piezas de todos los metales en 1882 y 9.548.855 en 1883 [F-0204] · confirmado. En 1883 hubo 1.389.000 de 2 c y 785.833 de 1 c, es decir 2.174.833 piezas de cobre, el 22,8 % de las piezas del año [F-0204] · confirmado (cifras); porcentaje: cálculo propio.
@@ -57,10 +58,10 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 ## Ficha técnica
 | Atributo | Valor | Fuente | Confianza |
 |---|---|---|---|
-| Peso | 10 g (CGB, valor nominal; foro alemán); 9,91 g (NGC, coinvarieties); medido 9,78 g (CGB, 1893 AU) | [F-0375, F-0380, F-0374, F-0377] | pista (catálogos y casas); peso legal a confirmar (la tabla de la ley no se leyó) |
-| Composición / ley | "cobre" en la Ley 1130 [F-0002]; "bronce" en NGC, CGB y coinvarieties [F-0374, F-0375, F-0377] | | "cobre" confirmado como término legal; "bronce" pista; aleación legal a confirmar (ver Discrepancias) |
-| Diámetro | 30 mm | carta de Oudiné [F-0024]; CGB, NGC [F-0375, F-0374] | probable |
-| Espesor | sin dato | | — |
+| Peso | 10 g (CGB, valor nominal; foro alemán); 9,91 g (NGC, coinvarieties; también una ficha de LastDodo de 1892); medido 9,78 g (CGB, 1893 AU); 9,893 g (Museum Wales, ejemplar 08.166, fecha de la moneda no indicada); 9,89 g (foto de Wikimedia Commons, 1891) | [F-0375, F-0380, F-0374, F-0377, F-0386, F-0381, F-0387] | pista (catálogos y casas); 9,893 g probable como medición de un ejemplar de museo; 9,89 g a confirmar; peso legal a confirmar (la tabla de la ley no se leyó) |
+| Composición / ley | "cobre" en la Ley 1130 [F-0002] y en la ficha de Museum Wales ("Copper") [F-0381]; "bronce" en NGC, CGB y coinvarieties [F-0374, F-0375, F-0377] y en el registro chileno SURDOC 9-1340 ("Acuñación - Bronce") [F-0383] | | "cobre" confirmado como término legal; "bronce" pista; aleación legal a confirmar (ver Discrepancias) |
+| Diámetro | 30 mm (30,1 mm en la foto de Wikimedia de un 1891; "3 cm" en SURDOC) | carta de Oudiné [F-0024]; CGB, NGC [F-0375, F-0374]; [F-0387, F-0383] | probable |
+| Espesor | 1,8 mm | Wikimedia Commons, 1891 [F-0387]; LastDodo, 1892 [F-0386]; Coin Brothers [F-0390] | a confirmar (comunidad y catálogo; ninguna fuente oficial ni de museo) |
 | Canto | liso | Ley 1130, art. 3 [F-0002]; CGB [F-0375] | confirmado |
 | Eje | sin dato | | — |
 | Ceca | Casa de Moneda de Buenos Aires | [F-0028] (1884), [F-0024] | confirmado para 1884; probable para el resto |
@@ -82,6 +83,8 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 | 1894–1896 | sin cifra | — | — | |
 
 - Presentación: suelta (monedas de circulación); no se encontró otra · constancia.
+- Informes de la Casa de Moneda de EE. UU.: el de 1887 en Internet Archive, leído entero en esta sesión, es el informe de producción de metales preciosos y no trae cuadro de acuñación argentina ni datos del cobre [F-0027] · constancia. No apareció en archive.org ningún informe anual del Director de 1884–1898 (solo FRASER, que sigue sin abrir, y uno de 1900) · constancia.
+- Rey (2019) da para las piezas de cobre de 1939 pesos de 2 g (1 c) y 3 g (2 c), y una licitación privada de cospeles de cobre abierta el 3/05/1939 entre empresas argentinas y europeas [F-0232] · probable (contexto de la serie 13).
 - Fechas existentes según la guía de NGC: 1882, 1883, 1884, 1885, 1887, 1888, 1889, 1890, 1891, 1892, 1893, 1894, 1895 y 1896; no hay 1886 [F-0374] · pista.
 
 ## Circulación, retiro, desmonetización y fundiciones
@@ -89,6 +92,7 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - 1884: la Casa de Moneda proyectaba que hubiera "moneda de cobre en toda la República" [F-0028] · confirmado.
 - 1892: la Casa de Moneda cambia cobre por papel [F-0252] · probable.
 - Circulaba todavía en los años treinta [F-0024] · probable; en 1939 se ordenaron nuevas piezas de 1 y 2 c más chicas [F-0024] · probable.
+- Cese de la acuñación en 1896, según Rey porque el metal valía más que el valor facial [F-0232] · a confirmar (motivo sin fuente; ver Discrepancias).
 - Cese de curso legal 21/04/1959; desmonetización 2/01/1960 [F-0257] · confirmado.
 - En foros europeos se dice que buena parte de las piezas que hoy circulan en Europa llegaron después de la desmonetización [F-0379] · a confirmar.
 - Fundiciones o exportaciones: no se encontró ningún dato documental · constancia (se buscó en niveles 1 y 2). Un foro cuenta que se habría contrabandeado a Francia para venderla como metal [F-0380] · a confirmar (ver Voz de la época).
@@ -98,11 +102,11 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - La guía de precios de NGC pone como fechas más caras 1887, 1882 y 1888, y luego 1896, 1883 y 1895; las más baratas son 1890, 1891 y 1893 [F-0374] · probable (valores de guía, no ventas).
 - coinvarieties llama al 1882 "scarce key date" [F-0377] · a confirmar.
 - coinvarieties dice que el tipo es común y que los ejemplares sin circular están subvaluados [F-0377] · a confirmar.
-- Censos NGC/PCGS: no se pudieron leer · constancia.
+- Censos NGC/PCGS: no se pudieron leer; en esta sesión la URL del censo NGC del 2 c no apareció en ninguna búsqueda (solo la de los 2 reales) · constancia.
 
 ## Por año
 ### 1882
-- Primera fecha del 2 c y del cobre de la ley [F-0024] · probable. Cobre total del año (1 y 2 c): 195.704 piezas por cálculo [F-0204, F-0163] · supuesto (ver Acuñación). Segunda fecha más cara en la guía de NGC (G 20, XF 275, "último valor" 450 USD) [F-0374] · probable; "scarce key date" para coinvarieties [F-0377] · a confirmar.
+- Primera fecha del 2 c y del cobre de la ley [F-0024] · probable. Hay un 1882 en Falkirk Museums (Escocia), ficha 115202, con las leyendas "Libertad Dos Centavos" y "REPUBLICA ARGENTINA 1882", sin medidas ni procedencia [F-0382] · confirmado (existencia del ejemplar). Cobre total del año (1 y 2 c): 195.704 piezas por cálculo [F-0204, F-0163] · supuesto (ver Acuñación). Segunda fecha más cara en la guía de NGC (G 20, XF 275, "último valor" 450 USD) [F-0374] · probable; "scarce key date" para coinvarieties [F-0377] · a confirmar.
 ### 1883
 - 1.389.000 piezas, frente a 785.833 de 1 c [F-0204] · confirmado. Guía NGC: XF 65 USD [F-0374] · probable.
 ### 1884
@@ -114,18 +118,25 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 ### 1887–1888
 - 1887 es la fecha más cara de la guía de NGC (XF 550, "último valor" 750 USD) y 1888 la tercera (XF 150) [F-0374] · probable.
 ### 1889
-- Ejemplar con laminación del cospel (la superficie del anverso desprendida, con corrosión debajo), foro Collectors Universe, 2006 [F-0378] · probable (opinión de un coleccionista).
+- Ejemplar con laminación del cospel (la superficie del anverso desprendida, con corrosión debajo), foro Collectors Universe, 11/06/2006, usuario WillieBoyd2, que lo tenía desde su colección de monedas extranjeras de los años sesenta [F-0378] · probable (opinión de un coleccionista).
 ### 1890–1893
 - Las fechas más comunes según la guía NGC [F-0374] · probable. CGB vendió un 1890 PCGS MS63 BN en 75 € y un 1891 PCGS MS64 BN en 80 € (e-shop, 2026), y un 1893 AU de 9,78 g en 15 € (2020) [F-0375] · probable (fichas leídas, una sola casa).
 - Piezas fuera de metal, en metal blanco, con fechas 1891 y 1893: Spink, e-Auction 19041 ("The 'Esseight' Collection"), lote 10, realizado 170 €; Spink las llama "seemingly unrecorded" [F-0376] · probable.
 - Un 1892 con supuestos errores resultó, según el foro de Numista, daño de "almost 130 years of wear and tear" [F-0379] · a confirmar.
+- Otro 1892, publicado en LastDodo como "misstrike", tendría al menos cinco roturas de cuño en el reverso (9,91 g, 30 mm, 1,8 mm) [F-0386] · a confirmar (ficha de un coleccionista, leída por resumen de un agente).
+- 1891: ejemplar en Falkirk Museums, ficha 115203 (escudo "dentro de corona y flanqueado por banderas") [F-0382] · confirmado (existencia); foto de Wikimedia Commons con 9,89 g, 30,1 mm y 1,8 mm [F-0387] · a confirmar.
+- 1893: hallado con detector en el norte de la República Checa (Ústecký kraj), a 25 cm de profundidad, publicado en LovecPokladu.cz el 10/03/2014 por el usuario ZDEN82 [F-0388] · a confirmar (un solo relato).
+- 1893: una nota de *El Cronista* dice que puede superar los 215.000 pesos según su estado (precios de oferta en Mercado Libre) [F-0389] · pista (no son ventas).
+- 1883, 1885 y 1891: los tres en un lote de doce monedas de Spink e-Auction 19041, lote 9, "generally fine", estimación 100–150 € [F-0385] · probable (sin precio realizado).
 ### 1894–1896
-- Guía NGC: 1895 XF 60 y 1896 XF 70 USD, por encima de las fechas comunes [F-0374] · probable. 1896 es el último año del cobre de la ley [F-0024] · probable.
+- Guía NGC: 1895 XF 60 y 1896 XF 70 USD, por encima de las fechas comunes [F-0374] · probable. 1896 es el último año del cobre de la ley [F-0024, F-0232] · probable.
+- 1896: el Museo Nacional Benjamín Vicuña Mackenna (Chile) registra "Dos centavos 1896", "Acuñación - Bronce", 3 cm, y ubica "Republica de Argentina 1896" en el canto [F-0383] · a confirmar (la leyenda en el canto contradice el canto liso de la ley [F-0002]; probable error de catalogación, como el registro del 20 c en la serie 05 [F-0311]).
 
 ## Variantes y errores
 | Variante | Cómo se identifica | Documentada por | Estado |
 |---|---|---|---|
-| Piezas en metal blanco 1891 y 1893 ("off-metal strikes") | metal blanco en lugar de cobre | Spink e-Auction 19041 lote 10 [F-0376] | a confirmar (una sola casa; sin peso) |
+| Piezas en metal blanco 1891 y 1893 ("off-metal strikes") | metal blanco en lugar de cobre | Spink e-Auction 19041 lote 10 [F-0376]; Spink e-Auction 21158 lote 14, "in white metal [?]" [F-0384] | a confirmar (una sola casa, que duda del metal; sin peso) |
+| Roturas de cuño (1892) | al menos cinco grietas en el reverso | LastDodo [F-0386] | a confirmar (defecto de cuño, no variante) |
 | Laminación del cospel (1889) | capa del anverso desprendida | foro Collectors Universe [F-0378] | a confirmar (defecto de cospel, no variante) |
 | Ensayos unifaces 1880 (1 y 2 c) | unifaz, aleación de cobre o metal blanco | Dabbah y Madonna [F-0005] | a revisar (fantasías según el estudio) |
 
@@ -153,6 +164,8 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 ## Vida posterior (existencias guardadas, ventas oficiales, tesoros, colecciones célebres)
 - Siguió en circulación hasta los años treinta [F-0024] · probable, y con curso legal hasta 1959 [F-0257] · probable.
 - Reacuñaciones paraguayas modernas "sobre monedas argentinas ya sean en plata o incluso en cobre" [F-0173] · a confirmar (no dice qué monedas ni si son de época).
+- Ejemplares en museos fuera de la Argentina: Museum Wales (Cardiff), n.º 08.166, comprado en 1908, cobre, 9,893 g [F-0381] · confirmado (lo que dice la ficha); Falkirk Museums, un 1882 y un 1891 [F-0382] · confirmado; Museo Nacional Benjamín Vicuña Mackenna (Chile), un 1896 [F-0383] · confirmado (existencia; datos técnicos a confirmar).
+- Hallazgo con detector de un 1893 en la República Checa (2014) [F-0388] · a confirmar.
 - No se encontraron existencias oficiales, ventas ni lotes · constancia.
 
 ## Historias y curiosidades
@@ -160,9 +173,12 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 ## Observaciones de mercado
 - CGB (e-shop): 1890 PCGS MS63 BN, 75 € (2026); 1891 PCGS MS64 BN, 80 € (2026); 1893 AU, 15 € (2020), 9,78 g [F-0375] · probable (lo que dice la ficha).
 - Spink e-Auction 19041, lote 10: piezas en metal blanco 1891 y 1893, 170 € [F-0376] · probable (fecha de la subasta sin dato).
+- Spink e-Auction 21158 ("World Coins and Medals"), lote 14: "2-Centavos [2], off-metal strikes, in white metal [?], 1891; another 1893", "toned, very fine, although probably once wiped", "unusual and seemingly unrecorded"; salida 60 £, vendido en 70 £ [F-0384] · probable (fecha sin dato; ver Supuestos).
+- Spink e-Auction 19041, lote 9: doce monedas, entre ellas 2 c 1883, 1885 y 1891, estimación 100–150 €, sin precio realizado visible [F-0385] · probable.
+- *El Cronista* (nota de divulgación): un 1893 "puede superar los 215.000 pesos dependiendo de su estado", según publicaciones de Mercado Libre [F-0389] · pista (precio de oferta).
 - Steve Album Auction 54: 1885 PCGS MS64 RB, US$ 390 [F-0377] · probable (dato transmitido por coinvarieties).
 - Guía de precios NGC (no son ventas), por año, G/VG/F/VF/XF y "último valor" (rótulos de columna según la relectura del auditor; la primera lectura los había corrido un lugar): 1882 20/35/65/175/275/450; 1883 3/5/10/25/65/90; 1884 1,5/2,25/5,5/12,5/20/35; 1885 1,8/3/6/15/25/45; 1887 30/45/100/300/550/750; 1888 15/25/35/85/150/225; 1889 1,8/3/6/14/28/45; 1890, 1891 y 1893 1,3/2/4/10/15/20; 1892 1,3/2/5/12/18/30; 1894 1,5/2,75/5,5/13,5/25/40; 1895 2,5/4,5/12,5/35/60/100; 1896 2,5/7,5/16,5/40/70/120 USD [F-0374] · probable (lo que dice la guía; rótulos de columna a confirmar con otra lectura).
-- Sin resultados de Heritage, Stack's Bowers, Künker, Katz, NumisBids, Río de la Plata, FILACOR, BINUMIS ni Sixbid para el 2 c · constancia.
+- Sin resultados de Heritage, Stack's Bowers, Künker, Katz, NumisBids, Río de la Plata, FILACOR, BINUMIS ni Sixbid para el 2 c · constancia. En esta sesión tampoco aparecieron lotes en acsearch, Áureo & Calicó, Jean Elsen, Teutoburger, Schulman, Roldán ni Cayón (búsquedas por las fechas caras, 1885–1886 y grados MS/RD) · constancia.
 
 ## Graduación: puntos de desgaste y problemas típicos
 - Color: las certificadoras califican el color del cobre como BN (marrón), RB (rojo y marrón) o rojo; los certificados vistos son BN (CGB) y RB (Album) [F-0375, F-0377] · probable (lo que dicen las etiquetas). No se vio ninguno rojo.
@@ -170,8 +186,9 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - Qué se gasta primero (pelo y gorro de la Libertad, escudo): ninguna fuente lo describe · constancia.
 
 ## Discrepancias
-- **Metal:** la Ley 1130 habla de moneda de "cobre" [F-0002]; NGC, CGB y coinvarieties dicen bronce [F-0374, F-0375, F-0377]; un foro alemán dice cobre [F-0380]. Falta la tabla del art. 2 para saber la aleación legal.
-- **Peso:** 10 g (CGB; foro alemán) / 9,91 g (NGC, coinvarieties) / 9,78 g medido [F-0375, F-0380, F-0374, F-0377].
+- **Metal:** la Ley 1130 habla de moneda de "cobre" [F-0002]; NGC, CGB y coinvarieties dicen bronce [F-0374, F-0375, F-0377]; un foro alemán dice cobre [F-0380]; entre los museos, Museum Wales dice cobre [F-0381] y el registro chileno, bronce [F-0383]. Falta la tabla del art. 2 para saber la aleación legal.
+- **Motivo del fin del cobre (1896):** Rey dice que se dejó de acuñar porque el metal valía más que el valor facial [F-0232 · a confirmar: sin fuente citada]; el usuario del foro alemán dice que la moneda "valía más que su materia prima" y, a la vez, que se contrabandeaba para venderla como metal [F-0380 · a confirmar]. Rey coincide con la segunda parte del relato del foro, no con la primera.
+- **Peso:** 10 g (CGB; foro alemán) / 9,91 g (NGC, coinvarieties) / 9,78 g medido (CGB) / 9,893 g medido (Museum Wales) / 9,89 g (Wikimedia) [F-0375, F-0380, F-0374, F-0377, F-0381, F-0387].
 - **1885:** la Memoria de Hacienda dice que la Casa no produjo "un solo centavo" en 1885 [F-0165 · probable], pero hay piezas fechadas 1885 [F-0377, F-0374].
 - **Desmonetización:** 21/04/1959 (cese) y 2/01/1960 (desmonetización) según el BCRA [F-0257] contra 1/01/1896 según un foro que a la vez anota acuñación en 1896 [F-0380 · a confirmar] (la misma fecha "1/01/1896" que los catálogos dan sin respaldo para la plata: ver serie 06). Prevalece la fuente oficial.
 - **Sanción de la Ley 1130 y comienzo de la acuñación:** InfoLEG da la sanción el 3/11/1881 [F-0002] y la Memoria de 1881 el comienzo de la acuñación el 3/11/1881 [F-0163]; si la sanción fue el 5/11 (Memoria y Gancedo), la acuñación habría empezado antes que la ley (ver serie 03).
@@ -179,8 +196,10 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **1882:** NGC da 88.000 para el 2 c [F-0374 · pista]; el cálculo sobre Agote da 195.704 para todo el cobre del año [F-0204 · supuesto]. No se contradicen, pero falta la cifra oficial por denominación.
 
 ## Pistas para la próxima sesión
-- **Tiradas oficiales (prioridad A):** Agote 1884, Libro II: cuadro de 1882 por denominación (¿trae el 1 y el 2 c?) y relectura de los totales de 1883 [F-0204]; Agote 1888, Libro V, pp. 401–411 [F-0205]; Memoria de la Casa de Moneda de 1884, cuadro N.º 4 [F-0028]; Memorias de Hacienda 1885–1896 (CDI greenstone: robots); compilaciones de argentina1810-1910.com 1884–1896; U.S. Mint, Annual Reports 1886–1897, sección "Argentine Republic" (FRASER en mantenimiento el 2026-11-19; buscar copias en archive.org). Todos fallaron hoy (PROVENANCE_REQUIRED, robots o mantenimiento).
-- Cifras de catálogo a verificar: 1890 3.609.000; 1891 8.050.000; 1893 5.473.000 (CGB) [F-0375].
+- **Tiradas oficiales (prioridad A):** Agote 1884, Libro II: cuadro de 1882 por denominación (¿trae el 1 y el 2 c?) y relectura de los totales de 1883 [F-0204]; Agote 1888, Libro V, pp. 401–411 [F-0205]; Memoria de la Casa de Moneda de 1884, cuadro N.º 4 [F-0028]; Memorias de Hacienda 1885–1896 (CDI greenstone: robots); compilaciones de argentina1810-1910.com 1884–1896; U.S. Mint, Annual Reports 1886–1897, sección "Argentine Republic" (FRASER: client_error otra vez el 2026-11-20; en archive.org no aparecieron informes anuales de 1884–1898; el de 1887 que sí está [F-0027] es el de producción de metales y no sirve). Todos fallaron (PROVENANCE_REQUIRED, robots o mantenimiento). Nuevos caminos sin abrir (cupo): Registro Nacional 1892, t. 42, en la BDU del SIU (https://bdu.siu.edu.ar/bdu/Record/I55-R161-HASH647c23dde3f9d183e4341a); CDI, colección registr1, HASH7348 (sin identificar); informe del Director de 1900 en archive.org (annualreportofdi1900unit_a8l9, ¿cuadro retrospectivo?); *Bulletin* de la Oficina de las Repúblicas Americanas, vol. 3 (archive.org, bulletin03repugoog); Memoria del Ministerio del Interior 1894 en el repositorio de la ANH.
+- Cifras de catálogo a verificar: 1890 3.609.000; 1891 8.050.000; 1893 5.473.000 (CGB) [F-0375]. La de 1891 se repite en la ficha de Wikimedia Commons [F-0387], sin fuente.
+- Motivo del fin del cobre en 1896 (Rey [F-0232], sin nota): buscar la fuente en Cunietti-Ferrando, *La amonedación nacional 1881–1964* (1964), y en Janson, *La moneda circulante en el territorio argentino* (1998 y 2015), que Rey cita en su bibliografía; y en las Memorias de Hacienda de 1896–1897.
+- Documentos Históricos del Museo Janson (SENIP, Museo-Historico-y-Numismatico-Hector-C-Janson-Documentos-Historicos-1.pdf): ¿decretos o documentos del cobre? (apareció en búsqueda; no se abrió por cupo).
 - Tabla del art. 2 de la Ley 1130 (fila del cobre) y art. 4 textual: Gancedo pp. 14–16 [F-0134] (PROVENANCE_REQUIRED hoy); Wikisource *Bancos y moneda* (url_not_found).
 - Texto del decreto del 7/01/1892 [F-0252] y de la Ley 3321 [F-0221] respecto del cobre.
 - Sección del 2 c en Gancedo (ficha, troqueles) y en el PDF de errores de Dabbah.
@@ -189,6 +208,8 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - Fichas de CGB vistas solo en resultados (1883 fwo_401196; 1884 fwo_372718, fwo_967535; 1885 fwo_464100; 1887 fwo_808448, fwo_980422; 1888 fwo_916336; 1889 fwo_380233; 1890 fwo_680087, fwo_1009942, fwo_1021193, fwo_963605, fwo_938482 —"E-auction 585"—, fwo_339483; 1891 fwo_113588; 1892 fwo_1021198, fwo_1003985; 1893 fwo_1075725, fwo_680789; 1894 fwo_256030; 1896 fwo_453884); coinvarieties 1888 y 1891; Spink 3121202 y 323000524; MA-Shops (Dilmarks).
 - PCGS CoinFacts 1890 2C (cert. 45025009, PCGS# 217902) y censos NGC.
 - Foronum n-1501 (2 c) por año.
+- Otras fichas vistas solo en resultados: LastDodo 889461 (1893); CollecOnline 241989 (1893); Numista, ejemplares de la pieza 2220 (fotos de 1891, 1893 y 1894); eBay 396962014483 (1891); Golden Eagle Coin (1892 VF); Tradera 344693/747181434 (1885); eBay.de 205677314288 y 256616449634 (1884), 235936229584 (1888), 376415196116 (1889); CGB 1887 (fwo_980422, fwo_808448), 1888 AU (fwo_916336), 1896 (fwo_453884), 1892 (fwo_1003985); fichas de museos con "two centavos" en Horniman (nn11464, nn11466) y Aberdeen (eMuseum), y SURDOC registro-descarga 66441.
+- Wikisource, Ley 733 de 1875 (antecedente del cobre de la Casa de Moneda) y Folleto Numismático n.º 11 (monedasuruguay.com, fn11.pdf): no se abrieron por cupo.
 - Qué punzón de cabeza lleva el 2 c (¿el del 50 c, por el módulo?).
 - Releer la guía de NGC [F-0374] para fijar los rótulos de columna (G…XF) y la tirada de 1882 que cita (88.000).
 - PDF de Dabbah y Madonna [F-0005]: qué dice exactamente de los unifaces de 1 y 2 c de 1880 (listel, época).
@@ -197,8 +218,10 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **1885 sin producción y piezas fechadas 1885:** es posible que la frase de la Memoria de 1885 ("no parecen haber producido un solo centavo") se refiera a la ganancia de la Casa de Moneda y no a la producción de monedas, o que las piezas fechadas 1885 se hayan acuñado con cuños de ese año en otro momento. Se apoya en que la frase aparece en un contexto de cuentas [F-0165] y en que hay piezas fechadas 1885 en el mercado [F-0377]. Para resolverlo hay que leer el pasaje completo y un cuadro de acuñación de 1885–1886. · supuesto
 - **1886 sin fecha:** la falta de piezas fechadas 1886 sugiere que ese año no se acuñó 2 c, o que se siguió usando el cuño de 1885. Se apoya en que ningún catálogo ni casa lista 1886 [F-0374]. · supuesto
 - **Cobre de 1882:** 2.978.112 piezas de 1882 [F-0204] menos la plata de 1882 (413.711 + 576.447 + 762.027 + 778.131 = 2.530.316 [F-0204]) y los Argentinos de 1882 (289.244 acumulados a fines de 1882 [F-0204] menos 37.152 de 1881 [F-0163] = 252.092) dejan 195.704 piezas, que serían el cobre de 1882 (1 y 2 c juntos), si el total no incluye otras piezas. Hace falta el cuadro de 1882 por denominación. · supuesto
+- **Las calderillas del interior:** el cobre nacional venía a reemplazar, entre otras cosas, la moneda menuda extranjera que todavía circulaba en las provincias a fines de 1882. Se apoya en la mención de las "calderillas de las naciones vecinas" [F-0038] y en el anuncio de 1884 de que habría "moneda de cobre en toda la República" [F-0028]; ninguna fuente leída une las dos cosas. · supuesto
+- **Las piezas en metal blanco de Spink:** es posible que el par 1891 y 1893 del lote 14 de la e-Auction 21158 (70 £) sea el mismo par del lote 10 de la e-Auction 19041 (170 €), revendido. Se apoya en que ambos lotes reúnen exactamente un 1891 y un 1893 en metal blanco, con la misma frase "seemingly unrecorded" [F-0376, F-0384]; hace falta la fecha de cada subasta y las fotos. · supuesto
 - **Límite del art. 4:** si los "veinte centavos de cobre" son por habitante, la ley calculaba el equivalente de unos diez 2 c por persona. Se apoya en la lectura del art. 4 [F-0002]. · supuesto
-- **El contrabando a Francia:** si la moneda valía más que su metal, no convenía fundirla; el relato del foro solo tendría sentido si en algún momento el cobre valía más que el valor facial en papel depreciado (después de 1885 el peso papel se depreció frente al oro). Se apoya en el relato [F-0380] y en la suspensión de la conversión de 1885 [F-0086]. Hace falta la historia policial original. · supuesto
+- **El contrabando a Francia:** si la moneda valía más que su metal, no convenía fundirla; el relato del foro solo tendría sentido si en algún momento el cobre valía más que el valor facial en papel depreciado (después de 1885 el peso papel se depreció frente al oro). Se apoya en el relato [F-0380] y en la suspensión de la conversión de 1885 [F-0086]. Hace falta la historia policial original. Rey sostiene, sin citar fuente, que el cobre se dejó de acuñar en 1896 justamente porque el metal valía más que el facial [F-0232]: si eso fuera cierto, el relato del contrabando tendría base y la primera frase del usuario del foro sería la equivocada. Para decidir hace falta una cotización del cobre de la época frente al peso papel. · supuesto
 
 ---
 
