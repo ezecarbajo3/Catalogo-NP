@@ -1,6 +1,6 @@
 # Catálogo NP — Base de investigación
 
-Base de conocimiento acumulativa para el **Catálogo de Monedas Argentinas** (Numismática Popper). Todos los días, a las 19 h, una sesión de investigación toma la siguiente serie de monedas, busca información en fuentes oficiales, papers, subastas, foros y redes, y la registra acá con su fuente.
+Base de conocimiento acumulativa para el **Catálogo de Monedas Argentinas** (Numismática Popper). Todos los días, tres sesiones de investigación (medianoche, mañana y tarde, hora argentina) toman, una por vez, la siguiente tarea de la serie de monedas en curso, busca información en fuentes oficiales, papers, subastas, foros y redes, y la registra acá con su fuente.
 
 ## Cómo se organiza
 
@@ -32,7 +32,7 @@ Base de conocimiento acumulativa para el **Catálogo de Monedas Argentinas** (Nu
 
 ## Ritmo
 
-Cada serie tiene sesiones de **investigación** (`i`) y una de **revisión** (`r`), que busca en lugares distintos para confirmar, corregir y limpiar redundancias. Las series cortas llevan `1i+1r` (2 días); las largas o con mucha historia, `2i+1r` (3 días). Primera ronda completa: 113 sesiones. Después, el ciclo sigue con revisiones de segunda ronda.
+Cada serie tiene sesiones de **investigación** (`i`) y una de **revisión** (`r`), que busca en lugares distintos para confirmar, corregir y limpiar redundancias. Las series cortas llevan `1i+1r` (2 sesiones); las largas o con mucha historia, `2i+1r` (3 sesiones); las 07 y 08 (cobre 1882–1896), `4i+1r` (5 sesiones). Primera ronda completa: 117 sesiones. Después, el ciclo sigue con revisiones de segunda ronda.
 
 ## Historial de cambios
 

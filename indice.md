@@ -5,7 +5,7 @@ Este archivo es la **cola de trabajo** de las sesiones diarias. Cada sesión lee
 ## Cómo leer la tabla
 
 - **Ref. orden (CJ):** rango de números del catálogo de referencia del mercado, usado **solo para el orden y para saber qué fechas y variantes buscar**. Nunca es fuente de un dato.
-- **Plan:** sesiones previstas. `1i+1r` = una sesión de investigación y una de revisión. `2i+1r` = dos de investigación y una de revisión (series largas o con mucha historia).
+- **Plan:** sesiones previstas. `1i+1r` = una sesión de investigación y una de revisión. `2i+1r` = dos de investigación y una de revisión (series largas o con mucha historia). `4i+1r` = cuatro de investigación y una de revisión (series 07 y 08, por pedido del dueño).
 - **Hechas:** sesiones ya realizadas (ej. `1i` = hecha la primera investigación; `2i+1r` = todo hecho).
 - **Estado:** `pendiente` → `en investigación` → `a revisar` → `completa`.
 - **Archivo:** ruta del archivo de la serie dentro de `monedas/`.
@@ -24,8 +24,8 @@ Orden: cronológico por año de inicio del tipo y, dentro de un mismo período, 
 | 04 | 50 centavos plata "Medio Patacón" | 1881–1883 | 15–17 | 1i+1r | 1i+1r | completa | monedas/1-peso-moneda-nacional/04-50-centavos-plata-1881-1883.md |
 | 05 | 20 centavos plata | 1881–1883 | 18–20 | 1i+1r | 1i+1r | completa | monedas/1-peso-moneda-nacional/05-20-centavos-plata-1881-1883.md |
 | 06 | 10 centavos plata | 1881–1883 | 21–23 | 1i+1r | 1i+1r | completa | monedas/1-peso-moneda-nacional/06-10-centavos-plata-1881-1883.md |
-| 07 | 2 centavos cobre | 1882–1896 | 24–37 | 2i+1r | 1i | en investigación | monedas/1-peso-moneda-nacional/07-2-centavos-cobre-1882-1896.md |
-| 08 | 1 centavo cobre | 1882–1896 | 38–51 | 2i+1r | — | pendiente | monedas/1-peso-moneda-nacional/08-1-centavo-cobre-1882-1896.md |
+| 07 | 2 centavos cobre | 1882–1896 | 24–37 | 4i+1r | 1i | en investigación | monedas/1-peso-moneda-nacional/07-2-centavos-cobre-1882-1896.md |
+| 08 | 1 centavo cobre | 1882–1896 | 38–51 | 4i+1r | — | pendiente | monedas/1-peso-moneda-nacional/08-1-centavo-cobre-1882-1896.md |
 | 09 | 20 centavos cuproníquel | 1896–1942 | 52–… | 2i+1r | — | pendiente | monedas/1-peso-moneda-nacional/09-20-centavos-cuproniquel-1896-1942.md |
 | 10 | 10 centavos cuproníquel | 1896–1942 | …–129 | 2i+1r | — | pendiente | monedas/1-peso-moneda-nacional/10-10-centavos-cuproniquel-1896-1942.md |
 | 11 | 5 centavos cuproníquel | 1896–1942 | 130–172 | 2i+1r | — | pendiente | monedas/1-peso-moneda-nacional/11-5-centavos-cuproniquel-1896-1942.md |
@@ -98,4 +98,4 @@ La base nunca se da por terminada. Al completar la serie 44, el ciclo vuelve a e
 
 ## Resumen del plan
 
-- 44 series · 113 sesiones previstas en la primera ronda (≈ 4 meses a una sesión diaria).
+- 44 series · 117 sesiones previstas en la primera ronda, a tres sesiones por día (medianoche, mañana y tarde, hora argentina). Cada sesión hace una sola tarea de una sola serie.

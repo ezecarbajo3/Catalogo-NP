@@ -239,7 +239,7 @@ Al terminar:
 2. Agregar al **principio** de `bitacora.md` una entrada con este formato:
 
 ```
-## AAAA-MM-DD · Serie NN · <nombre> · <investigación 1|investigación 2|revisión|r2>
+## AAAA-MM-DD · Serie NN · <nombre> · <investigación N|revisión|r2> (sesión de medianoche|mañana|tarde)
 - Búsquedas: N · Documentos leídos: N · Fuentes nuevas: F-####–F-####
 - Hallazgos principales: (3 a 6 viñetas)
 - Historia completa: N palabras (antes: M); apartados nuevos o reescritos
