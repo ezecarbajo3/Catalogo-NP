@@ -104,6 +104,7 @@ Formato de cada entrada:
 - Cita clave: p. 34: "Gold was coined until 1896, the total amount being 31,722,625 pesos, about four times the number that the act called for" (cita Extracto Estadístico de la República Argentina, 1915, p. 299). A fines de 1886, con 11.225.000 pesos oro acuñados, el director de la Casa de Moneda desaconsejó seguir acuñando: "the gold coined has been shipped or melted down" (cita P. Agote, Finances of the Argentine Government, ed. IV, 1887, p. 595 y ss.). p. 33: ley del 5 de noviembre de 1881.
 - Usada en: serie 01, temas/ley-1130-unificacion-monetaria.md, serie 03
 - Revisión 2026-11-07 (serie 03, agente de la ronda 2): cap. III: "Silver ceased to be coined in 1884, when 2,805,839 pesos had been issued." "The bi-metallistic provision was a failure from the outset." Romero fijó para los melgarejos un precio de compra 4 centavos sobre su valor metálico (nota 2). Premio del oro: 35 % en 1885, 354 % en octubre de 1891 (cap. I).
+- Revisión 2026-11-20 (serie 07, investigación 3; agente de ronda 2 y lectura de verificación con texto literal): promedios anuales del premio del oro, en %: p. 60, cuadro "Quantity of Paper and the Gold Premium, 1885-91": 1885 37, 1886 39, 1887 35, 1888 48, 1889 91, 1890 151, 1891 287; p. 138, "Yearly Averages of Gold Premium, 1890-95": 1892 232, 1893 224, 1894 257, 1895 244; p. 154, cuadro 1894-1900: 1896 196, 1897 191, 1898 158, 1899 125, 1900 131. Pico de octubre de 1891: "354 per cent in the third week of October, 1891" (cap. I, p. 3) y "at a premium of 364" (cap. V, p. 61; también p. 132): el libro da las dos cifras. Usada también en serie 07.
 ### F-0008
 - Título: El funcionamiento de la Caja de Conversión (1900-1929)
 - Autor / institución: Rogelio Pontón — Bolsa de Comercio de Rosario, 08/03/2013
@@ -428,6 +429,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-04
 - Cita clave: la ley del 5/11/1881 fijó la libra en 5,04 pesos oro y el dólar en 1,04 (p. 6); "The period of convertibility lasted only seventeen months"; "By the end of December 1884, the banks of issue did not stand ready to sell gold at par"; curso forzoso en marzo de 1885 (p. 7); Ford: "By 1896 when the coinage of gold ceased, gold coins to the value of 31.7 million gold pesos had been issued" (p. 8); Bancos Garantidos: "sixteen banks were given the right to issue 39 millions of pesos in guaranteed notes" (p. 14); relación oro/papel 2,96 en 1896 (tabla 8, p. 27).
 - Usada en: serie 01
+- Revisión 2026-11-20 (serie 07, investigación 3): se usa la paridad del dólar (1,04 pesos oro) para el cálculo del valor del metal del 2 c (supuesto de la serie 07). Usada también en serie 07.
 
 ### F-0038
 - Título: [Plata boliviana y unificación monetaria] — Desarrollo Económico 61 (233), 2021
@@ -2430,6 +2432,7 @@ Formato de cada entrada:
 - Cita clave: "piezas menores en dicho metal de 50 centavos conocido como 'medio patacón' de 12,5 gramos" (fichas 7, 8 y 26, altas del 1/01/1995). Ensayos belgas de 1879 de 80, 40 y 20 centavos fuertes y "Un patacón" (fichas 43–46); los "1880" de plata de 1 peso son "copias realizadas con posterioridad con cuños originales modificando la fecha"; ficha 55: ensayo de níquel de 1936 con la Libertad de Oudiné, "CINCUENTA CENTAVOS". No se vio ningún ensayo de 50 c de la Ley 1130.
 - Usada en: serie 04
 - Revisión 2026-11-19 (serie 07; lectura de agente, primeros 100.000 de ≈500.000 caracteres): sin ensayos de 1 o 2 c de 1882–1896; ensayos de 1935 en cobre: reg. 27, 2 centavos, 3,3 g, 20,2 mm; reg. 28, 1 centavo, 1,5 g, 16,1 mm ("Ensayo presentado por Casa de Moneda de la Nación", paráfrasis). Usada también en serie 07.
+- Revisión 2026-11-20 (serie 07, investigación 3; dos lecturas de agente, ficha 26): "En cobre se acuñaron piezas de 2 centavos de 10 gramos y 1 centavo de 5 gramos"; el texto cita como fuente a Janson, *La moneda circulante en el territorio argentino 1574-2019* (2020), sin página. La tabla de la Ley 1130 del PDF no se renderiza en la lectura automática.
 
 ### F-0232
 - Título: Las monedas de 50 centavos de 1941: un experimento de circulación monetaria (julio de 2019)
@@ -3857,6 +3860,7 @@ Formato de cada entrada:
 - Cita clave: "Weight 9.9100 g, Diameter 30 mm, Composition Bronze"; fechas 1882–1885 y 1887–1896, sin 1886; valores Ag/G/VG/F/VF/"último valor" (USD): 1882 20/35/65/175/275/450; 1887 30/45/100/300/550/750; 1888 15/25/35/85/150/225; 1890 1,3/2/4/10/15/20 (resto en la serie 07). Columna Pr vacía; sin censo.
 - Usada en: serie 07
 - Revisión 2026-11-19 (serie 07, auditor; registrada el 2026-11-20 a partir de la bitácora): en una relectura de la página, las columnas resultaron G/VG/F/VF/XF/"último valor", no Ag/G/VG/F/VF/último como dice la cita clave; la primera lectura las había corrido un lugar. Queda a confirmar con otra lectura. Es un catálogo: sus valores entran como pista.
+- Revisión 2026-11-20 (serie 07, investigación 3; agente de ronda 1, nivel 3): la guía da tiradas por año (sin fuente): 1882 88.000; 1883 1.389.000; 1884 5.667.000; 1885 3.065.000; 1887 363.000; 1888 659.000; 1889 2.391.000; 1890 3.609.000; 1891 8.050.000; 1892 3.497.000; 1893 5.473.000; 1894 2.233.000; 1895 593.000; 1896 596.000. Solo pista.
 
 ### F-0375
 - Título: CGB Numismatique Paris — fichas del 2 centavos: 1890 PCGS MS63BN (fwo_1012249), 1891 PCGS MS64BN (fwo_1012248), 1893 AU (fwo_603285)
@@ -3877,6 +3881,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-19 (agente de ronda 1, mercado)
 - Cita clave: "off-metal strikes, in white metal… seemingly unrecorded"; muy bien, "probablemente limpiado" (paráfrasis); realizado 170 €; sin fecha de la subasta ni peso en la ficha.
 - Usada en: serie 07
+- Revisión 2026-11-20 (serie 07, investigación 3; relectura de agente): la página del lote no trae fecha, peso, estimación ni procedencia; sí foto (19041_10_1.jpg). Comisión: +20 % de IVA sobre la comisión. Fecha de la subasta: ver F-0397.
 
 ### F-0377
 - Título: coinvarieties — Argentina 1882 2 centavos y Argentina 1885 2 centavos
@@ -3887,6 +3892,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-19 (agente de ronda 1, comunidad; resumen de WebFetch)
 - Cita clave: 1882: "9.91 g, bronze, 30 mm diameter", "scarce key date" (síntesis del lector); 1885: PCGS MS64 RB vendido en US$ 390 en Steve Album Auction 54; "nice uncirculated specimens are undervalued".
 - Usada en: serie 07
+- Revisión 2026-11-20 (serie 07, investigación 3; agente de ronda 1, nivel 3): la página del 1882 transcribe un lote de Stack's Bowers, Collector's Choice, febrero de 2023, lote 71327: 1882 PCGS EF-45, pátina marrón oscuro, vendido en USD 120, descripto como "scarce KEY DATE and first year of issue". No lista variantes ni errores.
 
 ### F-0378
 - Título: Collectors Universe Forums — "Argentina laminated 1889 bronze two centavos" (comentario 5527063)
@@ -3958,6 +3964,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-20 (agente de nivel 3; releída por una lectura de verificación de la sesión)
 - Cita clave: "Argentina, Republic, 2-Centavos [2], off-metal strikes, in white metal [?], 1891; another 1893 (cf. KM 33), toned, very fine, although probably once wiped, otherwise unusual and seemingly unrecorded"; salida 60 £; "Sold for" 70 £; fecha de la subasta no visible.
 - Usada en: serie 07
+- Revisión 2026-11-20 (serie 07, investigación 3; relectura de agente): sin fecha, peso ni procedencia en la página; con foto (21158_14_1.jpg); la descripción es idéntica a la del lote 10 de la e-Auction 19041 (F-0376). Fecha de la subasta: ver F-0397.
 
 ### F-0385
 - Título: Spink, e-Auction 19041 "The 'Esseight' Collection", lote 9 — lote de doce monedas argentinas
@@ -4017,4 +4024,94 @@ Formato de cada entrada:
 - Nivel: 4 (catálogo: solo pista)
 - Consultada: 2026-11-20 (agente de nivel 3; resumen de WebFetch)
 - Cita clave: 10 g, 30 mm, espesor 1,8 mm, bronce, grabador Oudiné; "CJ# 24 to 37".
+- Usada en: serie 07
+
+### F-0391
+- Título: Moneda de 2 centavos, Argentina, 1893 — inv. DE-MUS-830613_0000231
+- Autor / institución: Wegemuseum Wusterhausen/Dosse (Brandeburgo), en museum-digital Brandenburg
+- URL: https://brandenburg.museum-digital.de/pdf/object/69338.pdf?lang=en
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (ficha de museo)
+- Consultada: 2026-11-20 (agente de ronda 1, nivel 4; lectura del PDF de la ficha)
+- Cita clave: "Argentinien: 1893"; 9,93 g; 30,4 mm; eje 6 h; bronce acuñado (palabra clave "Copper"); grabador Oudiné; cita el Standard Catalog of World Coins (9.ª ed., p. 46, n.º 33). Sin procedencia.
+- Usada en: serie 07
+
+### F-0392
+- Título: Horniman Museum and Gardens — objeto nn11464 (2 centavos, Argentina, 1891)
+- Autor / institución: Horniman Museum and Gardens (Londres), colección de Antropología
+- URL: https://www.horniman.ac.uk/object/nn11464
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (ficha de museo)
+- Consultada: 2026-11-20 (agente de ronda 1, nivel 4)
+- Cita clave: leyendas transcriptas "LIBETYAD DOS CENTAVOS" (sic) y "REPUBLICA ARGENTINA 1891"; material "metal"; medidas "2 x 30 mm", sin rótulos; sin peso, eje ni procedencia. El objeto vecino nn11463 es un 1 centavo de 1884 ("1.5 x 27 mm").
+- Usada en: serie 07
+
+### F-0393
+- Título: CGB Numismatique Paris — Argentina, 2 centavos 1887 XF (fwo_980422)
+- Autor / institución: CGB Numismatique Paris (subasta en línea)
+- URL: https://www.cgbfr.com/argentina-2-centavos-embleme-liberte-1887-xf,fwo_980422,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-20 (agente de ronda 1, nivel 3)
+- Cita clave: 1887, XF, 9,91 g, rareza "R1"; precio 125 €, estimación 150 €, oferta máxima 185 €, 2 pujadores, cierre 11/02/2025, comisión 18 % (la ficha no dice si se vendió). Repite datos de catálogo (tirada 363.000, bronce, 30 mm, "KM.19/33"): solo pista.
+- Usada en: serie 07
+
+### F-0394
+- Título: Noble Numismatics, Sale 63, lote 1800 (grupo de 12 monedas)
+- Autor / institución: Noble Numismatics (Sídney)
+- URL: https://www.noble.com.au/auctions/lot/?id=89030
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-20 (agente de ronda 1, nivel 3)
+- Cita clave: el lote incluye "Two centavos 1888 (KM.9)" (sic); conjunto EF-UNC; estimación A$140; vendido A$190 el lote entero. Fecha de la subasta no indicada.
+- Usada en: serie 07
+
+### F-0395
+- Título: PCGS Set Registry — 1890 2C, MS63BN, cert. 45025009 (PCGS# 217902)
+- Autor / institución: PCGS
+- URL: https://auth.pcgs.com/setregistry/mycoinfacts/1890-2c/4256558
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-20 (agente de ronda 1, nivel 3; resumen de WebFetch sin texto citable)
+- Cita clave: población del grado, "3 higher, 5 lower" (sin fecha de la población); tirada indicada 3.609.000 (catálogo, pista). Probablemente el mismo ejemplar que CGB fwo_1012249 (F-0375).
+- Usada en: serie 07
+
+### F-0396
+- Título: Wholesale Price of Copper, Lake for New York, NY (serie M0415AUS35620M267NNBR)
+- Autor / institución: National Bureau of Economic Research, NBER Macrohistory Database, vía FRED (Federal Reserve Bank of St. Louis)
+- URL: https://fred.stlouisfed.org/data/M0415AUS35620M267NNBR.txt
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (serie estadística histórica)
+- Consultada: 2026-11-20 (agente de ronda 2 y lectura de verificación)
+- Cita clave: "Units: Cents per Pound"; mensual, 1860–1912. 1885: 11.2 … 11.2; 1888: 16.2 … 16.5 (máx. 17.2 en septiembre); 1891: 14.8 … 10.6 (octubre 12.2); 1894: mínimo 8.9 en junio; 1896: 9.9, 10.6, 11.0, 11.0, 11.2, 11.7, 11.4, 11.0, 10.7, 10.7, 11.2, 11.3; 1899: hasta 18.5. (Serie completa 1882–1900 en el informe del agente; promedios anuales calculados en la serie 07.)
+- Usada en: serie 07
+
+### F-0397
+- Título: NumisBids — Spink Auction 19041 (19 Jul 2019) y Spink Auction 21158 (7 Jun 2021), "World Coins from the Esseight Collection"
+- Autor / institución: NumisBids (ventas 3316 y 4791)
+- URL: https://www.numisbids.com/n.php?p=sale&pg=6&sid=3316&so=1 ; https://numisbids.com/n.php?p=sale&search=em&sid=4791 ; https://www.numisbids.com/sale/4791/category/147260?so=2
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-20 (agente de ronda 2: fechas leídas en los títulos de los resultados de búsqueda; las páginas dieron client_error en la lectura de verificación)
+- Cita clave: "Spink Auction 19041 (19 Jul 2019)"; "Spink Auction 21158 (7 Jun 2021)"; categoría de la 21158: "World Coins from the Esseight Collection".
+- Usada en: serie 07
+
+### F-0398
+- Título: coinvarieties — Argentina 1890 2 centavos y Argentina 1884 centavo
+- Autor / institución: coinvarieties.com (wiki de coleccionistas)
+- URL: https://coinvarieties.com/index.php/Argentina_1890_2_centavos ; https://coinvarieties.com/index.php/Argentina_1884_centavo
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (catálogo y comunidad: pista)
+- Consultada: 2026-11-20 (agentes de ronda 1, niveles 1 y 4)
+- Cita clave: acuñado "most likely at the Paris mint" (sin fuente); 1890 "common", 3.609.000, 10 g, bronce; el centavo "terminated in 1896 and not resumed until 1939"; cita a Cunietti-Ferrando 1965, Janson 2015 y SCWC 2019.
+- Usada en: serie 07
+
+### F-0399
+- Título: "Copper-bottomed booms and busts" (18/01/2017)
+- Autor / institución: Winton (gestora de inversiones), serie "The Longer View"
+- URL: https://www.winton.com/longer-view/copper-bottomed-booms-and-busts
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (divulgación financiera, sin fuentes citadas)
+- Consultada: 2026-11-20 (agente de ronda 1, nivel 2)
+- Cita clave: cobre en Londres "around £40/ton" en otoño de 1887; "had shot up to £85/ton" en enero de 1888; caída de £100 a £35 por tonelada en marzo de 1889 (fin de la especulación de Secretan); "hung around £36/ton" después.
 - Usada en: serie 07
