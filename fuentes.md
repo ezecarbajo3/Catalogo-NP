@@ -2443,6 +2443,7 @@ Formato de cada entrada:
 
 - Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 1 y relectura de la sesión principal) "el Decreto N° 76.714 de fecha 12 de noviembre de 1940, del Vicepresidente Ramón S. Castillo"; anverso con "el busto de la Libertad tradicional"; el Banco Central había objetado los cuños dibujados en el extranjero y pidió adaptar los diseños de las monedas de 5, 10 y 20 centavos (de cuproníquel). Fuente del autor: Memoria de Hacienda 1940, t. II, pp. 97–98. No menciona el 20 c de plata ni las dimensiones del busto. Usada también en serie 05.
 - Revisión 2026-11-20 (serie 07, agente de nivel 2 y lectura de verificación de la sesión): "En 1896 habían comenzado a circular monedas de cuproníquel de 5, 10 y 20 centavos, pero dejaron de acuñarse las piezas de cobre de 1 y 2 centavos, porque el valor del metal era superior al valor facial de circulación." (sin nota ni fuente); "en 1939 se acuñaron nuevas monedas de cobre de 1 y 2 centavos, de 2 y 3 gramos de peso respectivamente"; licitación privada de cospeles de cobre abierta el 3/05/1939 entre empresas argentinas y europeas. Bibliografía: Cunietti-Ferrando, *La amonedación nacional 1881–1964* (1964); Janson (1998 y 2015). Usada también en serie 07.
+- Revisión 2026-11-20 (serie 07, auditor, verificado en el PDF): Rey firma como "Subdirector del Museo Histórico y Numismático 'Héctor Carlos Janson'" (BCRA); las piezas de cobre de 1939 se acuñaron para cubrir el faltante de 1 y 2 c en el circulante subsidiario.
 
 ### F-0233
 - Título: "La Compañía Sudamericana de Billetes de Banco" y "Cartas de lectores"; reseña de *Cartas E. Oudiné* — Cuadernos de Numismática y Ciencias Históricas, t. XXIX, n.º 125 (diciembre de 2009)
@@ -3855,6 +3856,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-19 (agente de ronda 1, mercado)
 - Cita clave: "Weight 9.9100 g, Diameter 30 mm, Composition Bronze"; fechas 1882–1885 y 1887–1896, sin 1886; valores Ag/G/VG/F/VF/"último valor" (USD): 1882 20/35/65/175/275/450; 1887 30/45/100/300/550/750; 1888 15/25/35/85/150/225; 1890 1,3/2/4/10/15/20 (resto en la serie 07). Columna Pr vacía; sin censo.
 - Usada en: serie 07
+- Revisión 2026-11-19 (serie 07, auditor; registrada el 2026-11-20 a partir de la bitácora): en una relectura de la página, las columnas resultaron G/VG/F/VF/XF/"último valor", no Ag/G/VG/F/VF/último como dice la cita clave; la primera lectura las había corrido un lugar. Queda a confirmar con otra lectura. Es un catálogo: sus valores entran como pista.
 
 ### F-0375
 - Título: CGB Numismatique Paris — fichas del 2 centavos: 1890 PCGS MS63BN (fwo_1012249), 1891 PCGS MS64BN (fwo_1012248), 1893 AU (fwo_603285)
