@@ -3895,6 +3895,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-19 (agente de ronda 1, comunidad)
 - Cita clave: "bronze 30mm two centavos dated 1889"; "corrosion has gotten under the obverse lamination" (síntesis del lector).
 - Usada en: serie 07
+- Revisión 2026-11-20 (serie 07, agente de nivel 4, resumen de WebFetch): hilo del 11/06/2006, autor WillieBoyd2 (la pieza venía de su colección de monedas extranjeras de los años sesenta): "a lamination or peeling of metal surface"; único comentario, de 1jester, sobre sus monedas extranjeras en general: "double or triple striking or recutting of letters", "lots of die cracks".
 
 ### F-0379
 - Título: Foro de Numista — "1892 Argentina Dos Centavos – mint errors or damaged" (topic174957) y "Argentina Dos centavos 1893" (topic169512)
