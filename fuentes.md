@@ -1247,6 +1247,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-06 (lectura del agente de nivel 1)
 - Cita clave: la producción argentina de oro de 1900 "did not exceed $50,000"; la tabla "Coinage of nations" cubre solo 1898–1900 (sin acuñación argentina).
 - Usada en: serie 01
+- Revisión 2026-11-21 (serie 07, investigación 4; dos lecturas de agente: caracteres 0–400.000 y 850.000–1.150.000 de 1.256.084): sin acuñación argentina de cobre; la tabla XXV "Coinage of Nations" (1898–1900) es solo de oro y plata, en dólares, y no trae la Argentina, que aparece solo en la tabla XXVI de producción minera. Usada también en serie 07.
 
 ### F-0118
 - Título: Half Argentino minted in gold (ficha de objeto)
@@ -2316,6 +2317,7 @@ Formato de cada entrada:
 - Cita clave: Para 1989: Monedas argentinas. Desde la época colonial hasta nuestros días; Monedas y medallas.
 - Usada en: serie 03
 - Revisión 2026-11-10 (serie 04): la bibliografía de Cunietti-Ferrando incluye "La amonedación nacional. 1881-1964, Asociación Numismática Argentina, Buenos Aires, 1964"; se menciona también FERRARI, Jorge N.: *Bibliografía Numismática Argentina*, ANH, 1977. Usada en serie 04.
+- Revisión 2026-11-21 (serie 07, investigación 4; lectura de agente): la bibliografía incluye los títulos "La circulación de cobres argentinos en Europa" y "Las monedas de cobre de la Confederación Argentina" (sin fecha ni lugar en la lectura); el número no trata el 2 c de 1882–1896, el níquel ni la Ley 3321. Usada también en serie 07 (pista).
 
 ### F-0221
 - Título: Ley 3321 (2/12/1895), moneda de níquel
@@ -2433,6 +2435,7 @@ Formato de cada entrada:
 - Usada en: serie 04
 - Revisión 2026-11-19 (serie 07; lectura de agente, primeros 100.000 de ≈500.000 caracteres): sin ensayos de 1 o 2 c de 1882–1896; ensayos de 1935 en cobre: reg. 27, 2 centavos, 3,3 g, 20,2 mm; reg. 28, 1 centavo, 1,5 g, 16,1 mm ("Ensayo presentado por Casa de Moneda de la Nación", paráfrasis). Usada también en serie 07.
 - Revisión 2026-11-20 (serie 07, investigación 3; dos lecturas de agente, ficha 26): "En cobre se acuñaron piezas de 2 centavos de 10 gramos y 1 centavo de 5 gramos"; el texto cita como fuente a Janson, *La moneda circulante en el territorio argentino 1574-2019* (2020), sin página. La tabla de la Ley 1130 del PDF no se renderiza en la lectura automática.
+- Revisión 2026-11-21 (serie 07, investigación 4; lectura de agente, caracteres 100.000–200.000): ficha 47, ensayo "PMN 1881" en cobre, 19,8 g, 37,3 mm, "corresponde a las primeras emisiones que realizó Casa de Moneda en 1881"; fichas 52 y 53, ensayos de cobre de la ley del 25/09/1878 (pesos fuertes): 2 centavos de 9,5 g y 30,5 mm con "CT" y "ESSAI", y 1 centavo de 4,7 g y 25,2 mm; ficha 61, 1 centavo de cobre "19.." (siglo XX). Sin ensayos, cuadros ni decretos del cobre de 1882–1896 en ese tramo; quedan sin leer los caracteres 200.000–500.000.
 
 ### F-0232
 - Título: Las monedas de 50 centavos de 1941: un experimento de circulación monetaria (julio de 2019)
@@ -2717,6 +2720,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-10 (agentes de las rondas 1 y 2; leído entero)
 - Cita clave: "Libro de Actas N°2, Junta de Administración del Crédito Público Nacional" (08/10/1878–03/08/1886); "Libro de Actas N°3" (05/08/1886–28/07/1897); Caja de Conversión, "Libro de Actas de Directorio N°1" (28/10/1890–29/10/1891), tapa "Oficina Inspectora de Bancos Nacionales Garantidos - Actas Ley 2543 de 14 de Setiembre de 1889"; Libro Copiador de Notas N.º 1 (1864–1871 y desde 18/01/1888). Ninguna ficha de la Casa de Moneda 1881–1890 ni de la plata. La ficha atribuye la Caja a la "Ley N° 2.471 de 1890" (por 2.741).
 - Usada en: serie 04
+- Revisión 2026-11-21 (serie 07, investigación 4; lectura de agente, caracteres 0–100.000 de 466.907): nada del 2 c, la Ley 1130, 1892, el níquel ni la Ley 3321; solo un informe del Banco Nacional del 16/08/1831 sobre la circulación de cobre (fuera de rango). Usada también en serie 07.
 
 ### F-0259
 - Título: Libros históricos (Historia económica bancaria)
@@ -3188,6 +3192,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-11 (agente de la ronda 1, nivel 2)
 - Cita clave: nota 20, p. 11: "el punzón de la efigie en la moneda de 1 centavo es el mismo de la moneda de plata de 20 centavos"; Oudiné propuso una gráfila de perlas porque la efigie quedaba chica; Oudiné creía que su cabeza iría en el anverso, "como lo muestran sus cartas"; el contrato hablaba de una "tête symbolisant la Liberté".
 - Usada en: serie 05
+- Revisión 2026-11-21 (serie 07, investigación 4; lectura de agente por resumen): menciona "ensayos en cobre de 1 y 2 centavos, que llevan en su reverso una cabeza femenina a diestra" (1878), con las iniciales C.T. que Mitchell atribuyó a Charles Trottin; no dice qué punzón de cabeza lleva el 2 c de la Ley 1130. Usada también en serie 07.
 
 ### F-0305
 - Título: Catalogue of Coins, Tokens, and Medals in the Numismatic Collection of the Mint of the United States at Philadelphia (1912)
@@ -4114,4 +4119,74 @@ Formato de cada entrada:
 - Nivel: 3 (divulgación financiera, sin fuentes citadas)
 - Consultada: 2026-11-20 (agente de ronda 1, nivel 2)
 - Cita clave: cobre en Londres "around £40/ton" en otoño de 1887; "had shot up to £85/ton" en enero de 1888; caída de £100 a £35 por tonelada en marzo de 1889 (fin de la especulación de Secretan); "hung around £36/ton" después.
+- Usada en: serie 07
+
+### F-0400
+- Título: museum-digital Hungría (bk.hu) — "Centavo", inv. VKM_NU_84.1.1025 (2 c 1889), y "Érem", inv. VKM_NU_85.3.344 (2 c 1890)
+- Autor / institución: museo húngaro del portal museum-digital (sigla VKM, institución no desarrollada en la ficha)
+- URL: https://bk.hu.museum-digital.org/pdf/object/636435.pdf?lang=en ; https://bk.hu.museum-digital.org/pdf/object/636510.pdf?lang=en
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (ficha de museo; existencia del ejemplar)
+- Consultada: 2026-11-21 (agente de ronda 1, nivel 4)
+- Cita clave: "Argentina Köztársaság. 2 centavo" (1889, Cu, 30 mm); "Argentina. Köztársaság. 2 centavos 1890" (Cu, 30 mm, clasificada como "Érem", medalla). Sin peso, eje ni procedencia.
+- Usada en: serie 07
+
+### F-0401
+- Título: CGB Numismatique Paris — fichas del 2 centavos: 1885 XF (fwo_464100), 1885 AU (fwo_382059), 1887 VF (fwo_808448), 1888 AU (fwo_916336), 1896 XF (fwo_453884)
+- Autor / institución: CGB Numismatique Paris
+- URL: https://www.cgbfr.com/argentina-2-centavos-liberte-1885,fwo_464100,a.html ; https://www.cgbfr.com/argentine-2-centavos-liberte-1885-sup,fwo_382059,a.html ; https://www.cgbfr.com/argentina-2-centavos-embleme-liberte-1887-vf,fwo_808448,a.html ; https://www.cgbfr.com/argentina-2-centavos-liberte-1888-au,fwo_916336,a.html ; https://www.cgbfr.com/argentina-2-centavos-1896-xf,fwo_453884,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (casa de subastas y comercio)
+- Consultada: 2026-11-21 (agente de ronda 1, nivel 3)
+- Cita clave: 1885 XF 9,87 g, 30 mm, estimación 10 €, puja 1 € (1 postor), cierre 25/12/2017; 1885 AU 9,84 g, 11 € (estimación 20 €), cierre 8/02/2016; 1887 VF 9,73 g, 104 € (puja máxima), cierre 25/04/2023, "R1", "mintage 363,000"; 1888 AU 9,97 g, 6 € (estimación 10 €, 3 postores), cierre 29/04/2024; 1896 XF 9,90 g, 20 € (tienda, 2018, "Not available"), "bronze", eje 6 h, "Quantity minted: 596,000". Las fichas de subasta no dicen si la pieza se vendió.
+- Usada en: serie 07
+
+### F-0402
+- Título: MA-Shops, Dilmark's, ítem 9673 — Argentina 2 centavos 1890 PCGS MS64 BN (cert. 43344260)
+- Autor / institución: Dilmark's (comercio) en MA-Shops
+- URL: https://www.ma-shops.com/dilmarks/item.php?id=9673
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (comercio; precio de oferta)
+- Consultada: 2026-11-21 (agente de ronda 1, nivel 3)
+- Cita clave: "PCGS certification number 43344260"; 10 g; 196,52 US$ (179 €), sin fecha; tirada 3.609.000 (dato del comercio, pista).
+- Usada en: serie 07
+
+### F-0403
+- Título: Spink, subasta 13012 ("Ancient, British and Foreign Coins"), lote 224 — Argentina 2 centavos 1891 y Hawái medio dólar 1888
+- Autor / institución: Spink
+- URL: https://spink.com/lot/13012224
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (casa de subastas)
+- Consultada: 2026-11-21 (agente de ronda 1, nivel 3)
+- Cita clave: "Argentina 2 centavos, 1891 (KM.33)… very fine"; £90 por el lote de dos piezas. La página no da la fecha de la subasta.
+- Usada en: serie 07
+
+### F-0404
+- Título: Colonial Acres — "Argentina 1895 2 Centavos VF-EF VF30"
+- Autor / institución: Colonial Acres Coins (comercio, Canadá)
+- URL: https://www.colonialacres.com/products/argentina-1895-2-centavos-vf-ef-vf-30
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (comercio; descripción genérica)
+- Consultada: 2026-11-21 (agente de ronda 1, nivel 3)
+- Cita clave: VF30, 10 g, espesor 1,8 mm, "milled edge", "mintage 593,000"; 29,25 CAD (antes 39); la página dice a la vez "Sold out" y "1 Available".
+- Usada en: serie 07
+
+### F-0405
+- Título: *El comercio internacional argentino en un régimen de papel moneda inconvertible, 1880-1900* (traducción y síntesis de John H. Williams por el Seminario de Economía y Finanzas; Buenos Aires, 1922)
+- Autor / institución: John H. Williams (trad. Seminario de Economía y Finanzas, Facultad de Ciencias Económicas); copia OCR de Columbia en Internet Archive
+- URL: https://archive.org/stream/elcomerciointern00will_0/elcomerciointern00will_0_djvu.txt
+- Archivo (Internet Archive): es la copia de Internet Archive
+- Nivel: 2 (historia económica)
+- Consultada: 2026-11-21 (agente de ronda 1, nivel 2; leídos los caracteres 0–200.000 de 216.215)
+- Cita clave: antes de 1881, en las provincias, "las piezas chilenas, peruanas, bolivianas y otras de oro, plata y cobre, circulaban junto a los billetes" (cap. III, p. 18). Única mención del cobre; no trata el cobre de la Ley 1130 ni el níquel.
+- Usada en: serie 07
+
+### F-0406
+- Título: Mensajes del Presidente de la República al abrir las sesiones del Congreso: Miguel Juárez Celman (1889, BaANH50371; 1890, BaANH50571) y Julio A. Roca (1899, BaANH50570)
+- Autor / institución: Presidencia de la Nación; repositorio de la Academia Nacional de la Historia
+- URL: https://repositorio.anh.org.ar/bitstream/anh/417/1/BaANH50371%20Mensaje%20del%20Presidente%20de%20la%20Republica%20-%20M.%20Juarez%20Celman%20%281889%29.pdf ; https://repositorio.anh.org.ar/bitstream/anh/419/1/BaANH50571%20Mensaje%20del%20Presidente%20de%20la%20Republica%20-%20M.%20Juarez%20Celman%20%281890%29.pdf ; https://repositorio.anh.org.ar/bitstream/anh/418/1/BaANH50570%20Mensaje%20del%20Presidente%20de%20la%20Republica%20-%20Julio%20A.%20Roca%20%281899%29.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (oficial)
+- Consultada: 2026-11-21 (agente de ronda 1, nivel 1; 1889 completo, 1890 y 1899 por resumen de la herramienta de lectura)
+- Cita clave: ninguno de los tres trata la acuñación de la Casa de Moneda ni el cobre. 1889, Deuda interna: "5.728,662 pesos por emisión de billetes menores de un peso" (p. 89; "5.728,762" en p. 93). 1890: "la medalla argentina, acuñada en nuestra casa de moneda" (p. 65, medalla de la campaña del Paraguay). 1899: solo conversión y encaje metálico.
 - Usada en: serie 07
