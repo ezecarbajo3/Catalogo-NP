@@ -4138,7 +4138,7 @@ Formato de cada entrada:
 - Archivo (Internet Archive): a buscar
 - Nivel: 3 (casa de subastas y comercio)
 - Consultada: 2026-11-21 (agente de ronda 1, nivel 3)
-- Cita clave: 1885 XF 9,87 g, 30 mm, estimación 10 €, puja 1 € (1 postor), cierre 25/12/2017; 1885 AU 9,84 g, 11 € (estimación 20 €), cierre 8/02/2016; 1887 VF 9,73 g, 104 € (puja máxima), cierre 25/04/2023, "R1", "mintage 363,000"; 1888 AU 9,97 g, 6 € (estimación 10 €, 3 postores), cierre 29/04/2024; 1896 XF 9,90 g, 20 € (tienda, 2018, "Not available"), "bronze", eje 6 h, "Quantity minted: 596,000". Las fichas de subasta no dicen si la pieza se vendió.
+- Cita clave: 1885 XF 9,87 g, 30 mm, estimación 10 €, puja 1 € (1 postor), cierre 25/12/2017; 1885 AU 9,84 g, 11 € (oferta máxima 15 €, 6 postores, estimación 20 €), cierre 8/02/2016 (verificado por el auditor en la ficha, sin constancia de venta); 1887 VF 9,73 g, 104 € (puja máxima), cierre 25/04/2023, "R1", "mintage 363,000"; 1888 AU 9,97 g, 6 € (estimación 10 €, 3 postores), cierre 29/04/2024; 1896 XF 9,90 g, 20 € (tienda, 2018, "Not available"), "bronze", eje 6 h, "Quantity minted: 596,000". Las fichas de subasta no dicen si la pieza se vendió.
 - Usada en: serie 07
 
 ### F-0402
