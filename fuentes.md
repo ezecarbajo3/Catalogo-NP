@@ -3865,7 +3865,7 @@ Formato de cada entrada:
 - Archivo (Internet Archive): a buscar
 - Nivel: 3 (guía de precios; valores de referencia, no ventas; sus especificaciones son de catálogo: solo pista)
 - Consultada: 2026-11-19 (agente de ronda 1, mercado)
-- Cita clave: "Weight 9.9100 g, Diameter 30 mm, Composition Bronze"; fechas 1882–1885 y 1887–1896, sin 1886; valores Ag/G/VG/F/VF/"último valor" (USD): 1882 20/35/65/175/275/450; 1887 30/45/100/300/550/750; 1888 15/25/35/85/150/225; 1890 1,3/2/4/10/15/20 (resto en la serie 07). Columna Pr vacía; sin censo.
+- Cita clave: "Weight 9.9100 g, Diameter 30 mm, Composition Bronze"; fechas 1882–1885 y 1887–1896, sin 1886; valores Ag/G/VG/F/VF/"último valor" (rótulos de esta primera lectura, superados: ver la revisión del 2026-11-21) (USD): 1882 20/35/65/175/275/450; 1887 30/45/100/300/550/750; 1888 15/25/35/85/150/225; 1890 1,3/2/4/10/15/20 (resto en la serie 07). Columna Pr vacía; sin censo.
 - Usada en: serie 07
 - Revisión 2026-11-19 (serie 07, auditor; registrada el 2026-11-20 a partir de la bitácora): en una relectura de la página, las columnas resultaron G/VG/F/VF/XF/"último valor", no Ag/G/VG/F/VF/último como dice la cita clave; la primera lectura las había corrido un lugar. Queda a confirmar con otra lectura. Es un catálogo: sus valores entran como pista.
 - Revisión 2026-11-20 (serie 07, investigación 3; agente de ronda 1, nivel 3): la guía da tiradas por año (sin fuente): 1882 88.000; 1883 1.389.000; 1884 5.667.000; 1885 3.065.000; 1887 363.000; 1888 659.000; 1889 2.391.000; 1890 3.609.000; 1891 8.050.000; 1892 3.497.000; 1893 5.473.000; 1894 2.233.000; 1895 593.000; 1896 596.000. Solo pista.

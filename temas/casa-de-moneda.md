@@ -23,6 +23,7 @@
 - Historia institucional oficial: "sistema bimetalista atenuado con base en el Peso Oro o Argentino"; prensas de billetes Lambert (1898–1900). [F-0078] · confirmado
 
 - 1883: cesa la acuñación de plata; 1884: según la Memoria de Hacienda, la casa "se ha limitado á la acuñación de moneda de cobre" (choca con la tirada de oro de 1884 atribuida por la comunidad). [F-0086] · confirmado (lo que dice la Memoria)
+- 1883 (septiembre): el cobre de la primera Casa de Moneda de Buenos Aires (1827–1861; 1.912.689 $ 6½ reales moneda corriente acuñados según los libros del Banco) "fué convertida en Setiembre de 1883 á moneda nacional": 79.058 pesos nacionales anotados como cobre en circulación, de los que se recogieron 5.704 y se dieron por perdidos 73.354 (Enrique Peña, *Revista del Museo de La Plata*, t. VI) [F-0407] · probable. Ver series 07 y 08.
 - 1884: la Memoria de la Casa de Moneda dice "Se ha fabricado oro, plata y cobre, pero solo este último en cantidad fuerte" [F-0028] · confirmado. 1885: la Memoria de Hacienda dice que la Casa "no parecen haber producido un solo centavo" [F-0165] · probable (choca con piezas de 2 c fechadas 1885; ver serie 07). 1892: decreto del 7/01, la Casa cambia cobre por papel [F-0252] · probable.
 - 1885: la reglamentación de la Ley 1734 encarga a la Casa de Moneda sellar los billetes en la Capital. [F-0086] · probable
 - El oro amonedado no venía de minas argentinas: producción estimada de 20.000 dólares en 1886 y 30.000 en 1887. [F-0027] · confirmado
