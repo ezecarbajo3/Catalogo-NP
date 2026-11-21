@@ -45,6 +45,7 @@ Formato de cada entrada:
 - Revisión 2026-11-17 (serie 06, agente de nivel 1 y auditor, texto de InfoLEG reabierto): sanción "3 de noviembre de 1881"; art. 3, canto acanalado para las monedas de oro y plata que no son el Argentino ni el peso; art. 6, recibo obligatorio de la plata menor "sólo … en la proporción de 50 centavos" en pagos de hasta 20 pesos (paráfrasis del lector); art. 7, fin del curso legal de la plata extranjera; la tabla del art. 2 sigue como imagen ilegible. Usada también en serie 06.
 - Revisión 2026-11-19 (serie 07; dos lecturas de agente por resumen de WebFetch): art. 3 "las demás monedas de oro y plata llevarán el canto acanalado y las de cobre liso"; art. 4, además de la plata, menciona "veinte centavos de cobre" (texto entrecortado: falta confirmar si es por habitante); la tabla del art. 2 (plata y cobre) sigue siendo imagen ilegible. Usada también en serie 07.
 - Revisión 2026-11-19 (serie 07, auditor; texto leído en InfoLEG desde un resultado de búsqueda): art. 3 "…y las de cobre liso" (literal); art. 4 "…cuatro pesos por habitante… y a veinte centavos de cobre" (no aclara si el cobre es por habitante); art. 6 completo: la moneda de plata menor de un peso y la de cobre, de recibo obligatorio hasta 50 centavos en pagos de hasta 20 pesos y hasta un peso en los mayores.
+- Revisión 2026-11-21 (serie 07, dos lecturas de agentes): art. 4, "La acuñación de plata no excederá de cuatro pesos, por cada habitante de la República" … "y a veinte centavos de cobre"; también "La acuñación de las monedas de oro es limitada" y el PE queda "facultado para determinar las proporciones" entre múltiplos y submúltiplos. La tabla del art. 2 sigue en imagen. Enlace vigente.
 
 ### F-0003
 - Título: Comunicación "A" 5258 (07/12/2011), CIRMO 3-45 — Anexo, punto 1.3.3 (venta de Argentinos oro)
@@ -308,7 +309,8 @@ Formato de cada entrada:
 - Nivel: 2
 - Consultada: 2026-11-04 (releída por la sesión principal)
 - Cita clave: p. 709: "The total coinage of the Argentine mint has been to the nominal amount of: gold, 31,716,545 pesos; silver, 2,805,840 pesos." p. 710: "Professedly the standard of value is gold"; "The money in circulation is chiefly inconvertible paper currency."
-- Usada en: serie 01, serie 03
+- Usada en: serie 01, serie 03, serie 07
+- Revisión 2026-11-21 (serie 07, agente de ronda 1, nivel 1): p. 710, la moneda fraccionaria en circulación era "both nickel and copper fractional money" (sin cifras). URL de la p. 710: https://kwx.liehendr.com/content/wikisource_en_all_maxi_2022-09/A/Page%3AStatesman's_Year-Book_1899_American_Edition.djvu/710
 
 ### F-0027
 - Título: Report of the Director of the Mint upon the Coinage and Production of Precious Metals, 1887 (año calendario) — tabla de monedas extranjeras depositadas en el Assay Office de Nueva York
@@ -2710,6 +2712,7 @@ Formato de cada entrada:
 - Revisión 2026-11-11 (serie 05): fila "20 centavos | 1896 | 31/01/1967 | 01/04/1967" (emisión, cese de curso legal, desmonetización); 10 c (1896) 21/01/1966 y 01/07/1966. No hay fila para el 20 c de plata. Lectura de agente.
 - Revisión 2026-11-19 (serie 07; lectura de agente por resumen): filas separadas "1 centavo | 1882 | 21/04/1959 | 02/01/1960" y "2 centavos | 1882 | 21/04/1959 | 02/01/1960" (emisión, cese de curso legal, desmonetización). Usada también en serie 07.
 - Revisión 2026-11-19 (serie 07, auditor): verificado en la página el texto "2 centavos | 1882 | 21/04/1959 | 02/01/1960"; la cita clave original ("1 y 2 c (1882)" en una fila) queda superada por esta lectura.
+- Revisión 2026-11-21 (serie 07, revisión; lectura web-fetch pedida por la sesión principal): la tabla tiene solo cuatro columnas (Denominación, Emisión, Cese curso legal, Desmonetización); filas "1 centavo | 1882 | 21/04/1959 | 02/01/1960" y "2 centavos | 1882 | 21/04/1959 | 02/01/1960". Sin metal, peso ni diámetro. Enlace vigente.
 
 ### F-0258
 - Título: Museo Histórico y Numismático Héctor C. Janson — Documentos Históricos 1 (inventario SENIP)
@@ -3866,6 +3869,7 @@ Formato de cada entrada:
 - Usada en: serie 07
 - Revisión 2026-11-19 (serie 07, auditor; registrada el 2026-11-20 a partir de la bitácora): en una relectura de la página, las columnas resultaron G/VG/F/VF/XF/"último valor", no Ag/G/VG/F/VF/último como dice la cita clave; la primera lectura las había corrido un lugar. Queda a confirmar con otra lectura. Es un catálogo: sus valores entran como pista.
 - Revisión 2026-11-20 (serie 07, investigación 3; agente de ronda 1, nivel 3): la guía da tiradas por año (sin fuente): 1882 88.000; 1883 1.389.000; 1884 5.667.000; 1885 3.065.000; 1887 363.000; 1888 659.000; 1889 2.391.000; 1890 3.609.000; 1891 8.050.000; 1892 3.497.000; 1893 5.473.000; 1894 2.233.000; 1895 593.000; 1896 596.000. Solo pista.
+- Revisión 2026-11-21 (serie 07, revisión; dos lecturas de agentes de ronda 1 y 2): los encabezados de la tabla, en texto, son "Year/Mint", "Denom Mintage", "$" y los grados "Pr", "Ag", "G", "VG", "F", "VF", "XF", "50", "53", "55", "58", "60"… "70" (22 columnas). Las celdas llegan sin separadores: cada fila trae un vacío, cinco valores, otro vacío y un sexto valor (1882: "--20.0035.0065.00175.00275.00---450.00"), de modo que los cinco valores pueden ser Ag–VF o G–XF y el sexto XF o AU 50: los rótulos de grado quedan a confirmar (ninguna de las lecturas anteriores es segura; `pendientes-chrome.md` #60). Tiradas leídas: 1882 88,000; 1883 1,389,000; 1887 363,000; 1888 659,000. Una de las lecturas dio para 1883 los valores 1,50/2,25/5,50/12,50/20/35, que en la lectura del 2026-11-19 eran los de 1884 (1883 = 3/5/10/25/65/90): discrepancia entre lecturas, a confirmar.
 
 ### F-0375
 - Título: CGB Numismatique Paris — fichas del 2 centavos: 1890 PCGS MS63BN (fwo_1012249), 1891 PCGS MS64BN (fwo_1012248), 1893 AU (fwo_603285)
@@ -3919,6 +3923,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-19 (agente de ronda 1, comunidad)
 - Cita clave: 1892: "almost 130 years of wear and tear, all post mint damage"; 1893: 1 y 2 c "very easy to find" (síntesis), parte del stock europeo llegó tras la desmonetización, el 1 c "the scarcer coin of the two", "5.4M minted" (usuario, sin fuente).
 - Usada en: serie 07
+- Revisión 2026-11-21 (serie 07, agente de comunidad, por resumen): en topic169512 un participante dice que grandes cantidades entraron en Europa "(illegally)" después de la desmonetización; no dice de dónde lo saca.
 
 ### F-0380
 - Título: Numismatikforum.de — "Frage: Argentina's 1882-1896 2-centavos" (viewtopic p=471717)
@@ -4189,4 +4194,54 @@ Formato de cada entrada:
 - Nivel: 1 (oficial)
 - Consultada: 2026-11-21 (agente de ronda 1, nivel 1; 1889 completo, 1890 y 1899 por resumen de la herramienta de lectura)
 - Cita clave: ninguno de los tres trata la acuñación de la Casa de Moneda ni el cobre. 1889, Deuda interna: "5.728,662 pesos por emisión de billetes menores de un peso" (p. 89; "5.728,762" en p. 93). 1890: "la medalla argentina, acuñada en nuestra casa de moneda" (p. 65, medalla de la campaña del Paraguay). 1899: solo conversión y encaje metálico.
+- Usada en: serie 07
+
+### F-0407
+- Título: "Primera Casa de Moneda de Buenos Aires. Acuñación de 1827 a 1861", *Revista del Museo de La Plata*, t. VI
+- Autor / institución: Enrique Peña; Museo de La Plata (Facultad de Ciencias Naturales y Museo, UNLP), portal de publicaciones OJS
+- URL: https://publicaciones.fcnym.unlp.edu.ar/rmlp/article/view/1126/1223
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (estudio histórico; transcribe libros del Banco)
+- Consultada: 2026-11-21 (agentes de ronda 1, nivel 1, y ronda 2; año del tomo y página no visibles en el OCR)
+- Cita clave: el cobre acuñado en 1827–1861 "fué convertida en Setiembre de 1883 á moneda nacional, anotándose en los libros del Banco como cobre en circulación la suma de 79.058 pesos nacionales"; luego se recogió "un valor representativo de 138.000 pesos moneda corriente", "equivalente á 5.704 pesos moneda nacional"; pérdida de 73.354 pesos nacionales (paráfrasis). Total del cobre de 1827–1861 según los libros del Banco: 1.912.689 $ 6½ reales moneda corriente (paráfrasis). No menciona el cobre de la Ley 1130.
+- Usada en: serie 07
+
+### F-0408
+- Título: CoinTalk, hilo sobre un "DOS centavos 1882" argentino (grado y rareza)
+- Autor / institución: CoinTalk, usuarios Gianni, Alurid, PlanoSteve, Bill in Burl, Spirityoda, Michael K
+- URL: https://www.cointalk.com/posts/3597355
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-21 (agente de ronda 1, comunidad; síntesis de la herramienta de lectura, no texto literal)
+- Cita clave (síntesis): un 1882 muy gastado; Gianni lo propone XF40, Alurid VF20 por el desgaste y golpes en el canto, PlanoSteve y Bill in Burl cerca de F, con el pelo y las "banderas" casi lisos. Alurid lo llama fecha clave por la tirada de 88.000 (cifra de catálogo); Spirityoda responde que 88.000 no son tan pocas; Gianni cree que sobreviven "quizá decenas" porque no lo encontró en eBay; Bill in Burl estima 20–25 USD.
+- Usada en: serie 07
+
+### F-0409
+- Título: Tradera, "Argentina 2 Centavos 1885" (objeto 344693/747181434)
+- Autor / institución: Tradera (Suecia), vendedor particular
+- URL: https://www.tradera.com/item/344693/747181434/argentina-2-centavos-1885
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-21 (agente de ronda 1, mercado)
+- Cita clave: vendido en 10 kr (13 kr con la protección al comprador), cierre 23/09/2026; XF40–XF45 según el vendedor, sin certificar; "10 g, 30 mm, borde liso"; cita CJ 27 y una tirada de unos 3,065 millones (catálogo, pista).
+- Usada en: serie 07
+
+### F-0410
+- Título: *Caras y Caretas* (Montevideo), n.º 12, 5/10/1890 (texto OCR)
+- Autor / institución: *Caras y Caretas*, primera época (Montevideo); copia en Internet Archive
+- URL: https://archive.org/stream/Caras_y_caretas_n12_-_5-10-1890/Caras_y_caretas_n12_-_5-10-1890_djvu.txt
+- Archivo (Internet Archive): es la copia de Internet Archive
+- Nivel: 2 (prensa histórica)
+- Consultada: 2026-11-21 (agente de ronda 1, nivel 2)
+- Cita clave: "Número corriente, 30 centesimos"; publicidad con "vintenes"; no menciona cobre ni centavos argentinos. Los números de 1890 son de la edición de Montevideo (ver F-0411).
+- Usada en: serie 07
+
+### F-0411
+- Título: "Caras y Caretas (Argentina)", Wikipedia en inglés
+- Autor / institución: Wikipedia
+- URL: https://en.wikipedia.org/wiki/Caras_y_Caretas_(Argentina)
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (enciclopedia colaborativa; solo para ubicar la revista)
+- Consultada: 2026-11-21 (lectura web-fetch pedida por la sesión principal)
+- Cita clave: "The Caras y Caretas was founded in Montevideo in 1890"; edición de Buenos Aires: "The first number (released 19 August 1898) had 24 pages".
 - Usada en: serie 07
