@@ -46,6 +46,7 @@ Formato de cada entrada:
 - Revisión 2026-11-19 (serie 07; dos lecturas de agente por resumen de WebFetch): art. 3 "las demás monedas de oro y plata llevarán el canto acanalado y las de cobre liso"; art. 4, además de la plata, menciona "veinte centavos de cobre" (texto entrecortado: falta confirmar si es por habitante); la tabla del art. 2 (plata y cobre) sigue siendo imagen ilegible. Usada también en serie 07.
 - Revisión 2026-11-19 (serie 07, auditor; texto leído en InfoLEG desde un resultado de búsqueda): art. 3 "…y las de cobre liso" (literal); art. 4 "…cuatro pesos por habitante… y a veinte centavos de cobre" (no aclara si el cobre es por habitante); art. 6 completo: la moneda de plata menor de un peso y la de cobre, de recibo obligatorio hasta 50 centavos en pagos de hasta 20 pesos y hasta un peso en los mayores.
 - Revisión 2026-11-21 (serie 07, dos lecturas de agentes): art. 4, "La acuñación de plata no excederá de cuatro pesos, por cada habitante de la República" … "y a veinte centavos de cobre"; también "La acuñación de las monedas de oro es limitada" y el PE queda "facultado para determinar las proporciones" entre múltiplos y submúltiplos. La tabla del art. 2 sigue en imagen. Enlace vigente.
+- Revisión 2026-11-21 (serie 08, investigación 1; dos lecturas de agente por resumen): la tabla del art. 2 sigue siendo imagen y no se pudo leer la fila del 1 c; arts. 3, 4 y 6 releídos por paráfrasis, sin cambios. Usada también en serie 08.
 
 ### F-0003
 - Título: Comunicación "A" 5258 (07/12/2011), CIRMO 3-45 — Anexo, punto 1.3.3 (venta de Argentinos oro)
@@ -84,6 +85,7 @@ Formato de cada entrada:
 - Revisión 2026-11-09 (serie 04; lectura de agente a través de un resumen, a confirmar): fantasías de 50, 20 y 10 c fechadas 1880 (CJ 34–36), plata 900, cospel liso sin listel, R4, "extremadamente raras".
 - Revisión 2026-11-10 (serie 04, revisión; lectura de agente con citas): p. 8: "las piezas de 50, 20, y 10 centavos, también en Plata .900 y canto liso (CJ#34 a 36), son extremadamente raras"; tabla p. 9: "50 Centavos Plata 900 Liso sin listel R4"; pie de la Imagen 7: "Ejemplar de 50 Centavos. Muy Rara."; p. 7: "cospeles de apariencia casera, sin listel"; p. 5: acuñadas con matrices contra cospeles "entre los años `70 y `80"; p. 10: "realizadas con matrices oficiales en la segunda mitad del siglo XX". p. 6: Janson 2005/2006: "cuños presumiblemente robados de la Casa de Moneda"; Janson 2019: las piezas conocidas "deben ser consideradas como réplicas"; Cunietti-Ferrando (1964) menciona 50 c de plata fechados 1880 como posibles ensayos. Nota 2: cartas de Oudiné atribuidas a "Matassi, Nora, 2009".
 - Revisión 2026-11-19 (serie 07; lectura de agente por resumen): piezas unifaces de 1 y 2 c fechadas 1880 en aleación de cobre, R5, sin ejemplares en los museos relevados; Janson 2005 (CJ 31–39, cuños "presumiblemente robados") y Cunietti-Ferrando 1964 citados; Spink 1986: unifaces en "metal blanco, de apariencia aluminio"; el agente señala contradicciones internas ("con listel" / "canto liso sin listel"; fabricación en los años 70–80 del XIX / segunda mitad del XX): revisar en el PDF. Usada también en serie 07.
+- Revisión 2026-11-21 (serie 08, investigación 1; lectura de agente por resumen): tabla p. 9, 1 c unifaz "Aleación de Cobre Liso con listel R5"; p. 8: "solo se conocen un par de juegos de piezas unifaces". Usada también en serie 08.
 
 ### F-0006
 - Título: Comienzos de la Casa de Moneda
@@ -2425,6 +2427,7 @@ Formato de cada entrada:
 - Usada en: serie 04
 - Revisión 2026-11-10 (serie 04, revisión; lectura de agente): p. 89, "ENSAYOS Y PRUEBAS DE MONEDAS ARGENTINAS": "33 – 1881 – 50 centavos. Plata.", sin peso, diámetro ni procedencia; vecinos: N.º 31 (1880, 1 centavo cobre), N.º 32 (s/f, "1 Peso. Níquel. Oudiné. Carece de anverso."), N.º 34 (s/f, "1/2 argentino. Cobre. Oudiné."). p. 83: moneda corriente 1881 (N.º 13).
 - Revisión 2026-11-11 (serie 05): p. 83: N.º 14 (1881, "Veinte centavos"), N.º 21 y 22 (1882), N.º 28 y 29 (1883); el 10 c 1881 N.º 15 figura como "Flor de cuño". Lectura de agente.
+- Revisión 2026-11-21 (serie 08, investigación 1; dos lecturas de agente por resumen, coincidentes): p. 84, entradas 46–59 "Un centavo" de la Ley 1130: 1882, 83, 84, 85, 86, 88, 89, 90, 91, 92, 93, 94, 95 y 96; no figura 1887. Ensayos (p. 89, numeración no segura por OCR): de 1892, "1 Centavo. Níquel. Canto liso.", variantes en aluminio y cobre, y una "No tiene corona de laureles. 'Un' en vez de 1." (OCR dudoso). Una entrada de 1887 es de 20 centavos en "metal argentino". Usada también en serie 08.
 
 ### F-0231
 - Título: Museo Histórico y Numismático "Héctor C. Janson" (BCRA) — fichas de Ensayos (SENIP)
@@ -2713,6 +2716,7 @@ Formato de cada entrada:
 - Revisión 2026-11-19 (serie 07; lectura de agente por resumen): filas separadas "1 centavo | 1882 | 21/04/1959 | 02/01/1960" y "2 centavos | 1882 | 21/04/1959 | 02/01/1960" (emisión, cese de curso legal, desmonetización). Usada también en serie 07.
 - Revisión 2026-11-19 (serie 07, auditor): verificado en la página el texto "2 centavos | 1882 | 21/04/1959 | 02/01/1960"; la cita clave original ("1 y 2 c (1882)" en una fila) queda superada por esta lectura.
 - Revisión 2026-11-21 (serie 07, revisión; lectura web-fetch pedida por la sesión principal): la tabla tiene solo cuatro columnas (Denominación, Emisión, Cese curso legal, Desmonetización); filas "1 centavo | 1882 | 21/04/1959 | 02/01/1960" y "2 centavos | 1882 | 21/04/1959 | 02/01/1960". Sin metal, peso ni diámetro. Enlace vigente.
+- Revisión 2026-11-21 (serie 08, investigación 1; lectura de agente de la versión en inglés): "1 cent | 1882 | 21/04/1959 | 02/01/1960". Usada también en serie 08.
 
 ### F-0258
 - Título: Museo Histórico y Numismático Héctor C. Janson — Documentos Históricos 1 (inventario SENIP)
@@ -3196,6 +3200,7 @@ Formato de cada entrada:
 - Cita clave: nota 20, p. 11: "el punzón de la efigie en la moneda de 1 centavo es el mismo de la moneda de plata de 20 centavos"; Oudiné propuso una gráfila de perlas porque la efigie quedaba chica; Oudiné creía que su cabeza iría en el anverso, "como lo muestran sus cartas"; el contrato hablaba de una "tête symbolisant la Liberté".
 - Usada en: serie 05
 - Revisión 2026-11-21 (serie 07, investigación 4; lectura de agente por resumen): menciona "ensayos en cobre de 1 y 2 centavos, que llevan en su reverso una cabeza femenina a diestra" (1878), con las iniciales C.T. que Mitchell atribuyó a Charles Trottin; no dice qué punzón de cabeza lleva el 2 c de la Ley 1130. Usada también en serie 07.
+- Revisión 2026-11-21 (serie 08, investigación 1; lectura de agente por resumen): nota 20, p. 11: Oudiné sugirió incorporar la línea de perlas "para rellenar un poco el fondo" del 1 c; Pezzano cita "Cartas E. Oudiné" (Museo de la Casa de Moneda), p. 13. El resumen no dice "chica" (lectura de la serie 05): cotejar el texto literal. Usada también en serie 08.
 
 ### F-0305
 - Título: Catalogue of Coins, Tokens, and Medals in the Numismatic Collection of the Mint of the United States at Philadelphia (1912)
@@ -4245,3 +4250,83 @@ Formato de cada entrada:
 - Consultada: 2026-11-21 (lectura web-fetch pedida por la sesión principal)
 - Cita clave: "The Caras y Caretas was founded in Montevideo in 1890"; edición de Buenos Aires: "The first number (released 19 August 1898) had 24 pages".
 - Usada en: serie 07
+
+### F-0412
+- Título: NGC World Coin Price Guide — Argentina Centavo KM# 32 (1882–1896)
+- Autor / institución: NGC (Numismatic Guaranty Company)
+- URL: https://ngccoin.com/price-guide/world/argentina-centavo-km-32-1882-1896-cuid-1038856-duid-1212593
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (guía de precios de una graduadora; sus tiradas son de catálogo y solo valen como pista)
+- Consultada: 2026-11-21 (agente de la ronda 1, nivel 3)
+- Cita clave: tiradas por año, sin fuente: "1882 108,000 / 1884 4,604,000 / 1896 174,000" (además 1883 786.000; 1885 1.314.000; 1886 444.000; 1888 413.000; 1889 568.000; 1890 2.137.000; 1891 605.000; 1892 205.000; 1893 754.000; 1894 532.000; 1895 423.000); no lista 1887. Precios con celdas y grados sin separadores (no alineables): cinco valores por fecha, de 2/4/10/18/25 USD (1884) a 30/75/150/250/400 USD (1882); orden de valoración 1882 > 1892 > 1896 > 1886 > 1888.
+- Usada en: serie 08
+
+### F-0413
+- Título: Numista — 1 Centavo, Argentina, 1882–1896 (KM# 32), ficha n.º 1156
+- Autor / institución: Numista (catálogo colaborativo)
+- URL: https://en.numista.com/catalogue/pieces1156.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (catálogo colaborativo; solo pista)
+- Consultada: 2026-11-21 (agentes de la ronda 1, nivel 4, y de la ronda 2)
+- Cita clave: 5 g, 25 mm, 1,5 mm, canto liso, "Coin alignment ↑↓"; tiradas iguales a las de NGC (F-0412), sin 1887; en 1885: "3 different dates; see comments" (sin comentarios visibles); índice de rareza 7/100; presencia en colecciones de usuarios: 1884 45 %, 1890 34 %, 1896 3 %.
+- Usada en: serie 08
+
+### F-0414
+- Título: coinvarieties — páginas del 1 centavo: Argentina 1882 centavo, 1884 centavo, 1888 centavo, 1890 centavo y 1894 centavo
+- Autor / institución: coinvarieties.com (wiki de coleccionistas; cita ventas de Sedwick y Stack's Bowers)
+- URL: https://coinvarieties.com/index.php/Argentina_1882_centavo ; https://coinvarieties.com/index.php/Argentina_1884_centavo ; https://coinvarieties.com/index.php/Argentina_1888_centavo ; https://coinvarieties.com/index.php/Argentina_1890_centavo ; https://coinvarieties.com/index.php/Argentina_1894_centavo
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (wiki; las ventas citadas con casa, lote y precio se toman como probables)
+- Consultada: 2026-11-21 (agentes de la ronda 1, niveles 2, 3 y 4, y de la ronda 2; lecturas por resumen)
+- Cita clave: 1882: "close 2", Janson-38.2, Sedwick Treasure Auction 28 (noviembre de 2020), lote 707, NGC MS63 BN, 510 USD, "a better date"; censo de NGC: el mejor de solo dos, por ocho grados (otra lectura: "finest known in NGC census"). 1888: "sold as lot 71144 in the Stack's Bowers May 2023 sale for $360" (PCGS MS64 RB); "The type is common but nice uncirculated specimens are undervalued." 1894: "high and separate 4", Janson-49.3, NGC MS63 BN, Sedwick Treasure Auction 34 (2023), 288 USD; acuñado "at the Paris mint or in Buenos Aires with French dies". 1884 y 1890: "most likely at the Paris mint"; tiradas 4.604.000 y 2.137.000 (iguales a NGC). Bibliografía: Cunietti-Ferrando 1965, Janson 2015, Michael-Schmidt 2019.
+- Usada en: serie 08
+
+### F-0415
+- Título: Sedwick — Argentina, copper 1 centavo, 1886, NGC MS 63 BN (lote 763)
+- Autor / institución: Daniel Frank Sedwick LLC
+- URL: https://beta.sedwickcoins.com/Item/46544511/argentina-copper-1-centavo-1886-ngc-ms-63-bn-
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-21 (agente de la ronda 1, nivel 3)
+- Cita clave: "second-highest grade in the current NGC census, behind a single MS 64"; Janson-42.1; fecha de la subasta y precio no figuran en la página.
+- Usada en: serie 08
+
+### F-0416
+- Título: CGB — Argentine 1 centavo 1883 TTB− (fwo_682734) y 1 centavo "Emblème / Liberté" 1884 SUP (fwo_776863)
+- Autor / institución: CGB Numismatique Paris (cgbfr.com)
+- URL: https://www.cgbfr.com/argentine-1-centavo-1883-ttb-,fwo_682734,a.html ; https://www.cgbfr.com/argentine-1-centavo-embleme-liberte-1884-sup,fwo_776863,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-21 (agente de la ronda 1, nivel 3)
+- Cita clave: 1883: e-auction n.º 428, ítem 339999, cierre 28/06/2021, 16 € (estimación 30 €, 5 postores), "points d'oxydation à l'avers", 5,23 g, 25 mm, 6 h, bronce, canto liso. 1884: 5 g (redondeado), 25 mm, 6 h, 25 € a precio fijo en la tienda (sin fecha), tirada citada 4.604.000 (pista).
+- Usada en: serie 08
+
+### F-0417
+- Título: Spink, subasta 312 (Numismatic Collector's Series), lote 1202: Argentina, Essai 1 centavo 1878, cobre, KM-E1, NGC MS65 RB
+- Autor / institución: Spink
+- URL: https://spink.com/lot/3121202
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-21 (agente de la ronda 1, nivel 3)
+- Cita clave: "Sold for $180"; fecha de la subasta y certificado no visibles.
+- Usada en: serie 08
+
+### F-0418
+- Título: Heritage, subasta 3054 (CCE World Coins, Chicago, 7–10/04/2017), lote 32158: Argentina Republic copper Essai Centavo 1878 MS64 Red and Brown NGC
+- Autor / institución: Heritage Auctions
+- URL: https://coins.ha.com/itm/argentina/argentina-republic-copper-essai-centavo-1878-ms64-red-and-brown-ngc-/a/3054-32158.s
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-21 (agente de la ronda 2)
+- Cita clave: KM-E1, NGC cert. 2763238010, "A sharply struck example with a good amount of red in the peripheries"; procedencia: Lidums Collection; vendido el 10/04/2017; precio oculto sin sesión.
+- Usada en: serie 08
+
+### F-0419
+- Título: eBay, "1890 Argentina 1 Centavo NGC MS64 BN — Pop Sizzle only 2 graded higher" (ítem 166932087118; otro aviso, 166932084275)
+- Autor / institución: eBay (vendedor sin identificar)
+- URL: https://www.ebay.de/itm/166932087118 ; https://www.ebay.com.sg/itm/166932087118
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (solo presencia en el mercado)
+- Consultada: 2026-11-21 (agente de la ronda 1, nivel 3; solo el título del resultado de búsqueda, la ficha dio client_error)
+- Cita clave: "Pop Sizzle nur 2 höher bewertet" (título en alemán).
+- Usada en: serie 08
