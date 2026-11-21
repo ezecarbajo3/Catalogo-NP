@@ -288,6 +288,7 @@ Formato de cada entrada:
 - Revisión 2026-11-11 (serie 05): p. 7, carta N.º 3 (1/03/1880): el 20 y el 10 c, con el Argentino y el ½ Argentino, "último plazo de entrega para el 5 de julio de 1880"; Oudiné: "A la pieza de 25 mm. (1 centavo) perfectamente se puede colocar la cabeza de la moneda de plata de 20 centavos"; p. 14: Decreto 76.714 (1940): "El busto de la Libertad tiene iguales dimensiones que en los 20 centavos de plata". Lectura de agente.
 - Revisión 2026-11-19 (serie 07; lectura de agente por resumen): el cobre se acuña desde 1882 (p. 9); acuñaciones de la ley interrumpidas definitivamente en 1896 (p. 10); los cobres de 1 y 2 c seguían circulando en los años treinta (p. 10); Decreto 29.159 (18/04/1939) ordena las nuevas piezas de 1 y 2 c, más chicas, que circulan a fines de 1939; no indica el origen de los cospeles de 1880–1896 (los de Europa y EE. UU. que menciona son de 1939–1942). Usada también en serie 07.
 - Revisión 2026-11-19 (serie 07, agente de nivel 2, paráfrasis): carta 2 del 7/01/1880: 70 cuños en total (cabeza y reverso), pide seis meses más y baja el costo de 27.500 a 25.000 francos; carta 4 (10/03/1880): el 1 c de 25 mm podría llevar la cabeza del 20 c con línea de perlas.
+- Revisión 2026-11-21 (serie 08, investigación 1): se usa la carta N.º 3 (1/03/1880) ya registrada: la cabeza del 20 c para la pieza de 25 mm (1 centavo). Usada también en serie 08.
 
 ### F-0025
 - Título: Unidad monetaria, vertebración territorial y conformación nacional: el caso de la República Argentina — Anales de Historia Contemporánea 20 (2004), pp. 439–461
@@ -1428,6 +1429,7 @@ Formato de cada entrada:
 - Revisión 2026-11-11 (serie 05; lectura de agente): ficha del 20 c (p. 21): "Peso 5 gr. Módulo 23 mm. Canto estriado. Espesor 1,314 mm."; variantes de cuño con letra (p. 22): 1881 A–E, 1882 A–Q, 1883 A–O (clave no leída); precios U$S MB/EXC/SC: 1881 700/1.000/1.500, 1882 25/60/80, 1883 30/65/90. No da fecha de retiro para la plata. Catálogo: solo pista.
 - Revisión 2026-11-13 (serie 05, revisión; agente de nivel 2, caracteres 0–200.000): ficha del 20 c ("1/5 de Patacón"): "Peso 5 gr. Módulo 23 mm. Canto estriado. Espesor 1,314 mm.", Libertad "diseño de Oudiné"; emisiones 2.018 / 762.027 / 1.510.950. Las letras A–E, A–Q y A–O solo aparecen como epígrafes de fotos ("20 C 881 'A'"…): no hay texto que explique cada variante; el "Método de Clasificación" del índice no está en el texto extraíble.
 - Revisión 2026-11-18 (serie 06, revisión; agente de ronda 2 y relectura de la sesión principal, caracteres 0–100.000, paráfrasis de WebFetch): sección "10 Centavos / 1/10 de Patacón", pp. 22–25: "Peso 2,5 gr", módulo 18,5 mm, canto estriado, espesor 1,131 mm; anverso con el escudo, siete banderas y un cañón por lado, "República Argentina", fecha entre estrellas; reverso con la Libertad a la izquierda, "Libertad", "10 Cent" a la izquierda y "9 D Fino" a la derecha. Emisiones 1.020 / 778.131 / 2.785.650; precios U$S MB/EXC/SC 1881 1.200/1.800/2.500, 1882 y 1883 20/50/80. Troqueles (solo fotos): 1881 A–C; 1882 "dientes separados" (DS) A–Q y "dientes juntos" (DJ) A–I; 1883 A–S. Nota (p. 23): DS se llamaba antes "canto grueso" y DJ "canto fino"; se cuentan haciendo rodar el canto sobre papel carbónico y contando los dientes en 1 cm; una línea visible en ciertas piezas ayuda a identificar "rápidamente" el troquel y, si se sospecha de una pieza adulterada, permite ubicar el troquel de origen; "la clasificación de cada troquel corresponde solo al año examinado"; el papel carbónico va colocado encima de papel blanco. No da cantidad de dientes por cm ni fecha de desmonetización.
+- Revisión 2026-11-21 (serie 08, investigación 1): se usa el diámetro legal del 20 c (23 mm) ya registrado; el PDF no apareció en resultados de búsqueda (`pendientes-chrome.md` #46). Usada también en serie 08.
 
 ### F-0135
 - Título: Eliasberg Prices Stun Numismatic World (22/04/2005)
@@ -4260,6 +4262,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-21 (agente de la ronda 1, nivel 3)
 - Cita clave: tiradas por año, sin fuente: "1882 108,000 / 1884 4,604,000 / 1896 174,000" (además 1883 786.000; 1885 1.314.000; 1886 444.000; 1888 413.000; 1889 568.000; 1890 2.137.000; 1891 605.000; 1892 205.000; 1893 754.000; 1894 532.000; 1895 423.000); no lista 1887. Precios con celdas y grados sin separadores (no alineables): cinco valores por fecha, de 2/4/10/18/25 USD (1884) a 30/75/150/250/400 USD (1882); orden de valoración 1882 > 1892 > 1896 > 1886 > 1888.
 - Usada en: serie 08
+- Revisión 2026-11-21 (serie 08, auditor; lectura web): las 14 tiradas coinciden; 1887 no figura; valores por fecha bajo columnas Ag, G, VG, F, XF: 1884 2/4/10/18/25; 1890 3/6/12/20/30; 1886 12/30/80/140/250; 1896 20/50/100/175/250; 1892 25/60/120/220/350; 1882 30/75/150/250/400 USD (alineación según el auditor; el agente de la ronda 1 no pudo alinearlos).
 
 ### F-0413
 - Título: Numista — 1 Centavo, Argentina, 1882–1896 (KM# 32), ficha n.º 1156
@@ -4290,6 +4293,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-21 (agente de la ronda 1, nivel 3)
 - Cita clave: "second-highest grade in the current NGC census, behind a single MS 64"; Janson-42.1; fecha de la subasta y precio no figuran en la página.
 - Usada en: serie 08
+- Revisión 2026-11-21 (serie 08, auditor; lectura web): "tied with an RD example for second highest grade", detrás de un único MS64; sin fecha, precio ni constancia de venta.
 
 ### F-0416
 - Título: CGB — Argentine 1 centavo 1883 TTB− (fwo_682734) y 1 centavo "Emblème / Liberté" 1884 SUP (fwo_776863)
