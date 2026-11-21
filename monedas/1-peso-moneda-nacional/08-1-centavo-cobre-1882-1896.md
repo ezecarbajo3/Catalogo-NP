@@ -200,3 +200,127 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 ---
 
 # Parte 2 · Historia completa
+
+## 1. Antes de la moneda
+
+El centavo de cobre de 1882 nació como la última pieza de un sistema entero. La Ley 1130 de 1881 dio a la Argentina, por primera vez, una moneda nacional única de oro, plata y cobre, y al cobre le reservó el papel más humilde: el del vuelto. Era moneda de curso obligatorio limitado: nadie estaba obligado a recibir plata menor y cobre por más de 50 centavos en un pago de hasta 20 pesos, ni por más de un peso en los pagos mayores [F-0002]. El centavo era, entonces, la unidad más chica de todo ese edificio, la pieza que permitía cerrar una cuenta exacta.
+
+El problema que venía a resolver es el mismo que se cuenta con detalle en la historia del 2 centavos (serie 07): en las provincias circulaban calderillas extranjeras y cobres chilenos, peruanos y bolivianos [F-0038 · probable; F-0405 · probable], y en Buenos Aires quedaba el cobre viejo de la primera Casa de Moneda porteña, que en septiembre de 1883 se pasó a moneda nacional en los libros del Banco [F-0407 · probable]. El centavo y el dos centavos llegaron juntos para reemplazar todo ese cambio menudo.
+
+La idea de un centavo de cobre de unos 25 milímetros tampoco era nueva. El Museo Histórico y Numismático Héctor C. Janson, del Banco Central, guarda un ensayo de 1 centavo de cobre de la ley del 25 de septiembre de 1878, la de los pesos fuertes, que pesa 4,7 g y mide 25,2 mm [F-0231 · probable]. Luciano Pezzano describe ensayos de 1 y 2 centavos de 1878 con una cabeza femenina mirando a la derecha y las iniciales C.T., que Mitchell atribuyó al grabador Charles Trottin [F-0304 · probable]. Ese ensayo de 1878 no quedó como pieza de museo solamente: aparece en el mercado internacional, con ejemplares conservados con parte de su rojo original (ver el apartado 8).
+
+> **Supuesto.** El centavo de la Ley 1130, de unos 5 g y 25 mm, repite casi exactamente las medidas del ensayo de 1878 (4,7 g y 25,2 mm [F-0231]). Es posible que el sistema de cobre de 1881 haya heredado el módulo pensado tres años antes, como parece pasar también con el 2 centavos (serie 07). Se apoya solo en la coincidencia de medidas; para confirmarlo hacen falta la tabla del art. 2 de la Ley 1130 y el texto de la ley de 1878.
+
+## 2. El nacimiento
+
+La Ley 1130 se sancionó en noviembre de 1881 (el 3 según InfoLEG [F-0002]; el 5 según otras fuentes, como se discute en la serie 03). Su art. 2 manda a la Casa de Moneda acuñar oro, plata y cobre según unas tablas que fijan denominación, valor, título, peso, diámetro y tolerancia [F-0002]. Esas tablas existen, pero en la versión oficial en línea son imágenes, y la fila del centavo —su peso legal, su diámetro, su tolerancia y la aleación exacta— no se pudo leer todavía [F-0002 · a confirmar]. El art. 3 dispone que las monedas de cobre lleven canto liso, a diferencia de las de oro y plata, que lo llevan acanalado [F-0002]. El art. 4, que limita la acuñación de plata por habitante, agrega un tope de "veinte centavos de cobre" [F-0002 · probable: el texto leído no aclara si es también por habitante].
+
+No se encontró el decreto o la resolución que puso el cobre en circulación en 1882; las búsquedas en fuentes oficiales de esta primera investigación no dieron con él. Lo que sí está claro es la secuencia de la fábrica: la Casa de Moneda se inauguró el 14 de febrero de 1881 y empezó a acuñar en noviembre de ese año (serie 03), y el cobre se acuña desde 1882 [F-0024 · probable].
+
+## 3. El diseño
+
+Como todas las monedas del primer cono, el centavo lleva el escudo nacional de un lado y la cabeza de la Libertad con gorro frigio del otro, con la palabra "Libertad" [F-0002]. Las matrices las hizo en París el grabador Eugène-André Oudiné, por encargo de Eduardo Castilla, primer director de la Casa de Moneda [F-0024, F-0005].
+
+Lo propio del centavo está en la cabeza. Oudiné no grabó una Libertad nueva para él: usó la del 20 centavos de plata. Pezzano lo dice en una nota de su estudio sobre la iconografía de la Libertad: el punzón de la efigie del 1 centavo "es el mismo de la moneda de plata de 20 centavos" [F-0304 · probable], y Testolino coincide [F-0024 · probable]. La pieza de cobre más chica en valor de todo el sistema comparte así el retrato con una moneda de plata.
+
+Esa decisión trajo un problema de composición. El 20 centavos mide 23 mm (serie 05) y el centavo, unos 25 mm, de modo que la misma cabeza quedaba en un campo más grande. Según Pezzano, que cita las cartas de Oudiné conservadas por el Museo de la Casa de Moneda, el grabador sugirió agregar una línea de perlas, una gráfila, "para rellenar un poco el fondo" [F-0304 · probable]. Una lectura anterior del mismo pasaje, hecha para la serie 05, lo había registrado como una solución porque la efigie "quedaba chica"; las dos formas de decirlo son compatibles, pero falta cotejar el texto literal.
+
+Los ensayos completan el cuadro del diseño. El Monetario de la Academia Nacional de la Historia tiene un ensayo de 1 centavo de cobre fechado 1880 (N.º 31) [F-0230]. Hay además piezas unifaces de 1 y 2 centavos fechadas 1880, en aleación de cobre, con canto liso y listel, de las que "solo se conocen un par de juegos"; el estudio de Dabbah y Madonna las considera fantasías hechas con matrices oficiales y no ensayos de la ceca [F-0005 · probable]. Mucho después, en 1892, la Casa de Moneda ensayó centavos en otro metal: el catálogo de la ANH registra piezas de "1 Centavo. Níquel. Canto liso", variantes en aluminio y en cobre, y una sin corona de laureles que dice "Un" en lugar de "1" [F-0230 · a confirmar: lectura por resumen de un texto con errores de reconocimiento]. Son antecedentes del níquel que llegaría en 1896 (series 09 a 11), no variantes del centavo de cobre.
+
+## 4. La fabricación y la acuñación, año por año
+
+**La pieza.** El Museo Janson, citando el catálogo de Janson de 2020, da para el centavo de cobre un peso de 5 g [F-0231 · probable]. La única medición de un ejemplar encontrada es la de un 1883 de la casa francesa CGB: 5,23 g, 25 mm y eje de 6 horas, es decir, con el reverso invertido respecto del anverso, como en las monedas corrientes [F-0416 · probable]; otra ficha de CGB, de un 1884, da 5 g redondeados, 25 mm y también 6 h [F-0416 · probable]. Numista registra 5 g, 25 mm, 1,5 mm de espesor y el mismo eje [F-0413 · pista: catálogo]. La ley habla de "cobre" [F-0002] y el Museo Janson también [F-0231]; las casas y la wiki coinvarieties dicen "bronce" [F-0416, F-0414 · pista], la misma discrepancia que tiene el 2 centavos. La Casa de Moneda de Buenos Aires es la ceca, al menos para 1884, según su propia Memoria [F-0028]; coinvarieties sugiere, sin fuente, que el centavo se habría hecho en París o en Buenos Aires con cuños franceses [F-0414 · pista], algo que la Memoria contradice.
+
+**1882.** Es la primera fecha [F-0024 · probable], y el Monetario de la ANH tiene un ejemplar [F-0230 · probable]. No hay cifra oficial del centavo de ese año: lo único que se puede calcular, restando la plata y el oro del total de piezas de 1882 que da Agote, es el cobre en conjunto, unas 195.704 piezas entre 1 y 2 centavos [F-0204, F-0163 · supuesto: cálculo de la serie 07]. La guía de NGC y Numista dan 108.000 centavos [F-0412, F-0413 · pista]. Para el catálogo de Janson hay al menos una variante de fecha, la 38.2, conocida en el mercado como "close 2", con el 2 final cerca del 8, aunque ninguna fuente leída explica cómo se distingue [F-0414 · a confirmar].
+
+**1883.** Es el único año con tirada oficial por denominación: 785.833 centavos, junto a 1.389.000 piezas de 2 centavos, según el informe de Pedro Agote, presidente del Crédito Público Nacional, de 1884 [F-0204]. Ese año la Casa acuñó 9.548.855 piezas de todos los metales [F-0204]: el centavo fue el 8,2 % de todas ellas y algo más de un tercio (36 %) de las de cobre (cálculo propio). Los catálogos redondean la cifra a 786.000 [F-0412, F-0413 · pista].
+
+**1884, el año del cobre.** La Memoria de la Casa de Moneda de 1884, dirigida al ministro Wenceslao Pacheco, dice que se fabricó oro, plata y cobre, "pero solo este último en cantidad fuerte", y anuncia que "así habrá moneda de cobre en toda la República" [F-0028]; la Memoria de Hacienda del mismo año dice que la Casa se limitó a acuñar cobre [F-0086]. No hay cifra oficial por denominación. Los catálogos dan 4.604.000 centavos [F-0412, F-0413 · pista], la cifra más alta de toda la serie, y es la fecha más común: la tienen casi la mitad de los usuarios de Numista que registran esta moneda [F-0413 · pista] y es la más barata en la guía de NGC [F-0412 · pista].
+
+> **Supuesto.** Las cifras de catálogo de 1882–1884 parecen venir, redondeadas, de documentos oficiales. La serie 07 calculó, restando el oro y la plata del valor total emitido hasta el 31 de diciembre de 1884 que da la Memoria de la Casa de Moneda, que hasta esa fecha se habían acuñado unos 197.852,39 pesos de cobre [F-0028]. Si se pasan a pesos las tiradas que NGC da para el 1 y el 2 centavos de 1882 y 1884 [F-0412, F-0374 · pista] y se suman las oficiales de 1883 [F-0204], el resultado es 197.858 pesos: una diferencia de 6 pesos, la que cabe esperar de cifras redondeadas a miles. Además, los 108.000 centavos y los 88.000 dos centavos que los catálogos dan para 1882 suman 196.000 piezas, muy cerca de las 195.704 que se calculan con Agote, y los 786.000 de 1883 son el redondeo de los 785.833 oficiales. Si es así, en 1882 se habrían hecho unos 108.000 centavos y 88.000 dos centavos. El cálculo no dice nada de los años 1885 a 1896. Para confirmarlo hay que leer las filas del cobre del cuadro N.º 4 de la Memoria de 1884 o el Libro V de Agote, de 1888.
+
+**1885.** Aquí empiezan las dudas. La Memoria de Hacienda de 1885 dice que la Casa de Moneda no parece haber producido "un solo centavo" ese año [F-0165 · probable], pero hay centavos fechados 1885: el de la ANH [F-0230 · probable] y los que listan los catálogos, que les asignan 1.314.000 piezas [F-0412, F-0413 · pista]. Es la misma contradicción que tiene el 2 centavos de 1885, y la serie 07 discute sus posibles explicaciones. Numista agrega que el centavo de 1885 tiene "3 different dates", tres tipos de fecha, sin decir cuáles [F-0413 · a confirmar].
+
+**1886 y 1887, el cruce.** El centavo tiene fecha 1886: está en el Monetario de la ANH [F-0230], en los catálogos, que dan 444.000 piezas [F-0412, F-0413 · pista], y en el mercado, donde Sedwick vendió un ejemplar graduado NGC MS63 BN con la variante 42.1 de Janson [F-0415]. En cambio, no se conoce ningún centavo de 1887: no figura en la ANH, ni en NGC, ni en Numista, y no apareció ninguna venta ni foto [F-0230, F-0412, F-0413 · probable]. Con el 2 centavos pasa exactamente al revés: tiene 1887 y no tiene 1886 (serie 07).
+
+> **Supuesto.** El cruce de fechas sugiere que en 1886 y en 1887 la Casa de Moneda acuñó cobre de un solo valor por año: centavos en 1886 y dos centavos en 1887. Se apoya en la ausencia de piezas en todas las fuentes consultadas [F-0230, F-0412, F-0374]; podría haber ejemplares desconocidos, y falta cualquier documento de producción de esos años.
+
+**1888 a 1896.** Para el resto de la serie no hay ninguna cifra oficial. Los catálogos dan 413.000 centavos en 1888, 568.000 en 1889, 2.137.000 en 1890, 605.000 en 1891, 205.000 en 1892, 754.000 en 1893, 532.000 en 1894, 423.000 en 1895 y 174.000 en 1896 [F-0412, F-0413 · pista]. Sumadas con las de los primeros años, son 13.067.000 centavos en quince años, frente a casi 38 millones de 2 centavos en la misma guía (cálculo propio sobre cifras de catálogo). En 1894 hay una variante con el 4 de la fecha más alto y separado del 9, la 49.3 de Janson [F-0414 · a confirmar]. La última fecha es 1896 [F-0024 · probable].
+
+**Lo que se buscó.** Esta primera investigación buscó las tiradas que faltan en las Memorias de la Casa de Moneda y de Hacienda, en los libros de Agote, en el Registro Nacional, en anuarios, en el *Statesman's Year-Book*, en los informes de la Casa de Moneda de Estados Unidos y en Mulhall, con frases exactas en Google Books y HathiTrust; no apareció ninguna página con cifras, solo catálogos. *La Patria a través de sus monedas*, en Internet Archive, apareció en una búsqueda pero no se pudo abrir, igual que en la serie 07; tampoco una Memoria de la colección digital del Ministerio de Economía, que bloquea la lectura automática, ni un documento del Registro Nacional de esa misma biblioteca, que no volvió a aparecer en los resultados. El catálogo de Gancedo, que transcribe la tabla de la Ley 1130, tampoco apareció. Todo eso queda anotado para leerlo con un navegador.
+
+La presentación es una sola: la moneda suelta de circulación. No se encontraron pruebas ni piezas de colección fechadas entre 1882 y 1896; las únicas piezas especiales son los ensayos de 1878, 1880 y 1892.
+
+## 5. La moneda en la calle
+
+El centavo circuló como moneda de vuelto, con el curso limitado de la ley [F-0002]. La Casa de Moneda anunciaba en 1884 que con la producción de ese año habría "moneda de cobre en toda la República" [F-0028]. En 1892, un decreto dispuso que la Casa cambiara cobre por papel [F-0252 · probable], señal de que el cobre se juntaba en algunas manos y faltaba papel menor en otras (ver serie 07).
+
+No se encontró ninguna nota de prensa, caricatura ni testimonio de época sobre el centavo, ni el nombre con que lo llamaba la gente; se buscó en La Nación, La Prensa, *El Mosquito* y *Don Quijote*, y con "cobres" y "vintenes", sin resultado. Es uno de los huecos más grandes de la serie.
+
+## 6. El destino
+
+La acuñación terminó en 1896 [F-0024 · probable], el año en que empezó a circular el níquel de 5, 10 y 20 centavos. Daniel A. Rey, del Museo Janson, escribió que entonces "dejaron de acuñarse las piezas de cobre de 1 y 2 centavos" porque el metal superaba su valor facial [F-0232 · a confirmar: la frase no tiene nota ni fuente].
+
+> **Supuesto.** El centavo pesa la mitad que el 2 centavos (5 g contra 10 g [F-0231]) y vale la mitad, así que la relación entre el metal y el valor facial es la misma que la serie 07 calculó para el 2 centavos con el precio del cobre en Nueva York, el premio del oro y la paridad legal: el metal valió entre el 17 % (1885) y el 57 % (1891) del facial en papel, en promedios anuales, sin llegar nunca a superarlo [F-0396, F-0007, F-0037]. Con esos números, tampoco para el centavo se sostiene que en 1896 el metal valiera más que la moneda. Para cerrar la cuestión hace falta la fuente de Rey o un documento de la época sobre el fin del cobre.
+
+El centavo siguió circulando mucho después de dejar de fabricarse: todavía se usaba en los años treinta del siglo XX [F-0024 · probable], cuando el Decreto 29.159, del 18 de abril de 1939, ordenó nuevas piezas de 1 y 2 centavos, más chicas [F-0024 · probable] (serie 13). El Banco Central registra, en su tabla de emisiones anteriores, una fila propia para el "1 centavo" de la emisión de 1882: perdió el curso legal el 21 de abril de 1959 y fue desmonetizado el 2 de enero de 1960 [F-0257].
+
+No se encontró ningún dato documental de fundiciones o exportaciones del centavo. En un foro, un participante dice que muchas de estas piezas llegaron a Europa después de la desmonetización, "illegally" [F-0379 · a confirmar: opinión sin fuente].
+
+## 7. La vida posterior
+
+La colección pública mejor documentada es la de la Academia Nacional de la Historia: su Monetario tiene el centavo de 1882, 1883, 1884, 1885, 1886, 1888, 1889, 1890, 1891, 1892, 1893, 1894, 1895 y 1896, es decir, todas las fechas conocidas, sin 1887 [F-0230 · probable: dos lecturas por resumen, coincidentes]. No apareció ninguna ficha de museo fuera de la Argentina con el centavo, aunque sí varias del 2 centavos (serie 07), ni existencias oficiales, ventas institucionales o tesoros. La única procedencia con nombre es la de un coleccionista, Lidums, dueño del ensayo de 1878 que Heritage vendió en 2017 [F-0418 · probable].
+
+## 8. La moneda hoy
+
+El centavo es una moneda común. En el foro de Numista se dice que el 1 y el 2 centavos son "muy fáciles de encontrar", a menudo en buen estado, aunque un usuario considera el centavo el más escaso de los dos [F-0379 · a confirmar].
+
+> **Supuesto.** Las cifras de catálogo apoyan esa impresión: 13 millones de centavos contra casi 38 millones de 2 centavos [F-0412, F-0374 · pista]. Pero esas cifras no tienen fuente para la mayoría de los años, y la relación entre tirada y supervivencia no está medida.
+
+Entre las fechas, los indicios de mercado coinciden en algunas. La guía de NGC pone como más caras, en este orden, 1882, 1892, 1896, 1886 y 1888, y como más baratas 1884 y 1890 [F-0412 · pista: valores de guía, no ventas, con celdas que no permiten alinear con certeza precio y grado]. coinvarieties llama al 1882 "a better date" y al 1888 "slightly better date", y opina que el tipo es común pero que los ejemplares sin circular están subvaluados [F-0414 · a confirmar]. En las colecciones de los usuarios de Numista, el 1896 aparece solo en el 3 % [F-0413 · pista].
+
+Las ventas concretas encontradas son pocas. En noviembre de 2020, Sedwick vendió un 1882 "close 2" NGC MS63 BN en 510 dólares, el mejor de apenas dos ejemplares de esa fecha en el censo de NGC, por varios grados [F-0414 · probable la venta; a confirmar el detalle del censo]. Sedwick ofreció también un 1886 NGC MS63 BN, segundo en el censo detrás de un único MS64 [F-0415 · probable]. Stack's Bowers vendió en mayo de 2023 un 1888 PCGS MS64 RB en 360 dólares, y Sedwick, ese mismo año, un 1894 NGC MS63 BN en 288 [F-0414 · probable]. En el otro extremo, CGB remató en junio de 2021 un 1883 bien conservado, con puntos de óxido en el anverso, en 16 euros, y ofrece un 1884 SUP a 25 euros [F-0416 · probable]. En eBay se ofreció un 1890 NGC MS64 BN anunciado con "solo 2 graduados más alto" [F-0419 · a confirmar: solo el título]. El ensayo de 1878 se vendió en Spink, graduado NGC MS65 RB, en 180 dólares [F-0417 · probable], y en Heritage, NGC MS64 RB, en abril de 2017 [F-0418 · probable].
+
+Los censos completos de NGC y PCGS no se pudieron leer; lo que se sabe de ellos viene de las fichas de venta.
+
+## 9. Variantes, errores, pruebas y falsificaciones
+
+El catálogo de Janson separa variantes de fecha del centavo con números decimales, como muestran las fichas de venta: 38.2 para un 1882, 42.1 para un 1886 y 49.3 para un 1894 [F-0414, F-0415 · pista]. Solo dos tienen nombre: el 1882 "close 2" y el 1894 "high and separate 4" [F-0414 · a confirmar]. Para el 1885, Numista habla de tres tipos de fecha [F-0413 · a confirmar]. Ninguna fuente leída explica cómo distinguir cada variante; es la tarea principal de las próximas investigaciones.
+
+No se encontraron sobrefechas, cuños girados, descentrados ni errores de cospel documentados para el centavo, ni falsificaciones de época o modernas. El estudio de errores de Dabbah, que podría tenerlos, sigue sin poder abrirse.
+
+Las pruebas y ensayos se cuentan en el apartado 3: el centavo de 1878 de la ley de pesos fuertes, el de 1880 de la ANH, los unifaces de 1880, considerados fantasías, y los centavos de níquel, aluminio y cobre de 1892.
+
+## 10. Cómo se gasta: guía de graduación
+
+Todavía no hay una descripción de qué se gasta primero en el centavo. Para el 2 centavos, un hilo de foro menciona el pelo de la Libertad y las "banderas" del escudo como lo primero que se alisa (serie 07, [F-0408 · a confirmar]); como los dos comparten diseño general, es una pista, no una regla. En cuanto al color, los certificados vistos son marrones (BN) o rojo y marrón (RB); no apareció ningún centavo rojo (RD) [F-0414, F-0415, F-0417, F-0418]. El problema típico registrado es la oxidación, como los puntos de óxido de un 1883 de CGB [F-0416 · probable].
+
+## 11. Curiosidades
+
+La moneda de menor valor de todo el sistema lleva el mismo retrato que una de plata, el 20 centavos, y una gráfila de perlas puesta para que esa cabeza no quedara perdida en el campo [F-0304 · probable].
+
+Las fechas del centavo y del 2 centavos, que se acuñaban en la misma fábrica, con la misma ley y el mismo metal, no coinciden: el centavo tiene 1886 y no 1887; el 2 centavos, al revés [F-0230, F-0412, F-0415; serie 07].
+
+## 12. Lo que todavía no sabemos
+
+Falta casi todo lo que importa de las tiradas: la cifra oficial del centavo para cada año salvo 1883, y la prueba de que las cifras de catálogo de 1882–1884 son oficiales, como sugiere el cálculo. Falta leer la fila del centavo en la tabla de la Ley 1130 (peso, diámetro, tolerancia y aleación legales). Siguen abiertas las discrepancias del metal (cobre o bronce), de 1885 (la Memoria contra las piezas fechadas), de la ceca (Buenos Aires o París), del texto exacto de Pezzano sobre la gráfila y del censo de NGC del 1882. No se sabe qué distingue a las variantes de Janson ni a los tres tipos de fecha de 1885, ni cómo se gasta el centavo, ni cómo lo llamaba la gente. No se encontró el decreto que lo puso en circulación ni ninguna voz de la prensa de época. Y queda por confirmar el motivo del fin del cobre.
+
+## 13. Cronología
+
+- 1878-09-25: ley de los pesos fuertes; ensayo de 1 centavo de cobre, 4,7 g y 25,2 mm [F-0231].
+- 1880: ensayo de 1 centavo de cobre de la ANH (N.º 31) [F-0230]; cartas de Oudiné sobre la gráfila del centavo [F-0304].
+- 1881-11-03 (o 5): sanción de la Ley 1130 [F-0002].
+- 1882: primeras piezas de 1 centavo [F-0024].
+- 1883: 785.833 centavos acuñados [F-0204].
+- 1884: el cobre, producción "en cantidad fuerte" de la Casa de Moneda [F-0028].
+- 1885: la Memoria de Hacienda dice que no se produjo "un solo centavo" [F-0165].
+- 1886: última fecha conocida antes del salto; no hay centavos de 1887 [F-0230, F-0412].
+- 1892: ensayos de 1 centavo en níquel, aluminio y cobre [F-0230]; decreto del 7 de enero que dispone el canje de cobre por papel [F-0252].
+- 1896: última fecha; fin de la acuñación del cobre [F-0024, F-0232].
+- 1939-04-18: Decreto 29.159, nuevas piezas de 1 y 2 centavos [F-0024].
+- 1959-04-21: cese del curso legal [F-0257].
+- 1960-01-02: desmonetización [F-0257].
+- 2017-04-10: Heritage vende un ensayo de 1878, NGC MS64 RB, ex Lidums [F-0418].
+- 2020-11: Sedwick vende un 1882 "close 2", NGC MS63 BN, en 510 USD [F-0414].
+- 2021-06-28: CGB remata un 1883 en 16 € [F-0416].
+- 2023-05: Stack's Bowers vende un 1888 PCGS MS64 RB en 360 USD [F-0414].
