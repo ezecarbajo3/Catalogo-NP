@@ -292,7 +292,7 @@ Formato de cada entrada:
 
 ### F-0025
 - Título: Unidad monetaria, vertebración territorial y conformación nacional: el caso de la República Argentina — Anales de Historia Contemporánea 20 (2004), pp. 439–461
-- Autor / institución: José Miguel Santacreu Soler — Universidad de Murcia
+- Autor / institución: José Miguel Santacreu Soler (Universidad de Alicante; la revista es de la Universidad de Murcia; corregido el 2026-11-22 por el auditor de la serie 08)
 - URL: https://digitum.um.es/digitum/bitstream/10201/11762/1/1018781.pdf
 - Archivo (Internet Archive): a buscar
 - Nivel: 2
@@ -304,6 +304,7 @@ Formato de cada entrada:
 - Revisión 2026-11-10 (serie 04, revisión; lectura de agente): p. 457: "574.000 monedas de 1 peso, 3.769.000 de 50 centavos, 4.291.000 de 20 centavos y 4.584.000 de 10 centavos" (según el catálogo Krause); "sólo se acuñaron entre 1881 y 1883"; p. 458: la caída de la plata en Londres "seguramente también influyó" en la suspensión de 1883; p. 461: "El oro y la plata se desvanecieron de la circulación." Usada en serie 04.
 - Revisión 2026-11-11 (serie 05): p. 458: "Los 20 centavos se ajustaban a las características del franco o la peseta"; p. 455: "escasez creciente de monedas divisionarias"; p. 457: cuadro con 4.291.000 piezas de 20 c (error frente a la cifra oficial). Lectura de agente.
 - Revisión 2026-11-22 (serie 08, investigación 2; una lectura de agente de la ronda 2 por resumen, columnas desalineadas en la extracción): p. 457, cuadro 1, "Monedas acuñadas entre 1881 y 1896 por la Casa de Moneda de la Nación según la Ley 1130 de 1881 de la República Argentina (en miles de piezas)", columnas 1 c, 2 c, 10 c, 20 c, 50 c, 1 peso, ½ argentino y 1 argentino; nota: "Elaboración propia a partir de los datos del Standard Catalog of World Coins, Krause Publications (edición de 1985)". 1 c (miles): 1882 108; 1883 786; 1884 4.604; 1885 1.314; 1886 444; 1888 413; 1889 568; 1890 2.137; 1891 605; 1892 205; 1893 754; 1894 532; 1895 (impreso "1905") 423; 1896 174; total 13.067 (sin 1887). Total 2 c 37.673. Texto (paráfrasis o citas por resumen): "La acuñación de monedas de cobre tuvo más éxito que la de plata y oro"; "La Casa de Moneda las fabricó entre 1882 y 1896 sin apenas interrupciones"; p. 458: sustituir "los cobres de Buenos Aires y de la Confederación". La Memoria de la Casa de Moneda (1881-1910) se cita solo para el oro. Usada también en serie 08.
+- Revisión 2026-11-22 (serie 08, auditor; PDF abierto en digitum.um.es): nota del cuadro 1 verificada literal: "Fuente: Elaboración propia a partir de los datos del Standard Catalog of World Coins, Krause Publications (edición de 1985)"; total del 1 c 13.067; fila de 1895 impresa "1905"; la fila de 1887 trae "363" y "1.835" sin columna asignable en la extracción. Cuadro 2, "Características de las monedas argentinas de la ley 1130… comparadas con las del sistema monetario latino": 1 y 2 c de 950‰; 1 c de 25 mm y 2 c de 30 mm (reconstrucción del autor). Pie de la fig. 5: "1 centavo de cobre de 30 mm de diámetro (1895)". Agente de la ronda 2, p. 457: "Estas cantidades debieron ser suficientes para cubrir las necesidades de la circulación".
 
 ### F-0026
 - Título: The Statesman's Year-Book 1899 (American edition), Argentine Republic, pp. 709–710
@@ -4345,7 +4346,7 @@ Formato de cada entrada:
 - Archivo (Internet Archive): a buscar
 - Nivel: 3
 - Consultada: 2026-11-22 (agente de la ronda 1, nivel 3; seis lecturas)
-- Cita clave: fwo_256017: VF, 25 mm, 6 h, vendido en la tienda en 2012, 6 €; fwo_384618: VF, 4,96 g, 25 mm, 6 h, "bronze", canto liso, 7 € (estimación 10, 4 postores), cierre 22/02/2016; fwo_401099: VF, 4,80 g, 2 € (estimación 5, 2 postores), 10/10/2016; fwo_954380: XF, 4,92 g, "coups sur tranche", 4 € (estimación 10, 3 postores), 16/09/2024; fwo_1012250: "Exemplaire sous coque PCGS MS63BN", 5,00 g, 25 mm, 6 h, 70 €; fwo_906995: XF, 4,79 g, 25 mm, 6 h, vendido en la tienda en 2024, 60 €. Las fichas repiten tiradas de catálogo (solo pista) y la referencia "KM.19/32".
+- Cita clave: fwo_256017: VF, 25 mm, 6 h, vendido en la tienda en 2012, 6 €; fwo_384618: VF, 4,96 g, 25 mm, 6 h, "bronze", canto liso, 7 € (estimación 10, 4 postores), cierre 22/02/2016; fwo_401099: VF, 4,80 g, 25 mm, 6 h, 2 € (estimación 5, 2 postores), 10/10/2016; fwo_954380: XF, 4,92 g, 25 mm, 6 h, "coups sur tranche", 4 € (estimación 10, 3 postores), 16/09/2024; fwo_1012250: "Exemplaire sous coque PCGS MS63BN", 5,00 g, 25 mm, 6 h, 70 €; fwo_906995: XF, 4,79 g, 25 mm, 6 h, vendido en la tienda en 2024, 60 €. Las fichas repiten tiradas de catálogo (solo pista) y la referencia "KM.19/32".
 - Usada en: serie 08
 
 ### F-0421
