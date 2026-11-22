@@ -328,6 +328,7 @@ Formato de cada entrada:
 - Usada en: serie 01, serie 04
 - Revisión 2026-11-06: la tabla de monedas extranjeras depositadas en Nueva York en 1887 está en la p. 29; la fila argentina trae además "Silver parted: 22.83 standard ounces". El mismo informe estima la producción de las minas argentinas (vía el ministro de EE. UU. en Buenos Aires): 1886, oro $20.000 y plata $60.000; 1887, oro $30.000 y plata $30.000.
 - Revisión 2026-11-20 (serie 07, agente de ronda 2): leído entero (≈500.000 caracteres en cinco tramos): es el informe de producción de metales preciosos del año calendario 1887 y no trae sección de acuñación de países extranjeros, ni cuadro argentino, ni datos de cobre. Usada también en serie 07 (constancia negativa).
+- Revisión 2026-11-22 (serie 08, investigación 3, agente de la ronda 2): se releyeron otra vez los tramos 300.000–500.000 buscando "Argentine" (solo "Argentine Mining Company", Colorado): confirma la constancia negativa. En las búsquedas no apareció en archive.org ninguna copia de los informes de 1885, 1888–1890, 1892 ni 1895; los PDF de FRASER de 1882 y 1894 dieron client_error (`pendientes-chrome.md` #70). Usada también en serie 08 (constancia).
 
 ### F-0028
 - Título: Memoria del Departamento de Hacienda, ejercicio 1884, Tomo II (incluye la Memoria del Banco Nacional y, en pp. 115–124, la Memoria de la Casa de Moneda)
@@ -4368,3 +4369,63 @@ Formato de cada entrada:
 - Consultada: 2026-11-22 (agentes de la ronda 1, nivel 3, y de la ronda 2; solo los títulos de los resultados de búsqueda, no se abrieron)
 - Cita clave: "1892 Argentina 1 Centavo NGC SP-61 CAMEO ALUMINUM PIEFORT" (título).
 - Usada en: serie 08
+
+### F-0423
+- Título: CGB Numismatique Paris — fichas del 1 centavo KM 32 (investigación 3): 1883 XF fwo_959691 y fwo_993295; 1886 TTB fwo_223125; 1890 TTB/XF fwo_771515 y fwo_959690; 1891 TTB/XF fwo_808663 y fwo_400179; 1894 XF fwo_900157
+- Autor / institución: CGB (Compagnie Générale de Bourse), París
+- URL: https://cgbfr.com/argentine-1-centavo-1883-ttb,fwo_959691,a.html ; https://cgbfr.com/argentina-1-centavo-1883-xf,fwo_993295,a.html ; https://www.cgbfr.com/argentine-1-centavo-embleme-liberte-1886-ttb,fwo_223125,a.html ; https://www.cgbfr.com/argentine-1-centavo-1890-ttb,fwo_771515,a.html ; https://www.cgbfr.com/argentine-1-centavo-1890-ttb-,fwo_959690,a.html ; https://www.cgbfr.com/argentine-1-centavo-1891-ttb,fwo_808663,a.html ; https://www.cgbfr.com/argentine-1-centavo-1891-ttb,fwo_400179,a.html ; https://cgbfr.com/argentina-1-centavo-1894-xf,fwo_900157,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-22 (agentes de la ronda 1, nivel 3 —cinco fichas— y de la ronda 2 —tres fichas—)
+- Cita clave: fwo_223125 (1886): XF, 25 mm, bronce, canto liso, 7 €, "Item sold on our e-shop (2010)", sin peso ni eje. fwo_959691 (1883): XF, 5,00 g, 25 mm, 6 h, 20 €, "Item sold on our e-shop (2025)". fwo_993295 (1883): XF, 5,00 g, 25 mm, 6 h, e-auction 614-595538, 20 € y fecha "2025/01/20" (la página no aclara si es precio y fecha de cierre). fwo_771515 (1890): XF, 4,92 g, 25 mm, 6 h, e-auction 495-405264, estimación 10 €, adjudicada en 7 €, 3 postores, cierre 10/10/2022. fwo_959690 (1890): 4,98 g, 25 mm, 6 h, 15 €, vendida en la tienda (2025). fwo_808663 (1891): XF, 5,09 g, 25 mm, 6 h, e-auction 512-425167, estimación 15 €, adjudicada en 7 €, 2 postores, "End of the sale : 06 February 2023 18:05:00". fwo_400179 (1891): XF, 5 g, 25 mm, 6 h, e-auction 171-106580, estimación 15 €, 8 €, 6 postores, cierre 25/07/2016. fwo_900157 (1894): XF, 4,90 g, 25 mm, 6 h, e-auction 565-505420, 4 € (estimación 15, 4 postores), cierre 12/02/2024, "coups sur tranche". Todas repiten como "Quantity minted" las cifras de catálogo (1883 786000; 1886 444000; 1890 2137000; 1891 605000; 1894 532000), solo pista; ninguna trae nota de variedad.
+- Usada en: serie 08
+
+### F-0424
+- Título: coinvarieties — Argentina 1889 centavo
+- Autor / institución: coinvarieties.com (wiki de coleccionistas)
+- URL: https://coinvarieties.com/index.php/Argentina_1889_centavo
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (wiki; solo pista para tirada y ceca)
+- Consultada: 2026-11-22 (agente de la ronda 1, nivel 4; había fallado el 2026-11-21, `pendientes-chrome.md` #65)
+- Cita clave: "a somewhat better date"; tirada 568.000 (sin fuente); bronce, 5 g, 25 mm, canto liso, Oudiné; "struck at the Paris mint or in Buenos Aires with French dies"; "not struck again until 1939"; el tipo es común "but nice uncirculated specimens are undervalued"; sin variantes ni ventas registradas.
+- Usada en: serie 08
+
+### F-0425
+- Título: El Reverso (boletín del Centro Filatélico y Numismático de San Francisco, Córdoba), n.º 76, 80 y 82 (copias en monedasuruguay.com)
+- Autor / institución: Centro Filatélico y Numismático San Francisco (Córdoba)
+- URL: https://www.monedasuruguay.com/bib/rev/rev076.pdf ; https://monedasuruguay.com/bib/rev/rev080.pdf ; https://monedasuruguay.com/bib/rev/rev082.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-22 (agente de la ronda 1, nivel 2)
+- Cita clave: constancia negativa: n.º 76 (2 reales de Córdoba 1844, tarja de Potosí, Mauritania, Barbados), n.º 80 (Batalla de Salta, reversos de billetes en pesos moneda nacional) y n.º 82 (contrato de billetes con la Casa de Moneda; cuños, punzones y pruebas de medallas del Museo Histórico Nacional) no tratan el cobre de 1882–1896.
+- Usada en: serie 08 (constancia)
+
+### F-0426
+- Título: Camino, De Rosa y Caretti, "La primera y la última moneda del Estado de Buenos Aires, en un contexto arqueológico de San José de Flores" (2009 y 2011)
+- Autor / institución: Ulises Camino y otros (aacademica.org)
+- URL: https://www.aacademica.org/ulises.adrian.camino/24.pdf ; https://www.aacademica.org/ulises.adrian.camino/55.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-22 (agentes de la ronda 1, niveles 2 y 4)
+- Cita clave: en el sitio Rodríguez Visillac (Flores) "fueron extraídas dos monedas de cobre", de 1822 y 1861; "la moneda de 1861 es un elemento intrusivo". Contexto: en marzo de 1823 "se embarcaron 177 barriles que contenían cuatro millones de piezas de un décimo de Real"; fichas de latón de pulperos. Sin centavos de la Ley 1130.
+- Usada en: serie 08 (constancia)
+
+### F-0427
+- Título: Schávelzon y equipo — excavación de Defensa 1344, San Telmo (Centro de Arqueología Urbana, FADU-UBA)
+- Autor / institución: Daniel Schávelzon y otros; CAU, FADU-UBA (urbania; Redalyc)
+- URL: https://www.aacademica.org/urbania/44.pdf ; https://www.redalyc.org/journal/104/10452159012/10452159012.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-22 (agente de la ronda 1, nivel 2)
+- Cita clave: única moneda hallada, un Carlos IV de 1805 de latón, "probablemente falsa"; aljibe sin uso "alrededor de 1890"; materiales "entre 1880 y 1920". Sin centavos de la Ley 1130.
+- Usada en: serie 08 (constancia)
+
+### F-0428
+- Título: Fernando Chao (h), "Detectives" (artículo sobre la identificación de piezas provisionales provinciales), IFINRA, 17/10/2021 (firmado Rosario, 2019)
+- Autor / institución: Fernando Chao (h); Instituto Federal de Investigadores Numismáticos (IFINRA)
+- URL: https://ifinra.org/wp-content/uploads/2021/10/detectives-fc.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-22 (agente de la ronda 1, nivel 4)
+- Cita clave: constancia negativa: trata de piezas provinciales (Salta, Tucumán, La Rioja, Mendoza) y menciona "los cobres de la Provincia de Buenos Aires"; no trata el 1 c de 1882–1896 ni falsificaciones del cobre nacional.
+- Usada en: serie 08 (constancia)
