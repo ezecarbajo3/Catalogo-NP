@@ -4371,7 +4371,7 @@ Formato de cada entrada:
 - Usada en: serie 08
 
 ### F-0423
-- Título: CGB Numismatique Paris — fichas del 1 centavo KM 32 (investigación 3): 1883 XF fwo_959691 y fwo_993295; 1886 TTB fwo_223125; 1890 TTB/XF fwo_771515 y fwo_959690; 1891 TTB/XF fwo_808663 y fwo_400179; 1894 XF fwo_900157
+- Título: CGB Numismatique Paris — fichas del 1 centavo KM 32 (investigación 3; TTB en las URL de CGB equivale a XF): 1883 XF fwo_959691 y fwo_993295; 1886 TTB fwo_223125; 1890 TTB/XF fwo_771515 y fwo_959690; 1891 TTB/XF fwo_808663 y fwo_400179; 1894 XF fwo_900157
 - Autor / institución: CGB (Compagnie Générale de Bourse), París
 - URL: https://cgbfr.com/argentine-1-centavo-1883-ttb,fwo_959691,a.html ; https://cgbfr.com/argentina-1-centavo-1883-xf,fwo_993295,a.html ; https://www.cgbfr.com/argentine-1-centavo-embleme-liberte-1886-ttb,fwo_223125,a.html ; https://www.cgbfr.com/argentine-1-centavo-1890-ttb,fwo_771515,a.html ; https://www.cgbfr.com/argentine-1-centavo-1890-ttb-,fwo_959690,a.html ; https://www.cgbfr.com/argentine-1-centavo-1891-ttb,fwo_808663,a.html ; https://www.cgbfr.com/argentine-1-centavo-1891-ttb,fwo_400179,a.html ; https://cgbfr.com/argentina-1-centavo-1894-xf,fwo_900157,a.html
 - Archivo (Internet Archive): a buscar
