@@ -303,6 +303,7 @@ Formato de cada entrada:
 - Revisión 2026-11-07 (serie 03): la plata se dejó de acuñar en 1883 por el desplome del precio de la plata en Londres frente a la relación 15,5 (p. 458); "El oro y la plata se desvanecieron de la circulación" (p. 460); errores: 750 milésimas para la plata, Ley 3871 en "1889".
 - Revisión 2026-11-10 (serie 04, revisión; lectura de agente): p. 457: "574.000 monedas de 1 peso, 3.769.000 de 50 centavos, 4.291.000 de 20 centavos y 4.584.000 de 10 centavos" (según el catálogo Krause); "sólo se acuñaron entre 1881 y 1883"; p. 458: la caída de la plata en Londres "seguramente también influyó" en la suspensión de 1883; p. 461: "El oro y la plata se desvanecieron de la circulación." Usada en serie 04.
 - Revisión 2026-11-11 (serie 05): p. 458: "Los 20 centavos se ajustaban a las características del franco o la peseta"; p. 455: "escasez creciente de monedas divisionarias"; p. 457: cuadro con 4.291.000 piezas de 20 c (error frente a la cifra oficial). Lectura de agente.
+- Revisión 2026-11-22 (serie 08, investigación 2; una lectura de agente de la ronda 2 por resumen, columnas desalineadas en la extracción): p. 457, cuadro 1, "Monedas acuñadas entre 1881 y 1896 por la Casa de Moneda de la Nación según la Ley 1130 de 1881 de la República Argentina (en miles de piezas)", columnas 1 c, 2 c, 10 c, 20 c, 50 c, 1 peso, ½ argentino y 1 argentino; nota: "Elaboración propia a partir de los datos del Standard Catalog of World Coins, Krause Publications (edición de 1985)". 1 c (miles): 1882 108; 1883 786; 1884 4.604; 1885 1.314; 1886 444; 1888 413; 1889 568; 1890 2.137; 1891 605; 1892 205; 1893 754; 1894 532; 1895 (impreso "1905") 423; 1896 174; total 13.067 (sin 1887). Total 2 c 37.673. Texto (paráfrasis o citas por resumen): "La acuñación de monedas de cobre tuvo más éxito que la de plata y oro"; "La Casa de Moneda las fabricó entre 1882 y 1896 sin apenas interrupciones"; p. 458: sustituir "los cobres de Buenos Aires y de la Confederación". La Memoria de la Casa de Moneda (1881-1910) se cita solo para el oro. Usada también en serie 08.
 
 ### F-0026
 - Título: The Statesman's Year-Book 1899 (American edition), Argentine Republic, pp. 709–710
@@ -2443,6 +2444,7 @@ Formato de cada entrada:
 - Revisión 2026-11-19 (serie 07; lectura de agente, primeros 100.000 de ≈500.000 caracteres): sin ensayos de 1 o 2 c de 1882–1896; ensayos de 1935 en cobre: reg. 27, 2 centavos, 3,3 g, 20,2 mm; reg. 28, 1 centavo, 1,5 g, 16,1 mm ("Ensayo presentado por Casa de Moneda de la Nación", paráfrasis). Usada también en serie 07.
 - Revisión 2026-11-20 (serie 07, investigación 3; dos lecturas de agente, ficha 26): "En cobre se acuñaron piezas de 2 centavos de 10 gramos y 1 centavo de 5 gramos"; el texto cita como fuente a Janson, *La moneda circulante en el territorio argentino 1574-2019* (2020), sin página. La tabla de la Ley 1130 del PDF no se renderiza en la lectura automática.
 - Revisión 2026-11-21 (serie 07, investigación 4; lectura de agente, caracteres 100.000–200.000): ficha 47, ensayo "PMN 1881" en cobre, 19,8 g, 37,3 mm, "corresponde a las primeras emisiones que realizó Casa de Moneda en 1881"; fichas 52 y 53, ensayos de cobre de la ley del 25/09/1878 (pesos fuertes): 2 centavos de 9,5 g y 30,5 mm con "CT" y "ESSAI", y 1 centavo de 4,7 g y 25,2 mm; ficha 61, 1 centavo de cobre "19.." (siglo XX). Sin ensayos, cuadros ni decretos del cobre de 1882–1896 en ese tramo; quedan sin leer los caracteres 200.000–500.000.
+- Revisión 2026-11-22 (serie 08, investigación 2; tres lecturas de agente por resumen, caracteres 200.000–500.000): fichas ≈64–99 (piezas 1867–1975) y reforma de la Ley 18.188; ningún ensayo de 1 o 2 c fechado 1882–1896, ni de 1892 en níquel, aluminio o piefort. Ficha 67: 1 centavo de cobre, "UN CENTAVO 1880", 5,6 g, 23,5 mm, con la indicación Dresde (Alemania) (lectura por resumen, a confirmar). Piezas del siglo XX en cobre o bronce de canto liso: "no son ensayos de época sino copias realizadas con posterioridad". Usada también en serie 08.
 
 ### F-0232
 - Título: Las monedas de 50 centavos de 1941: un experimento de circulación monetaria (julio de 2019)
@@ -4273,6 +4275,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-21 (agentes de la ronda 1, nivel 4, y de la ronda 2)
 - Cita clave: 5 g, 25 mm, 1,5 mm, canto liso, "Coin alignment ↑↓"; tiradas iguales a las de NGC (F-0412), sin 1887; en 1885: "3 different dates; see comments" (sin comentarios visibles); índice de rareza 7/100; presencia en colecciones de usuarios: 1884 45 %, 1890 34 %, 1896 3 %.
 - Usada en: serie 08
+- Revisión 2026-11-22 (serie 08, investigación 2; lectura de agente): 1885 = CJ 41, "3 different dates; see comments", sin explicación en los comentarios; comentario: "Previously listed as Krause KM#7"; 1882 = CJ 38, 1890 = CJ 45, 1894 = CJ 49; porcentaje de usuarios que la tienen: 1882 4 %, 1885 11 %, 1890 34 %, 1894 10 %.
 
 ### F-0414
 - Título: coinvarieties — páginas del 1 centavo: Argentina 1882 centavo, 1884 centavo, 1888 centavo, 1890 centavo y 1894 centavo
@@ -4333,4 +4336,34 @@ Formato de cada entrada:
 - Nivel: 3 (solo presencia en el mercado)
 - Consultada: 2026-11-21 (agente de la ronda 1, nivel 3; solo el título del resultado de búsqueda, la ficha dio client_error)
 - Cita clave: "Pop Sizzle nur 2 höher bewertet" (título en alemán).
+- Usada en: serie 08
+
+### F-0420
+- Título: CGB Numismatique Paris — fichas del 1 centavo KM 32 (investigación 2): 1884 TB fwo_256017, fwo_384618 y fwo_401099; 1884 XF fwo_954380; 1891 MS63 PCGS fwo_1012250; 1892 XF fwo_906995
+- Autor / institución: CGB (Compagnie Générale de Bourse), París
+- URL: https://www.cgbfr.com/argentine-1-centavo-embleme-liberte-1884-tb-,fwo_256017,a.html ; https://www.cgbfr.com/argentine-1-centavo-embleme-liberte-1884-tb-,fwo_384618,a.html ; https://www.cgbfr.com/argentine-1-centavo-embleme-liberte-1884-tb,fwo_401099,a.html ; https://cgbfr.com/argentina-1-centavo-embleme-liberte-1884-xf,fwo_954380,a.html ; https://www.cgbfr.com/argentina-1-centavo-1891-ms63-pcgs,fwo_1012250,a.html ; https://www.cgbfr.com/argentina-1-centavo-1892-xf,fwo_906995,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-22 (agente de la ronda 1, nivel 3; seis lecturas)
+- Cita clave: fwo_256017: VF, 25 mm, 6 h, vendido en la tienda en 2012, 6 €; fwo_384618: VF, 4,96 g, 25 mm, 6 h, "bronze", canto liso, 7 € (estimación 10, 4 postores), cierre 22/02/2016; fwo_401099: VF, 4,80 g, 2 € (estimación 5, 2 postores), 10/10/2016; fwo_954380: XF, 4,92 g, "coups sur tranche", 4 € (estimación 10, 3 postores), 16/09/2024; fwo_1012250: "Exemplaire sous coque PCGS MS63BN", 5,00 g, 25 mm, 6 h, 70 €; fwo_906995: XF, 4,79 g, 25 mm, 6 h, vendido en la tienda en 2024, 60 €. Las fichas repiten tiradas de catálogo (solo pista) y la referencia "KM.19/32".
+- Usada en: serie 08
+
+### F-0421
+- Título: Agregadores de catálogo del 1 centavo KM 32 (solo pista): cnumis "1.centavo.liberty head 4706"; coinscatalog.net "Argentine Centavo 'Capped Liberty' 1882 - 1896 KM# 32"; uCoin "Argentine 1 centavo, 1882 - 1896" (tid=21021); coin-identifier.com (1451); worldcoinsinfo "Argentina 1 centavo"
+- Autor / institución: cnumis.com; coinscatalog.net; uCoin.net; coin-identifier.com; worldcoinsinfo.com (catálogos y agregadores)
+- URL: https://cnumis.com/en/catalog/argentina-republic/1.centavo.liberty-head-4706 ; https://coinscatalog.net/argentina/coin-centavo-capped-liberty-km-32-republic ; https://fr.ucoin.net/coin/argentina-1-centavo-1882-1896/?tid=21021 ; https://coin-identifier.com/coins/1-centavo-argentina-1882-1896-1451 ; https://worldcoinsinfo.com/es/paginas/argentina-1-centavo-monedas.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (catálogos; solo pista)
+- Consultada: 2026-11-22 (agentes de la ronda 1, niveles 2 y 4, y de la ronda 2)
+- Cita clave: cnumis: "0 proche de 189" / "0 éloigné de 189" (1890); "Bronze, copper 950‰"; 25 mm, 1,15 mm, 5 g; "Monnaie de Paris"; índices de rareza 1882 6,5, 1896 6,0, 1884 y 1890 2,0; "No 1887 issue". coinscatalog: "Coat of arms within beaded circle"; 5 g, 25 mm, 1,5 mm; valores F12/VF20/XF40/MS60: 1882 30/75/150/400, 1884 2/4/10/25, 1886 12/30/80/250, 1892 25/60/120/300 USD. uCoin: 5 g, 25 mm, 1,5 mm, diseñador Oudiné, 1882 = 108.202 (dudoso), 202 ofertas entre 0,15 y 3,14 €. coin-identifier y worldcoinsinfo: bronce, 25 mm, 5 g, 1882–1896 sin 1887.
+- Usada en: serie 08
+
+### F-0422
+- Título: eBay, "1892 Argentina 1 Centavo NGC SP-61 CAMEO ALUMINUM PIEFORT" (ítem 156901681516) y Numisquare, "1 centavo aluminium piedfort 1892"
+- Autor / institución: eBay (vendedor sin identificar); numisquare.com
+- URL: https://www.ebay.com.sg/itm/156901681516 ; https://www.numisquare.com/1-centavo-aluminium-piedfort-1892-6518401270.html?lang=es
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (solo presencia en el mercado; Numisquare, catálogo, pista)
+- Consultada: 2026-11-22 (agentes de la ronda 1, nivel 3, y de la ronda 2; solo los títulos de los resultados de búsqueda, no se abrieron)
+- Cita clave: "1892 Argentina 1 Centavo NGC SP-61 CAMEO ALUMINUM PIEFORT" (título).
 - Usada en: serie 08
