@@ -1256,6 +1256,7 @@ Formato de cada entrada:
 - Cita clave: la producción argentina de oro de 1900 "did not exceed $50,000"; la tabla "Coinage of nations" cubre solo 1898–1900 (sin acuñación argentina).
 - Usada en: serie 01
 - Revisión 2026-11-21 (serie 07, investigación 4; dos lecturas de agente: caracteres 0–400.000 y 850.000–1.150.000 de 1.256.084): sin acuñación argentina de cobre; la tabla XXV "Coinage of Nations" (1898–1900) es solo de oro y plata, en dólares, y no trae la Argentina, que aparece solo en la tabla XXVI de producción minera. Usada también en serie 07.
+- Revisión 2026-11-23 (serie 08, investigación 4; lectura de agente de los caracteres 500.000–600.000): sin "Argentine", "Argentina" ni "Buenos Aires"; solo producción minera de estados de EE. UU. Quedan sin leer 400.000–500.000 y 600.000–850.000. Usada también en serie 08 (constancia).
 
 ### F-0118
 - Título: Half Argentino minted in gold (ficha de objeto)
@@ -4428,4 +4429,94 @@ Formato de cada entrada:
 - Nivel: 2
 - Consultada: 2026-11-22 (agente de la ronda 1, nivel 4)
 - Cita clave: constancia negativa: trata de piezas provinciales (Salta, Tucumán, La Rioja, Mendoza) y menciona "los cobres de la Provincia de Buenos Aires"; no trata el 1 c de 1882–1896 ni falsificaciones del cobre nacional.
+- Usada en: serie 08 (constancia)
+
+### F-0429
+- Título: CGB Numismatique Paris — fichas del 1 centavo KM 32 (investigación 4; TTB en las URL de CGB equivale a XF): 1890 XF fwo_1021200 y fwo_901362; 1891 AU fwo_959750 y fwo_959689; 1893 XF fwo_577924
+- Autor / institución: CGB (Compagnie Générale de Bourse), París
+- URL: https://cgbfr.com/argentina-1-centavo-1890-xf,fwo_1021200,a.html ; https://www.cgbfr.com/argentine-1-centavo-1890-ttb,fwo_901362,a.html ; https://cgbfr.com/argentina-1-centavo-1891-au,fwo_959750,a.html ; https://cgbfr.com/argentina-1-centavo-1891,fwo_959689,a.html ; https://www.cgbfr.com/argentina-1-centavo-1893-xf,fwo_577924,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-23 (agente de la ronda 1, nivel 3)
+- Cita clave: fwo_1021200 (1890): XF, 4,83 g, 25 mm, 6 h, "coups sur tranche", e-auction 628 (lote 628-620691), cierre 28/04/2025; la página no muestra precio de adjudicación ni postores (un 12 € aparece solo en "vistos recientemente"). fwo_901362 (1890): XF, 4,79 g, 25 mm, 6 h, e-auction 565, cierre 12/02/2024, estimación 10 €, adjudicada en 4 € (oferta máxima 5 €), 2 postores, sin comisión del comprador. fwo_959750 (1891): AU, 5,06 g, 25 mm, 6 h, 20 € en la tienda, sin fecha (en noviembre de 2026 ya no da "Service indisponible"). fwo_959689 (1891): AU, 4,97 g, 25 mm, 6 h, 20 € en la tienda, sin fecha. fwo_577924 (1893): XF, 4,93 g, 25 mm, 6 h, e-auction 363, cierre 30/03/2020, estimación 12 €, adjudicada en 4 € (oferta máxima 7 €), 2 postores; la leyenda del anverso transcripta dice "* 1890 *" aunque el título dice 1893 (error de plantilla de la casa). Todas: bronce, canto liso; las tiradas que repiten (1890 2.137.000; 1891 605.000; 1893 754.000) son de catálogo (pista).
+- Usada en: serie 08
+
+### F-0430
+- Título: Ulises A. Camino, "Excavaciones arqueológicas en un corralón municipal del S XX", VI Jornadas de Arqueología e Historia de las Regiones Pampeana y Patagónica, Universidad Nacional de Mar del Plata, 2007
+- Autor / institución: Ulises A. Camino (aacademica.org)
+- URL: https://www.aacademica.org/ulises.adrian.camino/84.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-23 (agente de la ronda 1, nivel 4)
+- Cita clave: en el corralón de Floresta, en la capa C2 ("capa de ceniza" de quema de basura doméstica, fines del siglo XIX a principios del XX), "Una de las monedas es de un centavo del año 1884 y la otra es de 20 centavos del año 1909 (Frustacci, 2007)". El autor usa las monedas para fechar la capa; no dice el metal ni la ley.
+- Usada en: serie 08
+
+### F-0431
+- Título: Ulises A. Camino, "Rellenos Porteños", *Revista de Arqueología Histórica Argentina y Latinoamericana* n.º 3, 2009, pp. 101–123
+- Autor / institución: Ulises A. Camino (aacademica.org)
+- URL: https://www.aacademica.org/ulises.adrian.camino/9.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-23 (agente de la ronda 1, nivel 4)
+- Cita clave: en el mismo corralón "fueron rescatadas dos monedas nacionales: una de 1888 y otra de 1909"; no da la denominación de la de 1888 ni el estrato.
+- Usada en: serie 08
+
+### F-0432
+- Título: coinvarieties — Argentina 1891 centavo
+- Autor / institución: coinvarieties.com (wiki de coleccionistas)
+- URL: https://coinvarieties.com/index.php/Argentina_1891_centavo
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (wiki; solo pista para tirada)
+- Consultada: 2026-11-23 (agente de la ronda 1, nivel 4; antes denegada, `pendientes-chrome.md` #65)
+- Cita clave: "Recorded mintage: 605,000, a slightly better date" (tirada sin fuente); KM 32, antes KM 7; bronce, 5 g, 25 mm, canto liso, Oudiné; "The type is common but nice uncirculated specimens are undervalued"; "The one centavo was not struck again until 1939"; sin variantes, ventas ni censo; imagen de la "Mountain Groan Collection".
+- Usada en: serie 08
+
+### F-0433
+- Título: Collector's Key — 1882 1 centavo (CKW-ARG-33)
+- Autor / institución: collectorskey.com (agregador)
+- URL: https://www.collectorskey.com/world-coins/argentina/peso/peso-moneda-nacional/1882-1-centavo
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (solo pista)
+- Consultada: 2026-11-23 (agente de la ronda 1, nivel 4)
+- Cita clave: "No additional varieties recorded"; KM 32, bronce, 5 g, 25 mm, eje de medalla; la sección de preguntas frecuentes dice "13,093,448 struck" para 1882 y "more common issue overall" (cifra que no puede ser de un solo año: es del orden del total de catálogo del tipo); sin precios ni imágenes.
+- Usada en: serie 08
+
+### F-0434
+- Título: Horniman Museum and Gardens — objeto nn11463 (1 centavo, Argentina, 1884)
+- Autor / institución: Horniman Museum and Gardens (Londres), colección de Antropología
+- URL: https://www.horniman.ac.uk/object/nn11463
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (ficha de museo)
+- Consultada: 2026-11-23 (agente de la ronda 1, nivel 4; el objeto ya se había visto como vecino del nn11464 en F-0392)
+- Cita clave: leyendas "LIBERTAD UN CENTAVO" y "REPUBLICA ARGENTINA 1884"; material "metal"; medidas "1.5 x 27 mm"; lugar Argentina; sin peso ni procedencia; el reverso se describe con una "wreath (?) incorporating a handshake", lo que no corresponde al escudo del KM 32 (ficha posiblemente mal descripta).
+- Usada en: serie 08
+
+### F-0435
+- Título: Museo Histórico y Numismático "Dr. José Evaristo Uriburu (h)", cuadernillo institucional (2011)
+- Autor / institución: Banco Central de la República Argentina
+- URL: https://www.bcra.gob.ar/archivos/Pdfs/BCRAyVos/2011_Cuadernillo_INSTITUCIONAL_SIN_AUTORIDADES.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (publicación institucional de divulgación)
+- Consultada: 2026-11-23 (agente de la ronda 1, nivel 2; lectura por resumen)
+- Cita clave: p. 32, el sistema de 1881 tuvo "piezas de 5 pesos ('argentino oro'), 1 peso ('patacón de plata') y centavos en plata y cobre"; p. 35: "En el año 1939 se agregaron centavos de cobre en los valores de 1 y 2".
+- Usada en: serie 08
+
+### F-0436
+- Título: Annual Report of the Secretary of the Treasury, 1885–1889 (FRASER, PDF 60689), con el informe del Director de la Casa de Moneda del año fiscal 1886 (apéndice, pp. 232–334)
+- Autor / institución: U.S. Department of the Treasury / U.S. Mint (FRASER, Federal Reserve Bank of St. Louis)
+- URL: https://fraser.stlouisfed.org/files/docs/publications/treasar/pages/60689_1885-1889.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (oficial, Estados Unidos)
+- Consultada: 2026-11-23 (agentes de las rondas 1 y 2, nivel 1; caracteres 0–500.000 de 505.503, por resumen del lector)
+- Cita clave: constancia negativa para el cobre: los cuadros "Coinages of various countries" (pp. 324–325) traen a la "Argentine Republic" con acuñación de 1882 y 1883 solo en columnas de oro y plata; p. 326, "Coinage by country, 1793–1886", con la Argentina en pesos (cifra ilegible por OCR); p. 327, la Argentina en plata subsidiaria; pp. 320–321, producción mundial 1882–1885. En el resto (Unión Latina, Alemania con columna "nickel and copper", Chile, Ecuador) no hay filas argentinas. Sin cobre, bronce ni centavos argentinos.
+- Usada en: serie 08 (constancia)
+
+### F-0437
+- Título: Report of the Director of the Mint, 1904 (Internet Archive, hOCR)
+- Autor / institución: United States Mint
+- URL: https://ia801309.us.archive.org/7/items/reportofdirector1904unit/reportofdirector1904unit_hocr.html
+- Archivo (Internet Archive): es la copia de Internet Archive
+- Nivel: 1 (oficial, Estados Unidos)
+- Consultada: 2026-11-23 (agentes de las rondas 1 y 2, nivel 1; caracteres 0–169.327, por resumen del lector)
+- Cita clave: constancia negativa: la Argentina aparece solo en el comercio exterior de oro y plata de 1904 y en el capítulo de producción ("Argentina 232" en el índice); "Coinage of Nations" con totales mundiales de oro y plata 1902–1904; cobre o bronce solo de Filipinas. La tabla de acuñación por naciones no apareció en el tramo leído.
 - Usada en: serie 08 (constancia)
