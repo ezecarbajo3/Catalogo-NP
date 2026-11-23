@@ -70,6 +70,8 @@ Formato de cada entrada:
 - Usada en: serie 01, temas/casa-de-moneda.md, serie 03, serie 04
 
 - Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 1) la línea de tiempo menciona la "Ley Nº 1.130 de Unificación Monetaria" en la entrada de 1875 (error de la página); no menciona la plata ni su suspensión.
+- Revisión 2026-11-23 (serie 08, revisión; agente de la ronda 2): la línea de tiempo no tiene entradas para 1882, 1892, 1895 ni 1896, ni menciona la Ley 3321 · constancia.
+
 ### F-0005
 - Título: Supuestos ensayos argentinos de 1880
 - Autor / institución: Ariel Dabbah y Jorge Madonna — IFINRA
@@ -1945,6 +1947,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-07 (agente de la ronda 1, nivel 3; fecha de la subasta vía NumisBids sale 4266)
 - Cita clave: "Argentina, 1 peso "patacon," 1882, NGC AU 58. Janson-13.2; KM-29." "Rather bold strike with minimal high-point wear, faint hairlines in obv"; estimación USD 500–750.
 - Usada en: serie 03
+- Revisión 2026-11-23 (serie 08, revisión; agente de nivel 3): en la misma página del catálogo de la Treasure Auction 28 figura el lote 707, Argentina 1 centavo 1882 "close 2", NGC MS63 BN: "finest known in NGC census. Janson-38.2; KM-32", y la descripción sigue "Scarce issue, this example the finer of jus[t two]" (cortada); estimación 400–600 USD; precio realizado no visible sin sesión. Usada también en serie 08.
 
 ### F-0185
 - Título: CGB Numismatique Paris — fichas del 1 peso 1881–1883 (fwo_1039249, fwo_1117071, v19_1855, fwo_245007, fwo_723709, fwo_839475, fwo_139120)
@@ -2724,6 +2727,7 @@ Formato de cada entrada:
 - Revisión 2026-11-19 (serie 07, auditor): verificado en la página el texto "2 centavos | 1882 | 21/04/1959 | 02/01/1960"; la cita clave original ("1 y 2 c (1882)" en una fila) queda superada por esta lectura.
 - Revisión 2026-11-21 (serie 07, revisión; lectura web-fetch pedida por la sesión principal): la tabla tiene solo cuatro columnas (Denominación, Emisión, Cese curso legal, Desmonetización); filas "1 centavo | 1882 | 21/04/1959 | 02/01/1960" y "2 centavos | 1882 | 21/04/1959 | 02/01/1960". Sin metal, peso ni diámetro. Enlace vigente.
 - Revisión 2026-11-21 (serie 08, investigación 1; lectura de agente de la versión en inglés): "1 cent | 1882 | 21/04/1959 | 02/01/1960". Usada también en serie 08.
+- Revisión 2026-11-23 (serie 08, revisión; lectura web-fetch pedida por la sesión principal, página hallada en búsqueda): enlace activo (HTTP 200, última modificación 2026-10-01). Sección "Peso Moneda Nacional", Monedas: "1 centavo | 1882 | 21/04/1959 | 02/01/1960" y "2 centavos | 1882 | 21/04/1959 | 02/01/1960", sin notas al pie en esas filas. El texto introductorio dice "Ley 1130, modificada por la Ley 3871 del 4 de noviembre de 1899", mientras el encabezado y la descripción de la página dicen "Ley 3871 del 5 de noviembre de 1881" (inconsistencia de la propia página).
 
 ### F-0258
 - Título: Museo Histórico y Numismático Héctor C. Janson — Documentos Históricos 1 (inventario SENIP)
@@ -3591,6 +3595,8 @@ Formato de cada entrada:
 - Consultada: 2026-11-16 (agente de nivel 1 (≈500.000 caracteres, OCR muy deteriorado))
 - Cita clave: Decreto de enero de 1882: desde el 1/02/1882 "todas las liquidaciones tengan la equivalencia en moneda nacional" (cita la ley del 5/11/1881 y un decreto del 2/11 sobre la relación entre monedas); sin decretos sobre la Casa de Moneda, la plata o los cuños en ese tramo.
 - Usada en: serie 05
+- Revisión 2026-11-23 (serie 08, revisión; lectura web-fetch pedida por la sesión principal, URL aparecida en búsqueda): el documento es el tomo de 1882 ("REGISTRO NACIONAL-1882", desde el decreto 12179 del 1/01/1882). Texto literal leído: caracteres 0–40.000 (pp. 1–8) y 139.905–179.810 (pp. 24–30); sin menciones de moneda de cobre, cospeles, Casa de Moneda ni de la Ley 1130 en esos tramos; los decretos 12251 y 12252 (febrero de 1882) tratan boletos de tranvía emitidos como moneda. El resto (≈180.000–500.000) no se leyó en texto literal. Es la misma URL que `pendientes-chrome.md` #64 (que no se había cotejado con esta entrada). Usada también en serie 08 (constancia).
+
 ### F-0344
 - Título: Annual Report of the Secretary of the Treasury on the State of the Finances, 1885 (incluye el informe del Director of the Mint, 9/10/1885)
 - Autor / institución: U.S. Department of the Treasury — FRASER
@@ -4289,6 +4295,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-21 (agentes de la ronda 1, niveles 2, 3 y 4, y de la ronda 2; lecturas por resumen)
 - Cita clave: 1882: "close 2", Janson-38.2, Sedwick Treasure Auction 28 (noviembre de 2020), lote 707, NGC MS63 BN, 510 USD, "a better date"; censo de NGC: el mejor de solo dos, por ocho grados (otra lectura: "finest known in NGC census"). 1888: "sold as lot 71144 in the Stack's Bowers May 2023 sale for $360" (PCGS MS64 RB); "The type is common but nice uncirculated specimens are undervalued." 1894: "high and separate 4", Janson-49.3, NGC MS63 BN, Sedwick Treasure Auction 34 (2023), 288 USD; acuñado "at the Paris mint or in Buenos Aires with French dies". 1884 y 1890: "most likely at the Paris mint"; tiradas 4.604.000 y 2.137.000 (iguales a NGC). Bibliografía: Cunietti-Ferrando 1965, Janson 2015, Michael-Schmidt 2019.
 - Usada en: serie 08
+- Revisión 2026-11-23 (serie 08, revisión; agente de nivel 4): página de 1890: "common date", 2.137.000, sin variantes (no registra el 0 cerca o lejos de cnumis). Página de 1894: única variedad "high and separate 4"; la página anota además "diagonal flaw on face" y puntos altos "a little flat" (lectura por resumen; no queda claro si describe el ejemplar de Sedwick o el tipo).
 
 ### F-0415
 - Título: Sedwick — Argentina, copper 1 centavo, 1886, NGC MS 63 BN (lote 763)
@@ -4520,3 +4527,33 @@ Formato de cada entrada:
 - Consultada: 2026-11-23 (agentes de las rondas 1 y 2, nivel 1; caracteres 0–169.327, por resumen del lector)
 - Cita clave: constancia negativa: la Argentina aparece solo en el comercio exterior de oro y plata de 1904 y en el capítulo de producción ("Argentina 232" en el índice); "Coinage of Nations" con totales mundiales de oro y plata 1902–1904; cobre o bronce solo de Filipinas. La tabla de acuñación por naciones no apareció en el tramo leído.
 - Usada en: serie 08 (constancia)
+
+### F-0438
+- Título: CGB Numismatique Paris — ARGENTINA 1 centavo 1889 AU, e-auction 153, lote 91507 (fwo_381971)
+- Autor / institución: CGB (Compagnie Générale de Bourse), París
+- URL: https://www.cgbfr.com/argentina-1-centavo-1889-au,fwo_381971,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-23 (serie 08, revisión; agente de la ronda 1, nivel 3; antes "Service indisponible", `pendientes-chrome.md` #74)
+- Cita clave: 1 centavo 1889, AU, bronce, 25 mm, 5 g (redondeado), canto liso, 6 h, KM.19/32; adjudicado en 11 € (estimación 15 €, cinco postores), cierre 21/03/2016; "Quantity minted" 568.000 (pista). La leyenda transcripta dice "REPUBLICA ARGENTINA // * 1890 *" (error de plantilla de la casa; título y URL dicen 1889).
+- Usada en: serie 08
+
+### F-0439
+- Título: Legends — "Argentine Republic 1 Centavo 阿根廷共和國 1分" (ítem A1516, 1885)
+- Autor / institución: Legends (legends.com.tw, Taiwán; colección privada con fichas en línea), 21/01/2025
+- URL: https://www.legends.com.tw/2025/01/21/argentine-republic-1-centavo-%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%85%B1%E5%92%8C%E5%9C%8B-1%E5%88%86/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (colección privada)
+- Consultada: 2026-11-23 (serie 08, revisión; agente de la ronda 1, nivel 4; paráfrasis del lector, sin cita literal)
+- Cita clave: 1 centavo 1885, bronce, 4,9 g, 25,1 × 25,1 × 1,2 mm; escudo con "REPUBLICA ARGENTINA * 1885 *"; Libertad a la izquierda con gorro frigio y firma de Oudiné; cita la Ley 1130 (1881); procedencia Fuchin Coin, 2020; menciona ejemplares comparables en Yale y en el Canterbury Museum (no verificados: la ronda 2 no encontró ninguno de 1 c en esos museos).
+- Usada en: serie 08
+
+### F-0440
+- Título: Ulises Camino — otros trabajos sobre el Corralón de Floresta y sitios porteños (aacademica.org/ulises.adrian.camino/16.pdf, /35, /19.pdf, /53.pdf)
+- Autor / institución: Ulises A. Camino (Área de Arqueología Urbana / aacademica.org)
+- URL: https://www.aacademica.org/ulises.adrian.camino/16.pdf ; https://www.aacademica.org/ulises.adrian.camino/35 ; https://www.aacademica.org/ulises.adrian.camino/19.pdf ; https://www.aacademica.org/ulises.adrian.camino/53.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-23 (serie 08, revisión; agentes de nivel 2 y de la ronda 2, lecturas por resumen)
+- Cita clave: 16.pdf (Corralón de Floresta comparado con Zavaleta): "un espacio de gestión de la limpieza urbana"; la incineración domiciliaria "fue permitida desde el año 1909"; no menciona monedas. /35 (2014, "El Corralón de Floresta: De la Construcción a los Patrones de Consumo en el Siglo XIX-XX", resumen): sin monedas. 19.pdf (Plaza Pueyrredón): solo "una moneda de 1985". 53.pdf: sin monedas. Constancia: ninguno resuelve si la moneda de Floresta es de 1884 [F-0430] o de 1888 [F-0431].
+- Usada en: serie 08
