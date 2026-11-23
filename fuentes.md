@@ -67,7 +67,7 @@ Formato de cada entrada:
 - Nivel: 1
 - Consultada: 2026-11-03
 - Cita clave: 29/09/1875 "creada por Ley Nº 733 Casa de Moneda de la Nación"; 14/02/1881 el Ing. Eduardo Castilla "inaugura la Ceca ubicada en las intersecciones de las calles México y Defensa".
-- Usada en: serie 01, temas/casa-de-moneda.md, serie 03, serie 04
+- Usada en: serie 01, temas/casa-de-moneda.md, serie 03, serie 04, serie 08
 
 - Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 1) la línea de tiempo menciona la "Ley Nº 1.130 de Unificación Monetaria" en la entrada de 1875 (error de la página); no menciona la plata ni su suspensión.
 - Revisión 2026-11-23 (serie 08, revisión; agente de la ronda 2): la línea de tiempo no tiene entradas para 1882, 1892, 1895 ni 1896, ni menciona la Ley 3321 · constancia.
@@ -340,7 +340,7 @@ Formato de cada entrada:
 - Nivel: 1
 - Consultada: 2026-11-04 (releída por la sesión principal)
 - Cita clave: p. 13: el Banco Nacional buscaba aumentar su encaje "haciendo venir de Lóndres barras de este metal para acuñarlo"; p. 14: "tuvo que suspender las órdenes para traer barras de oro"; "Bajamos el cambio á un tipo que impidiese la extraccion de oro"; p. 28 (nota del 9/01/1885): "Ha convertido sus billetes en oro en el solo mes de Agosto, por la suma de seiscientos cuarenta mil pesos nacionales oro". (Nota de la revisión de la serie 02, 2026-11-06: la frase original "No trae la sección Casa de Moneda" era incorrecta; la sección está en pp. 115–124 del mismo PDF, según la lectura del 2026-11-06 que se registra abajo.)
-- Usada en: serie 01, serie 03, serie 04
+- Usada en: serie 01, serie 03, serie 04, serie 08
 - Revisión 2026-11-06: reabierta por el agente de la ronda 2 (Tomo II, Parte II, Memoria del Banco Nacional, Buenos Aires, 1886): p. 13 "venir de Lóndres barras de este metal para acuñarlo"; p. 14 "Los fondos públicos se realizaron en 30 de Abril de 1884" (según p. 19, ese día los compraron banqueros de París) y "el Banco tuvo que suspender las órdenes para traer barras de oro"; p. 28 (carta del 9/01/1885) "en el solo mes de Agosto, por la suma de seiscientos cuarenta mil pesos nacionales oro"; p. 18: los cuatros y las chirolas fueron "reacuñadas" por el Gobierno.
 - Revisión 2026-11-06 (serie 02): Memoria de la Casa de Moneda 1884 (pp. 115–124; "Buenos Aires, Abril 16 de 1886", al ministro Wenceslao Pacheco; firma no legible en el OCR). Cuadro N.º 4 "Denominación, peso y valor de las monedas emitidas hasta el 31 de diciembre 1884" (cuadros fechados el 8/01/1885): Argentinos 1.195.286 hasta el 31/12/1883, 447.900 en 1884, total 1.643.186; medios argentinos 9 hasta 1883, 421 (OCR "'21") en 1884, total 430; valor total de todo lo emitido 11.220.696,99. p. 116: "Todo el oro que figura como entrado este año, ha sido traído por el Banco Nacional"; "El oro, como he dicho, ha sido sellado por cuenta del Banco Nacional" (alcanzó para llenar los ocho millones del artículo de la ley); "Se ha fabricado oro, plata y cobre, pero solo este último en cantidad fuerte". p. 119: "Las 9/10 partes de los habitantes de la República, no han visto aún un Argentino en oro sellado" (y sin embargo se pudieron girar "cien millones en oro sobre el estrangero"). p. 120: "Así habrá moneda de cobre en toda la República…". pp. 120–121, Laboratorio Químico (J. J. Kyle, Químico Ensayador, 7/01/1885): se ensayó "una moneda de oro en cada 2,500 acuñadas", según el art. 11 del decreto reglamentario de la Casa de Moneda; Cuadro N.º 1 "Monedas de oro—Argentinos": "Ley general de las monedas (promedio de 447,900 piezas)" 899,719 milésimos; piezas "dentro de los límites de la tolerancia legal (1 milésimo)". Usada también en serie 02.
 - Revisión 2026-11-07 (serie 03; releída por la sesión principal, tramos 400000–600000): cuadro N.º 4: pesos de plata emitidos hasta el 31/12/1883, 573.737; en 1884, ninguno; 50 c 2.650.847 + 136.000 = 2.786.847; 20 c 119.000 en 1884, total 2.393.995; 10 c 34.000 en 1884, total 3.598.801. Resumen: "Plata … 70104 239 500 … 2805839 60". p. 116: "suspendida la fabricacion de moneda de plata en virtud de la ley sobre emision menor"; después se suspendió el sellado restante "por órden superior" y "Desde entonces no se ha fabricado absolutamente una sola pieza"; plata entrada "para ser fundida y remitida á Europa" (p. 115). p. 119: "La emision menor á papel, hizo suspender la emision de plata menor." Cuadro N.º 2 Plata: "Pasta remitida á Lóndres" 10.135 kg 830 g, $ 433.992,04 (OCR). Dirección de Rentas (p. 134): decreto del 19/07/1884 de desmonetización de la plata extranjera; precio "por cada 25 gramos"; "El billete del Banco Nacional y la moneda de plata argentina son completamente desconocidos en esos apartados lugares".
@@ -940,7 +940,7 @@ Formato de cada entrada:
 - Nivel: 2 (transcribe documentos de nivel 1)
 - Consultada: 2026-11-06 (releída por la sesión principal en los tramos 0–400.000)
 - Cita clave: Acuerdo del 9/01/1885 (Registro Nacional, tomo X, pp. 4–5): "los billetes del Banco Nacional serán recibidos como moneda legal"; art. 2 "suspender la conversión de sus billetes en moneda metálica durante el término de dos años"; firman Roca, V. de la Plaza, B. de Irigoyen, F. J. Ortiz, E. Wilde, B. Victorica. Índice: "Ley 1.734: Aprobando los decretos del Poder Ejecutivo de fecha nueve, quince, veintiuno…", 14/10/1885. Memoria de Hacienda 1884 (W. Pacheco): p. 132 "desde que en 1883 no se ha acuñado plata"; p. 160 "las funciones de la Casa de Moneda durante el pasado año se han limitado á la acuñación de moneda de cobre" (la ley de octubre de 1883 hizo innecesaria la plata fraccionaria). p. 166: Banco Provincial de Córdoba, 30/11/1884, "61.968 Argentinos á 5 $ m/n c/u" = $ 309.840. p. 169: Banco Nacional, existencia en caja al 29/11/1884, "En Argentinos $ 3.890.455" (onzas 230.203,33; cóndores 71.045,76; libras 111.552,84; napoleones 13.344; brasileñas 6.463,72; águilas 10.716,34). Según el agente: Agote, 31/03/1885, "llegó el 9 de Enero de 1885, en que apareció el decreto del curso forzoso"; Banco Provincial de Santa Fe: "onzas, cóndores, argentinos y libras esterlinas"; decreto reglamentario de la Ley 1734 (4/11/1885), art. 5: billetes "sellados por la casa de Moneda".
-- Usada en: serie 01, serie 03, serie 04
+- Usada en: serie 01, serie 03, serie 04, serie 08
 - Revisión 2026-11-11 (serie 05): Corigliano "Año 1885", p. 35: billetes del Banco de la Provincia al 31/12/1884, "0 20 8.406". Lectura de agente.
 
 ### F-0087
@@ -1727,7 +1727,7 @@ Formato de cada entrada:
 - Nivel: 1 (documento oficial transcripto)
 - Consultada: 2026-11-07 (agente de la ronda 2; la sesión principal releyó el tramo 600000–700000 tres veces)
 - Cita clave: la acuñación empezó el 3/11/1881 ("Estando pronto para funcionar el Establecimiento destinado á la fabricación de la moneda, se dio principio inmediatamente á la acuñación"); cuadro "Especies fabricadas hasta 31 de Diciembre 1881" (OCR): 37.152 Argentinos; 9 medios; 62.026 pesos; 1.020 de 50 c; 2.018 de 20 c; 1.020 de 10 c (total 103.245, "ciento tres mil doscientas cuarenta y cinco piezas"). Del 1/01 al 6/07/1882, "un millón ciento cinco mil trescientas treinta y cinco piezas" (fila con 239.130 y 127.130). Resumen al 6/07/1882: argentinos 276.282 ($ 1.381.410); ½ argentinos 9; pesos 189.156 ($ 189.156); 50 c 85.045; 20 c 367.043; 10 c 291.045; total 1.208.580 piezas, $ 1.715.624,10 ("se han acuñado un millón doscientas ocho mil quinientas ochenta piezas"). "falta absoluta de personas aptas para la fabricación de monedas entre nosotros"; la acuñación, "la mas difícil y precisa de las industrias conocidas". Mensaje de Roca (mayo de 1882): "en oro acuñado un valor de un millón trescientos mil pesos, y en plata ciento y tantos mil". Decreto del 23/01/1882: la equivalencia "es transitoria y únicamente mientras no se hayan acuñado las cantidades fijadas en el artículo 7º". La Memoria llama "ley de 5 de noviembre" a la Ley 1130.
-- Usada en: serie 03, serie 01, serie 02, serie 04
+- Usada en: serie 03, serie 01, serie 02, serie 04, serie 08
 - Revisión 2026-11-11 (serie 05): p. 332, Resumen al 6/07/1882, "20 centavos" 367.043 por $ 73.408,60; "No obstante estas dificultades, la acuñación de monedas de diversas clases ha continuado con bastante buen éxito." Lectura de agente.
 
 ### F-0164
@@ -1750,7 +1750,7 @@ Formato de cada entrada:
 - Nivel: 1
 - Consultada: 2026-11-07 (agente de la ronda 1, nivel 1)
 - Cita clave: p. 182 (14/03/1885): "Importe líquido de la venta de 191 lingotes Plata", £ 7.178 10s 9d = $ m/n 36.182,10; p. 164: "Diferencia en el producto de la remesa en lingotes hecha al Banco Inglés del Rio de la Plata en Lóndres", $ 1.872,67; p. 153: "Valor de pérdida en plata en barras remesadas á Europa".
-- Usada en: serie 03, serie 04
+- Usada en: serie 03, serie 04, serie 08
 - Revisión 2026-11-09 (serie 04): emisión menor en circulación al 31/03/1886, $ 4.254.751; emitido hasta esa fecha $ 4.132.017,85, "encaje metálico del 20%" $ 826.403,57 (OCR; no cierran); Casa de Moneda "que en 1885 no parecen haber producido un solo centavo". Lectura de agente.
 - Revisión 2026-11-11 (serie 05): entre las existencias de 1884, "Narciso Parchappe (Contrato Plata)". Lectura de agente.
 - Revisión 2026-11-13 (serie 05, revisión; agente de nivel 1, primeros 100.000 caracteres): Memoria de Rentas, pp. XX–XXI: la Casa de Moneda "en 1885 no parecen haber producido un solo centavo" (lectura de agente).
@@ -2155,7 +2155,7 @@ Formato de cada entrada:
 - Nivel: 1
 - Consultada: 2026-11-08 (revisión serie 03)
 - Cita clave: "413,711 Piezas de 1 peso" (Año 1882, p. 355); "98,000 Piezas de 1 peso" (Año 1883, p. 355); "475,737 «Pesos» emitidos" (p. 361); "rumor de falsificacion ó mala acuñacion" (p. 356); "la mayor parte de la plata amonedada ha venido de Bolivia" (pp. 363–364). OCR; offsets ≈530.000–590.000 de 788.921. Releído por la sesión principal.
-- Usada en: serie 03, serie 04
+- Usada en: serie 03, serie 04, serie 08
 - Revisión 2026-11-09 (serie 04): filas del 50 c en el cuadro por año de p. 355 (OCR, leídas en la revisión de la serie 03 del 2026-11-08 y copiadas en su base): 1881: 1.020; 1882: 576.447; 1883: 2.073.380 (y 10 c de 1883: 2.785.650). Control: 1.020 + 576.447 + 2.073.380 = 2.650.847 = cuadro N.º 4 de F-0028 hasta el 31/12/1883. En esta sesión la URL no apareció en ninguna búsqueda (no se reabrió). Comisión revisora: Parodi, Godoy, Cuyar, Puiggari, Agote, Clark.
 - Revisión 2026-11-10 (serie 04, revisión; reabierta por la sesión principal desde el enlace de la página "Libros antiguos" del CDI, https://cdi.mecon.gob.ar/libros-antiguos, hallada en búsqueda): bloque "Peso bruto de las monedas emitidas hasta 31 de Diciembre de 1883", año 1882: "576,447 » » 50 cts"; cuadro de 1882 (columna de totales acumulados desde noviembre de 1881): "577,467 )) 288,733 50" (= 1.020 + 576.447), junto con 289,244 Argentinos y 475,737 pesos (acumulados); texto: "En 1882 se acuñaron 2.978,112 piezas" contra 3,081,357 del cuadro (diferencia 103.245 = total de 1881). Año 1883: "50 cts. )) 2.073,380" y valor "1.036,690"; "Departamento de Ensayos 1883", "Ley general de estas monedas": 1 peso 98,000 ley media 899,621; 50 cts 2.073,380 ley media 899,046; 20 c 1.510,950, 897,627; 10 c 2.785,650, 897,636. La Comisión revisora no da resultados separados del 50 c. Cuadro mensual de 1883 (junio a diciembre) ilegible en el OCR. Libro III (1885) dio client_error y el proxy bloquea curl a cdi.mecon; Libro IV (1887) es un PDF sin texto.
 - Revisión 2026-11-11 (serie 05): filas del 20 c en p. 355 (bloque "Peso bruto de las monedas emitidas hasta 31 de Diciembre de 1883"), releídas por la sesión principal: "2,018 » » 20 «" (1881), "762,027 » 20 »" (1882), "1.510,950 ~ » 20 1>" (1883), Resumen "2.274.995 :. )) 20 »"; p. 354, tabla mensual: "764,045 >> 152,809" (acumulado a 1882). Cuadro de 1883: "1.510,950 » 302,190"; Resumen: valor 454.999, plata total 9.064.380 piezas y $ 2.710.639,60; p. 365, "20 1.510,950 )) )) 897,627"; 4.301 ensayes de plata (1.568 de monedas argentinas). Comisión revisora: acta 19/03/1883, decreto 5/04/1883 (Roca, Romero), "lotes de á 1000 piezas de cada tipo", 20 c 897,3 (OCR dañado). p. 359: quejas de la prensa sobre los 50 c ("se partían facilmente"); p. 362: "solo han aparecido algunas piezas de plata falsificadas; pero siendo pésima la imitacion". p. 354: compra a "$m/n 37 71 por kilogramo de fino"; p. 366: ingresos de 1883 (lingotes y piñas de Bolivia 22.257 kg 754 g; cuatros y Melgarejos 2.312 kg 364 g; chirolas 1.871 kg; lingotes de La Rioja 1.596 kg; total 66.420 kg 454 g; 2.182 kg a Londres); plata de "Parchapp y Almonacid, situada en Chilecito". Lectura del agente de la ronda 1 (nivel 1), cifras del 20 c reabiertas por la sesión principal. Fila del 10 c de 1882 en p. 355: 778.131 (lectura de la serie 03, 2026-11-08). El auditor de la serie 05 no pudo reabrir el PDF (no apareció en sus búsquedas).
@@ -2460,7 +2460,7 @@ Formato de cada entrada:
 - Nivel: 2
 - Consultada: 2026-11-09 (agente de la ronda 1, nivel 2)
 - Cita clave: Decreto 45.560 (27/10/1939); "La nueva moneda de 50 centavos reemplazaba al billete del mismo valor"; canje desde el 23/03/1941; 11.044.714 acuñadas (Casa de Moneda); fundidas 2.365.000 en 1944; el billete de 50 c volvió el 19/05/1942. No menciona el 50 c de plata de 1881–1883.
-- Usada en: serie 04
+- Usada en: serie 04, serie 08
 
 - Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 1 y relectura de la sesión principal) "el Decreto N° 76.714 de fecha 12 de noviembre de 1940, del Vicepresidente Ramón S. Castillo"; anverso con "el busto de la Libertad tradicional"; el Banco Central había objetado los cuños dibujados en el extranjero y pidió adaptar los diseños de las monedas de 5, 10 y 20 centavos (de cuproníquel). Fuente del autor: Memoria de Hacienda 1940, t. II, pp. 97–98. No menciona el 20 c de plata ni las dimensiones del busto. Usada también en serie 05.
 - Revisión 2026-11-20 (serie 07, agente de nivel 2 y lectura de verificación de la sesión): "En 1896 habían comenzado a circular monedas de cuproníquel de 5, 10 y 20 centavos, pero dejaron de acuñarse las piezas de cobre de 1 y 2 centavos, porque el valor del metal era superior al valor facial de circulación." (sin nota ni fuente); "en 1939 se acuñaron nuevas monedas de cobre de 1 y 2 centavos, de 2 y 3 gramos de peso respectivamente"; licitación privada de cospeles de cobre abierta el 3/05/1939 entre empresas argentinas y europeas. Bibliografía: Cunietti-Ferrando, *La amonedación nacional 1881–1964* (1964); Janson (1998 y 2015). Usada también en serie 07.
@@ -2671,7 +2671,7 @@ Formato de cada entrada:
 - Nivel: 1 (documento oficial transcripto)
 - Consultada: 2026-11-09 (agente de la ronda 1, nivel 1)
 - Cita clave: decreto del 8/03/1892: "queda á cargo esclusivo de la Caja de Conversión, todo lo concerniente á la emisión menor" (pp. 406–407 del Registro); decreto del 3/03/1892: contrato con la Compañía Sud-Americana de Billetes de Banco "para la impresión de billetes de emisión menor"; decreto del 7/01/1892: la Casa de Moneda cambia cobre por papel.
-- Usada en: serie 04
+- Usada en: serie 04, serie 08
 
 ### F-0253
 - Título: The Baedeker of the Argentine Republic (4.ª ed., 1914)
@@ -3940,7 +3940,7 @@ Formato de cada entrada:
 - Nivel: 4
 - Consultada: 2026-11-19 (agente de ronda 1, comunidad)
 - Cita clave: 1892: "almost 130 years of wear and tear, all post mint damage"; 1893: 1 y 2 c "very easy to find" (síntesis), parte del stock europeo llegó tras la desmonetización, el 1 c "the scarcer coin of the two", "5.4M minted" (usuario, sin fuente).
-- Usada en: serie 07
+- Usada en: serie 07, serie 08
 - Revisión 2026-11-21 (serie 07, agente de comunidad, por resumen): en topic169512 un participante dice que grandes cantidades entraron en Europa "(illegally)" después de la desmonetización; no dice de dónde lo saca.
 
 ### F-0380
@@ -4497,6 +4497,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-23 (agente de la ronda 1, nivel 4; el objeto ya se había visto como vecino del nn11464 en F-0392)
 - Cita clave: leyendas "LIBERTAD UN CENTAVO" y "REPUBLICA ARGENTINA 1884"; material "metal"; medidas "1.5 x 27 mm"; lugar Argentina; sin peso ni procedencia; el reverso se describe con una "wreath (?) incorporating a handshake", lo que no corresponde al escudo del KM 32 (ficha posiblemente mal descripta).
 - Usada en: serie 08
+- Revisión 2026-11-23 (serie 08, revisión, sesión principal): corrección de lectura: la "wreath (?) incorporating a handshake" puede ser el escudo nacional, que lleva dos manos estrechadas dentro de una corona de laurel (lectura propia); lo único que no corresponde al KM 32 es el 27 mm. Por el formato de nn11466 (F-0441, "1.5 x 21 mm"), "1.5" sería el espesor (lectura propia).
 
 ### F-0435
 - Título: Museo Histórico y Numismático "Dr. José Evaristo Uriburu (h)", cuadernillo institucional (2011)
@@ -4529,7 +4530,7 @@ Formato de cada entrada:
 - Usada en: serie 08 (constancia)
 
 ### F-0438
-- Título: CGB Numismatique Paris — ARGENTINA 1 centavo 1889 AU, e-auction 153, lote 91507 (fwo_381971)
+- Título: CGB Numismatique Paris — ARGENTINA 1 centavo 1889 AU, e-auction 153, ítem 153-91507 (fwo_381971; la página no aclara que sea el número de lote)
 - Autor / institución: CGB (Compagnie Générale de Bourse), París
 - URL: https://www.cgbfr.com/argentina-1-centavo-1889-au,fwo_381971,a.html
 - Archivo (Internet Archive): a buscar
@@ -4545,7 +4546,7 @@ Formato de cada entrada:
 - Archivo (Internet Archive): a buscar
 - Nivel: 4 (colección privada)
 - Consultada: 2026-11-23 (serie 08, revisión; agente de la ronda 1, nivel 4; paráfrasis del lector, sin cita literal)
-- Cita clave: 1 centavo 1885, bronce, 4,9 g, 25,1 × 25,1 × 1,2 mm; escudo con "REPUBLICA ARGENTINA * 1885 *"; Libertad a la izquierda con gorro frigio y firma de Oudiné; cita la Ley 1130 (1881); procedencia Fuchin Coin, 2020; menciona ejemplares comparables en Yale y en el Canterbury Museum (no verificados: la ronda 2 no encontró ninguno de 1 c en esos museos).
+- Cita clave: 1 centavo 1885, bronce, 4,9 g, 25,1 × 25,1 × 1,2 mm; escudo con "REPUBLICA ARGENTINA * 1885 *"; Libertad a la izquierda con gorro frigio y firma "OUDINE" bajo el retrato (verificado por el auditor en la web); cita la Ley 1130 (1881); procedencia Fuchin Coin, 2020; menciona ejemplares comparables en Yale y en el Canterbury Museum y enlaza artgallery.yale.edu/collections/objects/195053 y collection.canterburymuseum.com/objects/1085643/coin-1-centavo (vistas por el auditor dentro de la página; no aparecieron en búsquedas y no se abrieron: `pendientes-chrome.md` #78).
 - Usada en: serie 08
 
 ### F-0440
@@ -4556,4 +4557,14 @@ Formato de cada entrada:
 - Nivel: 2
 - Consultada: 2026-11-23 (serie 08, revisión; agentes de nivel 2 y de la ronda 2, lecturas por resumen)
 - Cita clave: 16.pdf (Corralón de Floresta comparado con Zavaleta): "un espacio de gestión de la limpieza urbana"; la incineración domiciliaria "fue permitida desde el año 1909"; no menciona monedas. /35 (2014, "El Corralón de Floresta: De la Construcción a los Patrones de Consumo en el Siglo XIX-XX", resumen): sin monedas. 19.pdf (Plaza Pueyrredón): solo "una moneda de 1985". 53.pdf: sin monedas. Constancia: ninguno resuelve si la moneda de Floresta es de 1884 [F-0430] o de 1888 [F-0431].
+- Usada en: serie 08
+
+### F-0441
+- Título: Horniman Museum and Gardens — objeto nn11466 (centavo de la Confederación Argentina, 1854); y constancia del Hood Museum of Art (Dartmouth), 170.40.31875
+- Autor / institución: Horniman Museum and Gardens (Londres); Hood Museum of Art, Dartmouth College
+- URL: https://www.horniman.ac.uk/object/nn11466/ ; https://hoodmuseum.dartmouth.edu/objects/170.40.31875
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (fichas de museo)
+- Consultada: 2026-11-23 (serie 08, revisión; lectura web-fetch pedida por la sesión principal, URL aparecidas en búsqueda)
+- Cita clave: nn11466: "CONFEDERACION ARGENTINA 1854" / "TESORO NACIONAL UN CENTAVO BANCO"; material "metal"; medidas "overall: .0591 x x .8268 in.; 1.5 x 21 mm"; sin procedencia. Hood 170.40.31875: "One Centavo", "Place Made: Guatemala", 1949, latón, 2,1 cm (no es argentina) · constancia.
 - Usada en: serie 08
