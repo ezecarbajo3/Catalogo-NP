@@ -6,15 +6,15 @@ anios: "1896–1942"
 denominaciones: ["20 centavos"]
 metal: "cuproníquel (\"níquel\")"
 km: ["KM 36"]
-estado: a revisar
-sesiones: [i1 2026-11-24, i2 2026-11-24]
+estado: completa
+sesiones: [i1 2026-11-24, i2 2026-11-24, r 2026-11-24]
 ultima_actualizacion: "2026-11-24"
 ---
 
 # 20 centavos cuproníquel 1896–1942
 
 ## Resumen
-El 20 centavos de cuproníquel es la pieza mayor de los "níqueles" que creó la Ley 3321 de diciembre de 1895 para reemplazar los billetes fraccionarios de 20, 10 y 5 centavos. Empezó a circular en 1896 con la Libertad de gorro frigio, y lo reemplazó en mayo de 1942, cuando faltó el níquel importado, el bronce de aluminio del Decreto 119.976. La ley fija la pieza: 4 g de "bronce de níkel" (75 de cobre y 25 de níquel), 21 mm, canto acanalado. El Banco Central fija su cese de curso legal el 31/01/1967 y la desmonetización el 01/04/1967 (página institucional y Memoria institucional 1935–2025, que copia la misma tabla). Después de dos investigaciones la serie tiene la ley y las fechas de cierre, pero **ninguna tirada con fuente oficial**: las cifras por año (unas 38 fechas) solo existen en catálogos, y la investigación 2 tampoco las encontró en las memorias del Banco Central, los informes de la Casa de Moneda de EE. UU. ni el inventario de ensayos del Museo Janson. Tampoco hay todavía variantes, falsificaciones ni guía de desgaste documentadas. Spink llamó al 1899 la fecha clave en dos subastas (2019 y 2025) del mismo lote.
+El 20 centavos de cuproníquel es la pieza mayor de los "níqueles" que creó la Ley 3321 de diciembre de 1895 para reemplazar los billetes fraccionarios de 20, 10 y 5 centavos. Empezó a circular en 1896 con la Libertad de gorro frigio, y lo reemplazó en mayo de 1942, cuando faltó el níquel importado, el bronce de aluminio del Decreto 119.976. La ley fija la pieza: 4 g de "bronce de níkel" (75 de cobre y 25 de níquel), 21 mm, canto acanalado. El Banco Central fija su cese de curso legal el 31/01/1967 y la desmonetización el 01/04/1967 (página institucional y Memoria institucional 1935–2025, que copia la misma tabla). Después de dos investigaciones y una revisión la serie tiene la ley y las fechas de cierre (la página del BCRA se volvió a verificar en la revisión), pero **ninguna tirada con fuente oficial**: las cifras por año (unas 38 fechas) solo existen en catálogos; tampoco aparecieron en las memorias del Banco Central, los informes de la Casa de Moneda de EE. UU. (1900 y 1922), los boletines estadísticos del BCRA ni el inventario de ensayos del Museo Janson. No hay variantes, falsificaciones ni guía de desgaste documentadas. Spink llamó al 1899 la fecha clave en dos subastas (2019 y 2025) del mismo lote. La revisión sumó un 1925 medido en el Kunsthistorisches Museum de Viena (3,91 g, 21,4 mm, eje 6 h, donado en 1937) y un 1908 en el Fitzwilliam de Cambridge.
 
 Ver también `temas/moneda-de-niquel-ley-3321.md` (lo común a las series 09, 10 y 11).
 
@@ -35,7 +35,7 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **Ley 3871 (4/11/1899):** modifica la Ley 1130; el peso moneda nacional sigue siendo la unidad [F-0257] · confirmado (contexto; no se encontró que trate el níquel).
 - **Carta Orgánica del BCRA (Ley 12.155, 1935):** según la Memoria institucional, trata la moneda subsidiaria de 5 pesos e inferiores "inclusive las monedas de níquel y cobre" [F-0453] · a confirmar (lectura por resumen, p. 28).
 - **Decreto 119.976 (15/05/1942):** ordena al Banco Central emitir "con carácter de medida extraordinaria" monedas de 5, 10 y 20 c en una aleación de 920 partes de cobre y 80 de aluminio; con él termina el 20 c de cuproníquel [F-0024] · probable (Testolino, lectura de agente por resumen; el decreto no se leyó).
-- **Cese de curso legal 31/01/1967 y desmonetización 01/04/1967** del 20 c de 1896 [F-0257] · confirmado. La Memoria institucional del BCRA 1935–2025 repite la fila ("20 centavos 1896 31/01/67 01/04/67", p. 207), pero declara tomarla de la página web del Banco [F-0453] · confirmado (no es una fuente independiente). Mismas fechas en un catálogo argentino [F-0240] · pista. La norma (circular del BCRA o decreto) no se encontró: no figura en la Memoria institucional (tramos leídos) ni en el texto ordenado "Circulación monetaria" del BCRA, que solo trata la línea de 1992 · constancia.
+- **Cese de curso legal 31/01/1967 y desmonetización 01/04/1967** del 20 c de 1896 [F-0257] · confirmado. La Memoria institucional del BCRA 1935–2025 repite la fila ("20 centavos 1896 31/01/67 01/04/67", p. 207), pero declara tomarla de la página web del Banco [F-0453] · confirmado (no es una fuente independiente). Mismas fechas en un catálogo argentino [F-0240] · pista. La norma (circular del BCRA o decreto) no se encontró: no figura en la Memoria institucional (tramos leídos) ni en el texto ordenado "Circulación monetaria" del BCRA, que solo trata la línea de 1992 · constancia. Revisión: la página del BCRA sigue activa (modificada el 2026-10-01) con las mismas tres filas y sin norma; otra página del Banco, "Emisiones anteriores de billetes y monedas", no trae monedas anteriores [F-0257] · constancia. Búsquedas de un decreto o circular de 1964–1967 en InfoLEG, Boletín Oficial y prensa: sin resultado · constancia.
 - En la misma tabla, el 5 c de 1896 cesó el 31/01/1965 (desmonetización 01/07/1965) y el 10 c el 21/01/1966 (01/07/1966) [F-0257, F-0453] · confirmado: el 20 c fue el último de los tres níqueles en perder curso legal (ver `temas/moneda-de-niquel-ley-3321.md`).
 - Decretos de ejecución (el del canje del art. 3, el de la proporción de piezas del art. 6, el aviso de fin de valor de los billetes del art. 5) y fecha exacta de puesta en circulación: no encontrados (Registro Nacional de 1896, `pendientes-chrome.md` #79).
 
@@ -48,7 +48,8 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **1941–1942, el fin del níquel importado:** el 8/12/1941 EE. UU. entró en la guerra; a fines de abril de 1942 se hundió el vapor "Texan", que traía metales para acuñar; el 19/05/1942 volvieron los billetes de 50 c porque se suspendió la entrega de níquel; en 1942 aparecieron piezas de bronce y aluminio con cospeles hechos en el país [F-0232] · probable.
 - La Memoria del BCRA de 1942, citada por Testolino: hacía falta recurrir a "discos que pudieran fabricarse en el país con metales que hubiera en existencia" [F-0024] · probable.
 - Un catálogo atribuye el cambio al aumento del precio del níquel [F-0450] · pista.
-- Los cospeles del níquel se importaban de Alemania y de EE. UU. [F-0222] · a confirmar (divulgación, sin años ni fuente).
+- Los cospeles del níquel se importaban de Alemania y de EE. UU. [F-0222, F-0463] · a confirmar (dos páginas de divulgación sin años ni fuente; pueden no ser independientes). La segunda agrega que hubo problemas de abastecimiento en las dos guerras mundiales y que a las piezas se les calculó una duración de "cuarenta años" [F-0463] · a confirmar.
+- Los billetes fraccionarios de 5, 10 y 20 c que el níquel vino a reemplazar eran costosos y se deterioraban rápido [F-0463] · a confirmar (divulgación).
 - Contexto de provisión de cospeles al final del período: Scovill Manufacturing Co. entregó 10.066.264 cospeles en 1940 para el 50 c de níquel [F-0232] · probable (no es del 20 c).
 
 ## Diseño y grabadores
@@ -59,13 +60,13 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 ## Ficha técnica
 | Atributo | Valor | Fuente | Confianza |
 |---|---|---|---|
-| Peso | 4 g, tolerancia 4 milésimos (ley); 4,02 g en un 1920 medido | F-0221; F-0443, F-0442, F-0445, F-0113 | confirmado |
+| Peso | 4 g, tolerancia 4 milésimos (ley); 4,02 g en un 1920 medido; 3,91 g en un 1925 de museo | F-0221; F-0443, F-0461, F-0442, F-0445, F-0113 | confirmado (ley); mediciones, probable |
 | Composición / ley | "bronce de níkel": 75 partes de cobre y 25 de níquel (cuproníquel) | F-0221; F-0451, F-0232, F-0448 | confirmado; "Brass and Nickel" [F-0113] sería la traducción de "bronce de níquel" |
-| Diámetro | 21 mm (ley); 2,1 cm en tres registros de museo; 21 mm según un comercio (1896) | F-0221; F-0448, F-0449, F-0454, F-0113, F-0446, F-0457 | confirmado; 23,5 mm en dos fichas de CGB [F-0442, F-0443] · error de ficha; 21,5 mm en catálogos [F-0447, F-0455] · pista (ver Discrepancias) |
+| Diámetro | 21 mm (ley); 2,1 cm en tres registros de museo chilenos; 21,4 mm en un 1925 del KHM de Viena (21 mm en su copia de museum-digital); 21 mm según un comercio (1896) | F-0221; F-0448, F-0449, F-0454, F-0461, F-0113, F-0446, F-0457 | confirmado; 23,5 mm en dos fichas de CGB [F-0442, F-0443] · error de ficha; 21,5 mm en catálogos [F-0447, F-0455] · pista (ver Discrepancias) |
 | Espesor | 1,3 mm (dato de un vendedor, 1916) | F-0445 | a confirmar |
 | Canto | "acanalado" (ley); estriado en las fichas | F-0221; F-0442, F-0443, F-0113 | confirmado (sin estrías por cm) |
-| Eje | 6 h (moneda) en un 1920 | F-0443 | a confirmar (una ficha) |
-| Ceca | la ley encarga la acuñación a la Casa de Moneda | F-0221 | confirmado (lo que manda la ley); dónde se acuñó cada año, a confirmar |
+| Eje | 6 h (moneda) en un 1920 y en un 1925 | F-0443, F-0461 | probable (dos fichas independientes, un comercio y un museo) |
+| Ceca | la ley encarga la acuñación a la Casa de Moneda; el KHM registra "Buenos Aires" para un 1925 | F-0221; F-0461 | confirmado (lo que manda la ley); 1925 en Buenos Aires, probable (registro de museo); los demás años, a confirmar |
 | Grabador | Oudiné (Libertad) | F-0310 | pista |
 
 ## Acuñación y tiradas
@@ -117,6 +118,7 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 
 - Dónde se buscó sin resultado (investigación 2) · constancia: Memoria institucional del BCRA 1935–2025 (sin tiradas ni acuñaciones del níquel en los tramos leídos) [F-0453]; Memorias anuales del BCRA 1936–1943 (los PDF no aparecieron en búsquedas, `pendientes-chrome.md` #80); copias de los informes del Director de la Casa de Moneda de EE. UU. en archive.org (solo aparecieron el de 1900, ya leído, y uno de 1858) y en FRASER (1925 client_error; informe del Tesoro de 1913 leído hasta el carácter 100.000, sin la Argentina; #73); argentina1810-1910.com "Año 1896" (no apareció en dos búsquedas); Extracto Estadístico, Memorias de Hacienda y de la Caja de Conversión 1896–1912 (sin resultados en español; CDI-MECON otra vez robots, #39); inventario de Ensayos del Museo Janson completo (sin níquel) [F-0231].
 - Dónde se buscó sin resultado (investigación 1) · constancia: informes del Director de la Casa de Moneda de EE. UU. (1900 en Internet Archive, tabla "Coinage of Nations" solo con oro y plata y sin fila argentina [F-0117]; los PDF de FRASER de 1906, 1908 y 1919 dieron client_error, `pendientes-chrome.md` #73); Memorias de Hacienda en CDI-MECON (robots, #39); anuarios estadísticos (sin resultados); Registro Nacional de 1896 (solo ficha, #79).
+- Dónde se buscó sin resultado (revisión) · constancia: *Annual Report of the Director of the Mint* de 1922 (copia de Forgotten Books, leída hasta el carácter 300.000 de 352.857: tablas de acuñación extranjera sin fila argentina) [F-0467]; boletines estadísticos mensuales del BCRA (la página de diciembre de 1940 solo describe la publicación; el PDF y los de las Memorias 1936–1943 siguen sin aparecer en resultados de búsqueda, `pendientes-chrome.md` #80); Hansen, *La moneda argentina* (1916), y *Extracto Estadístico* de 1915 (solo fichas de catálogo en HathiTrust, Google Books, CRL y Rutgers); Tornquist (1919–1920), *The Argentine Year Book*, Bunge y Álvarez (sin resultados útiles).
 - Presentaciones: solo suelta (no se encontró otra) · constancia.
 
 ## Circulación, retiro, desmonetización y fundiciones
@@ -128,7 +130,7 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - Spink llama al 1899 "the key date" (un ejemplar "fair") [F-0444] · probable (opinión de casa de subastas).
 - Fechas de menor tirada según catálogo: 1931, 1914, 1941, 1908, 1899, 1936, 1916 [F-0447, F-0446] · pista. Precios XF más altos en la guía: 1899, 1908, 1898, 1914 [F-0447] · pista.
 - 1916 en grado alto: según el dueño de un MS65, solo dos ejemplares con grado recto en NGC (MS65 y MS63), uno "details" y ninguno en PCGS [F-0446] · a confirmar; un vendedor dice "only 2 graded @ NGC + PCGS only 1 higher" [F-0445] · a confirmar (ver Discrepancias).
-- Rareza condicional de las fechas anteriores a 1900 en buen estado: ninguna fuente la describe todavía · constancia.
+- Rareza condicional de las fechas anteriores a 1900 en buen estado: ninguna fuente la describe todavía · constancia (revisión: acsearch, CoinArchives, Sixbid, Catawiki, Delcampe, Heritage World, PCGS CoinFacts y casas argentinas, sin resultados del 20 c de níquel).
 
 ## Por año
 ### 1896
@@ -138,6 +140,8 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - NGC MS65 vendido en USD 342,20 en Sedwick, subasta 12, lote 1266 (octubre de 2012), según una página de catálogo [F-0455] · a confirmar (no se vio el lote). La misma página no registra variantes.
 ### 1899
 - Fecha clave para Spink en dos ofertas del mismo lote de la colección Esseight: e-Auction 19041, lote 9 (estimación 100–150 €) [F-0385], subasta del 19/07/2019 [F-0397], y e-Auction 25124, lote 445 (2025; £80–120) [F-0444] · probable (opinión de una casa de subastas; la ficha de 2019, leída por resumen). Un VF sin certificar se ofrecía en eBay a 70 (≈45 €), anuncio actualizado el 18/12/2025 [F-0456] · ofrecido. PCGS MS65 en CGB, puja máxima 345 € al cierre del 26/08/2025 (estimación 300 €, 3 postores) [F-0442] · a confirmar (venta).
+### 1908
+- Un 20 c argentino de 1908 en el Fitzwilliam Museum de Cambridge (CM.28-1992), sin metal, peso ni procedencia en el registro [F-0462] · probable (existencia de la pieza). Que sea de cuproníquel se deduce de la fecha · supuesto (ver Supuestos).
 ### 1909
 - Un 20 c de 1909 apareció en la capa C2 ("capa de ceniza" de quema de basura doméstica) del corralón municipal de Floresta, Buenos Aires, junto a un centavo de 1884; Camino lo usa para fechar la capa y cita para las monedas un informe de Frustacci (2007) [F-0430] · probable. El metal no se informa; el único 20 c fechado 1909 es el de cuproníquel · supuesto (se apoya en que la acuñación de plata terminó en 1883 [F-0113] y en que ningún catálogo registra otro 20 c argentino de 1909 [F-0447]; no descarta una moneda extranjera de 20 c). Camino lo publicó en 2007 [F-0430].
 ### 1916
@@ -147,7 +151,8 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 ### 1923
 - VG sin certificar ofrecido en eBay.de a USD 4,99 (la ficha dice "Fineness 0.999", error del vendedor) [F-0458] · ofrecido.
 ### 1925 y 1928
-- Ejemplares en depósito en el Museo Nacional Benjamín Vicuña Mackenna (Chile): 1928, cuproníquel, KM 36, estado "Bueno", inv. 0238, registrado en 2009 y revisado en 2015 [F-0448] · probable; 1925, material "metal" sin precisar, estado "Regular", inv. 0314 [F-0449] · probable; ambos de 2,1 cm, sin peso ni procedencia. Que el de 1925 sea de esta serie se deduce de la fecha y la descripción · supuesto.
+- 1925 en el Kunsthistorisches Museum de Viena (Münzkabinett, MK 198409): 20 centavos de cuproníquel ("CuNi"), 3,91 g, 21,4 mm, eje 6 h, ceca Buenos Aires, leyenda "REPUBLICA ARGENTINA / * 1925 *" y Libertad con gorro frigio a la izquierda; donado en 1937 por August O. von Loehr (1882–1965) [F-0461] · probable (registro de museo). La copia en museum-digital Wien da 21 mm y el reverso como corona de laurel con el valor [F-0461] · probable. Confirma que hay 20 c de níquel fechados 1925.
+- Ejemplares en depósito en el Museo Nacional Benjamín Vicuña Mackenna (Chile): 1928, cuproníquel, KM 36, estado "Bueno", inv. 0238, registrado en 2009 y revisado en 2015 [F-0448] · probable; 1925, material "metal" sin precisar, estado "Regular", inv. 0314 [F-0449] · probable; ambos de 2,1 cm, sin peso ni procedencia. Que el de 1925 del museo chileno sea de esta serie se deduce de la fecha y la descripción · supuesto (reforzado por el 1925 de cuproníquel de Viena [F-0461]).
 ### 1942
 - Un 20 c de 1942 de cuproníquel, 2,1 cm, estado "regular", en depósito en el mismo museo chileno (inv. 0235) [F-0454] · probable: confirma que hay piezas de níquel con esa fecha. La ficha ubica la leyenda "República Argentina" "en borde".
 - El tipo de bronce de aluminio que lo reemplazó figura en un catálogo como KM 42, de 4,2 g y 21,2 mm, con 10.255.000 piezas registradas [F-0450] · pista (serie 14).
@@ -160,16 +165,17 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 
 - Se buscó en foros (Numista [F-0452], CoinTalk, Collectors Universe, Reddit), coinvarieties (páginas de 1942 [F-0450] y 1897 [F-0455], sin variantes; 1899, 1920 y 1935 sin abrir), subastas y catálogos: sin sobrefechas, tipos de números, cuños ni errores de acuñación del 20 c · constancia (investigación 1).
 - Investigación 2: búsquedas en español, inglés y alemán ("Fehlprägung", "Doppelprägung", "Fälschung"), Heritage, Stack's Bowers, Sedwick, Künker, Elsen, MA-Shops, PCGS y casas españolas: ningún error, prueba, "specimen" ni falsificación del 20 c de níquel; Dabbah (errores) y fn11 siguen sin poder leerse (`pendientes-chrome.md` #19, #83) · constancia.
+- Revisión: foros y blogs argentinos, Facebook, YouTube, Taringa y Mercado Libre (en español, inglés y portugués): ningún hilo con variantes, errores ni falsificaciones del 20 c de níquel; solo aparecieron catálogos y notas de prensa · constancia.
 - Ensayos y pruebas: el inventario de Ensayos del Museo Janson, revisado completo entre las dos investigaciones (tramos 200.000–500.000 por resumen), no trae ninguna pieza de níquel o cuproníquel de 1894–1897 ni de 5, 10 o 20 c [F-0231] · constancia. Antecedentes en otro monetario: un ensayo de 1887 de 20 c en "metal argentino" y ensayos de 1892 de 1 centavo en níquel [F-0230] · a confirmar (lectura por resumen de OCR, de la serie 08).
 
 ## Falsificaciones conocidas
-- No se encontró ninguna (foros, subastas, IFINRA) · constancia.
+- No se encontró ninguna (foros, subastas, IFINRA) · constancia. Revisión: búsquedas de níqueles falsos de plomo, estaño o fundidos, en prensa de época y comunidad: sin resultado · constancia.
 
 ## Personajes
 - **Eugène-André Oudiné:** autor de la Libertad de 1881, que el 20 c de níquel conservaría [F-0024] · probable (autoría del tipo de 1881); [F-0310] · pista (que sea la del níquel).
 - **Lucien Bazor:** autor de la Libertad que lo reemplazó en 1942 [F-0024] · probable.
-- **Firmantes de la Ley 3321:** sanción firmada por Carlos Doncel y Francisco Alcobendas, con los secretarios Adolfo J. Labougle (Senado) y Alejandro Sorondo (Diputados); promulgación firmada "ROCA" en el Departamento de Hacienda [F-0221] · confirmado. Cargos de Doncel y Alcobendas e identidad completa de "Roca" en la promulgación: a confirmar.
-- **Julio A. Roca:** presidente provisional del Senado de 1895 a 1898 [F-0460] · a confirmar (Wikipedia, sin fuente primaria); José E. Uriburu era presidente de la Nación (23/01/1895–12/10/1898) [F-0460] · a confirmar. Que Roca firmara la promulgación en ejercicio del Poder Ejecutivo: supuesto (ver Supuestos).
+- **Firmantes de la Ley 3321:** sanción firmada por Carlos Doncel y Francisco Alcobendas, con los secretarios Adolfo J. Labougle (Senado) y Alejandro Sorondo (Diputados); promulgación firmada "ROCA" en el Departamento de Hacienda [F-0221] · confirmado. Cargos de Doncel y Alcobendas e identidad completa de "Roca" en la promulgación: a confirmar (revisión: dos búsquedas sobre los firmantes y dos sobre una licencia de Uriburu en diciembre de 1895, sin resultado · constancia).
+- **Julio A. Roca:** presidente provisional del Senado de 1895 a 1898 [F-0460] · a confirmar (Wikipedia, sin fuente primaria); José E. Uriburu era presidente de la Nación (23/01/1895–12/10/1898 según la introducción de su página; 24/01/1895–11/10/1898 según el cuadro) [F-0460] · a confirmar. Que Roca firmara la promulgación en ejercicio del Poder Ejecutivo: supuesto (ver Supuestos).
 - Ministro de Hacienda, legisladores del debate y directores de la Casa de Moneda del período: sin fuente en esta sesión (debate de 1895, `pendientes-chrome.md` #61).
 
 ## Fabricación
@@ -179,13 +185,15 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - En 1942 faltaron los cospeles importados y se pasó a discos fabricables en el país [F-0024, F-0232] · probable.
 
 ## La voz de la época (prensa, debates, testimonios)
-- **"Níqueles":** así llamaba el vulgo a los 5, 10 y 20 c de la Ley 3321 [F-0024] · probable (Testolino, lectura de agente).
+- **"Níqueles":** así llamaba el vulgo a los 5, 10 y 20 c de la Ley 3321 [F-0024] · probable (Testolino; dos lecturas de agente coincidentes, la segunda en la revisión); también lo dice una página de divulgación [F-0463] · a confirmar.
 - **"Chirola":** en 1910, "Moneda pequeña, particularmente la de níquel" [F-0316] · probable (un diccionario de época); en 1911 otro diccionario la seguía definiendo como "Moneda boliviana de plata del valor aproximado de veinte centavos" [F-0315] · probable; el nombre había sido primero de las piezas de 20 centavos chilenas y luego pasó a las "moneditas de níquel" [F-0350] · probable.
-- Testolino nombra también "toritos" como nombre popular, sin fecha ni diseño [F-0024] · a confirmar (lectura dudosa).
-- Prensa de época (Caras y Caretas, La Nación, La Prensa) y debate parlamentario: sin resultados en esta sesión · constancia.
+- Testolino nombra también "toritos" como nombre popular, sin fecha ni diseño [F-0024] · a confirmar (lectura dudosa; la relectura de la revisión, por resumen, no lo trae).
+- Prensa de época (Caras y Caretas, La Nación, La Prensa) y debate parlamentario: sin resultados en las investigaciones 1 y 2 ni en la revisión (níqueles falsos, escasez de cambio chico, canje de 1896, autor del proyecto de ley) · constancia.
 
 ## Vida posterior (existencias guardadas, ventas oficiales, tesoros, colecciones célebres)
 - Museo Nacional Benjamín Vicuña Mackenna (Chile): un 1928 y un 1942 de cuproníquel y un 1925 (por fecha, supuesto) en depósito [F-0448, F-0454, F-0449] · probable.
+- Kunsthistorisches Museum de Viena: un 1925 donado en 1937 por August O. von Loehr [F-0461] · probable; es el ingreso a una colección pública con fecha más antigua documentado para la serie. Fitzwilliam Museum: un 1908 (CM.28-1992) [F-0462] · probable.
+- Descartados por estar fuera de la serie: Fitzwilliam CM.436-1997, 20 c de 1949, y Hood Museum 165.9.31441, 20 c de 1951 [F-0462] · constancia.
 - Arqueología: el 20 c de 1909 de Floresta [F-0430] · probable. La nota de La Capital sobre el patio de Humanidades de Rosario no menciona monedas [F-0459] · constancia.
 - Ventas oficiales, lotes o tesoros: no encontrados.
 
@@ -201,30 +209,32 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - 1899 VF sin certificar: 70 (≈45 €) en eBay, actualizado el 18/12/2025 [F-0456] · ofrecido.
 - 1896 VF-EF: USD 22,50 en Colonial Acres [F-0457] · ofrecido.
 - 1923 VG: USD 4,99 en eBay.de [F-0458] · ofrecido.
-- Investigación 2: sin lotes en Heritage, Stack's Bowers, Sedwick (salvo el de 2012 citado por catálogo), Künker, Elsen, MA-Shops, Tauler & Fau, Áureo, Soler y Llach ni Cayón; sin censo de PCGS ni de NGC en línea · constancia.
 - 1920 "SPL" sin certificar: 70 €, CGB tienda, 2018 [F-0443] · probable.
 - Guía de precios de NGC: XF 1899 US$ 500, 1908 US$ 350, 1898 US$ 300, 1914 US$ 250 [F-0447] · pista.
-- Heritage, Stack's Bowers, Künker, Vico, Áureo & Calicó, Cayón, Soler y Llach y Noble: sin lotes del 20 c de níquel en los resultados · constancia.
+- Rango de precios de Foronum citado por la prensa: de $1.000 a $150.000 según el estado [F-0465] · a confirmar (nota que cita un catálogo de comunidad; sin año ni grado por precio).
+- Sin lotes del 20 c de níquel en los resultados (consolidado de las tres sesiones): Heritage, Stack's Bowers, Sedwick (salvo el de 2012 citado por catálogo), Künker, Elsen, Jesús Vico, Áureo & Calicó, Cayón, Soler y Llach, Tauler & Fau, Noble, MA-Shops; en la revisión, tampoco en acsearch, CoinArchives, Sixbid, Catawiki, Delcampe ni Heritage World; sin censo de PCGS ni de NGC en línea · constancia.
 
 ## Graduación: puntos de desgaste y problemas típicos
-- Sin fuentes. Los registros de museo solo dan "Bueno" y "Regular" [F-0448, F-0449] · constancia.
+- Sin fuentes. Los registros de museo solo dan "Bueno" y "Regular" [F-0448, F-0449] · constancia. Revisión: ninguna descripción de desgaste en subastas, foros ni guías · constancia.
+- Limpieza: un 20 c de 1916 graduado "NGC VF Cleaned" según su dueño [F-0464, F-0446] · a confirmar (único problema de conservación registrado).
 
 ## Discrepancias
 - **Fecha de la Ley 3321 (resuelta):** sanción 2/12/1895, promulgación 4/12/1895, Boletín Oficial 8/12/1895 [F-0221]; Todo-Argentina da el 4/12 (promulgación) [F-0222]; el 14/12/1895 de una página de divulgación y de una nota de prensa [F-0222, F-0451] no coincide con ninguna de las tres fechas.
 - **Diámetro (resuelta por la ley):** 21 mm [F-0221], como los registros de museo, la divulgación y un comercio [F-0448, F-0449, F-0454, F-0113, F-0446, F-0457]; 21,5 mm en los catálogos [F-0447, F-0455] (pista); 23,5 mm en dos fichas de CGB [F-0442, F-0443], que serían error de ficha (no se midió).
 - **Aleación (resuelta por la ley):** 75 de cobre y 25 de níquel, "bronce de níkel" [F-0221]; "Brass and Nickel" [F-0113] es probablemente la traducción literal de "bronce de níquel".
-- **Censo del 1916:** "ninguno en PCGS" [F-0446] frente a "PCGS only 1 higher" [F-0445]; los dos son dichos de particulares.
+- **Censo del 1916:** "ninguno en PCGS" [F-0446] frente a "PCGS only 1 higher" [F-0445]; los dos son dichos de particulares. En la revisión, el dueño de un 10 c de 1916 dice que su 20 c es "NGC VF Cleaned" [F-0464], lo que coincide con el ejemplar "details" de F-0446 (posiblemente el mismo coleccionista); PCGS CoinFacts y el censo de NGC no aparecieron en búsquedas.
+- **Fin de circulación según un catálogo:** 1/01/1943 [F-0466 · pista] frente al cese de curso legal del 31/01/1967 del BCRA [F-0257]. El catálogo no da fuente; la fecha oficial es la del Banco.
 
 ## Pistas para la próxima sesión
-Actualizadas al cierre de la investigación 2 (se quitaron las resueltas o descartadas: Spink 338000091 es un billete de 20 c de 1883, no el níquel de 1899; la nota de La Capital no trae monedas [F-0459]; coinvarieties 1897 leída [F-0455]; inventario de Ensayos del Museo Janson completo [F-0231]).
-- **Tiradas (prioridad máxima):** Memorias anuales del BCRA 1936–1943 (PDF memAAAA.pdf, `pendientes-chrome.md` #80: hay que lograr que aparezcan en un resultado de búsqueda o leerlas con Chrome); boletines estadísticos del BCRA de 1942; Memorias de Hacienda y de la Casa de Moneda 1896–1942 en CDI-MECON (#39, robots); informes del Director de la Casa de Moneda de EE. UU.: en archive.org no aparecen otros años que 1900 y 1858; en FRASER, 1898 (ficha del 26.º informe), 1905–1927 (#73), y el informe del Tesoro de 1913 (fulltext) desde el carácter 100.000 ("Coinage of nations"); del de 1900 quedan sin leer los tramos 639.896–800.000, 839.896–939.896 y 1.139.896–1.256.084 [F-0117]; Cunietti-Ferrando, *La amonedación nacional 1881–1964*, y Janson, *La moneda circulante en el territorio argentino 1574–2019* (citada en F-0231), como origen probable de las cifras de catálogo.
-- **Normas:** decretos de ejecución de la Ley 3321 en el Registro Nacional 1896 (#79) y en la compilación "Año 1896" de argentina1810-1910.com (no apareció en búsquedas); Decreto 119.976/1942 en el Boletín Oficial; norma del cese de 1967 (comunicaciones del BCRA A0002 y A0020 y boletines estadísticos de febrero y abril de 1967, aparecidos sin abrir en la investigación 1); Memoria institucional del BCRA [F-0453], tramo 40.000–300.000 (solo visto por resumen) y los últimos ≈25.000 caracteres.
-- **Debate y personajes:** intervenciones de Barroetaveña 1894–1898 (#61); Diario de Sesiones de 1895; fuente primaria sobre el ejercicio del Ejecutivo por Roca en diciembre de 1895 y el ministro de Hacienda de ese momento; cargos de Doncel y Alcobendas.
-- **Prensa:** *Bulletin of the Pan American Union* de 1895-09 y 1899-08 en archive.org (#55); Special Consular Reports en FRASER (title/special-consular-reports-9133); Caras y Caretas desde 1898 (archive.org o Hemeroteca Digital de la BNE); El Cronista, "La antigua moneda argentina de 20 centavos que puede valer hasta $150.000" (sin abrir).
-- **Mercado:** Spink 338000093 y 17005000369 (no aparecieron en búsquedas); eBay 333355379216 (posible KM 36); coin-brothers coin5756; ficha 1899 de CGB en otros idiomas; lote 1266 de la subasta 12 de Sedwick (2012) en su archivo.
-- **Comunidad y museos:** coinvarieties 1899, 1920 y 1935; Foronum por año (#81); SURDOC 9-1325 y registros 66441 y 66178 (posibles más 20 c); Hood Museum 165.9.31441 ("20 Centavos"), Fitzwilliam 276177 y 270088, KHM Viena 1409971 y museum-digital Viena 17595 (aparecieron en una búsqueda de museos, sin verificar si son de este tipo); *La Patria a través de sus monedas* (#32); monedasuruguay fn11.pdf (#83), fol036.pdf, rev013.pdf y dabbah.pdf (#19).
-- **Arqueología:** CAU "Primer Museo Etnográfico" (#82), Defensa751.pdf; SEDICI 10915/122515 y 10915/198560; Camino 75.pdf; aacademica urbania 35.pdf y 43.pdf; Dialnet 9139666 y 9139641.
-- **Nombre "toritos":** releer F-0024 en literal (la investigación 2 no encontró el apodo en ninguna otra fuente).
+Consolidadas al cierre de la revisión (2026-11-24). Se quitaron las resueltas: Hood 165.9.31441 y Fitzwilliam 270088 (fuera de la serie), Fitzwilliam 276177 y KHM 1409971 / museum-digital 17595 (leídos [F-0462, F-0461]), la nota de El Cronista "hasta $150.000" (leída [F-0465]), el informe de la Casa de Moneda de EE. UU. de 1922 (leído hasta el carácter 300.000 [F-0467]). Casi todo lo que queda necesita navegador o papel (`pendientes-chrome.md`).
+- **Tiradas (prioridad máxima):** Memorias anuales del BCRA 1936–1943 y boletines estadísticos de 1940–1942 (#80: `mem1940.pdf`, `boldat194012.pdf` y el catálogo de datos de series históricas del BCRA; los PDF no aparecen en resultados de búsqueda); Hansen, *La moneda argentina* (1916), y *Extracto Estadístico de la República Argentina* 1915, p. 299 (#84 y #85, solo fichas); Memorias de Hacienda y de la Casa de Moneda 1896–1942 (#39, robots); informes del Director de la Casa de Moneda de EE. UU. en FRASER (1898, 1905–1927, #73) y el tramo final del de 1922 en Forgotten Books (desde el carácter 300.000) y el de 1929 (aparecido sin abrir); Cunietti-Ferrando, *La amonedación nacional 1881–1964*, y Janson, *La moneda circulante en el territorio argentino 1574–2019*; el catálogo de Gancedo (2005), en PDF en numismaticaargentina.com.ar, solo como pista para el origen de las cifras.
+- **Normas:** decretos de ejecución de la Ley 3321 en el Registro Nacional 1896 (#79) y en la compilación "Año 1896" de argentina1810-1910.com; Decreto 119.976/1942 en el Boletín Oficial o los *Anales de Legislación Argentina*; norma del cese de 1965–1967 (comunicaciones del BCRA A0002 y A0020, *Anales de Legislación* 1964–1967); tramos de la Memoria institucional del BCRA [F-0453] vistos solo por resumen.
+- **Debate y personajes:** Diario de Sesiones de 1895 e intervenciones de Barroetaveña (#61); licencia de Uriburu y Roca a cargo del Ejecutivo el 4/12/1895 (Registro Nacional, *aacademica.org/000-008/6.pdf*, lista de presidentes provisionales del Senado en Wikipedia, que dio redirección); ministro de Hacienda en diciembre de 1895 (Juan José Romero según la pregunta del plan, sin fuente); cargos de Doncel y Alcobendas.
+- **Prensa:** *Bulletin of the Pan American Union* de 1895-09 y 1899-08 (#55); Special Consular Reports en FRASER; *Caras y Caretas* desde 1898; Jornario 2006 de FENyMA (fenyma.org.ar, sin abrir).
+- **Mercado:** Spink 338000093 y 17005000369; lote 1266 de la subasta 12 de Sedwick (2012); ficha francesa de CGB del 1899 (fwo_1031905, "Service indisponible"); Foronum por año (#81; en la revisión aparecieron /1896, /1908, /1914, /1931, /1940, /1941 y /1942, sin abrir por cupo).
+- **Comunidad y museos:** Aberdeen emuseum "Twenty Centavos (Argentina)" (objeto 95369); Fitzwilliam 276178 y 276179; Hood 165.9.31459, 160.6.30831 y 166.49.31735; SURDOC 9-1325 y registros 66441 y 66178; numismatikforum.de (hilo p=434074); *La Patria a través de sus monedas* (#32, otra vez PROVENANCE_REQUIRED); monedasuruguay fn11.pdf (#83), fol036.pdf y dabbah.pdf (#19).
+- **Arqueología:** CAU "Primer Museo Etnográfico" (#82), Defensa751.pdf; SEDICI 10915/122515 y 10915/198560; Camino 75.pdf; aacademica urbania 35.pdf y 43.pdf; Dialnet 9139666 y 9139641; informe de Frustacci (2007) citado por Camino.
+- **Nombre "toritos":** releer F-0024 en literal (#86). Un título de Mercado Libre, "Moneda Argentina 1942 Torito", apareció en un resultado de búsqueda sin abrir: el apodo podría aplicarse hoy a otra pieza (pista sin fuente).
 
 ## Supuestos
 - El 20 c de 1909 de Floresta es de cuproníquel. Se apoya en: la plata terminó en 1883 [F-0113] y el único tipo de 20 c argentino fechado en 1909 es el de níquel [F-0447 · pista]; no descarta una moneda extranjera. · supuesto
@@ -232,7 +242,9 @@ Actualizadas al cierre de la investigación 2 (se quitaron las resueltas o desca
 - Los 23,5 mm de CGB serían un error de ficha. Se apoya en: la ley fija 21 mm [F-0221] y un registro de museo y un sitio de divulgación coinciden [F-0448, F-0449, F-0113]; 23 mm es el módulo del 20 c de plata (serie 05). · supuesto (casi seguro; falta una medición)
 - Entre 1884 y 1896 el cambio chico de 5 a 20 c habría circulado sobre todo en papel, junto con el cobre de 1 y 2 c. Se apoya en: la plata terminó en 1883 [F-0113], la emisión menor circulaba desde 1884 [F-0028] y la Ley 3321 manda canjear los billetes de 20, 10 y 5 c [F-0221]. · supuesto
 - El ensayo de 1 c en níquel de 1892 mostraría que el metal se probaba antes de la ley. Se apoya solo en F-0230 (lectura por resumen). · supuesto
-- El 20 c de 1925 del museo chileno es de esta serie. Se apoya en: la fecha, el gorro frigio y "República Argentina" [F-0449]. · supuesto
+- El 20 c de 1925 del museo chileno es de esta serie. Se apoya en: la fecha, el gorro frigio y "República Argentina" [F-0449], y en que el KHM de Viena registra un 20 c de 1925 de cuproníquel con la misma Libertad [F-0461]. · supuesto
+- El 20 c de 1908 del Fitzwilliam es de cuproníquel. Se apoya en: la plata terminó en 1883 [F-0113] y el único 20 c argentino fechado en 1908 es el de níquel [F-0447 · pista]; el registro no da metal [F-0462]. · supuesto
+- Los 3,91 g del 1925 de Viena reflejarían desgaste. Se apoya en: la ley fija 4 g con 4 milésimos de tolerancia [F-0221] (si los milésimos se refieren al peso, el mínimo sería 3,984 g; cálculo propio) y la pieza pesa 3,91 g [F-0461]; el museo no da estado de conservación. · supuesto
 - El "ROCA" que firma la promulgación de la Ley 3321 sería Julio A. Roca en ejercicio del Poder Ejecutivo como presidente provisional del Senado. Se apoya en: la ley lleva esa firma con fecha 4/12/1895 [F-0221], Uriburu era presidente de la Nación y Roca presidía el Senado entre 1895 y 1898 [F-0460]. Falta una fuente que diga que Uriburu estaba de licencia esos días. · supuesto
 - El lote de doce monedas de la colección Esseight con el 1899 "fair" se ofreció dos veces sin venderse (2019 y 2025). Se apoya en: misma colección, mismo 20 c de 1899 descripto como "the key date" y doce monedas en las dos ofertas [F-0385, F-0444]; ninguna de las dos fichas muestra un precio de venta. · supuesto
 

@@ -296,6 +296,7 @@ Formato de cada entrada:
 - Revisión 2026-11-19 (serie 07, agente de nivel 2, paráfrasis): carta 2 del 7/01/1880: 70 cuños en total (cabeza y reverso), pide seis meses más y baja el costo de 27.500 a 25.000 francos; carta 4 (10/03/1880): el 1 c de 25 mm podría llevar la cabeza del 20 c con línea de perlas.
 - Revisión 2026-11-21 (serie 08, investigación 1): se usa la carta N.º 3 (1/03/1880) ya registrada: la cabeza del 20 c para la pieza de 25 mm (1 centavo). Usada también en serie 08.
 - Revisión 2026-11-24 (serie 09, investigación 1; tres lecturas de agente por resumen): p. 10, los "vulgarmente conocidos 'níqueles' de 5, 10 y 20 centavos de la Ley 3321"; en 1896 "se interrumpieron definitivamente" las acuñaciones de la Ley 1130; el texto nombra también "toritos" como nombre popular (sin fecha ni diseño; lectura dudosa). p. 15: Decreto 119.976 del 15/05/1942, que ordenó al BCRA emitir "con carácter de medida extraordinaria" monedas de 5, 10 y 20 c en una aleación de "920 partes de cobre y 80 partes de aluminio"; p. 16, cita de la Memoria del BCRA de 1942: "discos que pudieran fabricarse en el país con metales que hubiera en existencia"; p. 17, nueva Libertad de Lucien Bazor (según Cunietti-Ferrando). Usada también en serie 09.
+- Revisión 2026-11-24 (serie 09, revisión; lectura de agente por resumen del PDF): repite "los vulgarmente conocidos 'níqueles' de 5, 10 y 20 centavos de la Ley 3321", el Decreto 119.976 que "ordenó que el BCRA emitiera con carácter de medida extraordinaria" las monedas, y "En 1896 se interrumpieron definitivamente las acuñaciones de la Ley 1130". El resumen no trae "toritos" (no se pidió el pasaje en literal; sigue a confirmar). La entrada HTML del trabajo en ifinra.org (26/11/2023) está etiquetada "Níqueles", "Oudiné" y "Libertad de Bazor".
 
 ### F-0025
 - Título: Unidad monetaria, vertebración territorial y conformación nacional: el caso de la República Argentina — Anales de Historia Contemporánea 20 (2004), pp. 439–461
@@ -2751,6 +2752,7 @@ Formato de cada entrada:
 - Usada también en serie 09 (fila del 20 c: emisión 1896, cese 31/01/1967, desmonetización 01/04/1967).
 - Revisión 2026-11-24 (serie 09, investigación 2): la Memoria institucional del BCRA 1935–2025 reproduce la tabla con las mismas fechas y declara tomarla de esta página [F-0453]; no es una confirmación independiente.
 - Revisión 2026-11-24 (serie 09, auditor): la fila del 5 c (1896) no se había leído en esta página; F-0453 la da con cese 31/01/1965 y desmonetización 01/07/1965.
+- Revisión 2026-11-24 (serie 09, revisión; lectura de verificación pedida por la sesión principal, desde un resultado de su propia búsqueda): enlace activo (página modificada el 2026-10-01); filas "5 centavos | 1896 | 31/01/1965 | 01/07/1965", "10 centavos | 1896 | 21/01/1966 | 01/07/1966", "20 centavos | 1896 | 31/01/1967 | 01/04/1967", sin norma del cese. La metadescripción dice "Ley 3871 del 5 de noviembre de 1881" frente a "4 de noviembre de 1899" del texto (inconsistencia interna). La otra página del Banco, https://www.bcra.gob.ar/emisiones-anteriores-de-billetes-y-monedas/ (modificada el 2025-08-22), dice "No se encontraron emisiones para la categoría monedas-anteriores" y trae la fila "Peso Moneda Nacional | Ley Nro.1130, modificada por Ley Nro.3871 | 05/11/1881".
 
 ### F-0258
 - Título: Museo Histórico y Numismático Héctor C. Janson — Documentos Históricos 1 (inventario SENIP)
@@ -4793,4 +4795,75 @@ Formato de cada entrada:
 - Nivel: 4
 - Consultada: 2026-11-24 (agente de la ronda 1, nivel 1; resumen de WebFetch)
 - Cita clave: Julio A. Roca, Partido Autonomista Nacional, presidente provisional del Senado 1895–1898. No dice que ejerciera el Poder Ejecutivo en diciembre de 1895; la página de José E. Uriburu (presidente del 23/01/1895 al 12/10/1898) tampoco menciona una licencia ni nombra al ministro de Hacienda.
+- Usada en: serie 09
+- Revisión 2026-11-24 (serie 09, revisión; dos lecturas de agente por resumen de https://en.wikipedia.org/wiki/Jos%C3%A9_Evaristo_Uriburu): el cuadro da el mandato de Uriburu del 24/01/1895 al 11/10/1898 y la introducción, del 23/01/1895 al 12/10/1898; no menciona licencia ni a Roca a cargo del Ejecutivo en 1895, ni al ministro de Hacienda.
+
+### F-0461
+- Título: "Münze", 20 Centavos 1925 (Münzkabinett, inv. MK 198409); el mismo objeto en museum-digital Wien, n.º 17595, "Republik Argentinien"
+- Autor / institución: Kunsthistorisches Museum Wien, Münzkabinett; museum-digital Wien
+- URL: https://www.khm.at/en/artworks/muenze-1409971 ; https://wien.at.museum-digital.org/pdf/object/17595.pdf?lang=en
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (registro de museo; mismo criterio que F-0383 y F-0448)
+- Consultada: 2026-11-24 (agente de la ronda 1, nivel 4, y lectura de verificación pedida por la sesión principal; resúmenes de WebFetch con campos copiados en literal)
+- Cita clave: KHM: "Nominal: 20 Centavos"; "Time: 1925"; "Material/technology: CuNi"; "Gewicht: 3,91 g, Stempelstellung: 6 Uhr, Durchmesser: 21,4 mm"; "Mint: Buenos Aires"; "REPUBLICA ARGENTINA / * 1925 *"; "weiblicher Kopf mit Freiheitsmütze nach links (Libertas)"; "Geschenk: Loehr August O. v. (31. 3. 1882 – 11. 7. 1965) 1937". museum-digital (mismo MK 198409): cuproníquel, 3,91 g, 21 mm, eje 6 h; reverso "Lorbeerkranz mit Wertzahl und Währungsangabe"; bibliografía KM 1800-1985, 11, y Schön, *Weltmünzkatalog 20. Jh.* (2015), 39; las palabras clave dicen "Bronze" y "20 Centavos (Venezolano)" (errores de indexación).
+- Usada en: serie 09
+
+### F-0462
+- Título: "20 centavos", Argentina, 1908 (CM.28-1992, objeto 276177)
+- Autor / institución: Fitzwilliam Museum, Cambridge
+- URL: https://data.fitzmuseum.cam.ac.uk/id/object/276177?format=txt
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (registro de museo)
+- Consultada: 2026-11-24 (agente de la ronda 1, nivel 4; resumen de WebFetch)
+- Cita clave: Argentina, "20 centavos", fecha 1908; sin material, peso, diámetro ni procedencia. Descartados en la misma búsqueda, por estar fuera de la serie: Fitzwilliam CM.436-1997 (objeto 270088), "20 centavos coin, 1949", donación de Mrs Jill Sturdy (9/06/1997), y Hood Museum of Art 165.9.31441, "20 Centavos", 1951, "Silver metal", 13/16 in, donación de Jack McKenna.
+- Usada en: serie 09
+
+### F-0463
+- Título: "Acuñamiento de monedas"
+- Autor / institución: Colegio de Calígrafos (sitio institucional, nota de divulgación sin autor ni fuentes)
+- URL: https://colegiodecaligrafos.org.ar/acunamiento-de-monedas/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-24 (agente de la ronda 1, nivel 2; resumen de WebFetch; el agente aclaró que el resumen corresponde a esta página y no al blog historiaymonedas, cuya lectura quedó en una redirección)
+- Cita clave: paráfrasis: Ley 3321 "del 4 de diciembre de 1895", cuproníquel 75/25 de 2, 3 y 4 g; antes circulaban billetes fraccionarios de 5, 10 y 20 c, costosos y de rápido deterioro; las piezas se llamaban popularmente "níqueles"; los cospeles se importaban de Alemania y de EE. UU., con problemas de abastecimiento en las dos guerras; se les estimó una duración de "cuarenta años"; las acuñaciones de 1896 se interrumpieron por antieconómicas.
+- Usada en: serie 09
+
+### F-0464
+- Título: NGC Collectors Society — galería del registro, 10 Centavos 1916 NGC MS64 (sc=759085)
+- Autor / institución: NGC Collectors Society (texto del dueño del ejemplar)
+- URL: https://coins.www.collectors-society.com/WCM/CoinView.aspx?sc=759085
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-24 (agente de la ronda 1, nivel 3; resumen de WebFetch)
+- Cita clave: "The owner's 20 Centavos is graded 'NGC VF Cleaned'"; según el dueño, PCGS graduó un solo 10 c de 1916 (AU58) y no hay otros en NGC; en 1916 se acuñaron 5, 10 y 20 c de cuproníquel; 835.000 piezas del 10 c de 1916 (pista de catálogo).
+- Usada en: serie 09, serie 10 (pista)
+
+### F-0465
+- Título: "La antigua moneda argentina de 20 centavos que puede valer hasta $150.000"
+- Autor / institución: El Cronista (nota de información general; sin fecha en el resumen)
+- URL: https://www.cronista.com/informacion-gral/la-antigua-moneda-argentina-de-20-centavos-que-puede-valer-hasta-150000
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (prensa que cita a Foronum)
+- Consultada: 2026-11-24 (agente de la ronda 1, nivel 4; resumen de WebFetch)
+- Cita clave: paráfrasis: 20 c de cuproníquel de 21 mm y unos 4 g; precios de Foronum "$1000 a $150.000" según el estado; no nombra fechas raras, variantes ni errores.
+- Usada en: serie 09
+
+### F-0466
+- Título: "20 centavos" (ficha 5157285550)
+- Autor / institución: Numisquare (catálogo en línea; solo pista)
+- URL: https://www.numisquare.com/20-centavos-5157285550.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (catálogo: pista)
+- Consultada: 2026-11-24 (agente de la ronda 1, nivel 3; resumen de WebFetch)
+- Cita clave: Cu75 Ni25, 4 g, 21 mm, gorro frigio; referencias "KM#36, CJ#52-89, Schön#39"; fin de circulación 1/01/1943 (dato de catálogo sin fuente).
+- Usada en: serie 09
+
+### F-0467
+- Título: *Annual Report of the Director of the Mint for the Fiscal Year Ended June 30, 1922* (copia de Forgotten Books)
+- Autor / institución: U.S. Mint (Director of the Mint); copia digital de Forgotten Books
+- URL: https://forgottenbooks.com/it/download/AnnualReportoftheDirectoroftheMintfortheFiscalYearEndedJune301922_11305001.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-24 (agente de la ronda 2; tres lecturas por resumen, caracteres 0–300.000 de 352.857, OCR degradado)
+- Cita clave: constancia negativa: las tablas de acuñación extranjera traen Costa Rica, Venezuela, Colombia, Cuba, Perú, El Salvador, Indochina y países de Europa y Asia, pero no una fila de la Argentina; la única mención es "Argentine gold pesos and paper pesos" en la sección del Paraguay. Quedan sin leer los últimos ≈52.800 caracteres.
 - Usada en: serie 09
