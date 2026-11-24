@@ -89,6 +89,7 @@ Formato de cada entrada:
 - Revisión 2026-11-19 (serie 07; lectura de agente por resumen): piezas unifaces de 1 y 2 c fechadas 1880 en aleación de cobre, R5, sin ejemplares en los museos relevados; Janson 2005 (CJ 31–39, cuños "presumiblemente robados") y Cunietti-Ferrando 1964 citados; Spink 1986: unifaces en "metal blanco, de apariencia aluminio"; el agente señala contradicciones internas ("con listel" / "canto liso sin listel"; fabricación en los años 70–80 del XIX / segunda mitad del XX): revisar en el PDF. Usada también en serie 07.
 - Revisión 2026-11-21 (serie 08, investigación 1; lectura de agente por resumen): tabla p. 9, 1 c unifaz "Aleación de Cobre Liso con listel R5"; p. 8: "solo se conocen un par de juegos de piezas unifaces". Usada también en serie 08.
 - Revisión 2026-11-24 (serie 09, investigación 1): la tabla trae "20 Centavos Plata 900 Liso sin listel R4" (grupo CJ 34–36), sin piezas de níquel · constancia.
+- Usada también en serie 09 (Oudiné, grabador de la ceca parisina).
 
 ### F-0006
 - Título: Comienzos de la Casa de Moneda
@@ -2348,6 +2349,7 @@ Formato de cada entrada:
 - Cita clave: No menciona la plata.
 - Usada en: serie 03, serie 04
 - Revisión 2026-11-24 (serie 09, investigación 1): el texto dio otra vez PROVENANCE_REQUIRED y no apareció en ninguna búsqueda (argentina.gob.ar, SAIJ, Wikisource, Biblioteca del Congreso); siguen sin leerse sus artículos (`pendientes-chrome.md` #48). Usada también en serie 09.
+- Revisión 2026-11-24 (serie 09, auditor y lectura web-fetch pedida por la sesión principal; la URL apareció en una búsqueda del auditor): texto leído (HTTP 200; canónica .../norma-284492/texto). Sumario "Ley sobre acuñación de monedas de bronce de níkel"; sanción 2/12/1895; promulgación "Buenos Aires, Diciembre 4 de 1895" (Departamento de Hacienda, firma ROCA); Boletín Oficial n.º 718 del 8/12/1895. Art. 1: la Casa de Moneda acuñará monedas de "bronce de níkel", 75 partes de cobre y 25 de níkel; 20 c: 4 g, tolerancia 4 milésimos, 21 mm; 10 c: 3 g, 5 milésimos, 19 mm; 5 c: 2 g, 5 milésimos, 17 mm. Art. 2: anverso busto de la «Libertad», «República Argentina» y año; reverso el valor y «centavos»; "El canto será acanalado." Art. 3: sellados cien mil pesos, el PE ordenará el canje por los billetes de $0.20, 0.10 y 0.05, en la capital y las provincias. Art. 4: plazo de sustitución de hasta tres años; vencido, los billetes no sustituidos por moneda de níquel o por billetes de cincuenta centavos "dejarán de tener valor legal". Art. 5: decreto con tres meses de anticipación. Art. 6: el PE fija la proporción de piezas por cada millón de pesos. Firman Carlos Doncel y Francisco Alcobendas; secretarios Adolfo J. Labougle (Senado) y Alejandro Sorondo (Diputados). Paráfrasis del lector con fragmentos literales; la página marca "OBJETO CUMPLIDO".
 
 ### F-0222
 - Título: Fuentes de divulgación sobre el fin de las acuñaciones: Todo-Argentina cap. 12; Billetes Argentinos, Moneda Nacional; BCRA, Argentinos oro 1881–1896
@@ -2360,6 +2362,7 @@ Formato de cada entrada:
 - Usada en: serie 03
 
 - Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de ronda 2) la página de Billetes Argentinos fecha la Ley 3.321 el 14/12/1895 (F-0221 da el 2/12/1895) y pone la Libertad en el anverso. Usada también en serie 05.
+- Revisión 2026-11-24 (serie 09, auditor; lectura de Todo-Argentina cap. 12): fecha la Ley 3321 el 4/12/1895 (la promulgación); dice que los cospeles del níquel se importaban de Alemania y de EE. UU. (sin ceca ni años); en 1942, "discos nacionales de bronce de aluminio" por la escasez de níquel, sin número de decreto. El 14/12/1895 no está en Todo-Argentina (la serie 05 lo tomó de otra de las páginas agrupadas aquí). Usada también en serie 09.
 ### F-0223
 - Título: Wikisource, "Ley 974 (no promulgada ni vetada) sobre acuñación de moneda" (título visto en resultado de búsqueda; página no abierta: url_not_found)
 - Autor / institución: Wikisource
@@ -3339,6 +3342,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-13 (agente de la ronda 1, nivel 2)
 - Cita clave: "CHIROLA (del quichua?), f. Moneda boliviana de plata del valor aproximado de veinte centavos. CH." (abreviatura final no resuelta). PESO: "Moneda de plata ó de papel, moneda que vale cien centavos". Sin entradas PESETA ni PATACÓN (lectura de agente sobre OCR).
 - Usada en: serie 05
+- Usada también en serie 09 (en 1911 la chirola seguía definida como moneda boliviana de plata de unos veinte centavos).
 
 ### F-0316
 - Título: *Diccionario argentino* (1910), entrada CHIROLA
@@ -4655,7 +4659,7 @@ Formato de cada entrada:
 - URL: https://surdoc.cl/registro/9-1320/pdf
 - Archivo (Internet Archive): a buscar
 - Nivel: 1 (registro de museo; mismo criterio que F-0311 y F-0383)
-- Consultada: 2026-11-24 (agente de la ronda 1, nivel 4)
+- Consultada: 2026-11-24 (agente de comunidad y museos de la ronda 1)
 - Cita clave: "Moneda de circulación Argentina, valor 20 centavos. Número Krause KM# 36."; "Acuñación en cuproníquel"; diámetro 2,1 cm; sin peso; estado "Bueno"; anverso rostro femenino, reverso motivos fitomorfos, "20" y "centavos"; inv. 0238; registradores G. Jamet Aguilar (2009) y J. P. Varela Cartagena (2015); en depósito; sin procedencia.
 - Usada en: serie 09
 
@@ -4665,7 +4669,7 @@ Formato de cada entrada:
 - URL: https://surdoc.cl/registro/9-1318/pdf
 - Archivo (Internet Archive): a buscar
 - Nivel: 1 (registro de museo; mismo criterio que F-0311 y F-0383)
-- Consultada: 2026-11-24 (agente de la ronda 1, nivel 4)
+- Consultada: 2026-11-24 (agente de comunidad y museos de la ronda 1)
 - Cita clave: "rostro femenino de larga cabellera y gorro frigio... República Argentina"; reverso motivos fitomorfos, "20" y "centavos"; diámetro 2,1 cm; material "metal" (sin precisar); estado "Regular"; inv. 0314; en depósito; sin procedencia.
 - Usada en: serie 09
 

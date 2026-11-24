@@ -1,10 +1,12 @@
 # Moneda de níquel de la Ley 3321 (1896–1942)
 
-Lo común a las series 09 (20 c), 10 (10 c) y 11 (5 c) de cuproníquel. Mismas reglas que las series: cada dato con `[F-####]` y nivel de confianza. Creado en la serie 09, investigación 1 (2026-11-24).
+Lo común a las series 09 (20 c), 10 (10 c) y 11 (5 c) de cuproníquel. Mismas reglas que las series: cada dato con `[F-####]` y nivel de confianza. Creado en la serie 09, investigación 1 (2026-11-24; la ley se leyó al cierre de esa sesión).
 
 ## Norma de origen
-- Ley 3321: crea la moneda de níquel de 5, 10 y 20 c [F-0221, F-0024] · confirmado. Fecha 2/12/1895 según InfoLEG [F-0221] · confirmado; 14/12/1895 según divulgación [F-0222, F-0451] · discrepancia abierta.
-- Reemplazó por monedas los billetes de 20, 10 y 5 c [F-0221] · probable (lectura de la serie 04; el texto no se pudo volver a abrir: `pendientes-chrome.md` #48).
+- Ley 3321, "Ley sobre acuñación de monedas de bronce de níkel": sanción 2/12/1895, promulgación 4/12/1895 (firma "ROCA"), Boletín Oficial n.º 718 del 8/12/1895 [F-0221] · confirmado. El 14/12/1895 de la divulgación [F-0222, F-0451] es un error.
+- Art. 1: 75 partes de cobre y 25 de níquel; 20 c: 4 g (tolerancia 4 milésimos), 21 mm; 10 c: 3 g (5 milésimos), 19 mm; 5 c: 2 g (5 milésimos), 17 mm. Art. 2: busto de la Libertad, "República Argentina" y año; reverso, valor y "centavos"; canto acanalado [F-0221] · confirmado.
+- Arts. 3–6: canje por los billetes de $0,20, 0,10 y 0,05 cuando se hayan sellado cien mil pesos; sustitución en hasta tres años; los billetes no cambiados pierden valor legal, con aviso por decreto tres meses antes; el Poder Ejecutivo fija la proporción de piezas por cada millón de pesos [F-0221] · confirmado.
+- Cospeles importados de Alemania y EE. UU. según divulgación [F-0222] · a confirmar.
 - Antecedentes en papel: Ley 1.334 de 1883, billetes menores de un peso [F-0164] · confirmado; en circulación desde enero de 1884 [F-0028] · confirmado; emisión menor a cargo exclusivo de la Caja de Conversión desde el 8/03/1892 [F-0252] · confirmado.
 
 ## Comienzo y fin
