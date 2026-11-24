@@ -9,6 +9,7 @@
 - Matrices y punzones del primer cono: encargados por Castilla en 1878 a París y grabados por Eugène-André Oudiné; los cuños de trabajo se abrían en Buenos Aires. [F-0005] · probable
 - 1884: se acondiciona un taller de medallas. [F-0004] · confirmado
 - 1889: 600.000 monedas de un peso para Paraguay, primer trabajo para el exterior. [F-0004] · confirmado
+- 1900: la Casa acuña para el Banco Mercantil del Paraguay 1.700.000 piezas de níquel de 5, 10 y 20 centavos; el trabajo se repite en 1903, 1908, 1925, 1938, 1939 y 1944. [F-0004] · probable (lectura por resumen; serie 09)
 - 1897: Castilla viaja a París y contrata al grabador Eugenio Mouchon (matrices de billetes). [F-0004] · confirmado
 - A fines de 1886 el director desaconsejó seguir acuñando oro porque lo acuñado se exportaba o fundía. [F-0007] · probable
 
