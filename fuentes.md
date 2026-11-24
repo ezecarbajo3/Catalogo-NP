@@ -72,6 +72,7 @@ Formato de cada entrada:
 - Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de nivel 1) la línea de tiempo menciona la "Ley Nº 1.130 de Unificación Monetaria" en la entrada de 1875 (error de la página); no menciona la plata ni su suspensión.
 - Revisión 2026-11-23 (serie 08, revisión; agente de la ronda 2): la línea de tiempo no tiene entradas para 1882, 1892, 1895 ni 1896, ni menciona la Ley 3321 · constancia.
 - Revisión 2026-11-24 (serie 09, investigación 2; agente de la ronda 1, nivel 2, por resumen): la línea de tiempo registra que en 1900 la Casa de Moneda acuñó para el Banco Mercantil del Paraguay 1.700.000 piezas de 5, 10 y 20 centavos de níquel, y que el trabajo se repitió en 1903, 1908, 1925, 1938, 1939 y 1944 (no se precisó si la cifra es solo la de 1900); sigue sin entradas para 1895–1896 ni mención de cospeles; cita a Juan F. Sarhy (1908) y a Eduardo Castilla (1881).
+- Revisión 2026-11-24 (auditor de la serie 09, leído en la web, literal): "se acuña moneda de níquel para el Banco Mercantil del Paraguay, realizando 1.700.000 piezas de 5, 10 y 20 centavos"; "Este trabajo, en diferentes valores y metales, se repitió en 1903, 1908, 1925, 1938, 1939 y 1944".
 
 ### F-0005
 - Título: Supuestos ensayos argentinos de 1880
@@ -2749,6 +2750,7 @@ Formato de cada entrada:
 - Revisión 2026-11-23 (serie 08, revisión; lectura web-fetch pedida por la sesión principal, página hallada en búsqueda): enlace activo (HTTP 200, última modificación 2026-10-01). Sección "Peso Moneda Nacional", Monedas: "1 centavo | 1882 | 21/04/1959 | 02/01/1960" y "2 centavos | 1882 | 21/04/1959 | 02/01/1960", sin notas al pie en esas filas. El texto introductorio dice "Ley 1130, modificada por la Ley 3871 del 4 de noviembre de 1899", mientras el encabezado y la descripción de la página dicen "Ley 3871 del 5 de noviembre de 1881" (inconsistencia de la propia página).
 - Usada también en serie 09 (fila del 20 c: emisión 1896, cese 31/01/1967, desmonetización 01/04/1967).
 - Revisión 2026-11-24 (serie 09, investigación 2): la Memoria institucional del BCRA 1935–2025 reproduce la tabla con las mismas fechas y declara tomarla de esta página [F-0453]; no es una confirmación independiente.
+- Revisión 2026-11-24 (serie 09, auditor): la fila del 5 c (1896) no se había leído en esta página; F-0453 la da con cese 31/01/1965 y desmonetización 01/07/1965.
 
 ### F-0258
 - Título: Museo Histórico y Numismático Héctor C. Janson — Documentos Históricos 1 (inventario SENIP)
@@ -4151,7 +4153,8 @@ Formato de cada entrada:
 - Nivel: 3
 - Consultada: 2026-11-20 (agente de ronda 2: fechas leídas en los títulos de los resultados de búsqueda; las páginas dieron client_error en la lectura de verificación)
 - Cita clave: "Spink Auction 19041 (19 Jul 2019)"; "Spink Auction 21158 (7 Jun 2021)"; categoría de la 21158: "World Coins from the Esseight Collection".
-- Usada en: serie 07
+- Usada en: serie 07, serie 09
+- Revisión 2026-11-24 (serie 09): usada para fechar la oferta del lote 9 (F-0385) con el 20 c de 1899.
 
 ### F-0398
 - Título: coinvarieties — Argentina 1890 2 centavos y Argentina 1884 centavo
@@ -4719,6 +4722,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-24 (agente de la ronda 2 y lectura web-fetch pedida por la sesión principal; tramos 0–39.870 y 300.000–339.870 en literal, el resto por resumen; los últimos ≈25.000 caracteres sin leer)
 - Cita clave: p. 207, tabla "Monedas / Denominación Emisión Cese curso legal Desmonetización": "5 centavos 1896 31/01/65 01/07/65"; "10 centavos 1896 21/01/66 01/07/66"; "20 centavos 1896 31/01/67 01/04/67"; introducción: "Mediante la sanción de la Ley 1.130, modificada por la Ley 3.871 del 04/11/1899 se establece como unidad monetaria argentina el PESO MONEDA NACIONAL (m$n)." Nota 121 (p. 203): la información es la "publicada en la página web institucional del BCRA" (Emisiones_anteriores.asp), es decir, la misma de F-0257 (no es independiente). No nombra la norma de cada cese, ni el Decreto 119.976, ni el cuproníquel. p. 28 (por resumen): la Carta Orgánica de 1935 trata la moneda subsidiaria "inclusive las monedas de níquel y cobre".
 - Usada en: serie 09, temas/moneda-de-niquel-ley-3321.md
+- Revisión 2026-11-24 (auditor de la serie 09, leído en la web, tramo 300.000–400.000): las tres filas (5, 10 y 20 c) y la nota 121 coinciden.
 
 ### F-0454
 - Título: Registro 9-1310, moneda de 20 centavos 1942 (Museo Nacional Benjamín Vicuña Mackenna, Chile), SURDOC
@@ -4727,7 +4731,8 @@ Formato de cada entrada:
 - Archivo (Internet Archive): a buscar
 - Nivel: 2 (registro de museo)
 - Consultada: 2026-11-24 (agente de la ronda 1, nivel 4; resumen de WebFetch)
-- Cita clave: "20 centavos … Argentina … 1942 … Cuproníquel"; 2,1 cm; estado "regular"; mujer de cabello largo con gorro frigio; reverso con elementos fitomorfos, "20" y "centavos"; la ficha pone "República Argentina" en el canto (sería la leyenda del anverso); en depósito, inventario 0235.
+- Cita clave: "20 centavos … Argentina … 1942 … Cuproníquel"; 2,1 cm; estado "regular"; mujer de cabello largo con gorro frigio; reverso con elementos fitomorfos, "20" y "centavos"; la ficha ubica "República Argentina" "en borde"; en depósito, inventario 0235.
+- Revisión 2026-11-24 (auditor de la serie 09, leído en la web): datos coincidentes; la ficha dice "en borde", no "canto".
 - Usada en: serie 09
 
 ### F-0455

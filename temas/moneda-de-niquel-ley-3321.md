@@ -7,7 +7,7 @@ Lo común a las series 09 (20 c), 10 (10 c) y 11 (5 c) de cuproníquel. Mismas r
 - Art. 1: 75 partes de cobre y 25 de níquel; 20 c: 4 g (tolerancia 4 milésimos), 21 mm; 10 c: 3 g (5 milésimos), 19 mm; 5 c: 2 g (5 milésimos), 17 mm. Art. 2: busto de la Libertad, "República Argentina" y año; reverso, valor y "centavos"; canto acanalado [F-0221] · confirmado.
 - Arts. 3–6: canje por los billetes de $0,20, 0,10 y 0,05 cuando se hayan sellado cien mil pesos; sustitución en hasta tres años; los billetes no cambiados pierden valor legal, con aviso por decreto tres meses antes; el Poder Ejecutivo fija la proporción de piezas por cada millón de pesos [F-0221] · confirmado.
 - Cospeles importados de Alemania y EE. UU. según divulgación [F-0222] · a confirmar.
-- En 1900 la Casa de Moneda acuñó níquel de 5, 10 y 20 centavos para el Banco Mercantil del Paraguay (1.700.000 piezas) y repitió el trabajo en 1903, 1908, 1925, 1938, 1939 y 1944 [F-0004] · probable (lectura por resumen).
+- En 1900 la Casa de Moneda acuñó níquel de 5, 10 y 20 centavos para el Banco Mercantil del Paraguay (1.700.000 piezas) y volvió a trabajar para ese país "en diferentes valores y metales" en 1903, 1908, 1925, 1938, 1939 y 1944 [F-0004] · confirmado.
 - Antecedentes en papel: Ley 1.334 de 1883, billetes menores de un peso [F-0164] · confirmado; en circulación desde enero de 1884 [F-0028] · confirmado; emisión menor a cargo exclusivo de la Caja de Conversión desde el 8/03/1892 [F-0252] · confirmado.
 
 ## Comienzo y fin
