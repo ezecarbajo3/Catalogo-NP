@@ -12,15 +12,16 @@ Lo común a las series 09 (20 c), 10 (10 c) y 11 (5 c) de cuproníquel. Mismas r
 
 ## Comienzo y fin
 - "En 1896 habían comenzado a circular monedas de cuproníquel de 5, 10 y 20 centavos" [F-0232] · probable; en 1896 terminaron las acuñaciones de la Ley 1130 [F-0024] · probable. El BCRA fecha el 10 y el 20 c en 1896 [F-0257] · confirmado.
-- Nombre popular: "níqueles" [F-0024] · probable; "chirola", "particularmente la de níquel" (1910) [F-0316] · confirmado.
+- Nombre popular: "níqueles" [F-0024] · probable; "chirola", "particularmente la de níquel" (1910) [F-0316] · probable (un diccionario de época; corregido en la revisión de la serie 09, que lo tiene como probable).
+- Cospeles importados de Alemania y de EE. UU., con problemas de abastecimiento en las dos guerras [F-0222, F-0463] · a confirmar (divulgación sin fuente).
 - Fin: Decreto 119.976 (15/05/1942), 5, 10 y 20 c en 920 partes de cobre y 80 de aluminio, por falta de níquel importado en la guerra [F-0024, F-0232] · probable. Ver serie 14.
 
 ## Desmonetización
 - 20 c: cese 31/01/1967, desmonetización 01/04/1967 [F-0257, F-0453] · confirmado.
 - 10 c: cese 21/01/1966, desmonetización 01/07/1966 [F-0257, F-0453] · confirmado.
-- 5 c: cese 31/01/1965, desmonetización 01/07/1965 [F-0453] · confirmado (Memoria institucional del BCRA 1935–2025, p. 207; la tabla dice tomarse de la página web del Banco, F-0257).
+- 5 c: cese 31/01/1965, desmonetización 01/07/1965 [F-0257, F-0453] · confirmado (página del BCRA, verificada el 2026-11-24, y Memoria institucional 1935–2025, p. 207, que dice tomar la tabla de esa página).
 - Orden: primero el 5 c (1965), después el 10 c (1966) y por último el 20 c (1967).
-- La norma que fija esas fechas no se encontró: no figura en la Memoria institucional ni en el texto ordenado "Circulación monetaria" del BCRA (serie 09, investigación 2).
+- La norma que fija esas fechas no se encontró: no figura en la Memoria institucional ni en el texto ordenado "Circulación monetaria" del BCRA (serie 09, investigación 2); tampoco apareció en las búsquedas de la revisión (InfoLEG, Boletín Oficial, prensa).
 
 ## Tiradas
-- Ninguna con fuente oficial al cierre de la serie 09, investigación 2 (2026-11-24). Dónde se buscó: ver la serie 09, "Acuñación y tiradas".
+- Ninguna con fuente oficial al cierre de la serie 09 (revisión, 2026-11-24). Dónde se buscó: ver la serie 09, "Acuñación y tiradas".
