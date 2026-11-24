@@ -2,6 +2,7 @@
 
 Información que afecta a varias series y se escribe una sola vez. Un archivo por tema, por ejemplo:
 
+- `moneda-de-niquel-ley-3321.md` — Ley 3321 y lo común a los 5, 10 y 20 c de cuproníquel (1896–1942).
 - `casa-de-moneda.md` — historia de la Casa de Moneda y sus memorias.
 - `ley-1130-unificacion-monetaria.md`
 - `desmonetizaciones.md` — leyes y fechas de retiro de cada cono.
