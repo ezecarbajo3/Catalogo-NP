@@ -2480,6 +2480,7 @@ Formato de cada entrada:
 - Revisión 2026-11-24 (serie 09, investigación 1; lecturas de agente por resumen, caracteres 0–100.000 y 100.000–200.000): sin ensayos ni pruebas de 5, 10 o 20 c de níquel (1887, 1892, 1895–1896); ficha N.º 51: 20 centavos 1942, Casa de Moneda de la Nación, "Cobre Aluminio", 5 g, 24 mm, Libertad de Bazor, categoría "Acuñación" (pertenece a la serie 14). Usada también en serie 09.
 - Revisión 2026-11-24 (serie 09, investigación 2; agente de la ronda 2, tramos 200.000–500.000 por resumen): el inventario de Ensayos no tiene ninguna ficha de ensayo o prueba de níquel o cuproníquel de 1894–1897 ni de 5, 10 o 20 centavos de la Ley 3321 · constancia (documento completo revisado). Cita como fuente de las fichas la obra de Janson *La moneda circulante en el territorio argentino 1574–2019* (pista).
 - Revisión 2026-11-25 (serie 10, investigación 1; agente de nivel 1, primeros 100.000 caracteres, por resumen): ensayo de 10 c de bronce de 1940, "Ensayo presentado por Casa de Moneda de la Nación, como muestra para diseño de monedas de la línea Peso Moneda Nacional"; sin 10 c de níquel en ese tramo. Usada también en serie 10.
+- Revisión 2026-11-25 (serie 10, revisión; dos lecturas de agente por resumen de los primeros 100.000 caracteres y una de los caracteres 100.000–300.000): ficha N.º 10, ensayo de 10 centavos de 1940 en bronce, 2,1 g, 18,48 mm, anverso "Libertad de Oudiné" y "REPUBLICA ARGENTINA", reverso "10 / CENTAVOS" entre ramas de laurel, "Ensayo presentado por Casa de Moneda de la Nación" (paráfrasis del resumen), conservación "Muy Bueno", en la bóveda del Museo; cita a Janson (2020). En el tramo 100.000–300.000 (fichas ≈51–99) no hay ensayos ni pruebas de 5, 10 o 20 c de cuproníquel; ficha 51 (20 c 1942 cobre-aluminio, serie 14) y ficha 55 (50 c 1936 de níquel, serie 12). La cita literal de la ficha N.º 10 sigue pendiente.
 
 ### F-0232
 - Título: Las monedas de 50 centavos de 1941: un experimento de circulación monetaria (julio de 2019)
@@ -2768,6 +2769,7 @@ Formato de cada entrada:
 - Revisión 2026-11-24 (serie 09, auditor): la fila del 5 c (1896) no se había leído en esta página; F-0453 la da con cese 31/01/1965 y desmonetización 01/07/1965.
 - Revisión 2026-11-24 (serie 09, revisión; lectura de verificación pedida por la sesión principal, desde un resultado de su propia búsqueda): enlace activo (página modificada el 2026-10-01); filas "5 centavos | 1896 | 31/01/1965 | 01/07/1965", "10 centavos | 1896 | 21/01/1966 | 01/07/1966", "20 centavos | 1896 | 31/01/1967 | 01/04/1967", sin norma del cese. La metadescripción dice "Ley 3871 del 5 de noviembre de 1881" frente a "4 de noviembre de 1899" del texto (inconsistencia interna). La otra página del Banco, https://www.bcra.gob.ar/emisiones-anteriores-de-billetes-y-monedas/ (modificada el 2025-08-22), dice "No se encontraron emisiones para la categoría monedas-anteriores" y trae la fila "Peso Moneda Nacional | Ley Nro.1130, modificada por Ley Nro.3871 | 05/11/1881".
 - Revisión 2026-11-25 (serie 10, investigación 1; lectura web-fetch pedida por la sesión principal desde su propia búsqueda, literal): "| 10 centavos | 1896 | 21/01/1966 | 01/07/1966 |"; metadato de modificación 2026-10-01T15:16:26-03:00; sin norma para las monedas de 1896; discrepancia interna de la página sobre la Ley 3871 (4/11/1899 en el cuerpo, "5 de noviembre de 1881" en la descripción). Usada también en serie 10.
+- Revisión 2026-11-25 (serie 10, revisión; lectura web-fetch pedida por la sesión principal desde su propia búsqueda): enlace activo (HTTP 200); metadatos modified_time 2026-11-24T19:10:28-03:00 y published_time 2025-10-08; filas sin cambios: "5 centavos | 1896 | 31/01/1965 | 01/07/1965", "10 centavos | 1896 | 21/01/1966 | 01/07/1966", "20 centavos | 1896 | 31/01/1967 | 01/04/1967"; también "1 centavo" y "2 centavos | 1882 | 21/04/1959 | 02/01/1960" y "50 centavos | 1941 | 31/01/1969 | 29/03/1978". Sin norma para ninguna de esas fechas; la página no usa la palabra "níquel".
 
 ### F-0258
 - Título: Museo Histórico y Numismático Héctor C. Janson — Documentos Históricos 1 (inventario SENIP)
@@ -5114,3 +5116,34 @@ Formato de cada entrada:
 - Consultada: 2026-11-25 (agente de la ronda 2, investigación 2; primeros 100.000 de 245.991 caracteres, por resumen)
 - Cita clave: constancia negativa: norma vigente (Com. "A" 8132 de 2024 y otras); en el tramo leído no aparecen 1965, 1966, 1967, "cuproníquel" ni "cese de curso legal".
 - Usada en: serie 10 (constancia)
+
+### F-0490
+- Título: Argentina 10 Centavos 1896, NGC MS62 (ficha de venta)
+- Autor / institución: Dilmarks (comercio), vía MA-Shops
+- URL: https://www.ma-shops.com/dilmarks/item.php?id=18702
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-25 (agente de mercado, revisión de la serie 10; resumen de WebFetch)
+- Cita clave: "Grade: NGC MS62"; precio ofrecido EUR 349,00 (USD 382,76 en la conversión de la página); botones "Add to cart" y "Make an offer" (oferta, no venta); sin texto de conservación.
+- Usada en: serie 10
+
+### F-0491
+- Título: Boletín Estadístico del BCRA, febrero de 1966 (página y PDF boldat196602.pdf)
+- Autor / institución: Banco Central de la República Argentina
+- URL: https://www.bcra.gob.ar/publicaciones/boletin-estadistico-febrero-de-1966/ ; https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/BoletinEstadistico/boldat196602.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-25 (agente de la ronda 2, revisión de la serie 10)
+- Cita clave: constancia: la página HTML solo enlaza el PDF; el PDF es un escaneo sin texto legible para la lectura automática ("empty or contains no machine-readable text"). La página del boletín de julio de 1966 tampoco menciona la desmonetización; la de noviembre de 1942 (en inglés) no tiene PDF enlazado.
+- Usada en: serie 10 (constancia)
+
+### F-0492
+- Título: "argentina 10 centavos 1898 doubling or repunched date" (ficha 212137)
+- Autor / institución: colleconline (sitio de colecciones, cerrado)
+- URL: https://www.colleconline.com/en/items/212137/monnaies-monde-argentine-argentina-10-centavos-1898-doubling-or-repunched-date
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-25 (agentes de mercado y de comunidad, revisión de la serie 10)
+- Cita clave: solo el título del resultado de búsqueda; la página abre hoy un aviso de cierre del servicio (liquidación de la empresa), sin datos de la pieza.
+- Usada en: serie 10
+
