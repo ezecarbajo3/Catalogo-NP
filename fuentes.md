@@ -1229,6 +1229,7 @@ Formato de cada entrada:
 - Cita clave: ficha 8,064 g, 22 mm, canto "Igualdad ante la ley"; da 1883 como fin de la acuñación de plata; medio argentino ≈4 g, 19 mm, canto estriado.
 - Usada en: serie 01 (y 02)
 - Revisión 2026-11-24 (serie 09, investigación 1; lectura de agente): "Base metal 5, 10 and 20 centavos were introduced in 1896"; 5 c 2 g y 17 mm, 10 c 3 g y 19 mm, 20 c 4 g y 21 mm; canto "Reeds"; aleación "Brass and Nickel" (sic). Usada también en serie 09.
+- Usada también en serie 10 (fin de la acuñación de plata en 1883).
 
 ### F-0114
 - Título: Comunicado: Administración de las Reservas de oro del BCRA (02/09/2024)
@@ -4679,6 +4680,7 @@ Formato de cada entrada:
 - Cita clave: Tiradas en miles (pista): 1896 2.030; 1897 5.263; 1898 1.264; 1899 840; 1905 4.455; 1906 4.331; 1907 3.730; 1908 719; 1909 1.329; 1910 1.845; 1911 1.110; 1912 2.402; 1913 1.579; 1914 527; 1915 1.921; 1916 985; 1918 1.638; 1919 2.280; 1920 7.572; 1921 5.286; 1922 2.324; 1923 4.416; 1924 3.676; 1925 3.799; 1926 3.250; 1927 2.880; 1928 2.886; 1929 8.361; 1930 8.281; 1931 315; 1935 1.127; 1936 855; 1937 3.314; 1938 6.449; 1939 3.555; 1940 4.465; 1941 600; 1942 4.844. Sin fila 1900–1904, 1917, 1932–1934. 4,00 g, 21,5 mm. Precios XF más altos: 1899 (US$ 500), 1908 (350), 1898 (300), 1914 (250). "Population data: none".
 - Usada en: serie 09
 - Revisión 2026-11-24 (serie 09, investigación 2; agente de la ronda 1, nivel 3): fichas por año duid-1213141 (1940; 4.465.000; 21,5 mm; 4,0 g; canto estriado) y duid-1213112 (1919; 2.280.000; 21,5 mm; 4,0 g); sin censo de población. URL: https://www.ngccoin.com/price-guide/world/argentina-20-centavos-km-36-1896-1942-cuid-1067278-duid-1213141 y …-duid-1213112. Solo pista.
+- Usada también en serie 10 (pista: tiradas de catálogo del 20 c de 1899 y de 1920–1922, para comparar con los cospeles de 1919).
 
 ### F-0448
 - Título: Registro 9-1320, moneda de 20 centavos 1928 (Museo Nacional Benjamín Vicuña Mackenna, Chile)
@@ -4987,6 +4989,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-25 (agente de la ronda 2; tres lecturas por resumen de WebFetch, caracteres 0–271.113; las filas argentinas están en 0–100.000 y solo se detallaron las de 10 c)
 - Cita clave: "Argentina 1919 1919 P None Planchets 10 Centavos 10 21,840,000 75% copper, 25% nickel"; 1920 (P), 3.443.334, misma composición; total de la Argentina en el cuadro, 64.058.334 (resto sin detallar).
 - Usada en: serie 10
+- Revisión 2026-11-25 (serie 10, cierre): las cifras coinciden con la publicación oficial F-0482, de la que probablemente deriva.
 
 ### F-0478
 - Título: Mike Byers, "1919 Buffalo Nickel Off-Metal" (Mint Error News: Rare Buffalo Nickel on 10 Centavos Planchet)
@@ -5027,3 +5030,13 @@ Formato de cada entrada:
 - Consultada: 2026-11-25 (agente de la ronda 1, nivel 2; resumen de WebFetch)
 - Cita clave: dos orígenes posibles de "chirola": el ministro José Matienzo, apodado "Chirola" (1916–1919), o una moneda boliviana del siglo XIX; no trata el 10 c.
 - Usada en: serie 10
+
+### F-0482
+- Título: *Domestic and Foreign Coins Manufactured by Mints of the United States, 1792–1965* (Annual Report of the Director of the Mint, U.S. Treasury), sección "Record of foreign coinage production by United States Mints for other countries from 1876 through 1965", tabla "Coinage by the United States for Other Countries — ARGENTINA", p. 95
+- Autor / institución: U.S. Treasury, Bureau of the Mint; texto completo en FRASER (Federal Reserve Bank of St. Louis)
+- URL: https://fraser.stlouisfed.org/title/domestic-foreign-coins-manufactured-mints-united-states-1792-1965-6280/fulltext ; ficha: https://fraser.stlouisfed.org/title/domestic-foreign-coins-manufactured-mints-united-states-1792-1965-6280 ; PDF de la edición 1974: https://fraser.stlouisfed.org/files/docs/publications/books/1974_domesticforeigncoins_usmint.pdf (sin abrir); edición 1793–1970 en archive.org: https://archive.org/details/domesticforeignc1972unit (sin abrir)
+- Archivo (Internet Archive): ver edición 1793–1970 arriba
+- Nivel: 1 (oficial, Estados Unidos)
+- Consultada: 2026-11-25 (lectura web-fetch pedida por la sesión principal desde su propia búsqueda; tramo literal de los caracteres 400.000–439.876, texto de OCR)
+- Cita clave: tabla "ARGENTINA¹", nota 1 "Coin blanks."; filas: "1919 ... P 20 centavos .. 15,175,000 75 copper, 25 nickel"; "P 10 centavos .. 21,840,000 .... do"; "P 5 centavos .. 15,660,000"; subtotal 1919 "52,675,000"; "1920 ... P 10 centavos .. 3,443,334"; "P 5 centavos .. 7,940,000"; subtotal 1920 "11,383,334"; "Total .... 64,058,334" (igual al resumen por país de la p. 94). Pesos y diámetros (4 g/21 mm, 3 g/19 mm, 2 g/17 mm) desalineados por el OCR. Son las únicas filas argentinas de la publicación.
+- Usada en: serie 10, temas/moneda-de-niquel-ley-3321.md

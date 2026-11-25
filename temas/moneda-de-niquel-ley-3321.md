@@ -16,12 +16,17 @@ Lo común a las series 09 (20 c), 10 (10 c) y 11 (5 c) de cuproníquel. Mismas r
 - Cospeles importados de Alemania y de EE. UU., con problemas de abastecimiento en las dos guerras [F-0222, F-0463] · a confirmar (divulgación sin fuente).
 - Fin: Decreto 119.976 (15/05/1942), 5, 10 y 20 c en 920 partes de cobre y 80 de aluminio, por falta de níquel importado en la guerra [F-0024, F-0232] · probable. Ver serie 14.
 
+## Cospeles de Filadelfia (1919–1920)
+- La Casa de Moneda de EE. UU. (Filadelfia) hizo para la Argentina cospeles ("coin blanks") de 75 cobre y 25 níquel: en 1919, 15.175.000 de 20 c, 21.840.000 de 10 c y 15.660.000 de 5 c (52.675.000); en 1920, 3.443.334 de 10 c y 7.940.000 de 5 c (11.383.334); total 64.058.334, únicos trabajos para la Argentina de la publicación [F-0482] · confirmado (publicación oficial *Domestic and Foreign Coins Manufactured by Mints of the United States, 1792–1965*, p. 95; lectura literal de OCR, serie 10, 2026-11-25). La Argentina pidió cospeles para acuñar en su propia ceca [F-0478] · probable.
+- Los cospeles de 10 c y de 20 c se acercan a las sumas de las tiradas de catálogo de 1920–1922 de cada valor (10 c: 25.283.334 frente a 25.614.830 [F-0472]; 20 c: 15.175.000 frente a 15.182.000 [F-0447]) · supuesto (ver serie 10). Falta compararlo con el 5 c (serie 11).
+- Se conocen tres Buffalo Nickels de EE. UU. acuñados por error sobre cospeles argentinos de 10 c [F-0478] · probable.
+
 ## Desmonetización
 - 20 c: cese 31/01/1967, desmonetización 01/04/1967 [F-0257, F-0453] · confirmado.
-- 10 c: cese 21/01/1966, desmonetización 01/07/1966 [F-0257, F-0453] · confirmado.
+- 10 c: cese 21/01/1966, desmonetización 01/07/1966 [F-0257, F-0453] · confirmado (releída en literal el 2026-11-25; el día 21, frente al 31 de los otros dos, queda anotado como discrepancia en la serie 10).
 - 5 c: cese 31/01/1965, desmonetización 01/07/1965 [F-0257, F-0453] · confirmado (página del BCRA, verificada el 2026-11-24, y Memoria institucional 1935–2025, p. 207, que dice tomar la tabla de esa página).
 - Orden: primero el 5 c (1965), después el 10 c (1966) y por último el 20 c (1967).
 - La norma que fija esas fechas no se encontró: no figura en la Memoria institucional ni en el texto ordenado "Circulación monetaria" del BCRA (serie 09, investigación 2); tampoco apareció en las búsquedas de la revisión (InfoLEG, Boletín Oficial, prensa).
 
 ## Tiradas
-- Ninguna con fuente oficial al cierre de la serie 09 (revisión, 2026-11-24). Dónde se buscó: ver la serie 09, "Acuñación y tiradas".
+- Ninguna con fuente oficial al cierre de la serie 09 (revisión, 2026-11-24) ni de la investigación 1 de la serie 10 (2026-11-25). Dónde se buscó: ver la serie 09 y la serie 10, "Acuñación y tiradas". Lo único oficial sobre producción son los cospeles de Filadelfia de 1919–1920 (arriba).
