@@ -6,7 +6,7 @@ anios: "1896–1942"
 denominaciones: ["10 centavos"]
 metal: "cuproníquel (\"níquel\")"
 km: ["KM 35"]
-estado: en investigación
+estado: a revisar
 sesiones: [i1 2026-11-25, i2 2026-11-25]
 ultima_actualizacion: "2026-11-25"
 ---
