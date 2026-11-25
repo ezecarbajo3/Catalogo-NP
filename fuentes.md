@@ -2462,6 +2462,7 @@ Formato de cada entrada:
 - Revisión 2026-11-11 (serie 05): p. 83: N.º 14 (1881, "Veinte centavos"), N.º 21 y 22 (1882), N.º 28 y 29 (1883); el 10 c 1881 N.º 15 figura como "Flor de cuño". Lectura de agente.
 - Revisión 2026-11-21 (serie 08, investigación 1; dos lecturas de agente por resumen, coincidentes): p. 84, entradas 46–59 "Un centavo" de la Ley 1130: 1882, 83, 84, 85, 86, 88, 89, 90, 91, 92, 93, 94, 95 y 96; no figura 1887. Ensayos (p. 89, numeración no segura por OCR): de 1892, "1 Centavo. Níquel. Canto liso.", variantes en aluminio y cobre, y una "No tiene corona de laureles. 'Un' en vez de 1." (OCR dudoso). Una entrada de 1887 es de 20 centavos en "metal argentino". Usada también en serie 08.
 - Usada también en serie 09 (ensayos de 1887 en "metal argentino" y de 1892 en níquel, como antecedentes).
+- Revisión 2026-11-25 (serie 10, investigación 2; agente de nivel 2, lectura por resumen): bajo el encabezado de la Ley 1130 de 1881, entradas "Diez centavos" / "ídem" de cuproníquel numeradas 98–138, con fechas de 1896 a 1942 (aparece 1919); sin tiradas, cospeles ni mención de la Ley 3321. Usada también en serie 10.
 
 ### F-0231
 - Título: Museo Histórico y Numismático "Héctor C. Janson" (BCRA) — fichas de Ensayos (SENIP)
@@ -2495,6 +2496,7 @@ Formato de cada entrada:
 - Revisión 2026-11-20 (serie 07, auditor, verificado en el PDF): Rey firma como "Subdirector del Museo Histórico y Numismático 'Héctor Carlos Janson'" (BCRA); las piezas de cobre de 1939 se acuñaron para cubrir el faltante de 1 y 2 c en el circulante subsidiario.
 - Revisión 2026-11-24 (serie 09, investigación 1; dos lecturas de agente por resumen): "En 1896 habían comenzado a circular monedas de cuproníquel de 5, 10 y 20 centavos"; Scovill Manufacturing Co. entregó 10.066.264 cospeles en 1940 para el 50 c; 8/12/1941 EE. UU. entra en la guerra; a fines de abril de 1942 se hundió el "Texan", que traía metales para acuñar; el 19/05/1942 volvieron los billetes de 50 c por la suspensión de la entrega de níquel; en 1942, piezas nuevas de bronce y aluminio con cospeles hechos en el país. No cita la Ley 3321 ni el Decreto 119.976. Usada también en serie 09.
 - Usada también en serie 10.
+- Revisión 2026-11-25 (serie 10, investigación 2; agente de nivel 1, lectura por resumen): "En 1940 se remitieron los cospeles de cobre y de níquel puro para acuñar las monedas de 1, 2 y 50 centavos."
 
 ### F-0233
 - Título: "La Compañía Sudamericana de Billetes de Banco" y "Cartas de lectores"; reseña de *Cartas E. Oudiné* — Cuadernos de Numismática y Ciencias Históricas, t. XXIX, n.º 125 (diciembre de 2009)
@@ -5000,6 +5002,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-25 (agente de la ronda 2; resumen de WebFetch)
 - Cita clave: "The United States Mint struck coins for Argentina in 1919 and 1920"; algunos clientes pidieron cospeles para sus propias cecas, como la Argentina en 1919 y 1920; se conocen tres Buffalo Nickels sobre cospel argentino de 10 c.
 - Usada en: serie 10
+- Revisión 2026-11-25 (serie 10, investigación 2; dos lecturas de agentes por resumen): el Buffalo Nickel de la nota es de 1919, NGC MS62, y estuvo 38 años en una cápsula de ANACS; "There are only three Buffalo Nickels struck on Argentina 10 Centavos planchets known."; la Argentina "requested to be furnished with planchets to be utilized at their native mints"; peso, casa y precio del ejemplar no indicados.
 
 ### F-0479
 - Título: "Día del Colectivero: cómo fue el primer viaje de la historia y cuánto costaba" (24/09/2022)
@@ -5040,3 +5043,74 @@ Formato de cada entrada:
 - Consultada: 2026-11-25 (lectura web-fetch pedida por la sesión principal desde su propia búsqueda; tramo literal de los caracteres 400.000–439.876, texto de OCR)
 - Cita clave: tabla "ARGENTINA¹", nota 1 "Coin blanks."; filas: "1919 ... P 20 centavos .. 15,175,000 75 copper, 25 nickel"; "P 10 centavos .. 21,840,000 .... do"; "P 5 centavos .. 15,660,000"; subtotal 1919 "52,675,000"; "1920 ... P 10 centavos .. 3,443,334"; "P 5 centavos .. 7,940,000"; subtotal 1920 "11,383,334"; "Total .... 64,058,334" (igual al resumen por país de la p. 94). Pesos y diámetros (4 g/21 mm, 3 g/19 mm, 2 g/17 mm) desalineados por el OCR. Son las únicas filas argentinas de la publicación.
 - Usada en: serie 10, temas/moneda-de-niquel-ley-3321.md
+- Revisión 2026-11-25 (serie 10, investigación 2): el PDF de FRASER llamado "1974_domesticforeigncoins_usmint.pdf" es la misma edición 1792–1965 (portada "DOMESTIC AND FOREIGN COINS MANUFACTURED BY MINTS OF THE UNITED STATES", "1792-1965"; prefacio "Domestic Coin Pamphlet" firmado por Eva Adams, Director of the Mint), no una edición posterior. Leído en el tramo con la p. 95 (lectura web-fetch pedida por la sesión principal desde su propia búsqueda, y agente de la ronda 2): columnas "Calendar year", "U.S. Coinage Mint", "Denomination", "Coinage during year--number of pieces", "Composition", "Per coin: Gross weight in grams / Diameter in millimeters"; 1919 P: 20 c 15,175,000 (4 g, 21 mm), 10 c 21,840,000 (3 g, 19 mm), 5 c 15,660,000 (2 g, 17 mm), subtotal 52,675,000; 1920 P: 10 c 3,443,334, 5 c 7,940,000, subtotal 11,383,334; total 64,058,334; nota "1. Coin blanks."; p. 94 "Argentina .... 64,058,334". La asignación de cada fila a su año se hace por el orden del OCR y cierra con los subtotales. Años calendario (la p. 93 aclara que antes de 1906 algunas cifras son de año fiscal). La página usmint.gov "Coinage for Foreign Governments" (extracto del informe de 1874) no menciona a la Argentina.
+
+### F-0483
+- Título: "1919 1c Wheat Cent on Argentina 10c Planchet NGC VF-20" (ficha de venta) y "Coins Struck on Foreign Nation's Coinage" (blog, "Coin #3")
+- Autor / institución: Sullivan Numismatics (comerciante de EE. UU.)
+- URL: https://sullivannumismatics.com/1919-1c-wheat-cent-on-argentina-10c-planchet-ngc-vf-20 ; https://www.sullivannumismatics.com/blog/coins-struck-foreign-nations-coinage
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-25 (agente de la ronda 1, nivel 3, investigación 2; dos lecturas por resumen de WebFetch)
+- Cita clave: "The coin weighs 3.2 grams."; centavo de 1919 de níquel, sobre un cospel argentino de 10 c que cayó por error en la prensa de centavos mientras la Casa de Moneda de EE. UU. trabajaba para la Argentina; en el blog, "1c 1919 Wheat Cent on Argentina 10c Planchet VF-20". Precio y venta no figuran.
+- Usada en: serie 10
+
+### F-0484
+- Título: "Domestic struck on foreign planchet" (Part V. Planchet Errors)
+- Autor / institución: error-ref.com (sitio de referencia de errores de acuñación)
+- URL: https://error-ref.com/domestic-struck-on-foreign-planchet
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-25 (agente de la ronda 1, nivel 2, investigación 2; resumen de WebFetch)
+- Cita clave: "The U.S. Mint struck copper-nickel 10 centavos pieces for Argentina in 1920."; ilustra un centavo Lincoln de 1920 de Filadelfia sobre cospel argentino de 10 c de 3,1 g.
+- Usada en: serie 10
+
+### F-0485
+- Título: "Ten Centavos (Argentina)", ABDMS030977 (objeto 36700)
+- Autor / institución: Aberdeen Art Gallery & Museums (Aberdeen City Council)
+- URL: https://emuseum.aberdeencity.gov.uk/objects/36700/ten-centavos-argentina
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (registro de museo)
+- Consultada: 2026-11-25 (agente de la ronda 1, nivel 4, investigación 2; resumen de WebFetch)
+- Cita clave: "Copper nickel", 2,31 g, "19 mm", espesor ≈1,2 mm; sin fecha ni procedencia. (El objeto 88020, ABDMS073534, es un 10 c de 1953, "Nickel / steel", 3,05 g, 19 × 1,2 mm: fuera de la serie.)
+- Usada en: serie 10
+
+### F-0486
+- Título: "Argentina 1913 R Top 3 10 Centavos VF-EF (VF-30)" (título de producto)
+- Autor / institución: Colonial Acres Coins (comercio, Canadá)
+- URL: https://www.colonialacres.com/products/argentina-1913-r-top-3-10-centavos-vf-ef-vf-30
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-25 (agente de la ronda 1, nivel 4, investigación 2; solo el título del resultado de búsqueda, página no abierta)
+- Cita clave: "argentina 1913 r top 3 10 centavos vf ef vf 30".
+- Usada en: serie 10
+
+### F-0487
+- Título: "Lunfardo: Money Talk"
+- Autor / institución: transpanish.biz (blog de traducción)
+- URL: https://transpanish.biz/translation_blog/lunfardo-money-talk/
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-25 (agente de la ronda 1, nivel 2, investigación 2; resumen de WebFetch)
+- Cita clave: "diego" figura como 'diez pesos' (no diez centavos), "considered a non-standard term by Lunfardo purists".
+- Usada en: serie 10
+
+### F-0488
+- Título: texto sobre el léxico lunfardo del dinero (1887–1915)
+- Autor / institución: Oscar Conde (aacademica.org)
+- URL: https://www.aacademica.org/oscar.conde/2.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-25 (agente de la ronda 1, nivel 2, investigación 2; resumen de WebFetch)
+- Cita clave: voces de época para el dinero: "vento" (Piaggio, La Nación, 1887), "meneguina" (vocabulario de Díaz Salazar, 1911), "amarillo" (*Novísimo diccionario lunfardo*, Crítica, 1913–1915); ninguna designa la moneda de 10 centavos ni el níquel; no trae "diego".
+- Usada en: serie 10 (constancia)
+
+### F-0489
+- Título: Texto ordenado "Circulación monetaria" (moneda metálica y billetes), t-cirmo3.pdf
+- Autor / institución: Banco Central de la República Argentina
+- URL: https://www.bcra.gob.ar/archivos/Pdfs/texord/t-cirmo3.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-25 (agente de la ronda 2, investigación 2; primeros 100.000 de 245.991 caracteres, por resumen)
+- Cita clave: constancia negativa: norma vigente (Com. "A" 8132 de 2024 y otras); en el tramo leído no aparecen 1965, 1966, 1967, "cuproníquel" ni "cese de curso legal".
+- Usada en: serie 10 (constancia)
