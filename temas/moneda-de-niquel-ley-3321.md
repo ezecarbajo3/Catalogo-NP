@@ -18,6 +18,7 @@ Lo común a las series 09 (20 c), 10 (10 c) y 11 (5 c) de cuproníquel. Mismas r
 
 ## Cospeles de Filadelfia (1919–1920)
 - La Casa de Moneda de EE. UU. (Filadelfia) hizo para la Argentina cospeles ("coin blanks") de 75 cobre y 25 níquel: en 1919, 15.175.000 de 20 c, 21.840.000 de 10 c y 15.660.000 de 5 c (52.675.000); en 1920, 3.443.334 de 10 c y 7.940.000 de 5 c (11.383.334); total 64.058.334, únicos trabajos para la Argentina de la publicación [F-0482] · confirmado (publicación oficial *Domestic and Foreign Coins Manufactured by Mints of the United States, 1792–1965*, p. 95; lectura literal de OCR, serie 10, 2026-11-25). La Argentina pidió cospeles para acuñar en su propia ceca [F-0478] · probable.
+- La tabla oficial está en años calendario ("Calendar year"), ceca "P", y da por pieza 4 g y 21 mm (20 c), 3 g y 19 mm (10 c) y 2 g y 17 mm (5 c), los valores de la Ley 3321; el PDF de FRASER rotulado "1974" es la misma edición 1792–1965 [F-0482] · confirmado (releída en la serie 10, investigación 2). Centavos de EE. UU. de 1919 y 1920 acuñados por error sobre cospeles argentinos de 10 c: 3,2 g [F-0483] y 3,1 g [F-0484] · probable.
 - Los cospeles de 10 c y de 20 c se acercan a las sumas de las tiradas de catálogo de 1920–1922 de cada valor (10 c: 25.283.334 frente a 25.614.830 [F-0472]; 20 c: 15.175.000 frente a 15.182.000 [F-0447]) · supuesto (ver serie 10). Falta compararlo con el 5 c (serie 11).
 - Se conocen tres Buffalo Nickels de EE. UU. acuñados por error sobre cospeles argentinos de 10 c [F-0478] · probable.
 

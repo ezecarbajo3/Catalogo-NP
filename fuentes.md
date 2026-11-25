@@ -5053,7 +5053,7 @@ Formato de cada entrada:
 - Nivel: 3
 - Consultada: 2026-11-25 (agente de la ronda 1, nivel 3, investigación 2; dos lecturas por resumen de WebFetch)
 - Cita clave: "The coin weighs 3.2 grams."; centavo de 1919 de níquel, sobre un cospel argentino de 10 c que cayó por error en la prensa de centavos mientras la Casa de Moneda de EE. UU. trabajaba para la Argentina; en el blog, "1c 1919 Wheat Cent on Argentina 10c Planchet VF-20". Precio y venta no figuran.
-- Usada en: serie 10
+- Usada en: serie 10, temas/moneda-de-niquel-ley-3321.md
 
 ### F-0484
 - Título: "Domestic struck on foreign planchet" (Part V. Planchet Errors)
@@ -5063,7 +5063,7 @@ Formato de cada entrada:
 - Nivel: 3
 - Consultada: 2026-11-25 (agente de la ronda 1, nivel 2, investigación 2; resumen de WebFetch)
 - Cita clave: "The U.S. Mint struck copper-nickel 10 centavos pieces for Argentina in 1920."; ilustra un centavo Lincoln de 1920 de Filadelfia sobre cospel argentino de 10 c de 3,1 g.
-- Usada en: serie 10
+- Usada en: serie 10, temas/moneda-de-niquel-ley-3321.md
 
 ### F-0485
 - Título: "Ten Centavos (Argentina)", ABDMS030977 (objeto 36700)
