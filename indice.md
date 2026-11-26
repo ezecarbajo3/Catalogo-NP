@@ -28,7 +28,7 @@ Orden: cronológico por año de inicio del tipo y, dentro de un mismo período, 
 | 08 | 1 centavo cobre | 1882–1896 | 38–51 | 4i+1r | 4i+1r | completa | monedas/1-peso-moneda-nacional/08-1-centavo-cobre-1882-1896.md |
 | 09 | 20 centavos cuproníquel | 1896–1942 | 52–… | 2i+1r | 2i+1r | completa | monedas/1-peso-moneda-nacional/09-20-centavos-cuproniquel-1896-1942.md |
 | 10 | 10 centavos cuproníquel | 1896–1942 | …–129 | 2i+1r | 2i+1r | completa | monedas/1-peso-moneda-nacional/10-10-centavos-cuproniquel-1896-1942.md |
-| 11 | 5 centavos cuproníquel | 1896–1942 | 130–172 | 2i+1r | 1i | en investigación | monedas/1-peso-moneda-nacional/11-5-centavos-cuproniquel-1896-1942.md |
+| 11 | 5 centavos cuproníquel | 1896–1942 | 130–172 | 2i+1r | 2i | a revisar | monedas/1-peso-moneda-nacional/11-5-centavos-cuproniquel-1896-1942.md |
 | 12 | 50 centavos níquel | 1941 | 173 | 1i+1r | — | pendiente | monedas/1-peso-moneda-nacional/12-50-centavos-niquel-1941.md |
 | 13 | 2 y 1 centavo bronce / cobre | 1939–1950 | 174–195 | 1i+1r | — | pendiente | monedas/1-peso-moneda-nacional/13-2-y-1-centavo-bronce-1939-1950.md |
 | 14 | 20, 10 y 5 centavos bronce de aluminio | 1942–1950 | 196–222 | 2i+1r | — | pendiente | monedas/1-peso-moneda-nacional/14-20-10-5-centavos-bronce-aluminio-1942-1950.md |

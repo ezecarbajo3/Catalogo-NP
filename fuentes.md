@@ -1882,6 +1882,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-07 (agente de la ronda 1, nivel 2)
 - Cita clave: p. 12, reseña de Horacio Morero, *Numismática y metamorfosis: la reacuñación de los patacones de las Provincias del Río de la Plata en Brasil* (8 reales de Potosí 1813 y 1815 reacuñados como 960 réis); p. 13: la moneda del 80.º aniversario del BCRA tuvo una tirada de 7.000 piezas, no se vendió al público y se repartió entre el personal.
 - Usada en: serie 03
+- Revisión 2026-11-26 (serie 11, investigación 2; agente de la ronda 2, por resumen): p. 14, sección "Leído o escuchado...": reseña sin autor de que el Centro Numismático Colonia San Carlos publicó un artículo sobre "variantes de cuño en los 10 centavos de 1937". Usada también en serie 10 (pista).
 
 ### F-0176
 - Título: The E-Sylum v19n46 (13/11/2016), nota sobre el libro de Horacio Morero
