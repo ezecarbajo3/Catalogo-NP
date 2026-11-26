@@ -1871,6 +1871,7 @@ Formato de cada entrada:
 - Cita clave: "Los cuños para el trabajo fueron grabados por GOTUZZO"; José Domingo "fue el encargado de terminar la acuñación"; ley paraguaya del 13/09/1889 y decreto del 29/03/1890 (curso legal a "las acuñaciones hechas por el Banco del Paraguay y Río de la Plata"); cita a Cunietti, Cuadernos de Numismática n.º 1 (dic. 1971).
 - Usada en: serie 03
 - Revisión 2026-11-25 (serie 10, investigación 1; agente de nivel 1, por resumen): el folleto trata los centavos paraguayos de 1900, 1903 y 1908 acuñados en Buenos Aires; 10 c: 800.000 (1900), 1.200.005 (1903; "10 centavos ____ 1.200.005 ____ 120.000,50 pesos") y 800.005 (1908); cita como fuente las memorias de la Casa de Moneda. Leído esta vez (`pendientes-chrome.md` #83). Usada también en serie 10.
+- Revisión 2026-11-26 (serie 11, investigación 2; agente de nivel 1, dos lecturas por resumen): contrato del 30/11/1899 con "los señores Delgado y Conti, como representantes del Banco Mercantil del Paraguay" por $200.000 en níquel; reparto previsto 5 c 400.000 ($20.000), 10 c 800.000 ($80.000), 20 c 500.000 ($100.000); acuñación de febrero a los primeros días de abril de 1900; 2.000 pesos oro de cobro; 306 reproducciones de matrices, punzones y cuños; 1903 (27/03–2/06): 5 c 600.005, 10 c 1.200.005, 20 c 750.005, con un "3" punzonado sobre los cuños; 1908 (Banco Francés del Río de la Plata): 5 c 400.005 ($20.000,25), 10 c 800.005, 20 c 1.000.005, y la felicitación del gerente por "la perfección con la que ha sido ejecutado el trabajo de acuñación"; José Domingo desaparece de los registros en 1901; un artículo con 2 g y 17 mm para el 5 c (norma sin identificar). Fuentes que cita: Memorias de la Casa de Moneda 1900, 1903 y 1908; Cunietti, Cuadernos de Numismática n.º 1 (1971). Usada también en serie 11.
 
 ### F-0175
 - Título: Gacetilla del Centro Numismático Buenos Aires n.º 66 (marzo de 2016)
@@ -5244,3 +5245,23 @@ Formato de cada entrada:
 - Consultada: 2026-11-26 (agente de nivel 1, lectura por resumen)
 - Cita clave: 5 c de 1954 con San Martín, acero revestido de cuproníquel, 2,01 g, 17,25 mm (no es de la serie 11; sirve para la serie 15).
 - Usada en: serie 11 (descartada)
+
+### F-0500
+- Título: [Artículo sobre los "níqueles" de la Ley 3321, 1896–1942; título ilegible en la extracción] — *El Telégrafo del Centro*, año 23, n.º 73 (marzo de 2019), pp. 8–10
+- Autor / institución: Federico de Ansó — Centro Numismático Buenos Aires
+- URL: https://monedasuruguay.com/bib/tel/tel073.pdf ; copia: https://cnba.org.ar/wp-content/uploads/2023/07/telegrafo73.pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 2 (sus cantidades, tomadas de un catálogo, solo como pista o a confirmar)
+- Consultada: 2026-11-26 (agente de nivel 2 y dos de la ronda 2; lectura web-fetch pedida por la sesión principal desde un resultado de su propia búsqueda, texto literal hasta la p. 12)
+- Cita clave: p. 8: Ley 3.321 del "4 de diciembre de 1895"; "Fueron denominadas popularmente como 'níqueles', se emitieron entre 1896 y 1942, con algunas breves interrupciones"; "la imagen de la Libertad de Oudiné (al igual que en la serie del patacón) pero esta vez en el anverso"; "Billetes de 5 ctvos. 20.423.594"; "Los de 5 ctvos. $1.021.179,70"; total "47.201.592" y "$5.012.378,70". p. 9: "Las cantidades acuñadas por la Casa de Moneda resultaron ser abundantes y salvo errores, aproximadamente fueron así: 183.873.802 ejemplares de 5 centavos; 192.499.155 ejemplares de 10 centavos; y 116.438.960 ejemplares de 20 centavos … 492.811.917"; "$ 9,2 millones de 5 centavos, $ 19,2 millones de 10 centavos y $ 23,3 millones de 20 centavos … $ 51,7 millones"; nota 1: "Elaboración propia en base a La moneda circulante en el Territorio Argentino. Carlos H. Janson. Bs.As. 2010. Edición que reseña idénticos valores a los indicados por CUNIETTI-FERRANDO en La Amonedación Nacional 1881-1964. Bs. As. 1964."; cuadro (nota 3, "B.C.R.A. sitio web"): "5 centavos 1896 31/01/1965 01 julio 1965", "10 centavos 1896 21/01/1966 01 julio 1966", "20 centavos 1896 31/01/1967 01 julio 1967"; vigencia "de 69, 70 y 71 años"; "la serie monetaria con mayor supervivencia en el cono monetario argentino entre 1896 y 1965/67". p. 10: anexo con la Ley 3321 tomada del "Digesto del Ministerio de Hacienda. Tomo I. A. Soares. B.A. 1926"; nota: Roca firma "en carácter de 'Presidente Provisorio del Honorable Senado en ejercicio del Poder Ejecutivo y en Acuerdo General de Ministros' al igual que lo hiciera en el Decreto sobre acuñación de moneda de níquel del 16 de enero de 1896"; bibliografía: Novelli, "Emisión Argentina de Cuproníquel 1896-1942. Aportes a su conocimiento" (III Jornadas, San Nicolás, 17/20 junio 1983); "Diario 'La Nación' 4 agosto 1895. Moneda de nikel – La emisión menor. En: El Telégrafo del Centro. Nº 58 junio 2013"; Taullard 1923; Janson 2010 (escrito "Emisiones Ley 3351").
+- Usada en: serie 11; tema moneda-de-niquel-ley-3321 (sirve también para las series 09 y 10)
+
+### F-0501
+- Título: "5 Centavos 'Liberté' ARGENTINA 1905" (AU, "léger nettoyage"; ficha fwo_969590 de CGB)
+- Autor / institución: CGB Numismatique (en MA-Shops)
+- URL: https://www.ma-shops.com/cgb/item.php?id=339292 ; ficha en CGB: https://www.cgbfr.com/argentina-5-centavos-liberte-1905-au,fwo_969590,a.html (no abierta)
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-26 (agente de nivel 3, lectura por resumen)
+- Cita clave: cuproníquel, 2,02 g, 17 mm; ofrecido en 35,00 EUR (38,38 USD); referencia KM 20/34.
+- Usada en: serie 11

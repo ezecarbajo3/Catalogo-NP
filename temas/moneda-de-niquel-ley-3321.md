@@ -7,6 +7,8 @@ Lo común a las series 09 (20 c), 10 (10 c) y 11 (5 c) de cuproníquel. Mismas r
 - Art. 1: 75 partes de cobre y 25 de níquel; 20 c: 4 g (tolerancia 4 milésimos), 21 mm; 10 c: 3 g (5 milésimos), 19 mm; 5 c: 2 g (5 milésimos), 17 mm. Art. 2: busto de la Libertad, "República Argentina" y año; reverso, valor y "centavos"; canto acanalado [F-0221] · confirmado.
 - Arts. 3–6: canje por los billetes de $0,20, 0,10 y 0,05 cuando se hayan sellado cien mil pesos; sustitución en hasta tres años; los billetes no cambiados pierden valor legal, con aviso por decreto tres meses antes; el Poder Ejecutivo fija la proporción de piezas por cada millón de pesos [F-0221] · confirmado.
 - Cospeles importados de Alemania y EE. UU. según divulgación [F-0222] · a confirmar.
+- Decreto "sobre acuñación de moneda de níquel" del 16/01/1896, firmado por Roca como Presidente Provisorio del Senado en ejercicio del Poder Ejecutivo, en acuerdo general de ministros (citado en el *Digesto del Ministerio de Hacienda*, t. I, 1926) [F-0500] · probable (texto no leído; `pendientes-chrome.md` #114). Serie 11, investigación 2.
+- Billetes fraccionarios a reemplazar en 1895: 47.201.592 piezas ($5.012.378,70), de ellas 20.423.594 de 5 c ($1.021.179,70) [F-0500] · a confirmar (sin fuente citada para la cifra).
 - En 1900 la Casa de Moneda acuñó níquel de 5, 10 y 20 centavos para el Banco Mercantil del Paraguay (1.700.000 piezas) y volvió a trabajar para ese país "en diferentes valores y metales" en 1903, 1908, 1925, 1938, 1939 y 1944 [F-0004] · confirmado.
 - Antecedentes en papel: Ley 1.334 de 1883, billetes menores de un peso [F-0164] · confirmado; en circulación desde enero de 1884 [F-0028] · confirmado; emisión menor a cargo exclusivo de la Caja de Conversión desde el 8/03/1892 [F-0252] · confirmado.
 
@@ -23,11 +25,12 @@ Lo común a las series 09 (20 c), 10 (10 c) y 11 (5 c) de cuproníquel. Mismas r
 - Se conocen tres Buffalo Nickels de EE. UU. acuñados por error sobre cospeles argentinos de 10 c [F-0478] · probable.
 
 ## Desmonetización
-- 20 c: cese 31/01/1967, desmonetización 01/04/1967 [F-0257, F-0453] · confirmado.
+- 20 c: cese 31/01/1967, desmonetización 01/04/1967 [F-0257, F-0453] · confirmado. De Ansó (2019), citando el sitio del BCRA, da "01 julio 1967" [F-0500]: discrepancia a revisar en la r2 de la serie 09 (¿cambió la página entre 2019 y 2026?). Para el 5 y el 10 c su cuadro coincide con el BCRA.
 - 10 c: cese 21/01/1966, desmonetización 01/07/1966 [F-0257, F-0453] · confirmado (releída en literal el 2026-11-25; el día 21, frente al 31 de los otros dos, queda anotado como discrepancia en la serie 10).
 - 5 c: cese 31/01/1965, desmonetización 01/07/1965 [F-0257, F-0453] · confirmado (página del BCRA, verificada el 2026-11-24, y Memoria institucional 1935–2025, p. 207, que dice tomar la tabla de esa página); fila releída en literal el 2026-11-26, serie 11).
 - Orden: primero el 5 c (1965), después el 10 c (1966) y por último el 20 c (1967).
 - La norma que fija esas fechas no se encontró: no figura en la Memoria institucional ni en el texto ordenado "Circulación monetaria" del BCRA (serie 09, investigación 2); tampoco apareció en las búsquedas de la revisión (InfoLEG, Boletín Oficial, prensa).
 
 ## Tiradas
+- **Totales de De Ansó (2019):** 5 c, 183.873.802 piezas ($9,2 millones); 10 c, 192.499.155 ($19,2 millones); 20 c, 116.438.960 ($23,3 millones); en total 492.811.917 piezas y $51,7 millones, "salvo errores, aproximadamente", como elaboración propia sobre Janson (2010), que según el autor repite a Cunietti-Ferrando (1964) [F-0500] · a confirmar (fuente de catálogo; sin desglose por año). Frente a las sumas de las tablas de catálogo de las series: 5 c, +634.802 (183.239.000); 10 c, +99.545 (192.399.610) · cálculos propios. Serie 11, investigación 2.
 - Ninguna con fuente oficial al cierre de la serie 09 (revisión, 2026-11-24) ni de la investigación 1 de la serie 10 (2026-11-25). Dónde se buscó: ver la serie 09 y la serie 10, "Acuñación y tiradas". Lo único oficial sobre producción son los cospeles de Filadelfia de 1919–1920 (arriba). Serie 11 (2026-11-26): tampoco para el 5 c; Registro Nacional 1895–1896 y una Memoria de Hacienda de CDI-MECON no se pudieron abrir (`pendientes-chrome.md` #79, #108, #109).
