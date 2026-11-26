@@ -5193,6 +5193,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-26 (agente de la ronda 2)
 - Cita clave: 43 fechas de 1896 a 1942, sin 1900–1902 ni 1932; 1896 1.499.000 … 1915 1.310.000, 1916 1.310.000 … 1929 11.831.000; 1930 "3 redondo" 7.110.000, 1931 "3 plano" 506.000, 1933 y 1934 "3 redondo"; 1942 8.692.000; 2 g, 17 mm. Cifras de catálogo (Krause), no oficiales.
 - Usada en: serie 11
+- Tabla completa (revisión 2026-11-26, auditor): 1896 1.499.000; 1897 3.981.000; 1898 2.661.000; 1899 2.835.000; 1903 2.502.000; 1904 2.518.000; 1905 4.359.000; 1906 3.939.000; 1907 1.682.000; 1908 1.693.000; 1909 4.650.000; 1910 1.469.000; 1911 1.431.000; 1912 2.377.000; 1913 1.477.000; 1914 1.097.000; 1915 1.310.000; 1916 1.310.000; 1917 1.009.000; 1918 2.287.000; 1919 2.476.000; 1920 5.235.000; 1921 7.040.000; 1922 9.427.000; 1923 6.256.000; 1924 6.355.000; 1925 3.955.000; 1926 3.560.000; 1927 5.650.000; 1928 6.380.000; 1929 11.831.000; 1930 7.110.000; 1931 506.000; 1933 5.537.000; 1934 1.288.000; 1935 3.052.000; 1936 7.175.000; 1937 7.063.000; 1938 10.252.000; 1939 7.171.000; 1940 10.191.000; 1941 951.000; 1942 8.692.000 (lectura del agente de la ronda 2).
 
 ### F-0495
 - Título: Agregadores de catálogo del 5 c KM 34 (solo pista): coinscatalog.net "Argentine 5 Centavos Capped Liberty 1896-1942 KM# 34"; worldcoinsinfo "Argentina 5 centavos"; coin-identifier "5 Centavos, Argentina 1896-1942"; coin-brothers coin5730; Numista 3241 (5 c de bronce de aluminio, KM 40)
@@ -5231,7 +5232,7 @@ Formato de cada entrada:
 - Archivo (Internet Archive): a buscar
 - Nivel: 1 (registro de museo)
 - Consultada: 2026-11-26 (agente de nivel 1 y lectura web-fetch pedida por la sesión principal)
-- Cita clave: "Diámetro 1.7 cm"; "Acuñación - Cuproníquel"; anverso "rostro femenino de larga cabellera y gorro frigio"; reverso "elementos fitomorfos y numero 5"; "Moneda de circulación Argentina. Numero Krause KM# 34"; estado "Regular"; sin peso.
+- Cita clave: "Diámetro 1.7 cm"; "Acuñación - Cuproníquel"; anverso "rostro femenino de larga cabellera y gorro frigio"; reverso "elementos fitomorfos y numero 5"; "Moneda de circulación Argentina. Numero Krause KM# 34"; estado "Regular"; ubicación "En depósito - Museo Nacional Benjamín Vicuña Mackenna"; sin peso.
 - Usada en: serie 11
 
 ### F-0499
