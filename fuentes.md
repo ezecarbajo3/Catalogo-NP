@@ -2474,6 +2474,7 @@ Formato de cada entrada:
 - Revisión 2026-11-21 (serie 08, investigación 1; dos lecturas de agente por resumen, coincidentes): p. 84, entradas 46–59 "Un centavo" de la Ley 1130: 1882, 83, 84, 85, 86, 88, 89, 90, 91, 92, 93, 94, 95 y 96; no figura 1887. Ensayos (p. 89, numeración no segura por OCR): de 1892, "1 Centavo. Níquel. Canto liso.", variantes en aluminio y cobre, y una "No tiene corona de laureles. 'Un' en vez de 1." (OCR dudoso). Una entrada de 1887 es de 20 centavos en "metal argentino". Usada también en serie 08.
 - Usada también en serie 09 (ensayos de 1887 en "metal argentino" y de 1892 en níquel, como antecedentes).
 - Revisión 2026-11-25 (serie 10, investigación 2; agente de nivel 2, lectura por resumen): bajo el encabezado de la Ley 1130 de 1881, entradas "Diez centavos" / "ídem" de cuproníquel numeradas 98–138, con fechas de 1896 a 1942 (aparece 1919); sin tiradas, cospeles ni mención de la Ley 3321. Usada también en serie 10.
+- Revisión 2026-11-26 (serie 11, revisión; lectura web-fetch pedida por la sesión principal desde su propia búsqueda, dos tramos, 0–39.897 y 39.000–48.601, literal de OCR): encabezado "MONEDAS DE CUPRONiQUEL. (NÍQUELES)" dentro de "REPÚBLICA ARGENTINA LEY 1130 DE 1881" (pp. 84–85 impresas). Columnas desordenadas por el OCR: 60–97 "Veinte centavos"; 98–138 diez centavos con los años 1896–1899, 1905–1916 y 1918–1942 (incluye 1932); la entrada 139 es 1896 y la columna termina con la etiqueta "cinco centavos" (asignación al 5 c por posición); p. 85: "Nº AÑO DESCRIPCIÓN", 140 1897, 141 1898, 142 1899, 143 1903 … 155 1915, 156 1916 … 171 1931, 172 1933 … 181 1942, todas con descripción "idem" (sin metal, estado ni variante). No figuran 1900, 1901, 1902 ni 1932 en el 5 c. p. 86: "Moneda de niquel puro", 182–183 (1941, cincuenta centavos). Usada también en serie 11.
 
 ### F-0231
 - Título: Museo Histórico y Numismático "Héctor C. Janson" (BCRA) — fichas de Ensayos (SENIP)
@@ -4767,6 +4768,7 @@ Formato de cada entrada:
 - Revisión 2026-11-24 (auditor de la serie 09, leído en la web, tramo 300.000–400.000): las tres filas (5, 10 y 20 c) y la nota 121 coinciden.
 - Usada también en serie 10 (fila del 10 c).
 - Usada también en serie 11.
+- Revisión 2026-11-26 (serie 11, revisión; lectura web-fetch pedida por la sesión principal desde su propia búsqueda; tramos 0–116.870, 322.000–374.870 y 385.000–465.011 literales, el resto por resumen; el lector parafraseó lo que pasaba de 125 caracteres): p. 28, Ley 12.155 (1935): el BCRA tenía el privilegio exclusivo de emitir billetes "excepto la moneda subsidiaria"; la emisión o acuñación futura de moneda subsidiaria de 5 pesos o menos "(inclusive las monedas de níquel y cobre)" quedaba a cargo del Estado Nacional, que la haría solo a solicitud y por intermedio del BCRA, según las necesidades del público, con un tope de 20 m$n por habitante según los cálculos de la Dirección General de Estadística (paráfrasis del lector); p. 26: entre las operaciones prohibidas al BCRA, emitir billetes de 5 pesos o menos, "moneda a cargo del Estado Nacional". p. 41: Decreto Ley 14.957/46 (24/05/1946, BO 30/07/1946), ratificado por la Ley 12.962 (1947); p. 46: "a diferencia del régimen de 1935, el BCRA tenía a su cargo también los billetes y monedas metálicas" de 5 pesos o menos, y debía reemplazarlas a medida que el desgaste las retirara; nota 19: el Decreto 15.026/46 amplió los límites por habitante de la Ley 12.155. El Decreto 119.976 (1942) no aparece en los tramos leídos; ninguna oración narra el retiro de los níqueles (solo la tabla de pp. 207–208, releída en literal).
 
 ### F-0454
 - Título: Registro 9-1310, moneda de 20 centavos 1942 (Museo Nacional Benjamín Vicuña Mackenna, Chile), SURDOC
@@ -5236,6 +5238,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-26 (agente de nivel 1 y lectura web-fetch pedida por la sesión principal)
 - Cita clave: "Diámetro 1.7 cm"; "Acuñación - Cuproníquel"; anverso "rostro femenino de larga cabellera y gorro frigio"; reverso "elementos fitomorfos y numero 5"; "Moneda de circulación Argentina. Numero Krause KM# 34"; estado "Regular"; ubicación "En depósito - Museo Nacional Benjamín Vicuña Mackenna"; sin peso.
 - Usada en: serie 11
+- Revisión 2026-11-26 (serie 11, revisión; agente de la ronda 2, por resumen): la versión de descarga del mismo registro (https://surdoc.cl/registro-descarga/66546/objectid) describe el metal solo como "de metal" y anota desgaste en el reverso y manchas de oxidación.
 
 ### F-0499
 - Título: "5 Centavos from Argentina" (inv. 2001.87.45957, objeto 194970)
@@ -5265,4 +5268,34 @@ Formato de cada entrada:
 - Nivel: 3
 - Consultada: 2026-11-26 (agente de nivel 3, lectura por resumen)
 - Cita clave: cuproníquel, 2,02 g, 17 mm; ofrecido en 35,00 EUR (38,38 USD); referencia KM 20/34.
+- Usada en: serie 11
+
+### F-0502
+- Título: Registro 9-1349, "5 Centavos" (Argentina; Museo Nacional Benjamín Vicuña Mackenna, inventario 0274)
+- Autor / institución: SURDOC (Servicio Nacional del Patrimonio Cultural, Chile)
+- URL: https://surdoc.cl/registro/9-1349/pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (registro de museo)
+- Consultada: 2026-11-26 (agente de la ronda 2, lectura por resumen)
+- Cita clave: metal cuproníquel; diámetro 1,7 cm; inventario 0274; conservación "regular"; año 1938 en la fecha de creación y en la inscripción del anverso, mientras el título del registro dice 1933 (discrepancia interna del registro); sin peso.
+- Usada en: serie 11
+
+### F-0503
+- Título: Registro 9-1367, "5 centavos 1939" (Museo Nacional Benjamín Vicuña Mackenna)
+- Autor / institución: SURDOC (Servicio Nacional del Patrimonio Cultural, Chile)
+- URL: https://surdoc.cl/registro-descarga/66599/objectid
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (registro de museo)
+- Consultada: 2026-11-26 (agente de la ronda 2, lectura por resumen)
+- Cita clave: 1939, "República Argentina", diámetro 1,7 cm; metal sin especificar ("de metal"); manchas negras y desgaste; sin peso.
+- Usada en: serie 11
+
+### F-0504
+- Título: eBay.com, "1926 Republica Argentina 5 Centavos Coin KM# 34 Lot C3-85" (aviso 286436691058)
+- Autor / institución: vendedor de eBay
+- URL: https://www.ebay.com/itm/286436691058
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-26 (agente de nivel 3; literal del aviso)
+- Cita clave: "Ungraded - Fine to Very Fine"; USD 4,29 o mejor oferta; aviso activo (ofrecido, no vendido); sin peso ni diámetro.
 - Usada en: serie 11
