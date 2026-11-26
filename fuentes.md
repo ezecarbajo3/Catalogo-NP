@@ -5260,6 +5260,7 @@ Formato de cada entrada:
 - Cita clave: p. 8: Ley 3.321 del "4 de diciembre de 1895"; "Fueron denominadas popularmente como 'níqueles', se emitieron entre 1896 y 1942, con algunas breves interrupciones"; "la imagen de la Libertad de Oudiné (al igual que en la serie del patacón) pero esta vez en el anverso"; "Billetes de 5 ctvos. 20.423.594"; "Los de 5 ctvos. $1.021.179,70"; total "47.201.592" y "$5.012.378,70". p. 9: "Las cantidades acuñadas por la Casa de Moneda resultaron ser abundantes y salvo errores, aproximadamente fueron así: 183.873.802 ejemplares de 5 centavos; 192.499.155 ejemplares de 10 centavos; y 116.438.960 ejemplares de 20 centavos … 492.811.917"; "$ 9,2 millones de 5 centavos, $ 19,2 millones de 10 centavos y $ 23,3 millones de 20 centavos … $ 51,7 millones"; nota 1: "Elaboración propia en base a La moneda circulante en el Territorio Argentino. Carlos H. Janson. Bs.As. 2010. Edición que reseña idénticos valores a los indicados por CUNIETTI-FERRANDO en La Amonedación Nacional 1881-1964. Bs. As. 1964."; cuadro (nota 3, "B.C.R.A. sitio web"): "5 centavos 1896 31/01/1965 01 julio 1965", "10 centavos 1896 21/01/1966 01 julio 1966", "20 centavos 1896 31/01/1967 01 julio 1967"; vigencia "de 69, 70 y 71 años"; "la serie monetaria con mayor supervivencia en el cono monetario argentino entre 1896 y 1965/67". p. 10: anexo con la Ley 3321 tomada del "Digesto del Ministerio de Hacienda. Tomo I. A. Soares. B.A. 1926"; nota: Roca firma "en carácter de 'Presidente Provisorio del Honorable Senado en ejercicio del Poder Ejecutivo y en Acuerdo General de Ministros' al igual que lo hiciera en el Decreto sobre acuñación de moneda de níquel del 16 de enero de 1896"; bibliografía: Novelli, "Emisión Argentina de Cuproníquel 1896-1942. Aportes a su conocimiento" (III Jornadas, San Nicolás, 17/20 junio 1983); "Diario 'La Nación' 4 agosto 1895. Moneda de nikel – La emisión menor. En: El Telégrafo del Centro. Nº 58 junio 2013"; Taullard 1923; Janson 2010 (escrito "Emisiones Ley 3351").
 - Usada en: serie 11; tema moneda-de-niquel-ley-3321 (sirve también para las series 09 y 10)
 
+- Revisión 2026-11-26 (serie 11, revisión): el auditor de la investigación 2 vio en la copia del CNBA un encabezado de cuadro que podría atribuir las cifras de billetes de 1895 a la Caja de Conversión; sin verificar.
 ### F-0501
 - Título: "5 Centavos 'Liberté' ARGENTINA 1905" (AU, "léger nettoyage"; ficha fwo_969590 de CGB)
 - Autor / institución: CGB Numismatique (en MA-Shops)
@@ -5299,3 +5300,13 @@ Formato de cada entrada:
 - Consultada: 2026-11-26 (agente de nivel 3; literal del aviso)
 - Cita clave: "Ungraded - Fine to Very Fine"; USD 4,29 o mejor oferta; aviso activo (ofrecido, no vendido); sin peso ni diámetro.
 - Usada en: serie 11
+
+### F-0505
+- Título: Ley 12.155 (Banco Central de la República Argentina, Carta Orgánica), ficha de normativa
+- Autor / institución: Argentina.gob.ar (InfoLEG / Normativa nacional)
+- URL: https://www.argentina.gob.ar/normativa/nacional/ley-12155-294177
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-26 (auditor de la serie 11, desde su propia búsqueda; solo el sumario, sin el articulado)
+- Cita clave: sanción 21-03-1935; publicación en el Boletín Oficial del 05-04-1935, n.º 12242.
+- Usada en: serie 11; tema moneda-de-niquel-ley-3321
