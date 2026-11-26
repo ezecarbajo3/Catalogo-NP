@@ -75,6 +75,7 @@ Formato de cada entrada:
 - Revisión 2026-11-24 (auditor de la serie 09, leído en la web, literal): "se acuña moneda de níquel para el Banco Mercantil del Paraguay, realizando 1.700.000 piezas de 5, 10 y 20 centavos"; "Este trabajo, en diferentes valores y metales, se repitió en 1903, 1908, 1925, 1938, 1939 y 1944".
 - Revisión 2026-11-25 (serie 10, investigación 1; agente de nivel 2, por resumen): director Juan F. Sarhy en 1908; en 1898 llegó la primera prensa tipográfica de billetes (E. Lambert, Francia) y en 1900 se compraron otras dos; níquel para el Paraguay en 1900 (ya registrado). Usada también en serie 10.
 - Revisión 2026-11-25 (serie 10, revisión; agente de nivel 2, por resumen): entre 1895 y 1942 la línea de tiempo nombra un solo director, Juan F. Sarhy (1908); en 1897 la Casa contrató al grabador Eugenio Mouchón para las matrices de los billetes (no de las monedas); la Ley 3321 y los cuños del níquel no aparecen.
+- Usada también en serie 11.
 
 ### F-0005
 - Título: Supuestos ensayos argentinos de 1880
@@ -300,6 +301,7 @@ Formato de cada entrada:
 - Revisión 2026-11-24 (serie 09, investigación 1; tres lecturas de agente por resumen): p. 10, los "vulgarmente conocidos 'níqueles' de 5, 10 y 20 centavos de la Ley 3321"; en 1896 "se interrumpieron definitivamente" las acuñaciones de la Ley 1130; el texto nombra también "toritos" como nombre popular (sin fecha ni diseño; lectura dudosa). p. 15: Decreto 119.976 del 15/05/1942, que ordenó al BCRA emitir "con carácter de medida extraordinaria" monedas de 5, 10 y 20 c en una aleación de "920 partes de cobre y 80 partes de aluminio"; p. 16, cita de la Memoria del BCRA de 1942: "discos que pudieran fabricarse en el país con metales que hubiera en existencia"; p. 17, nueva Libertad de Lucien Bazor (según Cunietti-Ferrando). Usada también en serie 09.
 - Revisión 2026-11-24 (serie 09, revisión; lectura de agente por resumen del PDF): repite "los vulgarmente conocidos 'níqueles' de 5, 10 y 20 centavos de la Ley 3321", el Decreto 119.976 que "ordenó que el BCRA emitiera con carácter de medida extraordinaria" las monedas, y "En 1896 se interrumpieron definitivamente las acuñaciones de la Ley 1130". El resumen no trae "toritos" (no se pidió el pasaje en literal; sigue a confirmar). La entrada HTML del trabajo en ifinra.org (26/11/2023) está etiquetada "Níqueles", "Oudiné" y "Libertad de Bazor".
 - Usada también en serie 10 (níqueles, Oudiné, Decreto 119.976).
+- Usada también en serie 11.
 
 ### F-0025
 - Título: Unidad monetaria, vertebración territorial y conformación nacional: el caso de la República Argentina — Anales de Historia Contemporánea 20 (2004), pp. 439–461
@@ -360,6 +362,7 @@ Formato de cada entrada:
 - Revisión 2026-11-13 (serie 05, revisión; agente de nivel 1, cinco tramos): p. 116: "Aunque suspendida la fabricacion de moneda de plata en virtud de la ley sobre emision menor", "se continuaron sellando pequeñas cantidades…", "…por órden superior" (sin fecha ni número); cuadro N.º 4, fila 1884: "136000 119000 34000", total del 20 c "2393995"; fecha de la Memoria de la Casa de Moneda: "Buenos Aires, Abril 16 de 1886", dirigida al ministro Wenceslao Pacheco (la memoria del Crédito Público del mismo tomo está firmada por P. Agote el 31/03/1885). Ensayes de Kyle (cuadro II): "Veinte centavos ( , , u¡¡.ooo)" y "8g8.86 / 897-Ó4 / 897.40": la cantidad sigue ilegible (119.000 o 112.000); fecha del informe de Kyle, 7 u 8/01/1885 según la lectura.
 - Usada también en serie 09 (billetes de la emisión menor desde 1884).
 - Usada también en serie 10.
+- Usada también en serie 11.
 
 ### F-0029
 - Título: Ley 733 de la moneda nacional, su tipo, fabricación y valor (1875) — texto
@@ -1452,6 +1455,7 @@ Formato de cada entrada:
 - Revisión 2026-11-13 (serie 05, revisión; agente de nivel 2, caracteres 0–200.000): ficha del 20 c ("1/5 de Patacón"): "Peso 5 gr. Módulo 23 mm. Canto estriado. Espesor 1,314 mm.", Libertad "diseño de Oudiné"; emisiones 2.018 / 762.027 / 1.510.950. Las letras A–E, A–Q y A–O solo aparecen como epígrafes de fotos ("20 C 881 'A'"…): no hay texto que explique cada variante; el "Método de Clasificación" del índice no está en el texto extraíble.
 - Revisión 2026-11-18 (serie 06, revisión; agente de ronda 2 y relectura de la sesión principal, caracteres 0–100.000, paráfrasis de WebFetch): sección "10 Centavos / 1/10 de Patacón", pp. 22–25: "Peso 2,5 gr", módulo 18,5 mm, canto estriado, espesor 1,131 mm; anverso con el escudo, siete banderas y un cañón por lado, "República Argentina", fecha entre estrellas; reverso con la Libertad a la izquierda, "Libertad", "10 Cent" a la izquierda y "9 D Fino" a la derecha. Emisiones 1.020 / 778.131 / 2.785.650; precios U$S MB/EXC/SC 1881 1.200/1.800/2.500, 1882 y 1883 20/50/80. Troqueles (solo fotos): 1881 A–C; 1882 "dientes separados" (DS) A–Q y "dientes juntos" (DJ) A–I; 1883 A–S. Nota (p. 23): DS se llamaba antes "canto grueso" y DJ "canto fino"; se cuentan haciendo rodar el canto sobre papel carbónico y contando los dientes en 1 cm; una línea visible en ciertas piezas ayuda a identificar "rápidamente" el troquel y, si se sospecha de una pieza adulterada, permite ubicar el troquel de origen; "la clasificación de cada troquel corresponde solo al año examinado"; el papel carbónico va colocado encima de papel blanco. No da cantidad de dientes por cm ni fecha de desmonetización.
 - Revisión 2026-11-21 (serie 08, investigación 1): se usa el diámetro legal del 20 c (23 mm) ya registrado; el PDF no apareció en resultados de búsqueda (`pendientes-chrome.md` #46). Usada también en serie 08.
+- Usada también en serie 11.
 
 ### F-0135
 - Título: Eliasberg Prices Stun Numismatic World (22/04/2005)
@@ -1759,6 +1763,7 @@ Formato de cada entrada:
 - Revisión 2026-11-11 (serie 05): p. 86, billetes del Banco de la Provincia al 31/12/1882: "0.20 … 11.386" (a confirmar si son unidades o pesos). Lectura de agente.
 - Usada también en serie 09 (Ley 1.334, billetes menores de un peso).
 - Usada también en serie 10.
+- Usada también en serie 11.
 
 ### F-0165
 - Título: Memoria del Departamento de Hacienda correspondiente al año 1885 (presentada en 1886), cuentas del Banco Inglés del Río de la Plata y de la Casa de Moneda
@@ -2364,6 +2369,7 @@ Formato de cada entrada:
 - Revisión 2026-11-24 (serie 09, investigación 1): el texto dio otra vez PROVENANCE_REQUIRED y no apareció en ninguna búsqueda (argentina.gob.ar, SAIJ, Wikisource, Biblioteca del Congreso); siguen sin leerse sus artículos (`pendientes-chrome.md` #48). Usada también en serie 09.
 - Revisión 2026-11-24 (serie 09, auditor y lectura web-fetch pedida por la sesión principal; la URL apareció en una búsqueda del auditor): texto leído (HTTP 200; canónica .../norma-284492/texto). Sumario "Ley sobre acuñación de monedas de bronce de níkel"; sanción 2/12/1895; promulgación "Buenos Aires, Diciembre 4 de 1895" (Departamento de Hacienda, firma ROCA); Boletín Oficial n.º 718 del 8/12/1895. Art. 1: la Casa de Moneda acuñará monedas de "bronce de níkel", 75 partes de cobre y 25 de níkel; 20 c: 4 g, tolerancia 4 milésimos, 21 mm; 10 c: 3 g, 5 milésimos, 19 mm; 5 c: 2 g, 5 milésimos, 17 mm. Art. 2: anverso busto de la «Libertad», «República Argentina» y año; reverso el valor y «centavos»; "El canto será acanalado." Art. 3: sellados cien mil pesos, el PE ordenará el canje por los billetes de $0.20, 0.10 y 0.05, en la capital y las provincias. Art. 4: plazo de sustitución de hasta tres años; vencido, los billetes no sustituidos por moneda de níquel o por billetes de cincuenta centavos "dejarán de tener valor legal". Art. 5: decreto con tres meses de anticipación. Art. 6: el PE fija la proporción de piezas por cada millón de pesos. Firman Carlos Doncel y Francisco Alcobendas; secretarios Adolfo J. Labougle (Senado) y Alejandro Sorondo (Diputados). Paráfrasis del lector con fragmentos literales; la página marca "OBJETO CUMPLIDO".
 - Usada también en serie 10 (art. 1: 10 c de 3 g, tolerancia 5 milésimos, 19 mm).
+- Usada también en serie 11.
 
 ### F-0222
 - Título: Fuentes de divulgación sobre el fin de las acuñaciones: Todo-Argentina cap. 12; Billetes Argentinos, Moneda Nacional; BCRA, Argentinos oro 1881–1896
@@ -2378,6 +2384,7 @@ Formato de cada entrada:
 - Revisión 2026-11-16 (serie 05, cierre de la revisión): (agente de ronda 2) la página de Billetes Argentinos fecha la Ley 3.321 el 14/12/1895 (F-0221 da el 2/12/1895) y pone la Libertad en el anverso. Usada también en serie 05.
 - Revisión 2026-11-24 (serie 09, auditor; lectura de Todo-Argentina cap. 12): fecha la Ley 3321 el 4/12/1895 (la promulgación); dice que los cospeles del níquel se importaban de Alemania y de EE. UU. (sin ceca ni años); en 1942, "discos nacionales de bronce de aluminio" por la escasez de níquel, sin número de decreto. El 14/12/1895 no está en Todo-Argentina (la serie 05 lo tomó de otra de las páginas agrupadas aquí). Usada también en serie 09.
 - Usada también en serie 10 (cospeles de Alemania y EE. UU.; fecha errónea de la ley).
+- Usada también en serie 11.
 
 ### F-0223
 - Título: Wikisource, "Ley 974 (no promulgada ni vetada) sobre acuñación de moneda" (título visto en resultado de búsqueda; página no abierta: url_not_found)
@@ -2483,6 +2490,7 @@ Formato de cada entrada:
 - Revisión 2026-11-24 (serie 09, investigación 2; agente de la ronda 2, tramos 200.000–500.000 por resumen): el inventario de Ensayos no tiene ninguna ficha de ensayo o prueba de níquel o cuproníquel de 1894–1897 ni de 5, 10 o 20 centavos de la Ley 3321 · constancia (documento completo revisado). Cita como fuente de las fichas la obra de Janson *La moneda circulante en el territorio argentino 1574–2019* (pista).
 - Revisión 2026-11-25 (serie 10, investigación 1; agente de nivel 1, primeros 100.000 caracteres, por resumen): ensayo de 10 c de bronce de 1940, "Ensayo presentado por Casa de Moneda de la Nación, como muestra para diseño de monedas de la línea Peso Moneda Nacional"; sin 10 c de níquel en ese tramo. Usada también en serie 10.
 - Revisión 2026-11-25 (serie 10, revisión; dos lecturas de agente por resumen de los primeros 100.000 caracteres y una de los caracteres 100.000–300.000): ficha N.º 10, ensayo de 10 centavos de 1940 en bronce, 2,1 g, 18,48 mm, anverso "Libertad de Oudiné" y "REPUBLICA ARGENTINA", reverso "10 / CENTAVOS" entre ramas de laurel, "Ensayo presentado por Casa de Moneda de la Nación" (paráfrasis del resumen), conservación "Muy Bueno", en la bóveda del Museo; cita a Janson (2020). En el tramo 100.000–300.000 (fichas ≈51–99) no hay ensayos ni pruebas de 5, 10 o 20 c de cuproníquel; ficha 51 (20 c 1942 cobre-aluminio, serie 14) y ficha 55 (50 c 1936 de níquel, serie 12). La cita literal de la ficha N.º 10 sigue pendiente.
+- Usada también en serie 11.
 
 ### F-0232
 - Título: Las monedas de 50 centavos de 1941: un experimento de circulación monetaria (julio de 2019)
@@ -2500,6 +2508,7 @@ Formato de cada entrada:
 - Revisión 2026-11-24 (serie 09, investigación 1; dos lecturas de agente por resumen): "En 1896 habían comenzado a circular monedas de cuproníquel de 5, 10 y 20 centavos"; Scovill Manufacturing Co. entregó 10.066.264 cospeles en 1940 para el 50 c; 8/12/1941 EE. UU. entra en la guerra; a fines de abril de 1942 se hundió el "Texan", que traía metales para acuñar; el 19/05/1942 volvieron los billetes de 50 c por la suspensión de la entrega de níquel; en 1942, piezas nuevas de bronce y aluminio con cospeles hechos en el país. No cita la Ley 3321 ni el Decreto 119.976. Usada también en serie 09.
 - Usada también en serie 10.
 - Revisión 2026-11-25 (serie 10, investigación 2; agente de nivel 1, lectura por resumen): "En 1940 se remitieron los cospeles de cobre y de níquel puro para acuñar las monedas de 1, 2 y 50 centavos."
+- Usada también en serie 11.
 
 ### F-0233
 - Título: "La Compañía Sudamericana de Billetes de Banco" y "Cartas de lectores"; reseña de *Cartas E. Oudiné* — Cuadernos de Numismática y Ciencias Históricas, t. XXIX, n.º 125 (diciembre de 2009)
@@ -2710,6 +2719,7 @@ Formato de cada entrada:
 - Usada en: serie 04, serie 08
 - Usada también en serie 09 (emisión menor a cargo de la Caja de Conversión, 1892).
 - Usada también en serie 10.
+- Usada también en serie 11.
 
 ### F-0253
 - Título: The Baedeker of the Argentine Republic (4.ª ed., 1914)
@@ -2772,6 +2782,7 @@ Formato de cada entrada:
 - Revisión 2026-11-24 (serie 09, revisión; lectura de verificación pedida por la sesión principal, desde un resultado de su propia búsqueda): enlace activo (página modificada el 2026-10-01); filas "5 centavos | 1896 | 31/01/1965 | 01/07/1965", "10 centavos | 1896 | 21/01/1966 | 01/07/1966", "20 centavos | 1896 | 31/01/1967 | 01/04/1967", sin norma del cese. La metadescripción dice "Ley 3871 del 5 de noviembre de 1881" frente a "4 de noviembre de 1899" del texto (inconsistencia interna). La otra página del Banco, https://www.bcra.gob.ar/emisiones-anteriores-de-billetes-y-monedas/ (modificada el 2025-08-22), dice "No se encontraron emisiones para la categoría monedas-anteriores" y trae la fila "Peso Moneda Nacional | Ley Nro.1130, modificada por Ley Nro.3871 | 05/11/1881".
 - Revisión 2026-11-25 (serie 10, investigación 1; lectura web-fetch pedida por la sesión principal desde su propia búsqueda, literal): "| 10 centavos | 1896 | 21/01/1966 | 01/07/1966 |"; metadato de modificación 2026-10-01T15:16:26-03:00; sin norma para las monedas de 1896; discrepancia interna de la página sobre la Ley 3871 (4/11/1899 en el cuerpo, "5 de noviembre de 1881" en la descripción). Usada también en serie 10.
 - Revisión 2026-11-25 (serie 10, revisión; lectura web-fetch pedida por la sesión principal desde su propia búsqueda): enlace activo (HTTP 200); metadatos modified_time 2026-11-24T19:10:28-03:00 y published_time 2025-10-08; filas sin cambios: "5 centavos | 1896 | 31/01/1965 | 01/07/1965", "10 centavos | 1896 | 21/01/1966 | 01/07/1966", "20 centavos | 1896 | 31/01/1967 | 01/04/1967"; también "1 centavo" y "2 centavos | 1882 | 21/04/1959 | 02/01/1960" y "50 centavos | 1941 | 31/01/1969 | 29/03/1978". Sin norma para ninguna de esas fechas; la página no usa la palabra "níquel".
+- Revisión 2026-11-26 (serie 11, investigación 1; lectura web-fetch pedida por la sesión principal): fila literal `5 centavos | 1896 | 31/01/1965 | 01/07/1965`; modified_time 2026-11-24T19:10:28-03:00; sin columna de notas. La introducción de Peso Moneda Nacional cita la "Ley 3871 del 4 de noviembre de 1899" y el encabezado da 05/11/1881 para la misma ley (inconsistencia de la página). Usada también en serie 11.
 
 ### F-0258
 - Título: Museo Histórico y Numismático Héctor C. Janson — Documentos Históricos 1 (inventario SENIP)
@@ -3383,6 +3394,7 @@ Formato de cada entrada:
 - Usada en: serie 05
 - Usada también en serie 09 (CHIROLA, "particularmente la de níquel").
 - Usada también en serie 10.
+- Usada también en serie 11.
 
 ### F-0317
 - Título: *Vocabulario rioplatense razonado*, t. I, entrada CHAUCHA
@@ -3646,6 +3658,7 @@ Formato de cada entrada:
 - Cita clave: Decreto de enero de 1882: desde el 1/02/1882 "todas las liquidaciones tengan la equivalencia en moneda nacional" (cita la ley del 5/11/1881 y un decreto del 2/11 sobre la relación entre monedas); sin decretos sobre la Casa de Moneda, la plata o los cuños en ese tramo.
 - Usada en: serie 05
 - Revisión 2026-11-23 (serie 08, revisión; lectura web-fetch pedida por la sesión principal, URL aparecida en búsqueda): el documento es el tomo de 1882 ("REGISTRO NACIONAL-1882", desde el decreto 12179 del 1/01/1882). Texto literal leído: caracteres 0–40.000 (pp. 1–8) y 139.905–179.810 (pp. 24–30); sin menciones de moneda de cobre, cospeles, Casa de Moneda ni de la Ley 1130 en esos tramos; los decretos 12251 y 12252 (febrero de 1882) tratan boletos de tranvía emitidos como moneda. El resto (≈180.000–500.000) no se leyó en texto literal. Es la misma URL que `pendientes-chrome.md` #64 (que no se había cotejado con esta entrada). Usada también en serie 08 (constancia).
+- Revisión 2026-11-26 (serie 11, agente de la ronda 2): primer tramo (0–100.000 de ≈500.000 caracteres, páginas de 1882) sin níquel ni Ley 3321: constancia. Usada también en serie 11.
 
 ### F-0344
 - Título: Annual Report of the Secretary of the Treasury on the State of the Finances, 1885 (incluye el informe del Director of the Mint, 9/10/1885)
@@ -4565,6 +4578,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-23 (agente de la ronda 1, nivel 2; lectura por resumen)
 - Cita clave: p. 32, el sistema de 1881 tuvo "piezas de 5 pesos ('argentino oro'), 1 peso ('patacón de plata') y centavos en plata y cobre"; p. 35: "En el año 1939 se agregaron centavos de cobre en los valores de 1 y 2".
 - Usada en: serie 08
+- Revisión 2026-11-26 (serie 11, agente de nivel 2, por resumen): la Caja de Conversión (1890–1935) emitió billetes y "monedas de cuproníquel"; no trata el canje de los billetes fraccionarios. Usada también en serie 11.
 
 ### F-0436
 - Título: Annual Report of the Secretary of the Treasury, 1885–1889 (FRASER, PDF 60689), con el informe del Director de la Casa de Moneda del año fiscal 1886 (apéndice, pp. 232–334)
@@ -4750,6 +4764,7 @@ Formato de cada entrada:
 - Usada en: serie 09, temas/moneda-de-niquel-ley-3321.md
 - Revisión 2026-11-24 (auditor de la serie 09, leído en la web, tramo 300.000–400.000): las tres filas (5, 10 y 20 c) y la nota 121 coinciden.
 - Usada también en serie 10 (fila del 10 c).
+- Usada también en serie 11.
 
 ### F-0454
 - Título: Registro 9-1310, moneda de 20 centavos 1942 (Museo Nacional Benjamín Vicuña Mackenna, Chile), SURDOC
@@ -4843,6 +4858,7 @@ Formato de cada entrada:
 - Cita clave: Argentina, "20 centavos", fecha 1908; sin material, peso, diámetro ni procedencia. Descartados en la misma búsqueda, por estar fuera de la serie: Fitzwilliam CM.436-1997 (objeto 270088), "20 centavos coin, 1949", donación de Mrs Jill Sturdy (9/06/1997), y Hood Museum of Art 165.9.31441, "20 Centavos", 1951, "Silver metal", 13/16 in, donación de Jack McKenna.
 - Usada en: serie 09
 - Usada también en serie 10 (pareja del 10 c de 1908, CM.29-1992, F-0470).
+- Usada también en serie 11.
 
 ### F-0463
 - Título: "Acuñamiento de monedas"
@@ -4854,6 +4870,7 @@ Formato de cada entrada:
 - Cita clave: paráfrasis: Ley 3321 "del 4 de diciembre de 1895", cuproníquel 75/25 de 2, 3 y 4 g; antes circulaban billetes fraccionarios de 5, 10 y 20 c, costosos y de rápido deterioro; las piezas se llamaban popularmente "níqueles"; los cospeles se importaban de Alemania y de EE. UU., con problemas de abastecimiento en las dos guerras; se les estimó una duración de "cuarenta años"; las acuñaciones de 1896 se interrumpieron por antieconómicas.
 - Usada en: serie 09
 - Usada también en serie 10.
+- Usada también en serie 11.
 
 ### F-0464
 - Título: NGC Collectors Society — galería del registro, 10 Centavos 1916 NGC MS64 (sc=759085)
@@ -4925,6 +4942,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-25 (agente de la ronda 1, nivel 4; lectura literal de WebFetch)
 - Cita clave: 10 centavos, 1908; otros números 734*3a, M.3A-1816, CM.1120-1999, CM.BI.2657-R; donación del Dr. Mark Blackburn, ingreso 2/03/1992; "one of nine 20th-century coins"; sin material, peso, diámetro ni eje.
 - Usada en: serie 10
+- Usada también en serie 11.
 
 ### F-0471
 - Título: NGC World Coin Price Guide — Argentina 10 Centavos KM# 35 (1896–1942), datos de NumisMaster
@@ -4975,6 +4993,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-25 (solo el título del resultado de búsqueda; la página dio client_error)
 - Cita clave: "FALSCHER PLANCHETFEHLER Argentinien 1921 10 Centavos ON 5 Centavos" ("falscher Planchetfehler": error de cospel equivocado).
 - Usada en: serie 10
+- Usada también en serie 11.
 
 ### F-0476
 - Título: Argentina 1896 10 centavos (página de la wiki)
@@ -5007,6 +5026,7 @@ Formato de cada entrada:
 - Cita clave: "The United States Mint struck coins for Argentina in 1919 and 1920"; algunos clientes pidieron cospeles para sus propias cecas, como la Argentina en 1919 y 1920; se conocen tres Buffalo Nickels sobre cospel argentino de 10 c.
 - Usada en: serie 10
 - Revisión 2026-11-25 (serie 10, investigación 2; dos lecturas de agentes por resumen): el Buffalo Nickel de la nota es de 1919, NGC MS62, y estuvo 38 años en una cápsula de ANACS; "There are only three Buffalo Nickels struck on Argentina 10 Centavos planchets known."; la Argentina "requested to be furnished with planchets to be utilized at their native mints"; peso, casa y precio del ejemplar no indicados. Según el agente de mercado (resumen), la nota cita precios de Heritage de Buffalo Nickels sobre otros cospeles: hasta USD 46.000 (cospel de dime), PCGS AU58 en FUN 2020 USD 14.400, hasta USD 28.200 sobre cospel de centavo.
+- Usada también en serie 11.
 
 ### F-0479
 - Título: "Día del Colectivero: cómo fue el primer viaje de la historia y cuánto costaba" (24/09/2022)
@@ -5048,6 +5068,7 @@ Formato de cada entrada:
 - Cita clave: tabla "ARGENTINA¹", nota 1 "Coin blanks."; filas: "1919 ... P 20 centavos .. 15,175,000 75 copper, 25 nickel"; "P 10 centavos .. 21,840,000 .... do"; "P 5 centavos .. 15,660,000"; subtotal 1919 "52,675,000"; "1920 ... P 10 centavos .. 3,443,334"; "P 5 centavos .. 7,940,000"; subtotal 1920 "11,383,334"; "Total .... 64,058,334" (igual al resumen por país de la p. 94). Pesos y diámetros (4 g/21 mm, 3 g/19 mm, 2 g/17 mm) desalineados por el OCR. Son las únicas filas argentinas de la publicación.
 - Usada en: serie 10, temas/moneda-de-niquel-ley-3321.md
 - Revisión 2026-11-25 (serie 10, investigación 2): el PDF de FRASER llamado "1974_domesticforeigncoins_usmint.pdf" es la misma edición 1792–1965 (portada "DOMESTIC AND FOREIGN COINS MANUFACTURED BY MINTS OF THE UNITED STATES", "1792-1965"; prefacio "Domestic Coin Pamphlet" firmado por Eva Adams, Director of the Mint), no una edición posterior. Leído en el tramo con la p. 95 (lectura web-fetch pedida por la sesión principal desde su propia búsqueda, y agente de la ronda 2): columnas "Calendar year", "U.S. Coinage Mint", "Denomination", "Coinage during year--number of pieces", "Composition", "Per coin: Gross weight in grams / Diameter in millimeters"; 1919 P: 20 c 15,175,000 (4 g, 21 mm), 10 c 21,840,000 (3 g, 19 mm), 5 c 15,660,000 (2 g, 17 mm), subtotal 52,675,000; 1920 P: 10 c 3,443,334, 5 c 7,940,000, subtotal 11,383,334; total 64,058,334; nota "1. Coin blanks."; p. 94 "Argentina .... 64,058,334". Tipo de lectura: texto literal de OCR devuelto por la lectura web-fetch (las cantidades, subtotales y total, literales); la asignación de cada fila a su año y la alineación de pesos y diámetros con cada denominación son reconstrucción del lector por el orden del OCR, y cierran con los subtotales. Años calendario (la p. 93 aclara que antes de 1906 algunas cifras son de año fiscal). La página usmint.gov "Coinage for Foreign Governments" (extracto del informe de 1874) no menciona a la Argentina.
+- Usada también en serie 11.
 
 ### F-0483
 - Título: "1919 1c Wheat Cent on Argentina 10c Planchet NGC VF-20" (ficha de venta) y "Coins Struck on Foreign Nation's Coinage" (blog, "Coin #3")
@@ -5058,6 +5079,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-25 (agente de la ronda 1, nivel 3, investigación 2; dos lecturas por resumen de WebFetch)
 - Cita clave: "The coin weighs 3.2 grams."; centavo de 1919 de níquel, sobre un cospel argentino de 10 c que cayó por error en la prensa de centavos mientras la Casa de Moneda de EE. UU. trabajaba para la Argentina; en el blog, "1c 1919 Wheat Cent on Argentina 10c Planchet VF-20". Precio y venta no figuran.
 - Usada en: serie 10, temas/moneda-de-niquel-ley-3321.md
+- Usada también en serie 11.
 
 ### F-0484
 - Título: "Domestic struck on foreign planchet" (Part V. Planchet Errors)
@@ -5068,6 +5090,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-25 (agente de la ronda 1, nivel 2, investigación 2; resumen de WebFetch)
 - Cita clave: "The U.S. Mint struck copper-nickel 10 centavos pieces for Argentina in 1920."; ilustra un centavo Lincoln de 1920 de Filadelfia sobre cospel argentino de 10 c de 3,1 g.
 - Usada en: serie 10, temas/moneda-de-niquel-ley-3321.md
+- Usada también en serie 11.
 
 ### F-0485
 - Título: "Ten Centavos (Argentina)", ABDMS030977 (objeto 36700)
@@ -5150,3 +5173,73 @@ Formato de cada entrada:
 - Cita clave: solo el título del resultado de búsqueda; la página abre hoy un aviso de cierre del servicio (liquidación de la empresa), sin datos de la pieza.
 - Usada en: serie 10
 
+
+### F-0493
+- Título: Argentina 1915, 1927, 1929 y 1936 5 centavos (páginas de la wiki)
+- Autor / institución: coinvarieties.com (wiki de variantes de coleccionistas)
+- URL: https://coinvarieties.com/index.php/Argentina_1927_5_centavos ; https://coinvarieties.com/index.php/Argentina_1915_5_centavos ; https://coinvarieties.com/index.php/Argentina_1929_5_centavos ; https://coinvarieties.com/index.php/Argentina_1936_5_centavos
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-26 (agente de la ronda 1, nivel 4)
+- Cita clave: "very common in low grade but surprisingly scarce in choice condition" (1927; igual en 1929 y 1936); 1936 abunda en "dealer junk boxes" (paráfrasis); 1915 "a better date"; tiradas 1915 1.310.000, 1927 5.650.000, 1929 11.831.000, 1936 7.175.000 (catálogo); acuñación "most likely at the Buenos Aires mint"; sección "Variants" vacía.
+- Usada en: serie 11
+
+### F-0494
+- Título: "5 centavos 1896–1942" (ficha 7822399870), tabla de tiradas por año
+- Autor / institución: numisquare.com (agregador de catálogo; solo pista)
+- URL: https://www.numisquare.com/5-centavos-1896-1942-7822399870.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-26 (agente de la ronda 2)
+- Cita clave: 43 fechas de 1896 a 1942, sin 1900–1902 ni 1932; 1896 1.499.000 … 1915 1.310.000, 1916 1.310.000 … 1929 11.831.000; 1930 "3 redondo" 7.110.000, 1931 "3 plano" 506.000, 1933 y 1934 "3 redondo"; 1942 8.692.000; 2 g, 17 mm. Cifras de catálogo (Krause), no oficiales.
+- Usada en: serie 11
+
+### F-0495
+- Título: Agregadores de catálogo del 5 c KM 34 (solo pista): coinscatalog.net "Argentine 5 Centavos Capped Liberty 1896-1942 KM# 34"; worldcoinsinfo "Argentina 5 centavos"; coin-identifier "5 Centavos, Argentina 1896-1942"; coin-brothers coin5730; Numista 3241 (5 c de bronce de aluminio, KM 40)
+- Autor / institución: coinscatalog.net; worldcoinsinfo.com; coin-identifier.com; coin-brothers.com; Numista (catálogos y agregadores)
+- URL: https://coinscatalog.net/argentina/coin-5-centavos-capped-liberty-km-34-republic-decimal-coinage ; https://worldcoinsinfo.com/es/paginas/argentina-5-centavos-monedas.html ; https://coin-identifier.com/coins/5-centavos-argentina-1896-1942-1459 ; https://coin-brothers.com/catalog/coin5730 ; https://numista.com/3241
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-26 (agentes de las rondas 1 y 2)
+- Cita clave: coinscatalog: 2 g, 17,3 mm, 1,1 mm, cobre-níquel, canto estriado; tiradas 1896–1908 iguales a F-0494; MS60 USD 120 (1903) y USD 100 (1907). worldcoinsinfo: años 1896–1899, 1903–1931, 1933–1942. coin-brothers: KM 34, Schön 37, CJ 130–172. Numista 3241: 5 c de bronce de aluminio 1942, 2.130.000 (serie 14).
+- Usada en: serie 11
+
+### F-0496
+- Título: eBay.de — "1896 PCGS MS 63 Argentina 5 Centavos Rare Key Liberty HD Coin POP 1/0" (anuncio 406425604638)
+- Autor / institución: eBay (vendedor sin identificar)
+- URL: https://www.ebay.de/itm/406425604638
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-26 (agentes de mercado; solo título del resultado de búsqueda, anuncio no abierto)
+- Cita clave: "1896 PCGS MS 63 … Rare Key … POP 1/0"
+- Usada en: serie 11
+
+### F-0497
+- Título: "One of nine 20th-century coins:" — "Argentina, 5 centavos, 1908" (CM.30-1992, objeto 276179)
+- Autor / institución: The Fitzwilliam Museum, Cambridge (Coins and Medals)
+- URL: https://data.fitzmuseum.cam.ac.uk/id/object/276179
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (registro de museo)
+- Consultada: 2026-11-26 (agente de nivel 1 y lectura web-fetch pedida por la sesión principal)
+- Cita clave: "Argentina, 5 centavos, 1908."; "Given (1992-03-02) by Blackburn, Mark, Dr"; sin material, peso ni diámetro; historia "Under Review".
+- Usada en: serie 11
+
+### F-0498
+- Título: Registro 9-1350, "5 centavos 1942" (Museo Nacional Benjamín Vicuña Mackenna, inventario 0280)
+- Autor / institución: SURDOC (Servicio Nacional del Patrimonio Cultural, Chile)
+- URL: https://surdoc.cl/registro/9-1350/pdf
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (registro de museo)
+- Consultada: 2026-11-26 (agente de nivel 1 y lectura web-fetch pedida por la sesión principal)
+- Cita clave: "Diámetro 1.7 cm"; "Acuñación - Cuproníquel"; anverso "rostro femenino de larga cabellera y gorro frigio"; reverso "elementos fitomorfos y numero 5"; "Moneda de circulación Argentina. Numero Krause KM# 34"; estado "Regular"; sin peso.
+- Usada en: serie 11
+
+### F-0499
+- Título: "5 Centavos from Argentina" (inv. 2001.87.45957, objeto 194970)
+- Autor / institución: Yale University Art Gallery
+- URL: https://artgallery.yale.edu/collections/objects/194970
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (registro de museo)
+- Consultada: 2026-11-26 (agente de nivel 1, lectura por resumen)
+- Cita clave: 5 c de 1954 con San Martín, acero revestido de cuproníquel, 2,01 g, 17,25 mm (no es de la serie 11; sirve para la serie 15).
+- Usada en: serie 11 (descartada)
