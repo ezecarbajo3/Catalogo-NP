@@ -6,7 +6,7 @@ anios: "1939–1950"
 denominaciones: [2 centavos, 1 centavo]
 metal: "cobre (según Rey y el museo del BCRA) / bronce y cobre (según catálogos y la wiki coinvarieties)"
 km: [KM 37, KM 37a, KM 38, KM 38a]
-estado: en investigación
+estado: a revisar
 sesiones: [i1 2026-11-27]
 ultima_actualizacion: "2026-11-27"
 ---
