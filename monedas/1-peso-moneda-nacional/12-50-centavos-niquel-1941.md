@@ -6,15 +6,15 @@ anios: "1941"
 denominaciones: ["50 centavos"]
 metal: "níquel puro"
 km: ["KM 39", "ensayos KM Pn54 (1940) y Pn55 (1941)"]
-estado: a revisar
-sesiones: [i1 2026-11-27]
+estado: completa
+sesiones: [i1 2026-11-27, r1 2026-11-27]
 ultima_actualizacion: "2026-11-27"
 ---
 
 # 50 centavos de níquel 1941
 
 ## Resumen
-Es la primera moneda de 50 centavos del peso moneda nacional después del "medio patacón" de plata de 1881–1883, y es de níquel puro, no del cuproníquel de los "níqueles" de 1896. La ordenó el Decreto 45.560 de 1939 para reemplazar al billete de 50 centavos, con un diseño encargado en París a Lucien Bazor que el Banco Central rechazó; el Decreto 76.714 de 1940 la hizo salir con la Libertad de los "níqueles" de 1896. Se conoce solo con fecha 1941 y se acuñó con cospeles de Austria y de los Estados Unidos, y la guerra la cortó en poco más de un año: el público la atesoró, volvió el billete en mayo de 1942 y en 1943–1944 se fundieron más de 2,5 millones de piezas. La tirada que Rey toma de la Memoria de Hacienda de 1941 (11.044.714) no coincide con la de los catálogos (10.961.142).
+Es la primera moneda de 50 centavos del peso moneda nacional después del "medio patacón" de plata de 1881–1883, y es de níquel puro, no del cuproníquel de los "níqueles" de 1896. La ordenó el Decreto 45.560 de 1939 para reemplazar al billete de 50 centavos, con un diseño encargado en París a Lucien Bazor que el Banco Central rechazó; el Decreto 76.714 de 1940 la hizo salir con la Libertad de los "níqueles" de 1896. Se conoce solo con fecha 1941 y se acuñó con cospeles de Austria y de los Estados Unidos, y la guerra la cortó en poco más de un año: el público la atesoró cuando se supo del hundimiento del carguero "Texan" (cuya carga de metales para Buenos Aires solo afirma Rey), volvió el billete en mayo de 1942 y en 1943–1944 se fundieron más de 2,5 millones de piezas. La tirada que Rey toma de la Memoria de Hacienda de 1941 (11.044.714) no coincide con la de los catálogos (10.961.142).
 
 ---
 
@@ -31,7 +31,9 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **Decreto 119.976 (15/05/1942):** autorizó la Libertad de Bazor para los 5, 10 y 20 c de bronce de aluminio, por falta de níquel (serie 14) [F-0024] · probable.
 - **Cese de curso legal y desmonetización:** la tabla oficial del BCRA tiene una sola fila de monedas de 50 c del peso moneda nacional: "50 centavos | 1941 | 31/01/1969 | 29/03/1978" [F-0257] · confirmado (fechas). La página no da la norma ni distingue el níquel de 1941 de los 50 c posteriores.
 - La fila única del BCRA cubriría a todas las monedas de 50 c m$n (níquel 1941, San Martín 1952–1956 y Libertad 1957–1961). Se apoya en: no hay otra fila de 50 c y la de "1941" es la más antigua [F-0257]. · supuesto
-- Norma de puesta en circulación (23/03/1941), norma de la fundición de 1944 y normas del cese de 1969 y la desmonetización de 1978: no halladas (se buscó en InfoLEG, Boletín Oficial, BCRA y SAIJ por agentes de nivel 1 y de la ronda 2).
+- La línea de tiempo oficial de Casa de Moneda dice: "El 1° de enero cambia el signo monetario a Peso Ley 18.188", bajo el año 1969 [F-0519] · a confirmar (la página no cita la norma ni habla de las monedas en curso; la base de la serie 01 fecha el decreto-ley 18.188 en 1969 [F-0053]).
+- El cese del 31/01/1969 podría estar ligado a la reforma del signo monetario de 1969. Se apoya en: la coincidencia de año entre la fila del BCRA [F-0257] y la línea de tiempo de Casa de Moneda [F-0519]; ninguna fuente los vincula. · supuesto
+- Norma de puesta en circulación (23/03/1941), norma de la fundición de 1944 y normas del cese de 1969 y la desmonetización de 1978: no halladas (se buscó en InfoLEG, Boletín Oficial, BCRA y SAIJ por agentes de nivel 1 y de la ronda 2). Revisión 2026-11-27: tampoco en argentina.gob.ar/normativa con los números sin puntos ("Decreto 76714/1940", etc.), ni en las páginas de memorias y boletines estadísticos 1940–1943 del BCRA (sin PDF en resultados de búsqueda) · constancia.
 
 ## Contexto histórico y económico
 - La moneda de 50 c debía reemplazar al billete del mismo valor [F-0232] · probable.
@@ -62,7 +64,7 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 | Peso | 6 g (tolerancia 10 mg) | F-0232 (Decreto 45.560); F-0506, F-0512 | probable |
 | Composición / ley | níquel puro, tolerancia 20 milésimos | F-0232 | probable |
 | Diámetro | 24 mm (decreto) · 24,5 mm (comunidad) | F-0232, F-0512 · F-0506 | probable (24 mm) · ver Discrepancias |
-| Espesor | sin dato | — | — |
+| Espesor | 1,8 mm (solo una ficha de catálogo) | F-0520 | a confirmar |
 | Canto | acanalado (estriado); estrías por cm sin dato | F-0232 | probable |
 | Eje | sin dato | — | — |
 | Ceca | Casa de Moneda de la Nación, Buenos Aires | F-0232, F-0024 | confirmado |
@@ -79,7 +81,7 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - Acuñación: desde el 10/01/1941; primera entrega al BCRA el 24/01/1941 [F-0232, F-0024] · probable (dos estudios coincidentes que remiten a la misma Memoria de Hacienda 1941; Testolino cita el t. III, p. 168; la de Rey leída literal).
 - La falta de cospeles impidió aumentar la producción [F-0024] · probable.
 - Elementos de acuñación fabricados por la Casa de Moneda: 1940, 1 matriz de anverso y 1 de reverso, 1 punzón de cada cara, 13 cuños de anverso y 17 de reverso; 1941, 1 matriz de anverso y 213 cuños de anverso y 322 de reverso; total 2 matrices de anverso, 1 de reverso, 226 cuños de anverso y 339 de reverso (565 en total) [F-0232] · probable (cuadro leído literal).
-- Toda la tirada lleva fecha 1941 y se habría acuñado en 1941. Se apoya en: el cuadro de Rey solo da acuñación en 1941 y deja vacía esa columna en 1943–1944 [F-0232]; no se conoce fecha 1942. · supuesto
+- Toda la tirada lleva fecha 1941 y se habría acuñado en 1941. Se apoya en: el cuadro de Rey solo da acuñación en 1941 y deja vacía esa columna en 1943–1944 [F-0232]; no se conoce fecha 1942. En contra: según el mismo Rey, "hasta enero de 1942 se recibieron remesas" de cospeles en Buenos Aires [F-0232], de modo que una parte podría haberse acuñado a comienzos de 1942 con la fecha 1941. · supuesto
 - Movimiento según el cuadro de Rey (Memorias del BCRA y de Hacienda): emitidas 8.044.700 en 1941 y 824.629 en 1942; en circulación 7.771.513 al cierre de 1941, 8.524.490 en 1943 y 8.510.590 en 1944; existencias del BCRA 3.014.153 (1941), 2.476.000 (1942), 2.358.100 (1943), 1.572.700 (1944) y 1.575.300 (1945); fundidas 182.494 en 1943 (Memoria 1943, t. III, p. 277) y 2.365.000 en 1944 (Memoria 1944, t. III, p. 236) [F-0232] · probable (las cifras de 1943–1944 y de fundición leídas literal; las de 1941, 1942 y 1945 por resumen).
 - Rey advierte que en 1944 circulación, existencias y fundidas suman "ampliamente" más de 12 millones, más que lo acuñado, y lo atribuye a registros no sincronizados [F-0232] · probable.
 - Cunietti concilia: 10.961.142 acuñadas − 2.365.000 fundidas = 8.596.142, igual a 7.771.513 + 824.629 [F-0232] · probable.
@@ -88,7 +90,8 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 ## Circulación, retiro, desmonetización y fundiciones
 - Puesta en circulación por el BCRA el 23/03/1941; los bancos canjeaban "de a 200 monedas de níquel puro por dinero del mismo valor" [F-0232] · probable.
 - Las entregas a los bancos siguieron poco más de un año, hasta que se interrumpieron "por las dificultades para conseguir los cospeles nuevos" [F-0232] · probable.
-- El carguero estadounidense "Texan" fue hundido el 11/03/1942 al este de Cuba por el submarino alemán U-126; había salido de Nueva York con metales hacia Río de Janeiro, Montevideo y Buenos Aires (nota 7 de Rey) [F-0232] · probable. A fines de abril de 1942 se conoció en la Argentina la noticia del hundimiento del "Texan", que traía metales para acuñar; "la gente acaparó las monedas para prevenir el faltante de cambio, produciendo una escasez de circulante" [F-0232] · probable.
+- El carguero estadounidense "Texan" fue hundido por el submarino alemán U-126 al este de Cuba en marzo de 1942 [F-0232, F-0514, F-0515] · confirmado (el hecho; la fecha, en Discrepancias). uboat.net lo ubica a unas 40 millas al este de Nuevitas; el U-126 lo mandaba Ernst Bauer; 10 de los 47 tripulantes murieron y los sobrevivientes los recogió el pesquero cubano "Yoyo" (Rey: "Yo Yo") [F-0514, F-0232] · probable.
+- Carga y destino: según Rey (nota 7), había salido de Nueva York "cargado de metales" hacia Río de Janeiro, Montevideo y Buenos Aires [F-0232]; según uboat.net llevaba 10.915 t de "general cargo" en la ruta Nueva York – Puerto España – Río de Janeiro [F-0514], y una compilación que cita otras fuentes tampoco menciona metales ni el Río de la Plata [F-0515] · a confirmar (fuentes que se contradicen; ver Discrepancias). A fines de abril de 1942 se conoció en la Argentina la noticia del hundimiento del "Texan", que traía metales para acuñar; "la gente acaparó las monedas para prevenir el faltante de cambio, produciendo una escasez de circulante" [F-0232] · probable.
 - El 19/05/1942 volvió a circular el billete de 50 c, porque se había suspendido la entrega de monedas de níquel, "debido a la desmonetización con fines industriales o de acaparamiento del público por la suba de la cotización de ese metal" [F-0232] · probable (motivo). La fecha del 19/05/1942 [F-0232, F-0257] · confirmado: la tabla oficial del BCRA da para el billete de 50 c marcado "(1)" (la página lo explica como "Primer diseño") emisión 19/5/1942, cese 31/12/1960 y desmonetización 31/12/1962.
 - Fundición: 182.494 piezas en 1943 y 2.365.000 en 1944, en la Casa de Moneda [F-0232] · probable. Motivo no dado por Rey.
 - La fundición de 1943–1944 habría servido para recuperar el níquel, escaso y caro en la guerra. Se apoya en: la suba del precio del níquel y su uso industrial que Rey da como causa del retiro [F-0232] y en la afirmación de un foro de que "el metal sobrante se vendió" [F-0507]. · supuesto
@@ -99,7 +102,7 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - La costumbre de guardarla en alcancías explicaría que aparezca bien conservada [F-0507] · a confirmar (foro).
 - Atesoramiento documentado en 1942 [F-0232] · probable. En 1944 la circulación era de 8.510.590 piezas, con 1.572.700 más en el BCRA [F-0232] · probable.
 - Después de la fundición sobrevivirían muchas piezas, lo que explicaría que el tipo sea común. Se apoya en: la circulación de 1944 [F-0232] y la opinión de la comunidad [F-0506]. · supuesto
-- Sin censos de PCGS o NGC ni resultados de subasta del circulante en alto grado (se buscó en Heritage, Künker, Elsen, NumisBids, Sixbid, casas argentinas, PCGS y NGC: sin resultado).
+- Sin censos de PCGS o NGC ni resultados de subasta del circulante en alto grado (se buscó en Heritage, Künker, Elsen, NumisBids, Sixbid, casas argentinas, PCGS y NGC: sin resultado). Revisión 2026-11-27: tampoco en Stack's Bowers, Noble, Baldwin's, Spink, acsearch, coinarchives, Aureo & Calicó, Cayón, Tauler & Fau, Vitale, Bullion, Roberto Díaz ni Mercado Libre · constancia.
 
 ## Por año
 ### 1941
@@ -112,17 +115,22 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 | "Pelo rizado" / "Curled hair" (CJ 173.2) | cabello rizado (sin descripción detallada) | catálogo de referencia, vía F-0511, F-0512 | a confirmar |
 | Errores (descentradas, cospel equivocado, rotación) | — | no se hallaron | — |
 
-- coinvarieties no lista ninguna variante [F-0506] · constancia.
+- coinvarieties no lista ninguna variante [F-0506] · constancia. Una ficha de catálogo nombra 173.1 y 173.2 sin explicar la diferencia [F-0520] · constancia. Revisión 2026-11-27: ningún foro (argentinos, Foronum, CoinTalk, Reddit), lote de subasta ni estudio describe cómo se distinguen ni cuál es más escasa · constancia.
 - Las dos variantes de pelo podrían corresponder a las dos matrices de anverso, una de 1940 y otra de 1941. Se apoya en: el cuadro de elementos de acuñación de Rey [F-0232]; ninguna fuente lo vincula. · supuesto
 
 ## Ensayos y pruebas
 - **Ficha 55 del Museo Janson** (registro SENIP): pieza de níquel fechada 1936, 6 g, 24,5 mm, con el escudo y "REPUBLICA ARGENTINA ... 1936" en una cara y la Libertad de Oudiné con "LIBERTAD ... CINCUENTA ... CENTAVOS" en la otra, gráfila de puntos, canto estriado; categoría "Acuñación"; donación; estado Excelente [F-0231] · confirmado (registro del museo; lectura de agente por resumen, ver la nota del 2026-11-27 en F-0231).
 - La pieza "1936" podría ser un proyecto anterior no documentado o una prueba de 1939–1940 con la fecha mal leída o mal registrada. Se apoya en: su diseño coincide con el del Decreto 45.560 [F-0231, F-0232]. · supuesto
 - **Ensayo de Bazor de 1940 en níquel (KM Pn54):** Heritage, Long Beach #441, 27/09/2007, lote 50239: "superb gem Proof", 24 mm, 6,10 g, canto estriado, "ESSAI" bajo el busto, "very rare type"; según la casa se habrían acuñado tres [F-0508] · probable (descripción de mercado). CGB fwo_618321: "LIBERTAD / 50 CTS / LUCIEN BAZOR / ESSAI", R3, 24 mm, 5,91 g, eje 6 h, 350 € (9/03/2021) [F-0509] · probable.
-- **Ensayo de 1940 en metal amarillo (bronce o latón):** CGB vía MA-Shops 294069, 23,99 mm, 5,81 g, "INÉDIT" [F-0510] · probable.
+- Otras tres ventas de CGB del ensayo de 1940 en níquel, todas R3: fwo_322395, 6,09 g, encapsulado PCGS SP64, 760 € el 19/04/2016 [F-0517]; fwo_326348, 5,91 g, "MS", 540 € el 08/11/2016 [F-0518]; fwo_444841, 5,91 g, PCGS SP64, 270 € con dos postores al cierre del 10/12/2024 (sin verificar si es el precio final) [F-0516] · probable (descripciones de mercado). CGB dice que estos ensayos no figuran en el *World Coins* [F-0517] · probable.
+- Pesos conocidos del ensayo de níquel de 1940: 6,10 g [F-0508], 6,09 g [F-0517] y 5,91 g en tres ventas de CGB [F-0509, F-0516, F-0518] · probable.
+- Las tres ventas de CGB con 5,91 g (2016, 2021 y 2024) podrían ser la misma pieza revendida. Se apoya en: el peso idéntico y la misma casa [F-0509, F-0516, F-0518]; habría que comparar las fotos. · supuesto
+- **Ensayo de 1940 en metal amarillo (bronce o latón):** CGB vía MA-Shops 294069, 23,99 mm, 5,81 g, "INÉDIT" [F-0510] · probable. Eje 6 h, grado MS, mancha de oxidación en el reverso [F-0510] · probable (lectura por resumen).
+- Según el agente que leyó la ficha de CGB, el vendedor diría que a los ensayos siguió una acuñación "entièrement refondue" (fundida por completo) por la guerra [F-0510] · a confirmar (paráfrasis no verificada; contradice el cuadro de Rey, ver Discrepancias).
 - Los ensayos conocidos de níquel y de metal amarillo podrían corresponder a los dos que Moeneclaey mandó el 26/09/1940, uno de níquel y otro "de cobre". Se apoya en: la coincidencia de año y metales [F-0024, F-0508–F-0510]; el metal amarillo no es necesariamente cobre. · supuesto
-- **Ensayo fechado 1941 (KM Pn55):** níquel, 5,58 g, 24 mm, escudo y Libertad de Bazor con su firma [F-0511] · a confirmar (catálogo); Testolino lo ilustra como ensayo de níquel de 1941 (imagen 8) [F-0024] · probable.
+- **Ensayo fechado 1941 (KM Pn55):** níquel, 5,58 g, 24 mm, escudo y Libertad de Bazor con su firma [F-0511] · a confirmar (catálogo); otra ficha de catálogo da 5,8 g y la leyenda "LIBERTAD LUCIEN BAZOR 50 CS" [F-0521] · a confirmar; ninguna venta con precio hallada; Testolino lo ilustra como ensayo de níquel de 1941 (imagen 8) [F-0024] · probable.
 - Un foro dice que el ensayo de Bazor de 1940 se acuñó sobre los mismos cospeles, sin marca de ceca [F-0507] · a confirmar.
+- El inventario de Ensayos del Museo Janson (revisado hasta el carácter 400.000 de ≈500.000) no tiene ensayos de Bazor ni piezas de 50 c de 1940–1941; la única de 1936–1941 es la ficha 55 [F-0231] · probable (lectura por resumen, tramos truncados).
 
 ## Falsificaciones conocidas
 - No se hallaron (se buscó en foros, mercado y estudios: sin resultado).
@@ -136,6 +144,7 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **Turín y Morlon**: grabadores de París sugeridos en 1939 [F-0024] · probable.
 - **Eugène Oudiné**: autor de la Libertad de 1881 que se adaptó [F-0024] · confirmado (series 03–11).
 - **Arnaldo J. Cunietti-Ferrando y Héctor Carlos Janson**: catálogos con la tirada 10.961.142 [F-0232] · probable.
+- **Ernst Bauer**, comandante del U-126, que hundió al "Texan" [F-0514] · probable.
 - **Daniel A. Rey**, subdirector del Museo Janson del BCRA: autor del estudio de 2019 [F-0232] · confirmado.
 - Empresas: Casa Arthur Krupp (Berndorf, Austria), Scovill Manufacturing Co. (EE. UU.), New York Steel Exchange Arg. [F-0232] · probable.
 
@@ -143,6 +152,7 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - Licitación del 3/05/1939 por 10.000.000 de cospeles de níquel puro [F-0232] · probable (resumen; la licitación del 3/05/1939 ya figura para el cobre en la serie 07).
 - 19/07/1939: convenio con "la Casa Arthur Krupp de la localidad de Berndorf", que mandó 1.000.000 de cospeles; al estallar la guerra rescindió el contrato "para cubrir la necesidad de la industria bélica y por la peligrosidad de los embarques" [F-0232] · probable.
 - Noviembre de 1939: nueva licitación entre firmas de EE. UU.; se contrató a New York Steel Exchange Arg. para traer los cospeles de Scovill Manufacturing Co.: 10.066.264 cospeles, US$ 1,944 por kg, unos 60.400 kg (Memoria de Hacienda 1940, t. III, pp. 278–279) [F-0232] · probable.
+- "Hasta enero de 1942 se recibieron remesas en Buenos Aires" (sección "La provisión de cospeles" de Rey; leído literal en la revisión) [F-0232] · probable.
 - Un foro atribuye los cospeles a una firma canadiense [F-0507] · a confirmar (ver Discrepancias).
 - 1.000.000 (Krupp) + 10.066.264 (Scovill) = 11.066.264 cospeles, apenas por encima de la tirada de 11.044.714. · supuesto (cuenta propia sobre [F-0232]; sugiere que casi todos los cospeles se acuñaron).
 
@@ -157,10 +167,12 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 
 ## Historias y curiosidades
 - Paralelo con el 20 c uruguayo de 1942 [F-0507] · a confirmar.
+- El "Texan", construido en 1902, había servido como USS Texan (ID 1354) en la Primera Guerra Mundial; navegaba sin armas ni escolta [F-0514] · probable.
 - El diseño de Bazor rechazado para el 50 c se usó desde 1942 en los 5, 10 y 20 c de bronce de aluminio [F-0024] · probable; un foro dice que hasta 1950 [F-0507] · a confirmar.
 
 ## Observaciones de mercado
 - Ensayo Bazor 1940 níquel: Heritage, 27/09/2007, lote 441-50239, precio no visible [F-0508]; CGB, 350 € con un postor, 9/03/2021 (a verificar si es cierre) [F-0509].
+- Ensayo 1940 níquel, otras ventas de CGB: 760 € (19/04/2016, SP64 PCGS, 6,09 g) [F-0517]; 540 € (08/11/2016, MS, 5,91 g) [F-0518]; 270 € con dos postores (10/12/2024, SP64 PCGS, 5,91 g; cierre sin verificar) [F-0516].
 - Ensayo 1940 metal amarillo: CGB, 400 € precio fijo [F-0510].
 - Circulante: ningún resultado con grado y precio hallado.
 
@@ -172,18 +184,24 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - **Tirada:** 11.044.714 según la Memoria de Hacienda 1941 (vía Rey) frente a 10.961.142 de los catálogos de Cunietti y Janson [F-0232]; la wiki coinvarieties da 1.000.000 [F-0506] (probable error).
 - **Diámetro:** 24 mm (Decreto 45.560, vía Rey [F-0232]; Greysheet [F-0512]; ensayos [F-0508, F-0511]) frente a 24,5 mm (coinvarieties [F-0506]; ficha 55 de 1936 [F-0231]).
 - **Origen de los cospeles:** Krupp (Austria) y Scovill (EE. UU.) según Rey [F-0232]; "firma canadiense" según un foro [F-0507].
-- **Fecha del "Texan":** hundido el 11/03/1942 (nota 7 de Rey); la noticia se conoció "a fines de abril" (texto de Rey) [F-0232]. No es contradicción, pero hay un mes y medio entre ambas.
+- **Fecha del "Texan":** 11/03/1942 según Rey (nota 7) [F-0232] y, según una compilación, también para *American Merchant Marine at War* y Moore [F-0515]; 12/03/1942 a las 02:34 según uboat.net [F-0514]. Podría ser diferencia entre hora local y hora alemana (no verificado). La noticia se conoció en la Argentina "a fines de abril" (Rey) [F-0232].
+- **Carga y destino del "Texan":** "cargado de metales" hacia Río, Montevideo y Buenos Aires (Rey) [F-0232] frente a "general cargo" en la ruta Nueva York – Puerto España – Río de Janeiro (uboat.net) [F-0514, F-0515].
+- **Destino de la acuñación:** el cuadro de Rey da 2.547.494 piezas fundidas en 1943–1944 sobre unos 11 millones [F-0232]; la ficha de CGB diría que la acuñación fue "entièrement refondue" [F-0510 · paráfrasis no verificada].
+- **Peso del ensayo de 1941 (Pn55):** 5,58 g [F-0511] o 5,8 g [F-0521], ambos de catálogo.
 - **Ensayo de 1936:** la ficha 55 del Museo Janson fecha en 1936 una pieza de níquel con escudo y Libertad [F-0231]; Rey y Testolino no mencionan proyectos anteriores a 1939 [F-0232, F-0024].
 - **Cara de la Libertad:** en la ficha 55 y en la pattern de 1941 la Libertad está en la cara sin el año (llamada reverso), como preveía el Decreto 45.560; en la moneda adoptada, según el Decreto 76.714, el anverso lleva la Libertad con "República Argentina" y el año [F-0231, F-0511, F-0232].
 
 ## Pistas para la próxima sesión
 - Memorias del Departamento de Hacienda 1939–1945, t. III (Casa de Moneda y moneda subsidiaria) en CDI-MECON (colección `memoria2`): ubicar las de 1940, 1941, 1943 y 1944 (pp. 166 y 168 de 1941, 277 de 1943, 236 de 1944, 278–279 de 1940); el índice "Memorias ordenadas por fecha" dio ROBOTS_UNREACHABLE (pendientes-chrome #109, #122).
-- Memorias anuales del BCRA 1941–1945 (pendientes-chrome #80): emitidas, existencias y motivo de la fundición.
+- Memorias anuales del BCRA 1941–1945 (pendientes-chrome #80) y boletines estadísticos mensuales de 1941–1942 (PDF boldat1941MM.pdf, enlazados desde páginas del BCRA pero nunca en un resultado de búsqueda; #123): emitidas, existencias, circulación y motivo de la fundición.
+- Minerals Yearbook 1940 y 1941 (US Bureau of Mines), capítulo "Nickel and Cobalt", en search.library.wisc.edu (bloqueado; #127): exportación de cospeles a la Argentina.
+- "Texan": ficha MARAD (vesselhistory.marad.dot.gov), informes de sobrevivientes y prensa de marzo–abril de 1942 para la carga real (#128).
 - Texto de los decretos 45.560/1939, 76.714/1940 y 96.137/1941 en el Boletín Oficial; norma del cese del 31/01/1969 y de la desmonetización del 29/03/1978.
 - Bibliografía: Ferrari, "Un 'ensayo' inédito y las monedas de cincuenta centavos 1881–1956" (1956); Matassi y Díaz, *La Libertad. Lucien Bazor* (Museo Casa de Moneda, 2009); Burzio, *El ideal de Libertad en la moneda argentina* (1962); Cunietti-Ferrando (1964); Janson, cap. "Ensayos Nacionales".
 - Variantes de pelo liso y rizado: quién las describió y cómo se distinguen (fotos comparadas).
-- Ensayo fechado 1941 (Pn55): ventas, peso y procedencia; ensayos CGB fwo_326344, 326346, 444840, 845322 y v37_1566, v46_0827 (bronce o latón).
-- Resto del inventario de Ensayos del Museo Janson (caracteres 0–100.000 y 200.000–500.000) buscando fichas de 1940–1941.
+- Ensayo fechado 1941 (Pn55): ventas, peso y procedencia; ensayos CGB fwo_326344, 326346, 444840, 845322 y v37_1566, v46_0827 (bronce o latón), fwo_326349 (níquel) y fwo_423427 y fwo_322399 (títulos de ensayos de 1940 en cuproníquel, sin leer; #126). Comparar las fotos de las tres ventas de 5,91 g.
+- Verificar en el francés la frase "entièrement refondue" de CGB (MA-Shops 294069).
+- Resto del inventario de Ensayos del Museo Janson: tramo 400.000–500.000 y fichas 1–36 en detalle (#129).
 - Prensa de 1941–1942 (hemerotecas): recepción, canje, el "Texan", la vuelta del billete.
 - Censos PCGS/NGC del KM 39; eBay.de 316333649872; coin-brothers coin5761 (foto de NumisCorner).
 - Boletines estadísticos del BCRA de 1941–1942 (circulación de monedas de níquel).
@@ -199,6 +217,8 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - Los cospeles de Krupp y Scovill (11.066.264) casi igualan la tirada oficial (ver Fabricación).
 - Sería magnética por ser de níquel puro (ver Ficha técnica).
 - Desgaste esperable en gorro, pelo y oreja (ver Graduación).
+- El cese del 31/01/1969 podría estar ligado al cambio de signo monetario de 1969 (ver Normativa).
+- Las tres ventas de CGB de 5,91 g podrían ser la misma pieza (ver Ensayos y pruebas).
 
 ---
 

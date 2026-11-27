@@ -2496,6 +2496,7 @@ Formato de cada entrada:
 - Revisión 2026-11-25 (serie 10, revisión; dos lecturas de agente por resumen de los primeros 100.000 caracteres y una de los caracteres 100.000–300.000): ficha N.º 10, ensayo de 10 centavos de 1940 en bronce, 2,1 g, 18,48 mm, anverso "Libertad de Oudiné" y "REPUBLICA ARGENTINA", reverso "10 / CENTAVOS" entre ramas de laurel, "Ensayo presentado por Casa de Moneda de la Nación" (paráfrasis del resumen), conservación "Muy Bueno", en la bóveda del Museo; cita a Janson (2020). En el tramo 100.000–300.000 (fichas ≈51–99) no hay ensayos ni pruebas de 5, 10 o 20 c de cuproníquel; ficha 51 (20 c 1942 cobre-aluminio, serie 14) y ficha 55 (50 c 1936 de níquel, serie 12). La cita literal de la ficha N.º 10 sigue pendiente.
 - Usada también en serie 11.
 - Revisión 2026-11-27 (serie 12, investigación 1; agente de nivel 1, caracteres 100.000–200.000 por resumen): ficha 55: Peso Moneda Nacional, Casa de Moneda de la Nación, 1936, categoría "Acuñación", níquel, 6 g, 24,5 mm; una cara con el escudo y "REPUBLICA / ARGENTINA ... 1936"; la otra con la Libertad de Oudiné y "LIBERTAD ... CINCUENTA ... CENTAVOS", gráfila de puntos, canto estriado recto; donación; estado Excelente. Sin otra ficha de 50 c de 1940–1941 en ese tramo. Usada en serie 12.
+- Revisión 2026-11-27 (serie 12, revisión; agente de la ronda 2, caracteres 0–400.000 por resumen, con tramos truncados): la única ficha de 50 c fechada 1936–1941 es la 55; no hay ensayos de Bazor ("ESSAI") de 1940 ni piezas de 1941. Fichas 52–53 (1878), 56 (10 c 1958), 59–60 (50 c 1996), 66 (50 c 1881), 71–72 (50 c aluminio 1958, 1,8 g, 23 mm) fuera de rango; ficha 10 (ensayo de 10 c de bronce 1940, alta 01/01/1995, motivo "Otros") y ficha 51 (20 c 1942) para la serie 14. Falta revisar el tramo 400.000–500.000 y las fichas 1–9, 11–31 y 32–36 en detalle.
 
 ### F-0232
 - Título: Las monedas de 50 centavos de 1941: un experimento de circulación monetaria (julio de 2019)
@@ -2515,6 +2516,7 @@ Formato de cada entrada:
 - Revisión 2026-11-25 (serie 10, investigación 2; agente de nivel 1, lectura por resumen): "En 1940 se remitieron los cospeles de cobre y de níquel puro para acuñar las monedas de 1, 2 y 50 centavos."
 - Usada también en serie 11.
 - Revisión 2026-11-27 (serie 12, investigación 1; lectura web-fetch pedida por la sesión principal desde su propia búsqueda, citas literales): "excede la cantidad acuñada de 11.044.714 monedas registradas en la Casa de Moneda" (nota 9: Memoria de Hacienda 1941, t. III, p. 166); 10.961.142 "que figuran en los catálogos de Arnaldo J. Cunietti y Héctor Carlos Janson" y "es diferente a la cifra informada en las Memorias Administrativas"; cuadro de Cunietti: acuñadas 10.961.142, fundidas hasta diciembre de 1944 2.365.000, restan 8.596.142; cuadro anual: 1943 circulación 8.524.490, existencias 2.358.100, fundidas 182.494 (nota 18: Memoria 1943, t. III, p. 277); 1944: 8.510.590, 1.572.700, 2.365.000 (nota 21: Memoria 1944, t. III, p. 236); "inició la acuñación de las monedas de 50 centavos el 10 de enero de 1941", primera entrega al BCRA el 24; "El 23 de marzo de 1941 el Banco Central comenzó la circulación", canje "de a 200 monedas de níquel puro"; el billete volvió el 19/05/1942 por la suspensión de la entrega de monedas, "debido a la desmonetización con fines industriales o de acaparamiento del público por la suba de la cotización de ese metal"; Decreto 45.560: "níquel puro con tolerancia de 20 milésimos, peso justo de 6 gramos con tolerancia de 10 miligramos, un diámetro de 24 milímetros y canto acanalado"; Decreto 96.137 (19/07/1941): representante del Banco en todos los actos de acuñación, desde el 1/10/1941; "Texan": noticia a fines de abril de 1942, nota 7: hundido el 11/03/1942 al este de Cuba por el U-126, de Nueva York a Río, Montevideo y Buenos Aires; "la gente acaparó las monedas para prevenir el faltante de cambio"; convenio con "la Casa Arthur Krupp de la localidad de Berndorf" (19/07/1939), 1.000.000 de cospeles, rescindido al estallar la guerra; cuadro de elementos: 1940 matrices 1/1, punzones 1/1, cuños 13/17; 1941 matriz de anverso 1, cuños 213/322; totales 2/1, 1/1, 226/339. Por resumen de agentes (sin cita literal): licitación del 3/05/1939 por 10 millones de cospeles; licitación de noviembre de 1939 en EE. UU.; Scovill vía New York Steel Exchange Arg., US$ 1,944/kg, 60.400 kg (Memoria 1940, t. III, pp. 278–279); emitidas 8.044.700 (1941) y 824.629 (1942); circulación 7.771.513 (1941); existencias 3.014.153 (1941), 2.476.000 (1942), 1.575.300 (1945); diseño original del Decreto 45.560 (escudo y año / Libertad y valor); fotos de Bazor llegadas a fines de abril de 1940, aprobadas el 11/09/1940; proyecto de 1945 de un peso de níquel (10 g, 28 mm, canto "Igualdad ante la Ley"), prueba de 30.000.000 aprobada por el Directorio el 8/11/1945, elevada el 16/11/1945, no realizada. Usada en serie 12.
+- Revisión 2026-11-27 (serie 12, revisión; lectura web-fetch pedida por la sesión principal, literal): sección "La provisión de cospeles": "Hasta enero de 1942 se recibieron remesas en Buenos Aires, pero a fines de abril se conoció la noticia del hundimiento del buque de carga “Texan”"; nota 7: "El carguero estadounidense SS Texan fue hundido el 11 de marzo de 1942, al este de la Isla de Cuba por el submarino alemán U-126" ... "Había zarpado del puerto de New York cargado de metales rumbo a las ciudades de Río de Janeiro, Montevideo y Buenos Aires" ... "La embarcación cubana Yo Yo rescató con vida a la mayoría de la tripulación". Cuadro, fila 1941: "1941 11.044.714 8.044.700 7.771.513 3.014.153 -" (nota 9: Memoria de Hacienda 1941, t. III, p. 166); "estas cifras provienen de diferentes dependencias y puede haber una aparente contradicción". El artículo no menciona 1969 ni 1978.
 
 ### F-0233
 - Título: "La Compañía Sudamericana de Billetes de Banco" y "Cartas de lectores"; reseña de *Cartas E. Oudiné* — Cuadernos de Numismática y Ciencias Históricas, t. XXIX, n.º 125 (diciembre de 2009)
@@ -5366,6 +5368,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-27 (agente de nivel 3, lectura a fondo)
 - Cita clave: ensayo de París de 1940 en metal amarillo (bronce o latón), MS, 23,99 mm, 5,81 g, "slight handling marks and an oxidation spot"; precio fijo 400 €; referencia "Pn54 var"; "INÉDIT", no figura en World Coins; según la ficha, la producción se refundió por la guerra (paráfrasis).
 - Usada en: serie 12
+- Revisión 2026-11-27 (serie 12, revisión; agente de nivel 4, lectura por resumen): eje 6 h, grado MS, ref. "SCWC 34Pn 54 var.", mancha de oxidación en el reverso; anverso con el escudo y "REPUBLICA - ARGENTINA / 1940"; reverso "LIBERTAD / 50 cts / LUCIEN BAZOR / ESSAI" con cabeza de la República a la derecha. El vendedor diría que a los ensayos siguió una acuñación "entièrement refondue" por la guerra (paráfrasis del agente, no verificada en el francés).
 
 ### F-0511
 - Título: Numisquare, "50 centavos 1941" (9181991400) y "50 centavos pattern 1941" (9988487340)
@@ -5395,4 +5398,84 @@ Formato de cada entrada:
 - Nivel: 4 (pista)
 - Consultada: 2026-11-27 (agente de nivel 2, lectura por resumen)
 - Cita clave (paráfrasis): París, 1889–1974; hijo del grabador Albert Bazor; Gran Premio de Roma de grabado en 1923; grabador general de la Monnaie de Paris de 1930 a 1958, sucedido por Raymond Joly; autor del 5 francos de 1933 y de monedas de Vichy y coloniales. No menciona la Argentina.
+- Usada en: serie 12
+
+### F-0514
+- Título: Ships hit by U-boats: Texan (American steam merchant)
+- Autor / institución: Guðmundur Helgason, uboat.net (base de datos histórica)
+- URL: https://uboat.net/allies/merchants/ship/1427.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 2
+- Consultada: 2026-11-27 (agente de nivel 2, revisión de la serie 12; lectura por resumen)
+- Cita clave (paráfrasis): torpedeado por el U-126 (Ernst Bauer) el 12/03/1942 a las 02:34, a unas 40 millas al este de Nuevitas, Cuba (21°34'N 76°28'W); hundido en 13 minutos; 7.005 t, American-Hawaiian SS Co., Nueva York; carga 10.915 t de "general cargo"; ruta Nueva York – Puerto España – Río de Janeiro; "unarmed and unescorted"; 47 tripulantes, 10 muertos, 37 sobrevivientes recogidos el 13/03 por el pesquero cubano Yoyo. Había sido el USS Texan (ID 1354) en la Primera Guerra; construido en 1902.
+- Usada en: serie 12
+
+### F-0515
+- Título: "1942 – Mar 12, US freighter Texan sunk by U-boat off NE Cuba near Puerto Padre"
+- Autor / institución: usdeadlyevents.com (compilación privada; cita American Merchant Marine at War, WW2DB, Helgason, R. M. Browning / Moore, *A Careless Word, A Needless Sinking* (1983) y el *Oakland Tribune* del 20/03/1942)
+- URL: https://usdeadlyevents.com/?p=7857
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-27 (agente de la ronda 2, lectura por resumen)
+- Cita clave (paráfrasis): AMMV y Moore fechan el ataque el 11/03/1942 y uboat.net el 12/03; el autor sigue el 12/03 por los relatos de sobrevivientes; carga general hacia Río de Janeiro vía Trinidad, sin mención de metales, Montevideo ni Buenos Aires; 47 tripulantes, 10 muertos (el *Oakland Tribune* da 38 salvados); desembarcados en Nuevitas; murió el jefe de máquinas Paul Boehncke.
+- Usada en: serie 12
+
+### F-0516
+- Título: CGB Numismatique, "ARGENTINA Essai de 50 Centavos Nickel 1940 Paris MS64 PCGS" (fwo_444841)
+- Autor / institución: CGB Numismatique Paris
+- URL: https://cgbfr.com/argentina-essai-de-50-centavos-nickel-1940-paris-ms64-pcgs,fwo_444841,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-27 (agente de nivel 3, revisión de la serie 12; lectura por resumen)
+- Cita clave: "Exemplaire sous coque PCGS SP64"; "Rarity : R3". Níquel, 5,91 g; 270 € con 2 postores (estimación 500 €; cierre 10/12/2024; no se verificó si es el precio final).
+- Usada en: serie 12
+
+### F-0517
+- Título: CGB Numismatique, "Argentine - République argentine, essai de 50 centavos nickel 1940 Paris SPL64 PCGS" (fwo_322395)
+- Autor / institución: CGB Numismatique Paris
+- URL: https://www.cgbfr.com/argentine-republique-argentine-essai-de-50-centavos-nickel-1940-paris-spl64-pcgs,fwo_322395,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-27 (agente de nivel 3; lectura por resumen)
+- Cita clave: "Rarity : R3". Níquel, 6,09 g, encapsulado PCGS SP64; realizado 760 € (estimación 850 €; puja máxima 990 €; 2 postores); cierre 19/04/2016. La página dice que estos ensayos no figuran ni se reproducen en el *World Coins* (paráfrasis).
+- Usada en: serie 12
+
+### F-0518
+- Título: CGB Numismatique, "ARGENTINA Essai de 50 Centavos Nickel 1940 Paris MS" (fwo_326348)
+- Autor / institución: CGB Numismatique Paris
+- URL: https://www.cgbfr.com/argentina-essai-de-50-centavos-nickel-1940-paris-ms,fwo_326348,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-27 (agente de nivel 3; lectura por resumen)
+- Cita clave: R3. Níquel, 5,91 g; realizado 540 € (estimación 850 €; puja máxima 560 €); cierre 08/11/2016; leves marcas de manipulación y brillo original (paráfrasis).
+- Usada en: serie 12
+
+### F-0519
+- Título: Línea de tiempo de Casa de Moneda
+- Autor / institución: Casa de Moneda, Presidencia de la Nación (argentina.gob.ar; modificada el 25/04/2024)
+- URL: https://www.argentina.gob.ar/casademoneda/lineadetiempo
+- Archivo (Internet Archive): a buscar
+- Nivel: 1
+- Consultada: 2026-11-27 (lectura web-fetch pedida por la sesión principal desde un resultado de su propia búsqueda; literal)
+- Cita clave: 1969: "El 1° de enero cambia el signo monetario a Peso Ley 18.188." No tiene entradas entre 1927 y 1942; no menciona el níquel de 1941, los 50 c ni la desmonetización de 1978. 1944: "El 27 de diciembre se inaugura el actual edificio de Casa de Moneda Argentina."
+- Usada en: serie 12
+
+### F-0520
+- Título: Argentina 50 centavos 1941 (KM 39), ficha de catálogo con foto de NumisCorner (coin5761)
+- Autor / institución: coin-brothers.com (catálogo; solo pista)
+- URL: https://coin-brothers.com/catalog/coin5761
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (pista)
+- Consultada: 2026-11-27 (agente de nivel 4, lectura por resumen)
+- Cita clave (paráfrasis): 6 g, 24 mm, espesor 1,8 mm, níquel; grabador Eugène André Oudiné; canto anotado como inscripto ("50 Centavos", probable error de la ficha); CJ 173 con 173.1 y 173.2, sin explicar la diferencia.
+- Usada en: serie 12
+
+### F-0521
+- Título: Argentine 50 Centavos "Capped Liberty Bust Pattern" 1941 KM# Pn55
+- Autor / institución: coinscatalog.net (catálogo; solo pista)
+- URL: https://coinscatalog.net/argentina/coin-50-centavos-capped-liberty-bust-pattern-km-pn55-republic-decimal-coinage
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (pista)
+- Consultada: 2026-11-27 (agente de nivel 4, lectura por resumen)
+- Cita clave (paráfrasis): ensayo de níquel de 1941, 5,8 g, 24 mm; reverso "LIBERTAD LUCIEN BAZOR 50 CS" con un gran busto de la Libertad con gorro.
 - Usada en: serie 12
