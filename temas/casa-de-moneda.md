@@ -36,6 +36,7 @@
 
 - 1884: la fraccionaria de ese año (136.000 de 50 c, 119.000 de 20 c, 34.000 de 10 c) se selló "para consumir la existencia" hasta una "órden superior" [F-0028] · confirmado. Inventario Fernández Blanco (1925): ensayo de estaño del 50 c 1882 y cuños distinguibles de 1882 en el 50 c y el 1 peso [F-0229] · probable.
 - 1936–1941: ensayo de níquel de 50 c con la Libertad de Oudiné (1936) [F-0231]; ensayo de Bazor (1940), Decreto 76.714 y acuñación del 50 c de níquel desde el 10/01/1941 [F-0024] · probable.
+- 1939–1942: cospeles importados de níquel puro para el 50 c (Krupp de Berndorf, 1.000.000, contrato rescindido por la guerra; Scovill Manufacturing Co. vía New York Steel Exchange Arg., 10.066.264 en 1940); desde el 1/10/1941 un representante del BCRA interviene en la acuñación (Decreto 96.137) [F-0232] · probable. Ver serie 12.
 
 ## Pistas
 - Memorias de Casa de Moneda 1881–1910 (citadas en F-0006 y F-0025): fuente oficial de tiradas para todo el primer cono. Memorias de Hacienda en cdi.mecon.gob.ar (colección memoria2).

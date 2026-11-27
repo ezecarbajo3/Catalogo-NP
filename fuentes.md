@@ -4773,6 +4773,7 @@ Formato de cada entrada:
 - Usada también en serie 10 (fila del 10 c).
 - Usada también en serie 11.
 - Revisión 2026-11-26 (serie 11, revisión; lectura web-fetch pedida por la sesión principal desde su propia búsqueda; tramos 0–116.870, 322.000–374.870 y 385.000–465.011 literales, el resto por resumen; el lector parafraseó lo que pasaba de 125 caracteres): p. 28, Ley 12.155 (1935): el BCRA tenía el privilegio exclusivo de emitir billetes "excepto la moneda subsidiaria"; la emisión o acuñación futura de moneda subsidiaria de 5 pesos o menos "(inclusive las monedas de níquel y cobre)" quedaba a cargo del Estado Nacional, que la haría solo a solicitud y por intermedio del BCRA, según las necesidades del público, con un tope de 20 m$n por habitante según los cálculos de la Dirección General de Estadística (paráfrasis del lector); p. 26: entre las operaciones prohibidas al BCRA, emitir billetes de 5 pesos o menos, "moneda a cargo del Estado Nacional". p. 41: Decreto Ley 14.957/46 (24/05/1946, BO 30/07/1946), ratificado por la Ley 12.962 (1947); p. 46: "a diferencia del régimen de 1935, el BCRA tenía a su cargo también los billetes y monedas metálicas" de 5 pesos o menos, y debía reemplazarlas a medida que el desgaste las retirara; nota 19: el Decreto 15.026/46 amplió los límites por habitante de la Ley 12.155. El Decreto 119.976 (1942) no aparece en los tramos leídos; ninguna oración narra el retiro de los níqueles (solo la tabla de pp. 207–208, releída en literal).
+- Usada también en serie 12 (Ley 12.155).
 
 ### F-0454
 - Título: Registro 9-1310, moneda de 20 centavos 1942 (Museo Nacional Benjamín Vicuña Mackenna, Chile), SURDOC
@@ -5314,6 +5315,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-26 (auditor de la serie 11, desde su propia búsqueda; solo el sumario, sin el articulado)
 - Cita clave: sanción 21-03-1935; publicación en el Boletín Oficial del 05-04-1935, n.º 12242.
 - Usada en: serie 11; tema moneda-de-niquel-ley-3321
+- Usada también en serie 12 (Ley 12.155).
 
 ### F-0506
 - Título: Argentina 1941 50 centavos (página de la wiki)
@@ -5332,7 +5334,7 @@ Formato de cada entrada:
 - Archivo (Internet Archive): a buscar
 - Nivel: 4
 - Consultada: 2026-11-27 (agente de nivel 4, lectura por resumen)
-- Cita clave (paráfrasis): níquel puro con cospeles de una firma canadiense; 10.961.142 piezas y el metal sobrante se vendió; ensayo de Bazor de 1940 sobre los mismos cospeles, sin marca de ceca; la gente la guardaba en alcancías ("chanchas"), lo que explicaría la buena conservación; paralelo con el 20 c uruguayo de 1942; un participante conjetura que el billete de 50 c hizo rechazar la moneda.
+- Cita clave (paráfrasis): níquel puro con cospeles de una firma canadiense; 10.961.142 piezas y el metal sobrante se vendió; ensayo de Bazor de 1940 sobre los mismos cospeles, sin marca de ceca; la gente la guardaba en alcancías ("chanchas"), lo que explicaría la buena conservación; paralelo con el 20 c uruguayo de 1942; un participante conjetura que el billete de 50 c hizo rechazar la moneda grande (hipótesis); expresión "la chancha y veinte"; el diseño de Bazor se usó en los 5, 10 y 20 c hasta 1950 (resumen del agente, sin cita literal).
 - Usada en: serie 12
 
 ### F-0508
