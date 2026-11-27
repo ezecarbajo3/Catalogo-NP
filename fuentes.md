@@ -2496,7 +2496,7 @@ Formato de cada entrada:
 - Revisión 2026-11-25 (serie 10, revisión; dos lecturas de agente por resumen de los primeros 100.000 caracteres y una de los caracteres 100.000–300.000): ficha N.º 10, ensayo de 10 centavos de 1940 en bronce, 2,1 g, 18,48 mm, anverso "Libertad de Oudiné" y "REPUBLICA ARGENTINA", reverso "10 / CENTAVOS" entre ramas de laurel, "Ensayo presentado por Casa de Moneda de la Nación" (paráfrasis del resumen), conservación "Muy Bueno", en la bóveda del Museo; cita a Janson (2020). En el tramo 100.000–300.000 (fichas ≈51–99) no hay ensayos ni pruebas de 5, 10 o 20 c de cuproníquel; ficha 51 (20 c 1942 cobre-aluminio, serie 14) y ficha 55 (50 c 1936 de níquel, serie 12). La cita literal de la ficha N.º 10 sigue pendiente.
 - Usada también en serie 11.
 - Revisión 2026-11-27 (serie 12, investigación 1; agente de nivel 1, caracteres 100.000–200.000 por resumen): ficha 55: Peso Moneda Nacional, Casa de Moneda de la Nación, 1936, categoría "Acuñación", níquel, 6 g, 24,5 mm; una cara con el escudo y "REPUBLICA / ARGENTINA ... 1936"; la otra con la Libertad de Oudiné y "LIBERTAD ... CINCUENTA ... CENTAVOS", gráfila de puntos, canto estriado recto; donación; estado Excelente. Sin otra ficha de 50 c de 1940–1941 en ese tramo. Usada en serie 12.
-- Revisión 2026-11-27 (serie 12, revisión; agente de la ronda 2, caracteres 0–400.000 por resumen, con tramos truncados): la única ficha de 50 c fechada 1936–1941 es la 55; no hay ensayos de Bazor ("ESSAI") de 1940 ni piezas de 1941. Fichas 52–53 (1878), 56 (10 c 1958), 59–60 (50 c 1996), 66 (50 c 1881), 71–72 (50 c aluminio 1958, 1,8 g, 23 mm) fuera de rango; ficha 10 (ensayo de 10 c de bronce 1940, alta 01/01/1995, motivo "Otros") y ficha 51 (20 c 1942) para la serie 14. Falta revisar el tramo 400.000–500.000 y las fichas 1–9, 11–31 y 32–36 en detalle.
+- Revisión 2026-11-27 (serie 12, revisión; agente de la ronda 2, caracteres 0–400.000 por resumen, con tramos truncados): la única ficha de 50 c fechada 1936–1941 es la 55; no hay ensayos de Bazor ("ESSAI") de 1940 ni piezas de 1941. Fichas 52–53 (1878), 56 (10 c 1958), 59–60 (50 c 1996), 66 (50 c 1881), 71–72 (50 c aluminio 1958, 1,8 g, 23 mm) fuera de rango; ficha 10 (ensayo de 10 c de bronce 1940, alta 01/01/1995, motivo "Otros") y ficha 51 (20 c 1942) para la serie 14. Ficha 55: ingreso "Donación", ubicación "Bóveda" (resumen). Falta revisar el tramo 400.000–500.000 y las fichas 1–9, 11–31 y 32–36 en detalle.
 
 ### F-0232
 - Título: Las monedas de 50 centavos de 1941: un experimento de circulación monetaria (julio de 2019)
@@ -5407,7 +5407,7 @@ Formato de cada entrada:
 - Archivo (Internet Archive): a buscar
 - Nivel: 2
 - Consultada: 2026-11-27 (agente de nivel 2, revisión de la serie 12; lectura por resumen)
-- Cita clave (paráfrasis): torpedeado por el U-126 (Ernst Bauer) el 12/03/1942 a las 02:34, a unas 40 millas al este de Nuevitas, Cuba (21°34'N 76°28'W); hundido en 13 minutos; 7.005 t, American-Hawaiian SS Co., Nueva York; carga 10.915 t de "general cargo"; ruta Nueva York – Puerto España – Río de Janeiro; "unarmed and unescorted"; 47 tripulantes, 10 muertos, 37 sobrevivientes recogidos el 13/03 por el pesquero cubano Yoyo. Había sido el USS Texan (ID 1354) en la Primera Guerra; construido en 1902.
+- Cita clave (paráfrasis): torpedeado por el U-126 (Ernst Bauer) el 12/03/1942 a las 02:34, a unas 40 millas al este de Nuevitas, Cuba (21°34'N 76°28'W); hundido en 13 minutos; 7.005 t, American-Hawaiian SS Co., Nueva York; carga 10.915 t de "general cargo"; ruta Nueva York – Puerto España – Río de Janeiro; "unarmed and unescorted"; 47 tripulantes, 10 muertos, 37 sobrevivientes recogidos el 13/03 por el pesquero cubano Yoyo (listado); la narración de la misma página da como ahogados "al menos un oficial y cuatro tripulantes", y el Yoyo encontró un bote que los sobrevivientes habían enderezado y lo remolcó a Nuevitas (verificado por el auditor). Había sido el USS Texan (ID 1354) en la Primera Guerra; construido en 1902.
 - Usada en: serie 12
 
 ### F-0515
@@ -5437,7 +5437,7 @@ Formato de cada entrada:
 - Archivo (Internet Archive): a buscar
 - Nivel: 3
 - Consultada: 2026-11-27 (agente de nivel 3; lectura por resumen)
-- Cita clave: "Rarity : R3". Níquel, 6,09 g, encapsulado PCGS SP64; realizado 760 € (estimación 850 €; puja máxima 990 €; 2 postores); cierre 19/04/2016. La página dice que estos ensayos no figuran ni se reproducen en el *World Coins* (paráfrasis).
+- Cita clave: "Rarity : R3". Níquel, 6,09 g, encapsulado PCGS SP64 (título "SPL64"/"MS64"); precio indicado ("Price") 760 € (estimación 850 €; puja máxima 990 €; 2 postores); cierre 19/04/2016. La página dice que estos ensayos no figuran ni se reproducen en el *World Coins* y que a ellos siguió una producción de monedas corrientes completamente refundida a causa de la guerra (paráfrasis; verificado en la web por el auditor).
 - Usada en: serie 12
 
 ### F-0518
@@ -5447,7 +5447,7 @@ Formato de cada entrada:
 - Archivo (Internet Archive): a buscar
 - Nivel: 3
 - Consultada: 2026-11-27 (agente de nivel 3; lectura por resumen)
-- Cita clave: R3. Níquel, 5,91 g; realizado 540 € (estimación 850 €; puja máxima 560 €); cierre 08/11/2016; leves marcas de manipulación y brillo original (paráfrasis).
+- Cita clave: R3. Níquel, 5,91 g; precio indicado 540 € (estimación 850 €; puja máxima 560 €); cierre 08/11/2016; leves marcas de manipulación y brillo original (paráfrasis).
 - Usada en: serie 12
 
 ### F-0519
@@ -5478,4 +5478,14 @@ Formato de cada entrada:
 - Nivel: 4 (pista)
 - Consultada: 2026-11-27 (agente de nivel 4, lectura por resumen)
 - Cita clave (paráfrasis): ensayo de níquel de 1941, 5,8 g, 24 mm; reverso "LIBERTAD LUCIEN BAZOR 50 CS" con un gran busto de la Libertad con gorro.
+- Usada en: serie 12
+
+### F-0522
+- Título: Argentine peso ley (artículo de enciclopedia)
+- Autor / institución: Wikipedia en inglés (solo pista)
+- URL: https://en.wikipedia.org/wiki/Argentine_peso_ley
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (pista)
+- Consultada: 2026-11-27 (agente auditor de la serie 12, lectura web)
+- Cita clave (paráfrasis): el peso ley reemplazó al peso moneda nacional desde el 1/01/1970; la Ley 18.188 es de abril de 1969.
 - Usada en: serie 12
