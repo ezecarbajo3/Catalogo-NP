@@ -302,6 +302,7 @@ Formato de cada entrada:
 - Revisión 2026-11-24 (serie 09, revisión; lectura de agente por resumen del PDF): repite "los vulgarmente conocidos 'níqueles' de 5, 10 y 20 centavos de la Ley 3321", el Decreto 119.976 que "ordenó que el BCRA emitiera con carácter de medida extraordinaria" las monedas, y "En 1896 se interrumpieron definitivamente las acuñaciones de la Ley 1130". El resumen no trae "toritos" (no se pidió el pasaje en literal; sigue a confirmar). La entrada HTML del trabajo en ifinra.org (26/11/2023) está etiquetada "Níqueles", "Oudiné" y "Libertad de Bazor".
 - Usada también en serie 10 (níqueles, Oudiné, Decreto 119.976).
 - Usada también en serie 11.
+- Revisión 2026-11-27 (serie 12, investigación 1; lectura de agente por resumen, pp. 11–20): 27/06/1939, el director de la Casa de Moneda, Dr. Antonio García Morales, pide a París punzones de 1, 2 y 50 c; agosto de 1939, se acepta la colaboración de Lucien Bazor (diseños originales) y Turín (sobre diseños argentinos), entre los sugeridos Bazor, Turín y Morlon; 2/09/1939, Bazor pide una foto de perfil de una argentina "tipo"; 20/10/1939, la embajada no tiene un "tipo especial" y Bazor compone la cabeza; 9/11/1939, 32 fotos de modelos para 1, 2 y 50 c; 23/12/1939, se elige la Libertad y se pide subir el gorro; 26/04/1940, fotos del 50 c; 10/05/1940, gorro "más visible"; 24/05 y 20/06/1940, retoques; 1/06/1940, observaciones de García Morales (cejas, frente, perfil griego); 26/09/1940, Étienne Moeneclaey (Monnaie de Paris) envía dos ensayos del 50 c, en níquel y en cobre; dictamen del BCRA: dibujo "excesivamente convencional"; Decreto 76.714, p. 14: cuños extranjeros que "difieren notablemente de los símbolos tradicionales", serie única con los de 5, 10 y 20 c; acuñación desde el 10/01/1941 y primera entrega el 24/01/1941 (nota 19: Memoria de Hacienda 1941, t. III, p. 168); Pn54 (1940) y Pn55 (1941) como ensayos de níquel (imágenes 7 y 8); Decreto 119.976 (15/05/1942); Ferrari (1956) y Cunietti (1964) sobre la Libertad de Bazor; bibliografía: Burzio (1962), Matassi y Díaz (2009), Ferrari (1956). Usada en serie 12.
 
 ### F-0025
 - Título: Unidad monetaria, vertebración territorial y conformación nacional: el caso de la República Argentina — Anales de Historia Contemporánea 20 (2004), pp. 439–461
@@ -2494,6 +2495,7 @@ Formato de cada entrada:
 - Revisión 2026-11-25 (serie 10, investigación 1; agente de nivel 1, primeros 100.000 caracteres, por resumen): ensayo de 10 c de bronce de 1940, "Ensayo presentado por Casa de Moneda de la Nación, como muestra para diseño de monedas de la línea Peso Moneda Nacional"; sin 10 c de níquel en ese tramo. Usada también en serie 10.
 - Revisión 2026-11-25 (serie 10, revisión; dos lecturas de agente por resumen de los primeros 100.000 caracteres y una de los caracteres 100.000–300.000): ficha N.º 10, ensayo de 10 centavos de 1940 en bronce, 2,1 g, 18,48 mm, anverso "Libertad de Oudiné" y "REPUBLICA ARGENTINA", reverso "10 / CENTAVOS" entre ramas de laurel, "Ensayo presentado por Casa de Moneda de la Nación" (paráfrasis del resumen), conservación "Muy Bueno", en la bóveda del Museo; cita a Janson (2020). En el tramo 100.000–300.000 (fichas ≈51–99) no hay ensayos ni pruebas de 5, 10 o 20 c de cuproníquel; ficha 51 (20 c 1942 cobre-aluminio, serie 14) y ficha 55 (50 c 1936 de níquel, serie 12). La cita literal de la ficha N.º 10 sigue pendiente.
 - Usada también en serie 11.
+- Revisión 2026-11-27 (serie 12, investigación 1; agente de nivel 1, caracteres 100.000–200.000 por resumen): ficha 55: Peso Moneda Nacional, Casa de Moneda de la Nación, 1936, categoría "Acuñación", níquel, 6 g, 24,5 mm; una cara con el escudo y "REPUBLICA / ARGENTINA ... 1936"; la otra con la Libertad de Oudiné y "LIBERTAD ... CINCUENTA ... CENTAVOS", gráfila de puntos, canto estriado recto; donación; estado Excelente. Sin otra ficha de 50 c de 1940–1941 en ese tramo. Usada en serie 12.
 
 ### F-0232
 - Título: Las monedas de 50 centavos de 1941: un experimento de circulación monetaria (julio de 2019)
@@ -2512,6 +2514,7 @@ Formato de cada entrada:
 - Usada también en serie 10.
 - Revisión 2026-11-25 (serie 10, investigación 2; agente de nivel 1, lectura por resumen): "En 1940 se remitieron los cospeles de cobre y de níquel puro para acuñar las monedas de 1, 2 y 50 centavos."
 - Usada también en serie 11.
+- Revisión 2026-11-27 (serie 12, investigación 1; lectura web-fetch pedida por la sesión principal desde su propia búsqueda, citas literales): "excede la cantidad acuñada de 11.044.714 monedas registradas en la Casa de Moneda" (nota 9: Memoria de Hacienda 1941, t. III, p. 166); 10.961.142 "que figuran en los catálogos de Arnaldo J. Cunietti y Héctor Carlos Janson" y "es diferente a la cifra informada en las Memorias Administrativas"; cuadro de Cunietti: acuñadas 10.961.142, fundidas hasta diciembre de 1944 2.365.000, restan 8.596.142; cuadro anual: 1943 circulación 8.524.490, existencias 2.358.100, fundidas 182.494 (nota 18: Memoria 1943, t. III, p. 277); 1944: 8.510.590, 1.572.700, 2.365.000 (nota 21: Memoria 1944, t. III, p. 236); "inició la acuñación de las monedas de 50 centavos el 10 de enero de 1941", primera entrega al BCRA el 24; "El 23 de marzo de 1941 el Banco Central comenzó la circulación", canje "de a 200 monedas de níquel puro"; el billete volvió el 19/05/1942 por la suspensión de la entrega de monedas, "debido a la desmonetización con fines industriales o de acaparamiento del público por la suba de la cotización de ese metal"; Decreto 45.560: "níquel puro con tolerancia de 20 milésimos, peso justo de 6 gramos con tolerancia de 10 miligramos, un diámetro de 24 milímetros y canto acanalado"; Decreto 96.137 (19/07/1941): representante del Banco en todos los actos de acuñación, desde el 1/10/1941; "Texan": noticia a fines de abril de 1942, nota 7: hundido el 11/03/1942 al este de Cuba por el U-126, de Nueva York a Río, Montevideo y Buenos Aires; "la gente acaparó las monedas para prevenir el faltante de cambio"; convenio con "la Casa Arthur Krupp de la localidad de Berndorf" (19/07/1939), 1.000.000 de cospeles, rescindido al estallar la guerra; cuadro de elementos: 1940 matrices 1/1, punzones 1/1, cuños 13/17; 1941 matriz de anverso 1, cuños 213/322; totales 2/1, 1/1, 226/339. Por resumen de agentes (sin cita literal): licitación del 3/05/1939 por 10 millones de cospeles; licitación de noviembre de 1939 en EE. UU.; Scovill vía New York Steel Exchange Arg., US$ 1,944/kg, 60.400 kg (Memoria 1940, t. III, pp. 278–279); emitidas 8.044.700 (1941) y 824.629 (1942); circulación 7.771.513 (1941); existencias 3.014.153 (1941), 2.476.000 (1942), 1.575.300 (1945); diseño original del Decreto 45.560 (escudo y año / Libertad y valor); fotos de Bazor llegadas a fines de abril de 1940, aprobadas el 11/09/1940; proyecto de 1945 de un peso de níquel (10 g, 28 mm, canto "Igualdad ante la Ley"), prueba de 30.000.000 aprobada por el Directorio el 8/11/1945, elevada el 16/11/1945, no realizada. Usada en serie 12.
 
 ### F-0233
 - Título: "La Compañía Sudamericana de Billetes de Banco" y "Cartas de lectores"; reseña de *Cartas E. Oudiné* — Cuadernos de Numismática y Ciencias Históricas, t. XXIX, n.º 125 (diciembre de 2009)
@@ -2786,6 +2789,7 @@ Formato de cada entrada:
 - Revisión 2026-11-25 (serie 10, investigación 1; lectura web-fetch pedida por la sesión principal desde su propia búsqueda, literal): "| 10 centavos | 1896 | 21/01/1966 | 01/07/1966 |"; metadato de modificación 2026-10-01T15:16:26-03:00; sin norma para las monedas de 1896; discrepancia interna de la página sobre la Ley 3871 (4/11/1899 en el cuerpo, "5 de noviembre de 1881" en la descripción). Usada también en serie 10.
 - Revisión 2026-11-25 (serie 10, revisión; lectura web-fetch pedida por la sesión principal desde su propia búsqueda): enlace activo (HTTP 200); metadatos modified_time 2026-11-24T19:10:28-03:00 y published_time 2025-10-08; filas sin cambios: "5 centavos | 1896 | 31/01/1965 | 01/07/1965", "10 centavos | 1896 | 21/01/1966 | 01/07/1966", "20 centavos | 1896 | 31/01/1967 | 01/04/1967"; también "1 centavo" y "2 centavos | 1882 | 21/04/1959 | 02/01/1960" y "50 centavos | 1941 | 31/01/1969 | 29/03/1978". Sin norma para ninguna de esas fechas; la página no usa la palabra "níquel".
 - Revisión 2026-11-26 (serie 11, investigación 1; lectura web-fetch pedida por la sesión principal): fila literal `5 centavos | 1896 | 31/01/1965 | 01/07/1965`; modified_time 2026-11-24T19:10:28-03:00; sin columna de notas. La introducción de Peso Moneda Nacional cita la "Ley 3871 del 4 de noviembre de 1899" y el encabezado da 05/11/1881 para la misma ley (inconsistencia de la página). Usada también en serie 11.
+- Revisión 2026-11-27 (serie 12, investigación 1; lectura web-fetch pedida por la sesión principal desde su propia búsqueda, literal): una sola fila de monedas de 50 c del peso moneda nacional: "| 50 centavos | 1941 | 31/01/1969 | 29/03/1978 |"; billetes de 50 c: "(1) | 19/5/1942 | 31/12/1960 | 31/12/1962" y "(2) | 27/2/1950 | 31/12/1960 | 29/12/1962"; la página no menciona el níquel ni la norma de cese o desmonetización. Usada en serie 12.
 
 ### F-0258
 - Título: Museo Histórico y Numismático Héctor C. Janson — Documentos Históricos 1 (inventario SENIP)
@@ -5310,3 +5314,83 @@ Formato de cada entrada:
 - Consultada: 2026-11-26 (auditor de la serie 11, desde su propia búsqueda; solo el sumario, sin el articulado)
 - Cita clave: sanción 21-03-1935; publicación en el Boletín Oficial del 05-04-1935, n.º 12242.
 - Usada en: serie 11; tema moneda-de-niquel-ley-3321
+
+### F-0506
+- Título: Argentina 1941 50 centavos (página de la wiki)
+- Autor / institución: coinvarieties.com (wiki comunitaria)
+- URL: https://coinvarieties.com/index.php/Argentina_1941_50_centavos
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-27 (agente de nivel 4, lectura a fondo por resumen)
+- Cita clave: "This one year type is common in all grades." No lista variantes ni errores; da 6 g, 24,5 mm, níquel y una tirada de 1.000.000 (probable error, frente a ≈11 millones en las demás fuentes); remite al ensayo de Bazor de 1940 (KM Pn54). Bibliografía: Cunietti-Ferrando (1965), Krause SCWC 1901–2000 (47.ª ed.), Janson (1998).
+- Usada en: serie 12
+
+### F-0507
+- Título: Hilo sobre el 50 centavos 1941 de níquel (participan "Guillermo" y Gerhard Schön; fechas no visibles)
+- Autor / institución: numismatikforum.de (foro)
+- URL: https://www.numismatikforum.de/viewtopic.php?p=434074
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-27 (agente de nivel 4, lectura por resumen)
+- Cita clave (paráfrasis): níquel puro con cospeles de una firma canadiense; 10.961.142 piezas y el metal sobrante se vendió; ensayo de Bazor de 1940 sobre los mismos cospeles, sin marca de ceca; la gente la guardaba en alcancías ("chanchas"), lo que explicaría la buena conservación; paralelo con el 20 c uruguayo de 1942; un participante conjetura que el billete de 50 c hizo rechazar la moneda.
+- Usada en: serie 12
+
+### F-0508
+- Título: Heritage Auctions, "Argentina: Republic Pure Nickel 50 Centavos Pattern 1940", lote 50239, Long Beach Signature #441 (27/09/2007)
+- Autor / institución: Heritage Auctions
+- URL: https://coins.ha.com/itm/argentina/argentina-republic-pure-nickel-50-centavos-pattern-1940-/a/441-50239.s
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-27 (agente de nivel 3, lectura a fondo)
+- Cita clave: "very rare type"; KM-Pn54, "superb gem Proof", 24 mm, 6,10 g, canto estriado, "ESSAI" bajo el busto; según la descripción (paráfrasis) solo se habrían acuñado tres piezas y era el primer Bazor que veía la casa; precio no visible; sin procedencia.
+- Usada en: serie 12
+
+### F-0509
+- Título: CGB Numismatique, "Argentine - République argentine, essai de 50 centavos nickel 1940 Paris FDC" (fwo_618321)
+- Autor / institución: CGB Numismatique Paris
+- URL: https://cgbfr.com/argentine-republique-argentine-essai-de-50-centavos-nickel-1940-paris-fdc,fwo_618321,a.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-27 (agente de nivel 3, lectura a fondo)
+- Cita clave: leyendas "LIBERTAD / 50 CTS / LUCIEN BAZOR / ESSAI"; R3; 24 mm; 5,91 g; eje 6 h; leves marcas de manipulación, brillo original; 350 € con un postor, cierre 9/03/2021 (estimación 600 €; a verificar si es cierre o precio de oferta).
+- Usada en: serie 12
+
+### F-0510
+- Título: CGB Numismatique vía MA-Shops, "Essai de 50 Centavos 1940" (artículo 294069), bronce o latón
+- Autor / institución: CGB Numismatique Paris (tienda en MA-Shops)
+- URL: https://www.ma-shops.com/cgb/item.php?id=294069
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-27 (agente de nivel 3, lectura a fondo)
+- Cita clave: ensayo de París de 1940 en metal amarillo (bronce o latón), MS, 23,99 mm, 5,81 g, "slight handling marks and an oxidation spot"; precio fijo 400 €; referencia "Pn54 var"; "INÉDIT", no figura en World Coins; según la ficha, la producción se refundió por la guerra (paráfrasis).
+- Usada en: serie 12
+
+### F-0511
+- Título: Numisquare, "50 centavos 1941" (9181991400) y "50 centavos pattern 1941" (9988487340)
+- Autor / institución: numisquare.com (agregador de catálogo; solo pista)
+- URL: https://www.numisquare.com/50-centavos-1941-9181991400.html ; https://www.numisquare.com/50-centavos-pattern-1941-9988487340.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (pista de catálogo)
+- Consultada: 2026-11-27 (agentes de nivel 3 y de la ronda 2)
+- Cita clave: "CJ#173.1: cabello liso, tiraje 10 961 142"; "CJ#173.2: cabello rizado", sin tirada. Pattern 1941 (KM Pn55 = CJ 77): níquel, 5,58 g, 24 mm, escudo en una cara y Libertad de Bazor a la derecha con su firma en la otra, canto estriado; sin casa, fecha ni procedencia.
+- Usada en: serie 12
+
+### F-0512
+- Título: Greysheet, "1941 CJ# 173.2 / Curled hair 50 Centavos MS Values" (gsid 235936)
+- Autor / institución: CDN Greysheet
+- URL: https://livetest.greysheet.com/prices/item/1941-50-centavos-world-coins-km-39-235936/gsid/235936
+- Archivo (Internet Archive): a buscar
+- Nivel: 4
+- Consultada: 2026-11-27 (agente de la ronda 2)
+- Cita clave: título "CJ# 173.2 / Curled hair"; 6 g, 24 mm; sin precios ni descripción de la variante.
+- Usada en: serie 12
+
+### F-0513
+- Título: Lucien Georges Bazor (artículo de enciclopedia)
+- Autor / institución: Wikipedia en inglés (solo pista)
+- URL: https://en.wikipedia.org/wiki/Lucien_Georges_Bazor
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (pista)
+- Consultada: 2026-11-27 (agente de nivel 2, lectura por resumen)
+- Cita clave (paráfrasis): París, 1889–1974; hijo del grabador Albert Bazor; Gran Premio de Roma de grabado en 1923; grabador general de la Monnaie de Paris de 1930 a 1958, sucedido por Raymond Joly; autor del 5 francos de 1933 y de monedas de Vichy y coloniales. No menciona la Argentina.
+- Usada en: serie 12
