@@ -4594,6 +4594,7 @@ Formato de cada entrada:
 - Usada en: serie 08
 - Revisión 2026-11-26 (serie 11, agente de nivel 2, por resumen): la Caja de Conversión (1890–1935) emitió billetes y "monedas de cuproníquel"; no trata el canje de los billetes fraccionarios. Usada también en serie 11.
 - Usada también en serie 13 (p. 35: "En el año 1939 se agregaron centavos de cobre en los valores de 1 y 2").
+- Revisión 2026-11-28 (serie 13, revisión; agente de nivel 2, lectura por resumen con cita devuelta por el lector): sección "Pesos moneda nacional: nuevos diseños", p. 34 según el lector (la nota anterior decía p. 35): "En el año 1939 se agregaron centavos de cobre en los valores de 1 y 2, con el diseño del escudo nacional en su anverso." También: "La Casa de Moneda de la Nación inauguró una nueva planta de producción en 1944". Contenidos del personal del Museo, supervisión de Daniel A. Rey, revisión histórica de Andrés Musacchio (según el lector).
 
 ### F-0436
 - Título: Annual Report of the Secretary of the Treasury, 1885–1889 (FRASER, PDF 60689), con el informe del Director de la Casa de Moneda del año fiscal 1886 (apéndice, pp. 232–334)
@@ -4783,6 +4784,7 @@ Formato de cada entrada:
 - Revisión 2026-11-26 (serie 11, revisión; lectura web-fetch pedida por la sesión principal desde su propia búsqueda; tramos 0–116.870, 322.000–374.870 y 385.000–465.011 literales, el resto por resumen; el lector parafraseó lo que pasaba de 125 caracteres): p. 28, Ley 12.155 (1935): el BCRA tenía el privilegio exclusivo de emitir billetes "excepto la moneda subsidiaria"; la emisión o acuñación futura de moneda subsidiaria de 5 pesos o menos "(inclusive las monedas de níquel y cobre)" quedaba a cargo del Estado Nacional, que la haría solo a solicitud y por intermedio del BCRA, según las necesidades del público, con un tope de 20 m$n por habitante según los cálculos de la Dirección General de Estadística (paráfrasis del lector); p. 26: entre las operaciones prohibidas al BCRA, emitir billetes de 5 pesos o menos, "moneda a cargo del Estado Nacional". p. 41: Decreto Ley 14.957/46 (24/05/1946, BO 30/07/1946), ratificado por la Ley 12.962 (1947); p. 46: "a diferencia del régimen de 1935, el BCRA tenía a su cargo también los billetes y monedas metálicas" de 5 pesos o menos, y debía reemplazarlas a medida que el desgaste las retirara; nota 19: el Decreto 15.026/46 amplió los límites por habitante de la Ley 12.155. El Decreto 119.976 (1942) no aparece en los tramos leídos; ninguna oración narra el retiro de los níqueles (solo la tabla de pp. 207–208, releída en literal).
 - Usada también en serie 12 (Ley 12.155).
 - Revisión 2026-11-27 (serie 13, investigación 1; agente de la ronda 2, lectura por resumen de los caracteres 0–200.000 de ≈465.000): la Carta Orgánica de 1935 pone la emisión de subsidiaria "a cargo del Estado Nacional" con un tope por habitante; el Decreto 15.026/46 amplió los límites; Decreto-Ley 13.126/57 (BO 29/10/1957): el BCRA emite "billetes y monedas subsidiarias" y su Directorio fija valores y características (derogado por la Ley 20.539 del 11/09/1973). Sin el Decreto 29.159, el cambio de aleación ni la norma del cese de 1959 en ese tramo. Usada también en serie 13.
+- Revisión 2026-11-28 (serie 13, revisión; lectura web-fetch pedida por la sesión principal desde su propia búsqueda; pp. 202–214 en literal desde el carácter 310.000; pp. 26–201 solo por resumen): p. 207, tabla de monedas del peso moneda nacional: "1 centavo 1882 21/04/59 02/01/60"; "2 centavos 1882 21/04/59 02/01/60"; p. 203, nota 121: la información sale de la página web institucional del BCRA (Emisiones_anteriores.asp), es decir, de la misma tabla que F-0257 (no es una fuente independiente). Las pp. 202–214 no mencionan 1939, el Decreto 29.159, el bronce ni el cobre, ni citan la norma de 1959. p. 46, nota 19 (por resumen): "Mediante el Decreto 15.026/46, se ampliaron los límites de emisión de las denominadas monedas subsidiarias por habitante". Discrepancia interna del original: la Ley 3.871 figura como del 05/11/1881 (p. 203) y del 04/11/1899 (p. 207).
 
 ### F-0454
 - Título: Registro 9-1310, moneda de 20 centavos 1942 (Museo Nacional Benjamín Vicuña Mackenna, Chile), SURDOC
@@ -5555,4 +5557,55 @@ Formato de cada entrada:
 - Nivel: 4 (pista)
 - Consultada: 2026-11-27 (agente de la ronda 1, nivel 3; leídas las de 1939 y 1946, sin precios visibles; la de 1950 solo en resultados)
 - Cita clave (resumen): catalogan por número CJ; "1946 CJ#180.1"; la de 1950 rotulada "KM 38a".
+- Usada en: serie 13
+- Revisión 2026-11-28 (serie 13, revisión; agente de la ronda 1, nivel 3, lectura de la ficha de 1950): "1950 2 Centavos MS Values"; 3,3 g ("3.3 gr"); 20 mm ("20.000 mm"); circulación; precios tras acceso, no visibles; no da metal.
+
+### F-0529
+- Título: "Stark Reality: Getting Things Right or Making Changes—Argentina's Coin Prices Reexamined"
+- Autor / institución: Numismatic News (serie "Stark Reality"; el autor no se verificó en la lectura)
+- URL: https://www.numismaticnews.net/stark-reality-coin-market-update-argentina-centavos
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (guía de precios de prensa especializada; valores de catálogo, no ventas)
+- Consultada: 2026-11-28 (agente de la ronda 1, nivel 3; lectura por resumen del lector, con citas; la fecha de publicación no figura en lo leído)
+- Cita clave: los centavos argentinos estaban "greatly undervalued, especially for rare years"; 1 c 1945 (KM 37a), "the key date": "Previously, prices ranged from 20¢ in Fine to $4.50 in MS-63" y ahora "$10 in Fine and $65 in MS-63"; 1 c 1946, "much more common": tope anterior USD 3,50, ahora USD 5. No da fechas, grados ni precios del 2 c.
+- Usada en: serie 13
+
+### F-0530
+- Título: coinscatalog.net — fichas "Argentine Centavo 'Coat of Arms' 1939–1944 KM# 37", "Argentine Centavo 'Coat of Arms Republic' 1945–1948 KM# 37a", "Argentine 2 Centavos 'Coat of Arms' 1939–1947 KM# 38" y "Argentine 2 Centavos 'Coat of Arms Republic' 1947–1950 KM# 38a"
+- Autor / institución: coinscatalog.net (agregador de catálogo; solo pista)
+- URL: https://coinscatalog.net/argentina/coin-centavo-coat-of-arms-km-37-republic-decimal-coinage ; https://coinscatalog.net/argentina/coin-centavo-coat-of-arms-republic-km-37a-republic-decimal-coinage ; https://coinscatalog.net/argentina/coin-2-centavos-coat-of-arms-km-38-republic-decimal-coinage ; https://coinscatalog.net/argentina/coin-2-centavos-coat-of-arms-republic-km-38a-republic-decimal-coinage
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (pista; no dice de dónde toma las tiradas)
+- Consultada: 2026-11-28 (agente de la ronda 1, nivel 4 —KM 38a— y agente de la ronda 2 —KM 37, 37a y 38—; lectura directa de las tablas)
+- Cita clave: KM 37: "Bronze; 1.94 g.; 16 mm.; 1.3 mm.; Plain"; 1939: 3,488,000; 1940: 3,140,000; 1941: 4,572,000; 1942: 495,000; 1943: 1,294,000; 1944: 3,103,000. KM 37a: "Copper; 2 g.; 16 mm.; 1.3 mm.; Plain"; 1945: 420,000; 1946: 4,450,000; 1947: 5,630,000; 1948: 4,420,000. KM 38: "Bronze; 3.4 g.; 20.5 mm.; 1.5 mm.; Plain"; 1939: 5,490,000; 1940: 4,625,000; 1941: 4,567,000; 1942: 2,082,000; 1944: 387,100; 1945: 4,585,000; 1946: 3,395,000; 1947: 4,395,000 (sin 1943). KM 38a: "Composition: Copper; Weight 3.4 g; Diameter 20.5 mm; Years 1947-1950"; espesor 1,4 mm; canto liso; 1948: 3,645,000; 1949: 7,290,000; 1950: 903,100; 1947 sin tirada. Ninguna de las cuatro fichas describe variantes.
+- Usada en: serie 13
+
+### F-0531
+- Título: uCoin.net — "Argentinië 2 centavos, 1939 - 1947" (y, solo en resultados, "2 centavos, 1948-1950")
+- Autor / institución: uCoin.net (catálogo comunitario; solo pista)
+- URL: https://nl.ucoin.net/coin/argentina-2-centavos-1939-1947/?tid=21300 ; https://en.ucoin.net/coin/argentina-2-centavos-1948-1950/?tid=21308 (solo título en resultados)
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (pista)
+- Consultada: 2026-11-28 (agente de la ronda 2, lectura directa de la ficha 1939–1947; agente de la ronda 1, nivel 4, solo el título de la de 1948–1950)
+- Cita clave: "3.4 g; 20.5 mm; Brons"; 1939: 5.490.000; 1940: 4.625.000; 1941: 4.566.805; 1942: 2.082.492; 1944: 387.072; 1945: 4.585.000; 1946: 3.395.000; 1947: 4.395.000 (sin 1943). No anota variantes del 1946. El segundo tipo se titula "1948-1950".
+- Usada en: serie 13
+
+### F-0532
+- Título: numisquare — "2 centavos 1939-1947" (KM 38, Schön 42)
+- Autor / institución: numisquare.com (agregador; solo pista)
+- URL: https://www.numisquare.com/2-centavos-1939-1947-1328868140.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (pista)
+- Consultada: 2026-11-28 (agente de la ronda 1, nivel 3; lectura directa)
+- Cita clave: KM 38 / Schön 42; tiradas por año, entre ellas 1939: 5.490.000 y 1945: 4.585.000 (iguales a F-0530 y F-0531). Sin resultados de subasta. En resultados aparecieron también "2 centavos 1947 1950" (KM 38a) y "1 centavo pattern 1938" (sin leer).
+- Usada en: serie 13
+
+### F-0533
+- Título: "Documentos históricos del BCRA, disponibles en la Biblioteca Digital" (noticia del 1/10/2026)
+- Autor / institución: Banco Central de la República Argentina
+- URL: https://www.bcra.gob.ar/noticias/documentos-historicos-bcra-biblioteca-digital/ ; enlaza https://www.bibliotecadigital.bcra.gob.ar/ (no apareció en resultados)
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (constancia y pista)
+- Consultada: 2026-11-28 (lectura web-fetch pedida por la sesión principal desde su propia búsqueda; literal)
+- Cita clave: la colección "Publicaciones BCRA" reúne "libros, investigaciones, normativa histórica, documentos institucionales y otros materiales de distintas épocas, disponibles para consulta en línea y con acceso abierto"; categorías: normativa histórica ("circulares y otras disposiciones") y publicaciones periódicas. No nombra las Memorias anuales 1939–1950 ni documentos concretos de 1939–1960.
 - Usada en: serie 13

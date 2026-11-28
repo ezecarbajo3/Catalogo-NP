@@ -6,15 +6,15 @@ anios: "1939–1950"
 denominaciones: [2 centavos, 1 centavo]
 metal: "cobre (según Rey y el museo del BCRA) / bronce y cobre (según catálogos y la wiki coinvarieties)"
 km: [KM 37, KM 37a, KM 38, KM 38a]
-estado: a revisar
-sesiones: [i1 2026-11-27]
-ultima_actualizacion: "2026-11-27"
+estado: completa
+sesiones: [i1 2026-11-27, r1 2026-11-28]
+ultima_actualizacion: "2026-11-28"
 ---
 
 # 2 y 1 centavo de bronce / cobre 1939–1950
 
 ## Resumen
-Después de 43 años sin acuñar centavos, la Argentina volvió en 1939 a las piezas de 1 y 2 centavos, más chicas que los cobres de la Ley 1130, para cubrir el faltante de cambio chico que reclamaban el comercio y la industria. Las ordenó el Decreto 29.159 del 18 de abril de 1939, el mismo que creó el 50 centavos de níquel, y empezaron a circular a fines de ese año. El decreto preveía un busto de la Libertad, pero según Testolino las piezas salieron con el escudo nacional y el valor entre laureles (un dibujo que, como supuesto, se vincula con ensayos de la Casa de Moneda de 1935). Sus cospeles de cobre salieron de una licitación entre empresas argentinas y europeas en plena guerra, y en 1940 llegó una remesa cuyo origen no se precisa. Los catálogos distinguen un tipo de bronce y otro de cobre; el 1 centavo se habría acuñado hasta 1948 y la fecha más tardía del 2 centavos que apareció es 1950. Nada de eso, ni las tiradas, tiene todavía fuente oficial. Según la tabla del BCRA, que no tiene fila para las piezas de 1939, el 1 y el 2 centavos perdieron el curso legal el 21 de abril de 1959.
+Después de 43 años sin acuñar centavos, la Argentina volvió en 1939 a las piezas de 1 y 2 centavos, más chicas que los cobres de la Ley 1130, para cubrir el faltante de cambio chico que reclamaban el comercio y la industria. Las ordenó el Decreto 29.159 del 18 de abril de 1939, el mismo que creó el 50 centavos de níquel, y empezaron a circular a fines de ese año. El decreto preveía un busto de la Libertad, pero según Testolino las piezas salieron con el escudo nacional y el valor entre laureles (un dibujo que, como supuesto, se vincula con ensayos de la Casa de Moneda de 1935). Sus cospeles de cobre salieron de una licitación entre empresas argentinas y europeas en plena guerra, y en 1940 llegó una remesa cuyo origen no se precisa. Los catálogos distinguen un tipo de bronce y otro de cobre; el 1 centavo se habría acuñado hasta 1948 y la fecha más tardía del 2 centavos que apareció es 1950. Nada de eso, ni las tiradas, tiene todavía fuente oficial: las cifras por año que circulan salen de catálogos (solo pista) y dan como tiradas más bajas el 1 centavo de 1945 (420.000), el 2 centavos de 1944 (≈387.000) y el 2 centavos de 1950 (903.100); una guía de prensa especializada llama al 1 centavo de 1945 "the key date" de la serie. El museo del BCRA confirma que las piezas de 1939 llevan el escudo en el anverso. Según la tabla del BCRA, repetida en su Memoria institucional y sin fila para las piezas de 1939, el 1 y el 2 centavos perdieron el curso legal el 21 de abril de 1959.
 
 ---
 
@@ -31,8 +31,9 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - El Decreto 76.714 (12/11/1940) trata solo los cuños del 50 c; Testolino no lo vincula con las piezas de 1 y 2 c [F-0024] · probable (constancia de lectura).
 - **Fin de la acuñación:** no se encontró norma. La wiki coinvarieties dice que el 1 c se suspendió después de 1948 [F-0524] · a confirmar; la fecha más tardía del 2 c que apareció es 1950, en una ficha de Greysheet [F-0528] · a confirmar (que sea el último año no lo dice ninguna fuente).
 - **Cambio de bronce a cobre:** no se encontró norma (se buscó en InfoLEG, Boletín Oficial, Memoria institucional del BCRA y catálogo de la ANH) · constancia.
+- La Memoria institucional del BCRA (nota 19, p. 46): "Mediante el Decreto 15.026/46, se ampliaron los límites de emisión de las denominadas monedas subsidiarias por habitante" [F-0453] · a confirmar (lectura por resumen, dos veces; el texto del decreto no se encontró).
 - **Decreto-Ley 13.126/57 (BO 29/10/1957):** el BCRA pasa a emitir "billetes y monedas subsidiarias" y su Directorio fija valores y características; derogado por la Ley 20.539 (11/09/1973) [F-0453] · a confirmar (lectura por resumen).
-- **Cese y desmonetización:** el BCRA da para el "1 centavo" y el "2 centavos" del peso moneda nacional cese de curso legal el 21/04/1959 y desmonetización el 2/01/1960, en filas con emisión "1882" [F-0257] · confirmado (lo que dice la página); que esas fechas alcancen también a las piezas de 1939–1950 es `probable` (no hay fila aparte para ellas; ver Supuestos). La página no cita la norma [F-0257, F-0453] · constancia.
+- **Cese y desmonetización:** el BCRA da para el "1 centavo" y el "2 centavos" del peso moneda nacional cese de curso legal el 21/04/1959 y desmonetización el 2/01/1960, en filas con emisión "1882" [F-0257] · confirmado (lo que dice la página); que esas fechas alcancen también a las piezas de 1939–1950 es `probable` (no hay fila aparte para ellas; ver Supuestos). La página no cita la norma [F-0257, F-0453] · constancia. La Memoria institucional del BCRA repite esas filas literalmente en su p. 207 ("1 centavo 1882 21/04/59 02/01/60"; "2 centavos 1882 21/04/59 02/01/60"), pero su nota 121 dice que la información sale de la misma página web, así que no es una fuente independiente [F-0453] · constancia. Sus pp. 202–214 no mencionan 1939, el Decreto 29.159, el bronce ni el cobre [F-0453] · constancia (revisión 2026-11-28, lectura literal).
 
 ## Contexto histórico y económico
 - En 1896 habían comenzado a circular las monedas de cuproníquel de 5, 10 y 20 c y dejaron de acuñarse las piezas de cobre de 1 y 2 c, "porque el valor del metal era superior al valor facial" [F-0232] · probable (afirmación de Rey sin nota).
@@ -40,49 +41,54 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 - "Por requerimiento al Banco Central de varias entidades comerciales e industriales", en 1939 se acuñaron nuevas monedas de cobre de 1 y 2 c "para solucionar el faltante de esos valores en el circulante subsidiario" [F-0232] · probable.
 - El museo numismático del BCRA: "En el año 1939 se agregaron centavos de cobre en los valores de 1 y 2" [F-0435] · probable (lectura por resumen).
 - Que en 1939 se emitieron nuevas monedas de 1 y 2 c lo dicen la publicación institucional del BCRA y dos estudios independientes [F-0435, F-0232, F-0024] · confirmado.
+- El cuadernillo del museo del BCRA: "La Casa de Moneda de la Nación inauguró una nueva planta de producción en 1944" [F-0435] · probable (lectura por resumen; ninguna fuente la vincula con estas monedas).
 - Testolino: "Se realizaron estudios que dispusieron su reemplazo por piezas más modernas" y "en una aleación considerada apropiada" (no dice cuál) [F-0024] · probable.
 - La guerra "causó inconvenientes hasta en el suministro de cospeles desde Europa y Estados Unidos" [F-0024] · probable. Rey: en septiembre de 1939 hubo que prescindir de las importaciones de metal de Alemania, reemplazadas hasta principios de 1942 por níquel y cobre de EE. UU. [F-0232] · probable.
 - En 1942 el Decreto 119.976 (15/05/1942) pasó el 5, 10 y 20 c a una aleación de 920 partes de cobre y 80 de aluminio [F-0024] · probable (no toca al 1 y 2 c; serie 14). Rey: en 1942 se emitieron "nuevas piezas de bronce y aluminio, con la provisión de los cospeles en fundiciones y fábricas de nuestro país" [F-0232] · probable.
 
 ## Diseño y grabadores
-- Testolino: las monedas de 1 y 2 c de 1939 "en su anverso llevaban el Escudo Nacional simple y en el reverso, el nominal entre laureles" [F-0024] · probable. No hay busto de la Libertad, a diferencia de lo que dice el art. 2.º del decreto (ver Discrepancias).
+- Testolino: las monedas de 1 y 2 c de 1939 "en su anverso llevaban el Escudo Nacional simple y en el reverso, el nominal entre laureles" [F-0024] · probable. El cuadernillo del museo del BCRA coincide: en 1939 "se agregaron centavos de cobre en los valores de 1 y 2, con el diseño del escudo nacional en su anverso" [F-0435] · probable (lectura por resumen con cita). Con el estudio de Testolino, que las piezas llevan el escudo nacional queda · confirmado (publicación institucional y estudio independiente) [F-0435, F-0024]. No hay busto de la Libertad, a diferencia de lo que dice el art. 2.º del decreto según Testolino (ver Discrepancias).
 - 27/06/1939: el director de la Casa de Moneda, Dr. Antonio García Morales, pidió a la Casa de Moneda y Medallas de París "los punzones de nuevas monedas de 1, 2 y 50 centavos"; en la carta recordaba que los punzones de las monedas de oro, plata y cobre los había hecho "el reputado grabador francés Oudiné" [F-0024] · probable.
 - París sugirió a los grabadores Bazor, Turin y Morlon; en agosto de 1939 quedó decidida la colaboración de Bazor y Turin: a Lucien Bazor se le encargaron "proyectos originales" para el 1, 2 y 50 c y a Turin "proyectos en base a nuestros diseños" [F-0024] · probable.
 - 9/11/1939: Bazor mandó 32 fotografías de modelos de anverso y reverso para el 1, 2 y 50 c [F-0024] · probable. El 23/12/1939 se eligió su figura de la Libertad, con la indicación de que "debe levantar el gorro frigio" (proceso del 50 c, serie 12) [F-0024] · probable.
 - No se sabe quién diseñó ni quién grabó las piezas de 1 y 2 c que finalmente circularon · constancia (Testolino y Rey no lo dicen).
 - **Ensayos de 1935:** el Museo Janson tiene un 2 c de cobre de 3,3 g y 20,2 mm (reg. 27) y un 1 c de 1,5 g y 16,1 mm (reg. 28), con el valor "entre dos ramas de laurel con frutos", presentados por la Casa de Moneda "como muestra para diseño de monedas de la línea Peso Moneda Nacional" [F-0231] · probable (lectura por resumen de agente, coincidente con la de la serie 07).
 - El catálogo de la ANH (1997) registra ensayos "1/2 Centavos. Cobre. Esc. Nac." con fecha "19.." [F-0230] · a confirmar (lectura por resumen); el Museo Janson tiene un 1 c de cobre "19.." (ficha 61) [F-0231] · a confirmar.
-- El diseño adoptado derivaría de los ensayos de la Casa de Moneda de 1935 y no de los proyectos de Bazor. Se apoya en: el valor entre laureles de los ensayos [F-0231] y de las piezas [F-0024], y en medidas parecidas (2 c: 20,2 mm del ensayo frente a 20 mm del catálogo [F-0526]; 1 c: 16,1 frente a 16 mm [F-0524]). · supuesto
+- numisquare lista en sus resultados un "1 centavo pattern 1938" (no leído) [F-0532] · pista.
+- El diseño adoptado derivaría de los ensayos de la Casa de Moneda de 1935 y no de los proyectos de Bazor. Se apoya en: el valor entre laureles de los ensayos [F-0231] y de las piezas [F-0024], y en medidas parecidas (2 c: 20,2 mm del ensayo frente a 20 o 20,5 mm de los catálogos [F-0526, F-0528, F-0530]; 1 c: 16,1 frente a 16 mm [F-0524, F-0530]). · supuesto
 
 ## Ficha técnica
 | Atributo | Valor | Fuente | Confianza |
 |---|---|---|---|
-| Peso | 1 c: 2 g; 2 c: 3 g (Rey) · 2 c: 3,4 g (catálogo de comercio) | F-0232; F-0524 (1 c, 2 g); F-0526 | 1 c probable; 2 c a confirmar (discrepancia) |
-| Composición / ley | "cobre" (Rey, museo del BCRA); "bronze" en el 2 c 1947 y "copper" en el 1 c 1948 (wiki); el decreto no se leyó | F-0232, F-0435; F-0523, F-0524 | a confirmar |
-| Diámetro | 1 c: 16 mm; 2 c: 20 mm | F-0524; F-0526 | a confirmar (solo wiki y catálogo) |
-| Espesor | — | — | sin dato |
-| Canto | liso (1 c 1948) | F-0524 | a confirmar |
+| Peso | 1 c: 2 g; 2 c: 3 g (Rey) · catálogos: 1 c bronce 1,94 g, cobre 2 g; 2 c 3,4 g (bronce y cobre) · Greysheet: 2 c 1950, 3,3 g | F-0232; F-0524 (1 c, 2 g); F-0526; F-0530; F-0531; F-0528 | 1 c probable; 2 c a confirmar (discrepancia) |
+| Composición / ley | "cobre" (Rey, museo del BCRA); bronce KM 37 y KM 38, cobre KM 37a y KM 38a (catálogos y wiki); el decreto no se leyó | F-0232, F-0435; F-0523, F-0524, F-0530, F-0531 | a confirmar |
+| Diámetro | 1 c: 16 mm; 2 c: 20 mm (coin-brothers, Greysheet) o 20,5 mm (coinscatalog, uCoin) | F-0524, F-0530; F-0526, F-0528; F-0530, F-0531 | a confirmar (solo catálogos; discrepancia en el 2 c) |
+| Espesor | 1 c: 1,3 mm; 2 c: 1,5 mm (bronce) y 1,4 mm (cobre) | F-0530 | a confirmar (un solo catálogo) |
+| Canto | liso | F-0524, F-0530 | a confirmar (wiki y catálogo) |
 | Eje | — | — | sin dato |
 | Ceca | Casa de Moneda de la Nación, Buenos Aires (por el art. 2.º del decreto) | F-0024 | probable |
 | Grabador | no se sabe | — | — |
 
 ## Acuñación y tiradas
-| Año | 1 centavo | 2 centavos | Fuente | Confianza | Nota |
-|---|---|---|---|---|---|
-| 1939 | — | — | — | — | primer año; circulan a fines de 1939 [F-0024] |
-| 1940 | — | — | — | — | |
-| 1941 | 4.572.000 | — | F-0525 | a confirmar | wiki que remite a catálogos |
-| 1942 | — | — | — | — | |
-| 1943 | — | — | — | — | |
-| 1944 | — | — | — | — | último 1 c de bronce según la wiki [F-0525, F-0524] |
-| 1945 | — | — | — | — | primer 1 c de cobre según la wiki [F-0524] |
-| 1946 | — | — | — | — | 2 c con dos números de catálogo (CJ 180.1 y 180.2) [F-0526, F-0528] |
-| 1947 | — | 4.395.000 | F-0523 | a confirmar | wiki: "bronze" |
-| 1948 | 4.419.545 | — | F-0524 | a confirmar | último 1 c según la wiki |
-| 1949 | no se acuñó (según la wiki) | — | F-0524 | a confirmar | 2 c "1949/9" en una etiqueta NGC [F-0527] |
-| 1950 | no se acuñó (según la wiki) | — | F-0524 | a confirmar | fecha más tardía del 2 c que apareció (ficha de Greysheet rotulada KM 38a) [F-0528] |
+Ninguna cifra tiene fuente oficial. La tabla separa la wiki coinvarieties (registrada desde la investigación 1, `a confirmar`) de las cifras de catálogo halladas en la revisión, que se anotan solo como **pista** (coinscatalog [F-0530] para el 1 c y el 2 c; uCoin [F-0531] da las cifras sin redondear del 2 c de 1941, 1942 y 1944).
 
-- Ninguna cifra tiene fuente oficial. Las tres que hay salen de la wiki coinvarieties, que no dice de dónde las toma y lista como bibliografía a Cunietti-Ferrando, Krause y Janson [F-0523, F-0524, F-0525] · constancia.
+| Año | 1 c · wiki (a confirmar) | 1 c · catálogo (pista) | 2 c · wiki (a confirmar) | 2 c · catálogo (pista) | Nota |
+|---|---|---|---|---|---|
+| 1939 | — | 3.488.000 [F-0530] | — | 5.490.000 [F-0530, F-0531, F-0532] | primer año; circulan a fines de 1939 [F-0024] |
+| 1940 | — | 3.140.000 [F-0530] | — | 4.625.000 [F-0530, F-0531] | |
+| 1941 | 4.572.000 [F-0525] | 4.572.000 [F-0530] | — | 4.566.805 [F-0531] (4.567.000 [F-0530]) | la cifra del 1 c coincide en la wiki y el catálogo |
+| 1942 | — | 495.000 [F-0530] | — | 2.082.492 [F-0531] (2.082.000 [F-0530]) | |
+| 1943 | — | 1.294.000 [F-0530] | — | sin cifra ni fecha en los catálogos [F-0530, F-0531] | ver Supuestos |
+| 1944 | — | 3.103.000 [F-0530] | — | 387.072 [F-0531] (387.100 [F-0530]) | último 1 c de bronce [F-0525, F-0524, F-0530] |
+| 1945 | — | 420.000 [F-0530] | — | 4.585.000 [F-0530, F-0531, F-0532] | primer 1 c de cobre [F-0524, F-0530]; 1 c "the key date" [F-0529] |
+| 1946 | — | 4.450.000 [F-0530] | — | 3.395.000 [F-0530, F-0531] | 2 c con dos números de catálogo (CJ 180.1 y 180.2) [F-0526, F-0528] |
+| 1947 | — | 5.630.000 [F-0530] | 4.395.000 [F-0523] | 4.395.000 (KM 38, bronce) [F-0530, F-0531]; KM 38a sin cifra [F-0530] | coinscatalog hace empezar el 2 c de cobre en 1947; uCoin, en 1948 |
+| 1948 | 4.419.545 [F-0524] | 4.420.000 [F-0530] | — | 3.645.000 (KM 38a) [F-0530] | último 1 c [F-0524, F-0530] |
+| 1949 | no se acuñó (wiki) [F-0524] | — | — | 7.290.000 (KM 38a) [F-0530] | 2 c "1949/9" en una etiqueta NGC [F-0527] |
+| 1950 | no se acuñó (wiki) [F-0524] | — | — | 903.100 (KM 38a) [F-0530] | fecha más tardía del 2 c que apareció [F-0528, F-0530] |
+
+- Las tres cifras de la investigación 1 salen de la wiki coinvarieties, que no dice de dónde las toma y lista como bibliografía a Cunietti-Ferrando, Krause y Janson [F-0523, F-0524, F-0525] · constancia. Los catálogos de la revisión tampoco citan su origen [F-0530, F-0531, F-0532] · constancia; la coincidencia entre ellos y con la wiki (1 c 1941; 2 c 1939, 1945 y 1947) no prueba independencia, porque suelen copiarse de la misma fuente (Krause) · constancia.
+- En la revisión se buscaron, sin éxito, las Memorias anuales del BCRA 1939–1950 en PDF (solo aparece la página de la de 1940), los informes anuales del Director de la Casa de Moneda de EE. UU. de 1946–1950 en FRASER (los PDF dan client_error; las páginas de ficha no traen texto) y el texto del Decreto 29.159 en el Boletín Oficial · constancia.
 - No se encontraron cuadros de acuñación de 1 y 2 c en los estudios de Rey y Testolino; el único cuadro de Rey es del 50 c [F-0232, F-0024] · constancia.
 
 ## Circulación, retiro, desmonetización y fundiciones
@@ -92,38 +98,45 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 
 ## Rareza real y supervivencia
 - La wiki coinvarieties dice del 1 c de 1941 y del de 1948 que son "very common in dealer junk boxes" pero escasos en buen estado; del 2 c de 1947, que es "common" [F-0525, F-0524, F-0523] · a confirmar (una sola wiki de coleccionista).
+- Numismatic News llama al 1 c de 1945 (KM 37a) "the key date" de los centavos argentinos y al de 1946 "much more common"; dice que los 1 y 2 c estaban "greatly undervalued, especially for rare years" [F-0529] · probable (una guía de prensa especializada, lectura por resumen).
+- Las tiradas de catálogo más bajas son 1 c 1945 (420.000), 1 c 1942 (495.000), 2 c 1944 (387.072) y 2 c 1950 (903.100) [F-0530, F-0531] · pista. coinscatalog da a 1950 el valor más alto del KM 38a en casi todos los grados (según el lector) [F-0530] · pista.
+- Que el 1 c de 1945 es la fecha clave por su tirada chica: se apoya en la cifra de catálogo [F-0530] y en la guía de prensa [F-0529] · supuesto (falta la tirada oficial y un censo).
 - Un anuncio alemán (no leído) titula un 2 c 1941 "NGC MS66 RB, Top Pop 1/0" (pista; pendientes-chrome #134).
-- No se encontraron censos publicados de NGC ni de PCGS para estas fechas · constancia.
+- No se encontraron censos publicados de NGC ni de PCGS para estas fechas · constancia. En la revisión se leyó la página del censo NGC de Argentina "peso" (solo trae patrones de peso de 1943 y 1946, sin centavos) y no apareció ninguna página de censo de KM 37, 37a, 38 o 38a; la ficha "1941 1C, RB MS66RB, PCGS #2694" que aparece en PCGS es de un centavo de EE. UU., no de esta serie · constancia.
 
 ## Por año
 ### 1939
 - Decreto 29.159 (18/04/1939) [F-0024]; licitación de cospeles de cobre del 3/05/1939 [F-0232]; pedido de punzones a París el 27/06/1939 [F-0024]; circulación desde fines de año [F-0024]. Todo · probable.
 - Greysheet lista un "1939 CJ#174 2 Centavos" [F-0528] · pista.
+- Tiradas de catálogo: 1 c 3.488.000; 2 c 5.490.000 [F-0530, F-0531, F-0532] · pista.
 
 ### 1940–1944
 - "En 1940 se remitieron los cospeles de cobre y de níquel puro para acuñar las monedas de 1, 2 y 50 centavos" (Scovill, vía New York Steel Exchange) [F-0232] · probable.
-- 1941: 1 c, 4.572.000 según la wiki [F-0525] · a confirmar.
+- 1941: 1 c, 4.572.000 según la wiki [F-0525] · a confirmar; la misma cifra en coinscatalog [F-0530] · pista.
+- Tiradas de catálogo de 1940–1944, en la tabla; destacan el 1 c de 1942 (495.000) y el 2 c de 1944 (387.072); el 2 c de 1943 no figura en los catálogos [F-0530, F-0531] · pista.
+- 1944: el museo del BCRA fecha en ese año una nueva planta de producción de la Casa de Moneda [F-0435] · probable.
 - La wiki fecha el tipo de bronce del 1 c en 1939–1944 [F-0524, F-0525] · a confirmar.
 
 ### 1945–1948
-- Según la wiki, el 1 c de 1945–1948 (KM 37a) es de cobre y "very similar" al de 1939–1944 [F-0524] · a confirmar.
+- Según la wiki, el 1 c de 1945–1948 (KM 37a) es de cobre y "very similar" al de 1939–1944 [F-0524] · a confirmar; coinscatalog: cobre, 2 g (frente a 1,94 g del bronce) [F-0530] · pista.
+- 1945: 1 c, 420.000 según coinscatalog [F-0530] · pista; "the key date" según Numismatic News [F-0529] · probable.
 - 1946: el 2 c tiene dos números en el catálogo CJ, 180.1 y 180.2 [F-0526, F-0528] · a confirmar (indicio de variante, sin descripción).
-- 1947: 2 c de bronce, 4.395.000 [F-0523] · a confirmar.
+- 1947: 2 c de bronce, 4.395.000 [F-0523] · a confirmar (la misma cifra en coinscatalog y uCoin para KM 38 [F-0530, F-0531] · pista). coinscatalog incluye 1947 también en el tipo de cobre KM 38a ("1947-1950"), sin cifra; uCoin titula ese tipo "1948-1950" [F-0530, F-0531] · a confirmar (discrepancia).
 - 1948: último 1 c; "the denomination was suspended" después de 1948 [F-0524] · a confirmar.
 
 ### 1949–1950
-- 2 c 1949 con etiqueta NGC "1949/9" [F-0527] · a confirmar.
-- 2 c 1950, rotulado KM 38a por Greysheet [F-0528] · a confirmar; es la fecha más tardía que apareció, sin fuente que diga que fue la última.
+- 2 c 1949 con etiqueta NGC "1949/9" [F-0527] · a confirmar. Tirada de catálogo 7.290.000, la más alta de la serie [F-0530] · pista.
+- 2 c 1950, rotulado KM 38a por Greysheet [F-0528] · a confirmar; es la fecha más tardía que apareció, sin fuente que diga que fue la última. Tirada de catálogo 903.100 [F-0530] · pista; coinscatalog fecha el tipo "1947-1950" [F-0530].
 
 ## Variantes y errores
 | Variante | Cómo se identifica | Documentada por | Estado |
 |---|---|---|---|
-| 1 c: bronce 1939–1944 (KM 37) / cobre 1945–1948 (KM 37a). 2 c: bronce 1939–1947 (KM 38); el 1950 figura como KM 38a, número que los catálogos usan para un segundo tipo; desde qué año y de qué metal, sin fuente | ninguna fuente explica cómo distinguirlos | wiki coinvarieties [F-0523, F-0524, F-0525]; Greysheet [F-0528] | a confirmar |
-| 2 c 1946, CJ 180.1 y 180.2 | no descripta | coin-brothers [F-0526]; Greysheet [F-0528] | a confirmar |
+| 1 c: bronce 1939–1944 (KM 37) / cobre 1945–1948 (KM 37a). 2 c: bronce 1939–1947 (KM 38) / cobre (KM 38a) desde 1947 (coinscatalog) o 1948 (uCoin) hasta 1950 | ninguna fuente explica cómo distinguirlos a simple vista; los catálogos dan pesos y espesores casi iguales (1 c 1,94 / 2 g; 2 c 3,4 g y 1,5 / 1,4 mm) | wiki coinvarieties [F-0523, F-0524, F-0525]; Greysheet [F-0528]; coinscatalog [F-0530]; uCoin [F-0531] | a confirmar |
+| 2 c 1946, CJ 180.1 y 180.2 | no descripta (coinscatalog y uCoin no la registran [F-0530, F-0531]; la página de coinvarieties fue denegada otra vez) | coin-brothers [F-0526]; Greysheet [F-0528] | a confirmar |
 | 2 c "1949/9" | no descripta; etiqueta NGC (el texto alternativo de las fotos del anuncio describe una moneda de EE. UU.) | anuncio de eBay [F-0527] | a confirmar |
 
 ## Falsificaciones conocidas
-- No se encontraron (foros, CoinTalk, Reddit y wiki coinvarieties) · constancia.
+- No se encontraron (foros, CoinTalk, Reddit y wiki coinvarieties; en la revisión, búsquedas de "falsa", "pintada" y "cobreada" en foros hispanos, sin resultados) · constancia.
 
 ## Personajes
 - **Antonio García Morales**, director de la Casa de Moneda en 1939: pidió los punzones de 1, 2 y 50 c a París [F-0024] · probable.
@@ -140,7 +153,7 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 
 ## La voz de la época (prensa, debates, testimonios)
 - El pedido de las piezas vino de "varias entidades comerciales e industriales" [F-0232] · probable; el BCRA quería piezas "de un tamaño más reducido para facilitar su uso" [F-0024] · probable.
-- No se encontraron notas de prensa (Caras y Caretas, La Nación, La Prensa, Review of the River Plate) · constancia.
+- No se encontraron notas de prensa (Caras y Caretas, La Nación, La Prensa, Review of the River Plate; en la revisión, también Buenos Aires Herald y New York Times) · constancia. Tampoco apodos, anécdotas ni recuerdos en foros, blogs, YouTube o Reddit: las búsquedas solo devuelven catálogos · constancia.
 
 ## Vida posterior (existencias guardadas, ventas oficiales, tesoros, colecciones célebres)
 - Sin datos · constancia.
@@ -152,34 +165,45 @@ Cada dato con su fuente `[F-####]` y su confianza: `confirmado` · `probable` ·
 
 ## Observaciones de mercado
 - eBay, anuncio activo (no venta): 2 c "1949/9" NGC MS 64 RB (certificado 6687769-001), USD 60 o mejor oferta, consultado el 2026-11-27 [F-0527] · presencia.
-- No se encontraron resultados realizados en Heritage, Stack's Bowers, CGB, Künker, Elsen, Roberto Díaz, Numisbids ni acsearch · constancia.
+- No se encontraron resultados realizados en Heritage, Stack's Bowers, CGB, Künker, Elsen, Roberto Díaz, Numisbids ni acsearch · constancia. En la revisión, tampoco con consultas por fecha y grado en Heritage, eBay, Catawiki (ejemplares de Numista), Aureo & Calicó y Soler y Llach; ni ensayos de 1 o 2 c de 1939 (solo aparecen ensayos de 50 c de 1940) · constancia.
+- Numismatic News subió sus valores de guía del 1 c 1945 de 0,20 (Fine) – 4,50 (MS-63) dólares a 10 – 65 dólares, y el tope del 1946 de 3,50 a 5 dólares [F-0529] · guía de precios, no ventas.
 
 ## Graduación: puntos de desgaste y problemas típicos
 - Ninguna fuente describe el desgaste de este tipo · constancia. NGC rotula el color (RB, rojo y castaño) [F-0527].
 
 ## Discrepancias
-- **Diseño:** el art. 2.º del Decreto 29.159, según Testolino, manda un busto de la Libertad [F-0024]; el mismo Testolino describe las piezas de 1 y 2 c con el escudo y el valor entre laureles [F-0024].
+- **Diseño:** el art. 2.º del Decreto 29.159, según Testolino, manda un busto de la Libertad [F-0024]; el mismo Testolino y el museo del BCRA describen las piezas con el escudo [F-0024, F-0435]. Lo que circuló está claro; queda abierto qué decía el decreto.
 - **"República" en el decreto:** Testolino transcribe el art. 2.º con la inscripción "República Argentina" y, en una nota, dice que el decreto no menciona la palabra "República" [F-0024].
-- **Peso del 2 c:** 3 g (Rey) [F-0232] frente a 3,4 g (catálogo de comercio) [F-0526].
+- **Peso del 2 c:** 3 g (Rey) [F-0232] frente a 3,3 g (Greysheet, 1950) [F-0528] y 3,4 g (catálogos) [F-0526, F-0530, F-0531].
 - **Metal:** "cobre" para toda la serie (Rey, BCRA) [F-0232, F-0435] frente a bronce y luego cobre (wiki y catálogos) [F-0523, F-0524, F-0528].
 - **Fechas de la emisión:** el BCRA da "1882" como emisión del 1 y el 2 c, sin fila para 1939 [F-0257].
+- **Año del cambio del 2 c a cobre:** 1947 (coinscatalog, que pone 1947 en los dos tipos) [F-0530] frente a 1948 (uCoin) [F-0531]; la wiki llama "bronze" al 2 c de 1947 [F-0523].
+- **Diámetro del 2 c:** 20 mm (coin-brothers, Greysheet) [F-0526, F-0528] frente a 20,5 mm (coinscatalog, uCoin) [F-0530, F-0531].
+- **Tirada del 1 c 1948:** 4.419.545 (wiki) [F-0524] frente a 4.420.000 (coinscatalog) [F-0530], probablemente la misma cifra redondeada.
+- **Página del cuadernillo del BCRA:** p. 35 (lectura de 2026-11-23) o p. 34 (lectura de 2026-11-28) para la frase de 1939 [F-0435].
 - **Circulación y cospeles:** circulan a fines de 1939 [F-0024], pero Rey dice que los cospeles de cobre se remitieron en 1940 [F-0232].
 
 ## Pistas para la próxima sesión
-- **Texto del Decreto 29.159/1939** (peso, aleación, diámetro): Boletín Oficial de abril de 1939; Memoria de Hacienda 1939 (pendientes-chrome #122) y Memoria del BCRA 1939 (#80).
-- **Tiradas oficiales 1939–1950:** Memorias de Hacienda, t. III (#122); Memorias del BCRA 1939–1950 (#80); boletines estadísticos (#123); Cunietti-Ferrando, *La amonedación nacional 1881–1964* (1964).
-- **Memoria institucional del BCRA (F-0453), tramo 200.000–465.000:** sección "Billetes y monedas · Emisiones anteriores", que podría traer el decreto de 1939, el cambio de aleación y la norma de 1959.
-- **Norma del cese de 1959:** decreto o resolución del BCRA de abril de 1959.
-- **Cambio de bronce a cobre** (1945 el 1 c según la wiki; el 2 c, sin año: coinscatalog.net daría KM 38a 1947–1950 y el título de una ficha de uCoin "2 centavos, 1948–1950", ambos sin leer ni registrar): decreto o resolución; motivo (¿estaño?).
-- **Diseño:** quién grabó las piezas; relación con los ensayos de 1935 (reg. 27 y 28 del Museo Janson) y con los "1/2 Centavos. Cobre. Esc. Nac." de la ANH.
-- **Variantes:** CJ 180.1 y 180.2 del 2 c 1946; "1949/9"; páginas de coinvarieties de 1946 (denegada, #132), 1939, 1949 y 1950; catálogo coinscatalog.net (KM 37a y 38a, sin URL registrada).
-- **Mercado:** artículo "Stark Reality… Argentina centavos" de Numismatic News (#131); anuncio de eBay.de del 2 c 1941 MS66 RB (#134); páginas de Greysheet de 1947 y 1950.
-- **Prensa de 1939:** Caras y Caretas (Hemeroteca Digital de la BNE), La Nación, La Prensa: llegada de los centavos nuevos.
+(Consolidadas en la revisión del 2026-11-28; para una r2.)
+- **Tiradas oficiales 1939–1950:** Memorias del BCRA 1939–1950 (#80; solo aparece en resultados la página de la de 1940); Biblioteca Digital del BCRA (bibliotecadigital.bcra.gob.ar, colección "Publicaciones BCRA", que ofrece documentos históricos en acceso abierto [F-0533]; #136); Memorias de Hacienda, t. III (#122); boletines estadísticos del BCRA (#123; en resultados aparecen las páginas de los de 1946 y 1947); Cunietti-Ferrando, *La amonedación nacional 1881–1964* (1964).
+- **Informes del Director de la Casa de Moneda de EE. UU. 1946–1950 (FRASER):** los PDF dan client_error (#135); no se sabe si traen tablas de acuñación de otros países con la Argentina.
+- **Texto del Decreto 29.159/1939** (peso, aleación, diámetro, diseño legal): Boletín Oficial de abril de 1939; Anales de Legislación Argentina.
+- **Decreto 15.026/46** (límites de moneda subsidiaria por habitante): texto y cifras [F-0453].
+- **Norma del cese de 1959:** la Memoria institucional toma las fechas de la web del BCRA sin citar norma [F-0453]; buscar la resolución del Directorio o el decreto de abril de 1959.
+- **Cambio de bronce a cobre:** año del 2 c (1947 o 1948 [F-0530, F-0531]), norma y motivo (la hipótesis del estaño no tiene fuente).
+- **Diseño:** quién grabó las piezas; ensayos de 1935 (regs. 27 y 28 del Museo Janson); "1 centavo pattern 1938" de numisquare [F-0532]; "1/2 Centavos. Cobre. Esc. Nac." de la ANH.
+- **Variantes:** CJ 180.1 y 180.2 del 2 c 1946 (coinvarieties 1946 denegada dos veces, #132; fichas de Numista 5225 y 28922 y cnumis 4710, vistas en resultados y no leídas); "1949/9".
+- **Censos:** páginas del censo NGC de Argentina vistas en resultados y no abiertas (…/sc-23/1-2r, …/2r); eBay.de del 2 c 1941 MS66 RB (#134).
+- **Comunidad:** foronum n-884 (1 c 1939–1944) y n-1537 (1 c 1945, client_error, #133); estudios académicos de historia monetaria vistos en resultados y no leídos (revista REyE de la UNC; Dialnet 5662206; aaep 2024).
+- **Prensa de 1939–1950:** Caras y Caretas (BNE), La Nación, La Prensa: llegada de los centavos nuevos, desaparición del centavo en los años cincuenta.
 - *La Patria a través de sus monedas* (archive.org; #95 y #32).
 
 ## Supuestos
 - Las fechas de cese (21/04/1959) y desmonetización (2/01/1960) del BCRA alcanzan también a las piezas de 1939–1950. Se apoya en: la tabla del BCRA tiene una sola fila por valor y ninguna de 1939 [F-0257]. Habría que encontrar la norma de 1959.
 - El diseño adoptado derivaría de los ensayos de la Casa de Moneda de 1935 (ver Diseño).
+- El 1 c de 1945 sería la fecha más escasa de la serie por su tirada. Se apoya en: 420.000 piezas según un catálogo [F-0530] y "the key date" según una guía de prensa [F-0529]. Haría falta la tirada oficial y un censo.
+- El 2 c no se habría acuñado en 1943. Se apoya en: ni coinscatalog ni uCoin dan ese año [F-0530, F-0531], mientras dan 1943 para el 1 c [F-0530]. Haría falta la Memoria de 1943.
+- El cambio del 2 c a cobre habría sido en el curso de 1947, con piezas de ese año en los dos metales. Se apoya en: coinscatalog pone 1947 en KM 38 y KM 38a [F-0530]; uCoin y la wiki lo contradicen [F-0531, F-0523].
 - Las primeras piezas de fines de 1939 se habrían acuñado con cospeles europeos o argentinos de la licitación de mayo, antes de los de Scovill de 1940. Se apoya en: la circulación a fines de 1939 [F-0024] y la remesa de 1940 [F-0232]; ninguna fuente lo dice.
 
 ---
