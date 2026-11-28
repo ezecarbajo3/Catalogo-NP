@@ -304,6 +304,7 @@ Formato de cada entrada:
 - Usada también en serie 11.
 - Revisión 2026-11-27 (serie 12, investigación 1; lectura de agente por resumen, pp. 11–20): 27/06/1939, el director de la Casa de Moneda, Dr. Antonio García Morales, pide a París punzones de 1, 2 y 50 c; agosto de 1939, se acepta la colaboración de Lucien Bazor (diseños originales) y Turín (sobre diseños argentinos), entre los sugeridos Bazor, Turín y Morlon; 2/09/1939, Bazor pide una foto de perfil de una argentina "tipo"; 20/10/1939, la embajada no tiene un "tipo especial" y Bazor compone la cabeza; 9/11/1939, 32 fotos de modelos para 1, 2 y 50 c; 23/12/1939, se elige la Libertad y se pide subir el gorro; 26/04/1940, fotos del 50 c; 10/05/1940, gorro "más visible"; 24/05 y 20/06/1940, retoques; 1/06/1940, observaciones de García Morales (cejas, frente, perfil griego); 26/09/1940, Étienne Moeneclaey (Monnaie de Paris) envía dos ensayos del 50 c, en níquel y en cobre; dictamen del BCRA: dibujo "excesivamente convencional"; Decreto 76.714, p. 14: cuños extranjeros que "difieren notablemente de los símbolos tradicionales", serie única con los de 5, 10 y 20 c; acuñación desde el 10/01/1941 y primera entrega el 24/01/1941 (nota 19: Memoria de Hacienda 1941, t. III, p. 168); Pn54 (1940) y Pn55 (1941) como ensayos de níquel (imágenes 7 y 8); Decreto 119.976 (15/05/1942); Ferrari (1956) y Cunietti (1964) sobre la Libertad de Bazor; bibliografía: Burzio (1962), Matassi y Díaz (2009), Ferrari (1956). Usada en serie 12.
 - Revisión 2026-11-27 (serie 13, investigación 1; lectura web-fetch pedida por la sesión principal desde un resultado de su propia búsqueda, literal): p. 10: la Memoria del BCRA de 1939 "aconsejó la emisión de nuevas piezas de uno y dos centavos de un tamaño más reducido para facilitar su uso"; "En 1939 se emitieron nuevas monedas de 1 y 2 centavos que en su anverso llevaban el Escudo Nacional simple y en el reverso, el nominal entre laureles"; "comenzaron a circular recién al finalizar el año"; Decreto 29.159 "disponiendo la emisión de monedas de 1, 2 y 50 centavos"; art. 2.º (pp. 10–11): acuñadas por la Casa de Moneda "a solicitud del Banco Central", reverso con el escudo, "República Argentina" y el año, anverso con "el busto que simboliza la Libertad", "Libertad" y el valor; nota 13 (p. 12): el decreto y la carta del 27/06/1939 no mencionan "República". p. 11: García Morales pide a París los punzones de 1, 2 y 50 c; París sugiere a Bazor, Turin y Morlon; Bazor, "proyectos originales" para 1, 2 y 50 c, y Turin, "proyectos en base a nuestros diseños"; la guerra afectó el suministro de cospeles "desde Europa y Estados Unidos". p. 12: 9/11/1939, 32 fotografías de modelos de Bazor para 1, 2 y 50 c. No da peso, aleación, diámetro, grabador final ni tiradas de 1 y 2 c, ni cambio de metal ni fin de la serie. Otras citas literales de la misma lectura: p. 10, "El 18 de abril de 1939 el Poder Ejecutivo dictó el Decreto N° 29.159"; "Se realizaron estudios que dispusieron su reemplazo por piezas más modernas y acuñadas en una aleación considerada apropiada"; p. 11, la carta de García Morales recuerda "los punzones de nuestras monedas de oro, plata y cobre, realizadas por el reputado grabador francés Oudiné"; p. 12, el 23/12/1939 se eligió la Libertad, "indicando que debe levantar el gorro frigio". Usada también en serie 13.
+- Revisión 2026-11-28 (serie 14, investigación 1; lectura web-fetch pedida por la sesión principal desde un resultado de su propia búsqueda, citas literales de ≤125 caracteres, páginas impresas "N de 21"): p. 15: "El 15 de mayo de 1942 el Poder Ejecutivo Nacional dictó el Decreto N° 119.976"; "una aleación de 920 partes de cobre y 80 partes de aluminio"; considerandos: "la imposibilidad de obtener nuevas provisiones de cospeles en el exterior" (y, en paráfrasis, que tampoco podían fabricarse en el país en cuproníquel); antes, el BCRA había propuesto un "programa de emergencia" con billetes de 50 c y monedas de 5, 10 y 20 c; Libertad "diseñada originariamente para un ensayo de 50 centavos que no llegó a emitirse", "una cabeza de la Libertad más convencional y moderna, obra del escultor francés Lucien Bazor"; "El busto fue acompañado por la palabra LIBERTAD, una rama de laurel y la fecha en el exergo"; "mientras el reverso (de escaso valor artístico) mostraba el valor grande entre dos líneas verticales", "flanqueado por una espiga de trigo y una cabeza de toro". p. 16: los cuños "habían sido confeccionados en la Monnaie de París" y, "transportados en el vapor 'Cabo de Hornos' llegaron al país en setiembre de 1941"; no fueron a depósito: la cabeza de Bazor "se difundió a través de las emisiones corrientes de 5, 10 y 20 centavos desde 1942"; nota 20: Memoria Anual del BCRA, Octavo Ejercicio 1942, p. 83: "El empleo del níquel en la industria bélica hacía imposible obtener del extranjero la provisión de cospeles"; "Era necesario recurrir a discos que pudieran fabricarse en el país con metales que hubiera en existencia". p. 12: modelos del 50 c "aprobados el 11 de setiembre" (1940, por el orden del relato) "y se telegrafió a Francia"; p. 13: "serios entorpecimientos y tardanzas por la guerra". p. 17: Cunietti-Ferrando, diseñada para un 50 c "que no llegó a acuñarse"; p. 18: conjetura del autor de que Bazor se basó en el busto de los 5 francos franceses de 1933; "Imagen 11. KM#40, 5 centavos 1950". No da fecha de fin del tipo ni menciona la San Martín de 1950. Usada también en serie 14.
 
 ### F-0025
 - Título: Unidad monetaria, vertebración territorial y conformación nacional: el caso de la República Argentina — Anales de Historia Contemporánea 20 (2004), pp. 439–461
@@ -2389,6 +2390,7 @@ Formato de cada entrada:
 - Revisión 2026-11-24 (serie 09, auditor; lectura de Todo-Argentina cap. 12): fecha la Ley 3321 el 4/12/1895 (la promulgación); dice que los cospeles del níquel se importaban de Alemania y de EE. UU. (sin ceca ni años); en 1942, "discos nacionales de bronce de aluminio" por la escasez de níquel, sin número de decreto. El 14/12/1895 no está en Todo-Argentina (la serie 05 lo tomó de otra de las páginas agrupadas aquí). Usada también en serie 09.
 - Usada también en serie 10 (cospeles de Alemania y EE. UU.; fecha errónea de la ley).
 - Usada también en serie 11.
+- Usada también en serie 14 (2026-11-28).
 
 ### F-0223
 - Título: Wikisource, "Ley 974 (no promulgada ni vetada) sobre acuñación de moneda" (título visto en resultado de búsqueda; página no abierta: url_not_found)
@@ -2500,6 +2502,7 @@ Formato de cada entrada:
 - Revisión 2026-11-27 (serie 12, investigación 1; agente de nivel 1, caracteres 100.000–200.000 por resumen): ficha 55: Peso Moneda Nacional, Casa de Moneda de la Nación, 1936, categoría "Acuñación", níquel, 6 g, 24,5 mm; una cara con el escudo y "REPUBLICA / ARGENTINA ... 1936"; la otra con la Libertad de Oudiné y "LIBERTAD ... CINCUENTA ... CENTAVOS", gráfila de puntos, canto estriado recto; donación; estado Excelente. Sin otra ficha de 50 c de 1940–1941 en ese tramo. Usada en serie 12.
 - Revisión 2026-11-27 (serie 12, revisión; agente de la ronda 2, caracteres 0–400.000 por resumen, con tramos truncados): la única ficha de 50 c fechada 1936–1941 es la 55; no hay ensayos de Bazor ("ESSAI") de 1940 ni piezas de 1941. Fichas 52–53 (1878), 56 (10 c 1958), 59–60 (50 c 1996), 66 (50 c 1881), 71–72 (50 c aluminio 1958, 1,8 g, 23 mm) fuera de rango; ficha 10 (ensayo de 10 c de bronce 1940, alta 01/01/1995, motivo "Otros") y ficha 51 (20 c 1942) para la serie 14. Ficha 55: ingreso "Donación", ubicación "Bóveda" (resumen). Falta revisar el tramo 400.000–500.000 y las fichas 1–9, 11–31 y 32–36 en detalle.
 - Revisión 2026-11-27 (serie 13, investigación 1; dos lecturas de agente por resumen, primeros 100.000 caracteres): regs. 27 y 28, ensayos de 1935 de 2 c (cobre, 3,3 g, 20,2 mm) y 1 c (1,5 g, 16,1 mm), con el valor "entre dos ramas de laurel con frutos", "Ensayo presentado por Casa de Moneda de la Nación, como muestra para diseño de monedas de la línea Peso Moneda Nacional"; sin ensayos de 1 o 2 c de 1938–1950 en ese tramo. Usada también en serie 13.
+- Usada también en serie 14 (2026-11-28).
 
 ### F-0232
 - Título: Las monedas de 50 centavos de 1941: un experimento de circulación monetaria (julio de 2019)
@@ -2521,6 +2524,7 @@ Formato de cada entrada:
 - Revisión 2026-11-27 (serie 12, investigación 1; lectura web-fetch pedida por la sesión principal desde su propia búsqueda, citas literales): "excede la cantidad acuñada de 11.044.714 monedas registradas en la Casa de Moneda" (nota 9: Memoria de Hacienda 1941, t. III, p. 166); 10.961.142 "que figuran en los catálogos de Arnaldo J. Cunietti y Héctor Carlos Janson" y "es diferente a la cifra informada en las Memorias Administrativas"; cuadro de Cunietti: acuñadas 10.961.142, fundidas hasta diciembre de 1944 2.365.000, restan 8.596.142; cuadro anual: 1943 circulación 8.524.490, existencias 2.358.100, fundidas 182.494 (nota 18: Memoria 1943, t. III, p. 277); 1944: 8.510.590, 1.572.700, 2.365.000 (nota 21: Memoria 1944, t. III, p. 236); "inició la acuñación de las monedas de 50 centavos el 10 de enero de 1941", primera entrega al BCRA el 24; "El 23 de marzo de 1941 el Banco Central comenzó la circulación", canje "de a 200 monedas de níquel puro"; el billete volvió el 19/05/1942 por la suspensión de la entrega de monedas, "debido a la desmonetización con fines industriales o de acaparamiento del público por la suba de la cotización de ese metal"; Decreto 45.560: "níquel puro con tolerancia de 20 milésimos, peso justo de 6 gramos con tolerancia de 10 miligramos, un diámetro de 24 milímetros y canto acanalado"; Decreto 96.137 (19/07/1941): representante del Banco en todos los actos de acuñación, desde el 1/10/1941; "Texan": noticia a fines de abril de 1942, nota 7: hundido el 11/03/1942 al este de Cuba por el U-126, de Nueva York a Río, Montevideo y Buenos Aires; "la gente acaparó las monedas para prevenir el faltante de cambio"; convenio con "la Casa Arthur Krupp de la localidad de Berndorf" (19/07/1939), 1.000.000 de cospeles, rescindido al estallar la guerra; cuadro de elementos: 1940 matrices 1/1, punzones 1/1, cuños 13/17; 1941 matriz de anverso 1, cuños 213/322; totales 2/1, 1/1, 226/339. Por resumen de agentes (sin cita literal): licitación del 3/05/1939 por 10 millones de cospeles; licitación de noviembre de 1939 en EE. UU.; Scovill vía New York Steel Exchange Arg., US$ 1,944/kg, 60.400 kg (Memoria 1940, t. III, pp. 278–279); emitidas 8.044.700 (1941) y 824.629 (1942); circulación 7.771.513 (1941); existencias 3.014.153 (1941), 2.476.000 (1942), 1.575.300 (1945); diseño original del Decreto 45.560 (escudo y año / Libertad y valor); fotos de Bazor llegadas a fines de abril de 1940, aprobadas el 11/09/1940; proyecto de 1945 de un peso de níquel (10 g, 28 mm, canto "Igualdad ante la Ley"), prueba de 30.000.000 aprobada por el Directorio el 8/11/1945, elevada el 16/11/1945, no realizada. Usada en serie 12.
 - Revisión 2026-11-27 (serie 12, revisión; lectura web-fetch pedida por la sesión principal, literal): sección "La provisión de cospeles": "Hasta enero de 1942 se recibieron remesas en Buenos Aires, pero a fines de abril se conoció la noticia del hundimiento del buque de carga “Texan”"; nota 7: "El carguero estadounidense SS Texan fue hundido el 11 de marzo de 1942, al este de la Isla de Cuba por el submarino alemán U-126" ... "Había zarpado del puerto de New York cargado de metales rumbo a las ciudades de Río de Janeiro, Montevideo y Buenos Aires" ... "La embarcación cubana Yo Yo rescató con vida a la mayoría de la tripulación". Cuadro, fila 1941: "1941 11.044.714 8.044.700 7.771.513 3.014.153 -" (nota 9: Memoria de Hacienda 1941, t. III, p. 166); "estas cifras provienen de diferentes dependencias y puede haber una aparente contradicción". El artículo no menciona 1969 ni 1978.
 - Revisión 2026-11-27 (serie 13, investigación 1; lectura web-fetch pedida por la sesión principal desde un resultado de su propia búsqueda, literal): "Por requerimiento al Banco Central de varias entidades comerciales e industriales, en 1939 se acuñaron nuevas monedas de cobre de 1 y 2 centavos, de 2 y 3 gramos de peso respectivamente"; licitación del 3/05/1939 "entre empresas argentinas y europeas para la provisión de cospeles de cobre, para las monedas de 1 y 2 centavos"; "En 1940 se remitieron los cospeles de cobre y de níquel puro para acuñar las monedas de 1, 2 y 50 centavos." No dice quién ganó la licitación del cobre ni da cantidades de 1 y 2 c; no menciona el Decreto 29.159. Otras citas literales de la misma lectura: "En 1896 habían comenzado a circular monedas de cuproníquel de 5, 10 y 20 centavos, pero dejaron de acuñarse las piezas de cobre de 1 y 2 centavos"; "tuvo que prescindir en septiembre de 1939 de las importaciones de metal de Alemania y reemplazarlas hasta principios de 1942, por las provisiones de níquel y cobre de los Estados Unidos"; "emitiendo en 1942 nuevas piezas de bronce y aluminio, con la provisión de los cospeles en fundiciones y fábricas de nuestro país". Usada también en serie 13.
+- Revisión 2026-11-28 (serie 14, investigación 1; agente de la ronda 1, nivel 2, citas breves sin página): tras la noticia del hundimiento del "Texan", "la gente acaparó las monedas para prevenir el faltante de cambio"; epílogo: "monedas de bronce y aluminio, fabricadas con cospeles de industria argentina"; "Luciano Bazor, de la Monnaie de París"; no nombra fundiciones ni da tiradas del bronce de aluminio; cita la Memoria del Departamento de Hacienda 1942, t. III, pp. 270, 287 y 291, para sus cifras de 1942 (del 50 c). Usada también en serie 14.
 
 ### F-0233
 - Título: "La Compañía Sudamericana de Billetes de Banco" y "Cartas de lectores"; reseña de *Cartas E. Oudiné* — Cuadernos de Numismática y Ciencias Históricas, t. XXIX, n.º 125 (diciembre de 2009)
@@ -2797,6 +2801,7 @@ Formato de cada entrada:
 - Revisión 2026-11-26 (serie 11, investigación 1; lectura web-fetch pedida por la sesión principal): fila literal `5 centavos | 1896 | 31/01/1965 | 01/07/1965`; modified_time 2026-11-24T19:10:28-03:00; sin columna de notas. La introducción de Peso Moneda Nacional cita la "Ley 3871 del 4 de noviembre de 1899" y el encabezado da 05/11/1881 para la misma ley (inconsistencia de la página). Usada también en serie 11.
 - Revisión 2026-11-27 (serie 12, investigación 1; lectura web-fetch pedida por la sesión principal desde su propia búsqueda, literal): una sola fila de monedas de 50 c del peso moneda nacional: "| 50 centavos | 1941 | 31/01/1969 | 29/03/1978 |"; billetes de 50 c: "(1) | 19/5/1942 | 31/12/1960 | 31/12/1962" y "(2) | 27/2/1950 | 31/12/1960 | 29/12/1962"; la página no menciona el níquel ni la norma de cese o desmonetización. Usada en serie 12.
 - Revisión 2026-11-27 (serie 13, investigación 1; agentes de la ronda 1 y 2, por resumen): filas "1 centavo" y "2 centavos" con emisión 1882, cese 21/04/1959 y desmonetización 02/01/1960; ninguna fila para las piezas de 1939–1950; sin norma ni metal. Usada también en serie 13.
+- Usada también en serie 14 (2026-11-28).
 
 ### F-0258
 - Título: Museo Histórico y Numismático Héctor C. Janson — Documentos Históricos 1 (inventario SENIP)
@@ -4595,6 +4600,7 @@ Formato de cada entrada:
 - Revisión 2026-11-26 (serie 11, agente de nivel 2, por resumen): la Caja de Conversión (1890–1935) emitió billetes y "monedas de cuproníquel"; no trata el canje de los billetes fraccionarios. Usada también en serie 11.
 - Usada también en serie 13 (p. 35: "En el año 1939 se agregaron centavos de cobre en los valores de 1 y 2").
 - Revisión 2026-11-28 (serie 13, revisión; agente de nivel 2, lectura por resumen con cita devuelta por el lector): sección "Pesos moneda nacional: nuevos diseños", p. 34 según el lector (la nota anterior decía p. 35): "En el año 1939 se agregaron centavos de cobre en los valores de 1 y 2, con el diseño del escudo nacional en su anverso." También: "La Casa de Moneda de la Nación inauguró una nueva planta de producción en 1944". Contenidos del personal del Museo, supervisión de Daniel A. Rey, revisión histórica de Andrés Musacchio (según el lector).
+- Revisión 2026-11-28 (serie 14, investigación 1; agentes de la ronda 1 y de la ronda 2, lectura directa): p. 34: "Se acuñaron piezas en bronce de aluminio, en acero enchapado en níquel y en cuproníquel" (sin fechas ni normas); "En 1942, la Casa de Moneda adquirió nuevas maquinarias con tecnología de impresión calcográfica" (billetes); "El nuevo diseño, con la imagen del general José de San Martín, fue supliendo gradualmente a la Alegoría del Progreso" (billetes). Usada también en serie 14.
 
 ### F-0436
 - Título: Annual Report of the Secretary of the Treasury, 1885–1889 (FRASER, PDF 60689), con el informe del Director de la Casa de Moneda del año fiscal 1886 (apéndice, pp. 232–334)
@@ -4747,6 +4753,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-24 (agente de la ronda 1, nivel 4)
 - Cita clave: El tipo de bronce de aluminio (KM 42, 4,2 g, 21,2 mm) reemplazó el diseño de Oudiné "when the government switched to aluminum bronze because nickel prices rose"; "Recorded mintage: 10,255,000" (del tipo de 1942, no del cuproníquel); sin variantes; bibliografía: Cunietti-Ferrando, Janson, Michael & Schmidt.
 - Usada en: serie 09
+- Revisión 2026-11-28 (serie 14, investigación 1; agente de la ronda 1, nivel 4): 20 c 1942: 10.255.000, 4,2 g, 21,2 mm, sin variantes listadas. Usada también en serie 14.
 
 ### F-0451
 - Título: "La centenaria colección de monedas de 10 centavos que se vende a más de $400.000" (8/11/2023)
@@ -4785,6 +4792,7 @@ Formato de cada entrada:
 - Usada también en serie 12 (Ley 12.155).
 - Revisión 2026-11-27 (serie 13, investigación 1; agente de la ronda 2, lectura por resumen de los caracteres 0–200.000 de ≈465.000): la Carta Orgánica de 1935 pone la emisión de subsidiaria "a cargo del Estado Nacional" con un tope por habitante; el Decreto 15.026/46 amplió los límites; Decreto-Ley 13.126/57 (BO 29/10/1957): el BCRA emite "billetes y monedas subsidiarias" y su Directorio fija valores y características (derogado por la Ley 20.539 del 11/09/1973). Sin el Decreto 29.159, el cambio de aleación ni la norma del cese de 1959 en ese tramo. Usada también en serie 13.
 - Revisión 2026-11-28 (serie 13, revisión; lectura web-fetch pedida por la sesión principal desde su propia búsqueda; pp. 202–214 en literal desde el carácter 310.000; pp. 26–201 solo por resumen): p. 207, tabla de monedas del peso moneda nacional: "1 centavo 1882 21/04/59 02/01/60"; "2 centavos 1882 21/04/59 02/01/60"; p. 203, nota 121: la información sale de la página web institucional del BCRA (Emisiones_anteriores.asp), es decir, de la misma tabla que F-0257 (no es una fuente independiente). Las pp. 202–214 no mencionan 1939, el Decreto 29.159, el bronce ni el cobre, ni citan la norma de 1959. p. 46, nota 19 (por resumen): "Mediante el Decreto 15.026/46, se ampliaron los límites de emisión de las denominadas monedas subsidiarias por habitante". Discrepancia interna del original: la Ley 3.871 figura como del 05/11/1881 (p. 203) y del 04/11/1899 (p. 207).
+- Revisión 2026-11-28 (serie 14, investigación 1; agentes de la ronda 1 —caracteres 0–100.000— y de la ronda 2 —caracteres 100.000–≈290.000—, por resumen): p. 46, nota: "Mediante el Decreto 15.026/46, se ampliaron los límites de emisión de las denominadas monedas subsidiarias por habitante"; p. 29: el tope de la Ley 12.155 "en ningún caso podía exceder de 20 pesos moneda nacional por habitante"; p. 64 (Ley 13.571): el BCRA "era el encargado exclusivo de la emisión de billetes y monedas metálicas de la Nación Argentina". Constancia: esos tramos no mencionan el Decreto 119.976, 1942, el aluminio, el bronce, los cospeles, 1950 ni la norma del cese de los 5, 10 y 20 c. Usada también en serie 14.
 
 ### F-0454
 - Título: Registro 9-1310, moneda de 20 centavos 1942 (Museo Nacional Benjamín Vicuña Mackenna, Chile), SURDOC
@@ -5214,6 +5222,7 @@ Formato de cada entrada:
 - Cita clave: 43 fechas de 1896 a 1942, sin 1900–1902 ni 1932; 1896 1.499.000 … 1915 1.310.000, 1916 1.310.000 … 1929 11.831.000; 1930 "3 redondo" 7.110.000, 1931 "3 plano" 506.000, 1933 y 1934 "3 redondo"; 1942 8.692.000; 2 g, 17 mm. Cifras de catálogo (Krause), no oficiales.
 - Usada en: serie 11
 - Tabla completa (revisión 2026-11-26, auditor): 1896 1.499.000; 1897 3.981.000; 1898 2.661.000; 1899 2.835.000; 1903 2.502.000; 1904 2.518.000; 1905 4.359.000; 1906 3.939.000; 1907 1.682.000; 1908 1.693.000; 1909 4.650.000; 1910 1.469.000; 1911 1.431.000; 1912 2.377.000; 1913 1.477.000; 1914 1.097.000; 1915 1.310.000; 1916 1.310.000; 1917 1.009.000; 1918 2.287.000; 1919 2.476.000; 1920 5.235.000; 1921 7.040.000; 1922 9.427.000; 1923 6.256.000; 1924 6.355.000; 1925 3.955.000; 1926 3.560.000; 1927 5.650.000; 1928 6.380.000; 1929 11.831.000; 1930 7.110.000; 1931 506.000; 1933 5.537.000; 1934 1.288.000; 1935 3.052.000; 1936 7.175.000; 1937 7.063.000; 1938 10.252.000; 1939 7.171.000; 1940 10.191.000; 1941 951.000; 1942 8.692.000 (lectura del agente de la ronda 2).
+- Usada también en serie 14 (2026-11-28).
 
 ### F-0495
 - Título: Agregadores de catálogo del 5 c KM 34 (solo pista): coinscatalog.net "Argentine 5 Centavos Capped Liberty 1896-1942 KM# 34"; worldcoinsinfo "Argentina 5 centavos"; coin-identifier "5 Centavos, Argentina 1896-1942"; coin-brothers coin5730; Numista 3241 (5 c de bronce de aluminio, KM 40)
@@ -5224,6 +5233,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-26 (agentes de las rondas 1 y 2)
 - Cita clave: coinscatalog: 2 g, 17,3 mm, 1,1 mm, cobre-níquel, canto estriado; tiradas 1896–1908 iguales a F-0494; MS60 USD 120 (1903) y USD 100 (1907). worldcoinsinfo: años 1896–1899, 1903–1931, 1933–1942. coin-brothers: KM 34, Schön 37, CJ 130–172. Numista 3241: 5 c de bronce de aluminio 1942, 2.130.000 (serie 14).
 - Usada en: serie 11
+- Revisión 2026-11-28 (serie 14, investigación 1; agente de la ronda 1, nivel 4, lectura directa de Numista 3241): 5 c KM 40: 2 g, 17 mm, 1,3 mm, estriado, eje medalla, Cu 92 / Al 8, "Previously KM#15"; tiradas 1942: 2.130.000; 1943: 15.778.000; 1944: 21.081.000; 1945: 21.600.000; 1946: 20.460.000; 1947: 22.520.000; 1948: 42.790.000; 1949: 35.470.000; 1950: 13.500.000 (solo pista). Usada también en serie 14.
 
 ### F-0496
 - Título: eBay.de — "1896 PCGS MS 63 Argentina 5 Centavos Rare Key Liberty HD Coin POP 1/0" (anuncio 406425604638)
@@ -5378,6 +5388,7 @@ Formato de cada entrada:
 - Cita clave: ensayo de París de 1940 en metal amarillo (bronce o latón), MS, 23,99 mm, 5,81 g, "slight handling marks and an oxidation spot"; precio fijo 400 €; referencia "Pn54 var"; "INÉDIT", no figura en World Coins; según la ficha, la producción se refundió por la guerra (paráfrasis).
 - Usada en: serie 12
 - Revisión 2026-11-27 (serie 12, revisión; agente de nivel 4, lectura por resumen): eje 6 h, grado MS, ref. "SCWC 34Pn 54 var.", mancha de oxidación en el reverso; anverso con el escudo y "REPUBLICA - ARGENTINA / 1940"; reverso "LIBERTAD / 50 cts / LUCIEN BAZOR / ESSAI" con cabeza de la República a la derecha. El vendedor diría que a los ensayos siguió una acuñación "entièrement refondue" por la guerra (paráfrasis del agente, no verificada en el francés).
+- Revisión 2026-11-28 (serie 14, investigación 1; agentes de la ronda 1, niveles 2 y 3): otra ficha de CGB del mismo tipo, https://www.cgbfr.com/argentina-argentine-republic-essai-de-50-centavos-bronze-ou-laiton--1940-paris,fwo_322400,a.html ("LUCIEN BAZOR / ESSAI", 5,81 g, 23,99 mm; la producción corriente "entièrement refondue" por la guerra, paráfrasis); hay más fichas parecidas (fwo 845322, 326342, 326344, 326346, 444840) sin abrir. Ninguna es de 1942 ni de 5, 10 o 20 c. Usada también en serie 14.
 
 ### F-0511
 - Título: Numisquare, "50 centavos 1941" (9181991400) y "50 centavos pattern 1941" (9988487340)
@@ -5408,6 +5419,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-27 (agente de nivel 2, lectura por resumen)
 - Cita clave (paráfrasis): París, 1889–1974; hijo del grabador Albert Bazor; Gran Premio de Roma de grabado en 1923; grabador general de la Monnaie de Paris de 1930 a 1958, sucedido por Raymond Joly; autor del 5 francos de 1933 y de monedas de Vichy y coloniales. No menciona la Argentina.
 - Usada en: serie 12
+- Revisión 2026-11-28 (serie 14, investigación 1; agente de la ronda 1, nivel 2): "Chief Engraver at the Paris mint from 1930 to 1958"; sucesor Raymond Joly; no menciona la Argentina. Usada también en serie 14.
 
 ### F-0514
 - Título: Ships hit by U-boats: Texan (American steam merchant)
@@ -5418,6 +5430,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-27 (agente de nivel 2, revisión de la serie 12; lectura por resumen)
 - Cita clave (paráfrasis): torpedeado por el U-126 (Ernst Bauer) el 12/03/1942 a las 02:34, a unas 40 millas al este de Nuevitas, Cuba (21°34'N 76°28'W); hundido en 13 minutos; 7.005 t, American-Hawaiian SS Co., Nueva York; carga 10.915 t de "general cargo"; ruta Nueva York – Puerto España – Río de Janeiro; "unarmed and unescorted"; 47 tripulantes, 10 muertos, 37 sobrevivientes recogidos el 13/03 por el pesquero cubano Yoyo (listado); la narración de la misma página da como ahogados "al menos un oficial y cuatro tripulantes", y el Yoyo encontró un bote que los sobrevivientes habían enderezado y lo remolcó a Nuevitas (verificado por el auditor). Había sido el USS Texan (ID 1354) en la Primera Guerra; construido en 1902.
 - Usada en: serie 12
+- Usada también en serie 14 (2026-11-28).
 
 ### F-0515
 - Título: "1942 – Mar 12, US freighter Texan sunk by U-boat off NE Cuba near Puerto Padre"
@@ -5468,6 +5481,7 @@ Formato de cada entrada:
 - Consultada: 2026-11-27 (lectura web-fetch pedida por la sesión principal desde un resultado de su propia búsqueda; literal)
 - Cita clave: 1969: "El 1° de enero cambia el signo monetario a Peso Ley 18.188." No tiene entradas entre 1927 y 1942; no menciona el níquel de 1941, los 50 c ni la desmonetización de 1978. 1944: "El 27 de diciembre se inaugura el actual edificio de Casa de Moneda Argentina."
 - Usada en: serie 12
+- Revisión 2026-11-28 (serie 14, investigación 1; agentes de la ronda 1, niveles 1 y 2): 1942: "La Casa incorpora a sus talleres las primeras máquinas calcográficas" (billetes); 1944: "El 27 de diciembre se inaugura el actual edificio de Casa de Moneda Argentina"; 1950: se acuña la primera moneda conmemorativa, obra de Mario Baiardi (paráfrasis). No nombra directores ni el bronce de aluminio. Usada también en serie 14.
 
 ### F-0520
 - Título: Argentina 50 centavos 1941 (KM 39), ficha de catálogo con foto de NumisCorner (coin5761)
@@ -5609,3 +5623,83 @@ Formato de cada entrada:
 - Consultada: 2026-11-28 (lectura web-fetch pedida por la sesión principal desde su propia búsqueda; literal)
 - Cita clave: la colección "Publicaciones BCRA" reúne "libros, investigaciones, normativa histórica, documentos institucionales y otros materiales de distintas épocas, disponibles para consulta en línea y con acceso abierto"; categorías: normativa histórica ("circulares y otras disposiciones") y publicaciones periódicas. No nombra las Memorias anuales 1939–1950 ni documentos concretos de 1939–1960.
 - Usada en: serie 13
+
+### F-0534
+- Título: Numista — fichas "20 Centavos 1942–1950" (n.º 1281, KM 42) y "10 Centavos 1942–1950" (n.º 3248, KM 41)
+- Autor / institución: Numista (catálogo comunitario; solo pista)
+- URL: https://en.numista.com/1281 ; https://en.numista.com/catalogue/pieces3248.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (pista)
+- Consultada: 2026-11-28 (agente de la ronda 1, nivel 4; lectura directa)
+- Cita clave: 20 c: 4 g, 21 mm, 1,78 mm, estriado; tiradas 1942: 10.254.605; 1943: 13.775.437; 1944: 12.225.000; 1945: 13.340.000; 1946: 14.625.005; 1947: 23.164.000; 1948: 32.245.000; 1949: 67.115.000; 1950: 40.071.355; CJ 196–204; variantes del 1942 "Date large - nine closed" (CJ 196.1) y "Small Date - Nine Open" (CJ 196.2); subentradas sin detalle en 1949 y una fila "1942 Undetermined". 10 c: 3,0 g, 19,5 mm, 1,5 mm, estriado, eje medalla; tiradas 1942: 15.541.000; 1943: 13.916.000; 1944: 16.411.000; 1945: 12.500.000; 1946: 15.790.005; 1947: 36.430.000; 1948: 54.685.000; 1949: 57.740.000; 1950: 42.825.000; "desmonetizada" el 1/01/1951 (sin norma).
+- Usada en: serie 14
+
+### F-0535
+- Título: uCoin — "20 centavos 1942–1950" (tid 21562) y coinscatalog.net — "Argentine 20 Centavos Capped Liberty Head KM# 42"
+- Autor / institución: uCoin.net; coinscatalog.net (agregadores; solo pista)
+- URL: https://fr.ucoin.net/coin/argentina-20-centavos-1942-1950/?tid=21562 ; https://coinscatalog.net/argentina/coin-20-centavos-capped-liberty-head-km-42-republic-decimal-coinage
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (pista)
+- Consultada: 2026-11-28 (agente de la ronda 1, nivel 4; lectura directa)
+- Cita clave: ambos: 4,2 g, 21,2 mm, 1,5 mm (uCoin, canto "dentelé"; coinscatalog, "reeded"). uCoin, tiradas redondeadas a miles: 1942 10.255.000; 1943 13.775.000; 1944 12.225.000; 1945 13.340.000; 1946 14.625.000; 1947 23.165.000; 1948 32.245.000; 1949 67.115.000; 1950 40.071.000. coinscatalog, redondeadas a decenas de miles: 10.260.000; 13.780.000; 12.230.000; 13.340.000; 14.630.000; 23.170.000; 32.250.000; 67.120.000; 40.070.000. Las descripciones de anverso y reverso de ambas son confusas (coinscatalog llama "head of cow" al anverso; uCoin invierte las caras).
+- Usada en: serie 14
+
+### F-0536
+- Título: NGC Price Guide — "Argentina 20 Centavos KM# 42 1942–1950"
+- Autor / institución: NGC (Numismatic Guaranty Company)
+- URL: https://ngccoin.com/price-guide/world/argentina-20-centavos-km-42-1942-1950-cuid-1039022-duid-1212991
+- Archivo (Internet Archive): a buscar
+- Nivel: 3 (guía de precios, no resultados realizados; tiradas solo pista)
+- Consultada: 2026-11-28 (agente de la ronda 1, nivel 3; lectura directa, columnas leídas con duda)
+- Cita clave: única nota "Prev. KM#17."; valores en USD: 1942 F 0,60 / VF 2 / XF 6 / AU 10; 1943, 1945 y 1946 XF 3,50 / AU 7; 1944 XF 4,50 / AU 8; 1947–1950 XF 2,50 / AU 6 / MS62 7,50; sin valores de MS63 en adelante ni población. Tiradas iguales a las de uCoin (F-0535).
+- Usada en: serie 14
+
+### F-0537
+- Título: numisquare — "10 centavos 1942–1950"
+- Autor / institución: numisquare.com (agregador; solo pista)
+- URL: https://www.numisquare.com/10-centavos-1942-1950-4468185180.html
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (pista)
+- Consultada: 2026-11-28 (agente de la ronda 2; lectura directa)
+- Cita clave: 3,0 g, 19,5 mm, 1,5 mm, Cu 92 / Al 8; tiradas 1942–1950 idénticas a las de Numista (F-0534), probablemente copiadas de ella (no independiente).
+- Usada en: serie 14
+
+### F-0538
+- Título: "Wartime Contribution to Foreign Coinage" (documento histórico)
+- Autor / institución: United States Mint
+- URL: https://www.usmint.gov/learn/history/historical-documents/wartime-contribution-to-foreign-coinage
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (constancia negativa)
+- Consultada: 2026-11-28 (agente de la ronda 1, nivel 1; lectura directa)
+- Cita clave: lista de países para los que la Casa de Moneda de EE. UU. acuñó durante la guerra (entre ellos Bolivia, Perú y Ecuador); la Argentina no figura.
+- Usada en: serie 14
+
+### F-0539
+- Título: eBay.de — "Argentinien Aluminium-Bronze 1944 20 Centavos NGC MS64 GEM BU KM# 42" (anuncio 305923192146)
+- Autor / institución: vendedor de eBay.de (no identificado)
+- URL: https://www.ebay.de/itm/305923192146
+- Archivo (Internet Archive): a buscar
+- Nivel: 4 (solo el título en un resultado; la página dio client_error)
+- Consultada: 2026-11-28 (agente de la ronda 1, nivel 3)
+- Cita clave: título "Argentinien Aluminium-Bronze 1944 20 Centavos NGC MS64 GEM BU KM# 42"; sin precio ni número de certificado visibles.
+- Usada en: serie 14
+
+### F-0540
+- Título: Spink, *The Numismatic Collector's Series Sale*, subasta 323, lote 524 (lote de 112 monedas menores argentinas 1822–1942)
+- Autor / institución: Spink
+- URL: https://www.spink.com/lot/323000524
+- Archivo (Internet Archive): a buscar
+- Nivel: 3
+- Consultada: 2026-11-28 (agente de la ronda 1, nivel 3; lectura directa)
+- Cita clave: lote mixto de 2, 5, 10 y 20 c, "Very Good-About Uncirculated", realizado USD 160; no dice si incluye piezas de bronce de aluminio.
+- Usada en: serie 14
+
+### F-0541
+- Título: BCRA — páginas "Annual Report 1943" y "Annual Report 1944" e índice "Annual Report" (Memorias anuales)
+- Autor / institución: Banco Central de la República Argentina
+- URL: https://www.bcra.gob.ar/en/publicaciones/annual-report-1943/ ; https://www.bcra.gob.ar/en/publicaciones/annual-report-1944/ ; https://www.bcra.gob.ar/en/annual-report/
+- Archivo (Internet Archive): a buscar
+- Nivel: 1 (constancia y pista)
+- Consultada: 2026-11-28 (agentes de la ronda 1, nivel 1, y de la ronda 2; lectura directa de las páginas, no de los PDF)
+- Cita clave: la página de 1943 (fechada 3/01/1944) enlaza el PDF …/PublicacionesEstadisticas/Memorias/mem1943.pdf; la de 1944 anuncia "Annual Report, 1944 (PDF)" sin que el lector devolviera la URL; el índice lista las Memorias de 1942–1950. Los PDF no aparecieron en resultados de búsqueda y no se abrieron.
+- Usada en: serie 14
