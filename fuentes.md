@@ -5561,13 +5561,13 @@ Formato de cada entrada:
 - Revisión 2026-11-28 (serie 13, revisión; agente de la ronda 1, nivel 3, lectura de la ficha de 1950): "1950 2 Centavos MS Values"; 3,3 g ("3.3 gr"); 20 mm ("20.000 mm"); circulación; precios tras acceso, no visibles; no da metal.
 
 ### F-0529
-- Título: "Stark Reality: Getting Things Right or Making Changes—Argentina's Coin Prices Reexamined"
-- Autor / institución: Numismatic News (serie "Stark Reality"; el autor no se verificó en la lectura)
+- Título: "Starck Reality: Getting Things Right or Making Changes—Argentina's Coin Prices Reexamined" (la URL dice "stark")
+- Autor / institución: Jeff Starck — Numismatic News (serie "Starck Reality"), 5/08/2025, actualizado el 6/08/2025 (dato del auditor)
 - URL: https://www.numismaticnews.net/stark-reality-coin-market-update-argentina-centavos
 - Archivo (Internet Archive): a buscar
 - Nivel: 3 (guía de precios de prensa especializada; valores de catálogo, no ventas)
-- Consultada: 2026-11-28 (agente de la ronda 1, nivel 3; lectura por resumen del lector, con citas; la fecha de publicación no figura en lo leído)
-- Cita clave: los centavos argentinos estaban "greatly undervalued, especially for rare years"; 1 c 1945 (KM 37a), "the key date": "Previously, prices ranged from 20¢ in Fine to $4.50 in MS-63" y ahora "$10 in Fine and $65 in MS-63"; 1 c 1946, "much more common": tope anterior USD 3,50, ahora USD 5. No da fechas, grados ni precios del 2 c.
+- Consultada: 2026-11-28 (agente de la ronda 1, nivel 3, por resumen con citas; verificada en la web por el auditor de la serie 13)
+- Cita clave: "pricing for 1- and 2-centavos was greatly undervalued, especially for rare years"; 1 c 1945, "the key date for the KM# 37a type" (frase verificada por el auditor): "Previously, prices ranged from 20¢ in Fine to $4.50 in MS-63" y ahora "$10 in Fine and $65 in MS-63"; 1 c 1946, "much more common": tope anterior USD 3,50, ahora USD 5. No da fechas, grados ni precios del 2 c.
 - Usada en: serie 13
 
 ### F-0530
@@ -5577,7 +5577,7 @@ Formato de cada entrada:
 - Archivo (Internet Archive): a buscar
 - Nivel: 4 (pista; no dice de dónde toma las tiradas)
 - Consultada: 2026-11-28 (agente de la ronda 1, nivel 4 —KM 38a— y agente de la ronda 2 —KM 37, 37a y 38—; lectura directa de las tablas)
-- Cita clave: KM 37: "Bronze; 1.94 g.; 16 mm.; 1.3 mm.; Plain"; 1939: 3,488,000; 1940: 3,140,000; 1941: 4,572,000; 1942: 495,000; 1943: 1,294,000; 1944: 3,103,000. KM 37a: "Copper; 2 g.; 16 mm.; 1.3 mm.; Plain"; 1945: 420,000; 1946: 4,450,000; 1947: 5,630,000; 1948: 4,420,000. KM 38: "Bronze; 3.4 g.; 20.5 mm.; 1.5 mm.; Plain"; 1939: 5,490,000; 1940: 4,625,000; 1941: 4,567,000; 1942: 2,082,000; 1944: 387,100; 1945: 4,585,000; 1946: 3,395,000; 1947: 4,395,000 (sin 1943). KM 38a: "Composition: Copper; Weight 3.4 g; Diameter 20.5 mm; Years 1947-1950"; espesor 1,4 mm; canto liso; 1948: 3,645,000; 1949: 7,290,000; 1950: 903,100; 1947 sin tirada. Ninguna de las cuatro fichas describe variantes.
+- Cita clave: KM 37: "Bronze; 1.94 g.; 16 mm.; 1.3 mm.; Plain"; 1939: 3,488,000; 1940: 3,140,000; 1941: 4,572,000; 1942: 495,000; 1943: 1,294,000; 1944: 3,103,000. KM 37a: "Copper; 2 g.; 16 mm.; 1.3 mm.; Plain"; 1945: 420,000; 1946: 4,450,000; 1947: 5,630,000; 1948: 4,420,000. KM 38: "Bronze; 3.4 g.; 20.5 mm.; 1.5 mm.; Plain"; 1939: 5,490,000; 1940: 4,625,000; 1941: 4,567,000; 1942: 2,082,000; 1944: 387,100; 1945: 4,585,000; 1946: 3,395,000; 1947: 4,395,000 (sin 1943). KM 38a: "Composition: Copper; Weight 3.4 g; Diameter 20.5 mm; Years 1947-1950"; espesor 1,4 mm; canto liso; 1948: 3,645,000; 1949: 7,290,000; 1950: 903,100; 1947 sin tirada. Ninguna de las cuatro fichas describe variantes. Según el lector de la ficha KM 38a, sus valores dan a 1950 el precio más alto en casi todos los grados (resumen).
 - Usada en: serie 13
 
 ### F-0531
